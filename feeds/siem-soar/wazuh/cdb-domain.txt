@@ -1,12 +1,12 @@
-kejda.net:StrelaStealer
-94gs0ok1.dota.pw:ClearFake
-dota.pw:ClearFake
-education-lab.starbrain.jp:StrelaStealer
-hiv-sar.ru:StrelaStealer
-juliaannlong.depaolisremodeling.com:StrelaStealer
-justrpg.com:StrelaStealer
-kakiseni.org:StrelaStealer
-kaylamilleruxdesigner.com:StrelaStealer
-la.kker.dk:StrelaStealer
-mypersonalphotographerstudios.com:StrelaStealer
-www.judeglass.com:StrelaStealer
+6z9bnriq.ecprofessionals.co:ClearFake
+cdn.remusdownloads.su:Remus
+cdn.remusdownloads.to:Remus
+client.remus.la:Remus
+cloudvault-app.com:Unknown malware
+cyberleakgta6.net:Unknown malware
+ecprofessionals.co:ClearFake
+iy.acunbet89.org:Vidar
+kk.testgeek.de:StrelaStealer
+kucabi.de:StrelaStealer
+kudoassam.org:StrelaStealer
+landing.thtdev.xyz:StrelaStealer

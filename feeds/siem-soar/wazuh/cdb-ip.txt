@@ -1,12 +1,12 @@
-109.238.87.239:Hermes
+149.104.31.151:Cobaltstrike
+192.255.248.153:Cobaltstrike
+176.65.132.7:Mirai
 167.148.201.108:Havoc
+170.231.239.144:Cobaltstrike
 217.60.102.5:RedTail
-217.60.195.167:Remcos
 31.56.209.165:RedTail
 89.32.41.111:Potassium
 89.32.41.43:Potassium
 91.92.242.19:Potassium
 113.52.135.27:Cobaltstrike
 114.215.184.158:Cobaltstrike
-118.25.147.157:Cobaltstrike
-49.235.158.141:Cobaltstrike
