@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-24 06:52 UTC",
+ "updated": "2026-10-24 09:31 UTC",
  "count": 48,
  "fresh_6h": 48,
  "types": {
   "ip": 12,
-  "domain": 12,
   "hash": 12,
+  "domain": 12,
   "url": 12
  },
  "families": {
   "AMOS": 12,
-  "ClearFake": 7,
+  "Grandoreiro": 5,
   "RedTail": 4,
   "Cobaltstrike": 4,
+  "StrelaStealer": 4,
+  "ClearFake": 4,
   "Potassium": 3,
-  "TonRAT": 3,
+  "Unknown malware": 3,
   "Vidar": 3,
-  "Unknown RAT": 2,
-  "Unknown malware": 2,
   "XMRIG": 2
  },
  "sources": {

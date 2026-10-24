@@ -11,10 +11,6 @@
 
 > A short, curated blocklist of **active, high-confidence** malicious infrastructure (C2, malware delivery, phishing), with ready-to-import files for every major security platform. It is regenerated every 2 hours.
 
-## Daily Drops
-
-Every **Daily Threat Intel Drop** post on X ([@EmunaEliran](https://x.com/EmunaEliran)) ships with a signed CSV of all indicators plus summary and full-list cards, organized as `drops/YYYY/MM/`. See the **[drops index](drops/README.md)**.
-
 ## Table of contents
 - [Why this feed](#why-this-feed)
 - [Methodology](#methodology)
@@ -71,7 +67,7 @@ Step-by-step guides: [docs/integrations.md](docs/integrations.md).
 | `stats.json` | Machine-readable stats (drives the badges) |
 
 ## Today's stats
-_Last update: 2026-10-24 07:37 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 12); 48 first seen under 6h ago._
+_Last update: 2026-10-24 09:31 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 12); 48 first seen under 6h ago._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -88,10 +84,10 @@ _Last update: 2026-10-24 07:37 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 
 | 9 | `113[.]52[.]135[.]27` | ip | Cobaltstrike | 145 | T1071, T1105 |
 | 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 145 | T1071, T1105 |
 | 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 12 | `198[.]44[.]116[.]156` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 13 | `www[.]tipsytransit[.]com` | domain | StrelaStealer | 130 | T1071, T1105 |
-| 14 | `003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f49` | hash | AMOS | 130 | T1071, T1105 |
-| 15 | `009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415b` | hash | AMOS | 130 | T1071, T1105 |
+| 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 145 | T1071, T1105 |
+| 13 | `0a32163de2cae86e0658281591ce6e1f44ca75d34a66faedea29cd11c517` | hash | AMOS | 130 | T1071, T1105 |
+| 14 | `0e8fe946202cc568e7849117762483031f2f20c74676ed41b2f890175f71` | hash | AMOS | 130 | T1071, T1105 |
+| 15 | `1091461dbabc8387d1e06e905821a80c795e3e11b9d28c45708071e731fe` | hash | AMOS | 130 | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

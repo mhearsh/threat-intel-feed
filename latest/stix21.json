@@ -1,6 +1,6 @@
 {
  "type": "bundle",
- "id": "bundle--8ebb7d6c-a519-4240-9464-c41402ec6dca",
+ "id": "bundle--fa6c843b-d2c9-46d7-969f-150d15255485",
  "objects": [
   {
    "type": "identity",
@@ -14,13 +14,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--463d9302-95ec-41cc-89cc-ef43eeee7ee3",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--73af922f-4b5e-43ed-80f0-e3effcc0cf6a",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Hermes ip",
    "pattern": "[ipv4-addr:value = '109.238.87.239']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Hermes"
@@ -31,13 +31,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--603e8e76-bbe9-4c78-893c-96c921cbc9fd",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--359acd15-724f-4a4d-920a-ccab4c7b7d4c",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Havoc ip",
    "pattern": "[ipv4-addr:value = '167.148.201.108']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Havoc"
@@ -48,13 +48,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--2d2d2109-3ae8-41af-b43c-29b0ee47f51f",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--a6026e68-709c-4e83-8e15-b8a81a271ddb",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "RedTail ip",
    "pattern": "[ipv4-addr:value = '217.60.102.5']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -65,13 +65,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--75f0c6c4-ddd6-4e57-811f-4ae0e7fc919a",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--712a4d59-6246-4125-a217-e43090086571",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Remcos ip",
    "pattern": "[ipv4-addr:value = '217.60.195.167']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Remcos"
@@ -82,13 +82,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--4113f6e0-e8cd-406b-ae6a-7ab3043f3dd8",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--052eaa8a-e36e-48db-826f-4ec235fbbea4",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "RedTail ip",
    "pattern": "[ipv4-addr:value = '31.56.209.165']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -99,13 +99,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--fe343e0f-243d-4e50-a6ff-55a17b1c00d5",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--cde5a49b-0e9d-4789-90fc-460f3618f911",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Potassium ip",
    "pattern": "[ipv4-addr:value = '89.32.41.111']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Potassium"
@@ -116,13 +116,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--53457dc7-4d79-4d5d-b711-9532aafaeca7",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--3a1b2c20-a7cd-420b-97a3-90372f95955b",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Potassium ip",
    "pattern": "[ipv4-addr:value = '89.32.41.43']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Potassium"
@@ -133,13 +133,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--071cfcbd-5286-49e1-a314-4e85c30a3cae",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--c6cbef45-21f7-4310-8553-775ccf99096f",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Potassium ip",
    "pattern": "[ipv4-addr:value = '91.92.242.19']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Potassium"
@@ -150,13 +150,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--22bd9ee9-c111-4351-8a3c-1798e2de9388",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--f7a48504-3c1f-4c41-8633-a334cacdf1f5",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '113.52.135.27']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -167,13 +167,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--f5e0dbb7-d541-4f90-9f27-2390880ee2f3",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--dfcb1871-552c-4d74-abaf-150fc01db6cb",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '114.215.184.158']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -184,13 +184,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--fd426ed5-450f-4768-b6e4-e996b6c41ef4",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--93037648-73ce-4a4a-a473-20d7a67953cf",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '118.25.147.157']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -201,13 +201,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--06731222-32f9-4cb2-b17a-889b7515875f",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--52479d3a-5e9b-41d6-a4c7-bd16c6a8fbf8",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Cobaltstrike ip",
-   "pattern": "[ipv4-addr:value = '198.44.116.156']",
+   "pattern": "[ipv4-addr:value = '49.235.158.141']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -218,13 +218,217 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--43aa0a00-d78b-4326-b133-eba994423ad0",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "StrelaStealer domain",
-   "pattern": "[domain-name:value = 'www.tipsytransit.com']",
+   "id": "indicator--e6d11b1d-1cd6-4156-abe0-0bd5163c2109",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '0a32163de2cae86e0658281591ce6e1f44ca75d34a66faedea29cd11c517e4f8']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e060ee03-0875-4e06-845a-e0f0637bde91",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '0e8fe946202cc568e7849117762483031f2f20c74676ed41b2f890175f71abe6']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--22eb1387-5043-480c-9d71-1065116d94a9",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '1091461dbabc8387d1e06e905821a80c795e3e11b9d28c45708071e731fe3678']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--88df9854-219f-41da-99a5-0821fe8c8d51",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '172e0c3036ac7f795ef006a53c083b1195193935c6ab0b3a7746b007fa701b4b']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--eca7a0bd-68d9-404e-bf72-51c9c7618f8e",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '191a5b57e8b2638b1c2af360ff87be13e600fe9b0d2bdb97531921b02ba90adf']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e550e2f4-523d-499f-b538-59f7530d278d",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '2df7b49b9987822e437f1b88efedd9fbe58a7f524ec02974034c6188f6e39c35']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--04feb07a-277a-43c1-a358-71ec843b526c",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '34c5642308ae656797c7b1d366104494035ac0bfcebf41d51880dbbe6d2d4bdf']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2f8f63b7-0b37-405b-927f-6ead9d7c6dcb",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '3606d3b451bf1f043def9bdf132132163a41274fb135982bb0d06663634cfc71']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--47c27555-2db4-40b7-b422-e98ac6325312",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '413c0fb5e5d3fc9b3b840b29fe4b91e5905f6b82b6125ba2ef1492998e1b11f1']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c70c9e8b-1fc8-4b9e-befb-5d8cef50ff08",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '551168fdbcd30fc60b3136a29ba8d09492665fb18787298bb1aaa3b79f709255']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d0bbcdbb-d011-4359-9f17-7a70187eb686",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '59b27454b7007a23cad35f5fc1ed3366938688301d1b9682b5e54a48b48100a3']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c9327e9d-eaa1-4e53-90ef-60dcf7532e66",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "AMOS hash",
+   "pattern": "[file:hashes.'SHA-256' = '5c72945f8dbad7be5908ebee257c627277deb9ff0f6f34e6e94701c6a735e905']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "AMOS"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--383ab860-10d1-4872-996e-51f3a7b749ee",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "StrelaStealer domain",
+   "pattern": "[domain-name:value = 'aadhiwater.com']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "StrelaStealer"
@@ -235,16 +439,16 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--7112706a-b81f-4764-88e9-ffd99b9acaf1",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f499d67']",
+   "id": "indicator--9f6d33ad-b1ef-4540-aab1-2f7477de64ac",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "StrelaStealer domain",
+   "pattern": "[domain-name:value = 'aaronshaffier.jerusalemwalkingtour.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
-    "AMOS"
+    "StrelaStealer"
    ],
    "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
    "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
@@ -252,16 +456,16 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--35467322-0950-41af-a183-30d0dfb39a9b",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415ba922']",
+   "id": "indicator--13510b7f-9ada-42c2-9db2-84ff3955a550",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "StrelaStealer domain",
+   "pattern": "[domain-name:value = 'candidodiasadvogados.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
-    "AMOS"
+    "StrelaStealer"
    ],
    "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
    "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
@@ -269,16 +473,16 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--5efb4cc9-2fff-4cbb-98a0-45ba12ff3c12",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '00da4b819c4a2c1fbf30b3ccaceb7371bcd86e25252b49fdc7e71ad083691635']",
+   "id": "indicator--7c22097d-2dcb-4479-9d53-18cfef326765",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Unknown malware domain",
+   "pattern": "[domain-name:value = 'cdn.decadenza.me']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
-    "AMOS"
+    "Unknown malware"
    ],
    "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
    "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
@@ -286,81 +490,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--2dc29976-0d0e-4ae7-8f72-698087904605",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '01387082db4804bc75c8fb77778d32412f38e6f8e606e0b2ae2ee39ee215a89f']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--61b82950-f759-4d76-8169-e3e0f0b39438",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '02780f9d2b3f6dd7f447aae0d6ee09198e8e4ece20c21d24584f010427133854']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--3aa9af0d-f767-436a-84d8-a32253e53c86",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "Unknown RAT hash",
-   "pattern": "[file:hashes.'SHA-256' = '02d935be0225ce8774f06f09fad0cda5001a58842d4623f0421dc8bb361a0f99']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "Unknown RAT"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--c85a94df-632a-45e3-bf65-a33216641ce4",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '03347ea4466ecbc01dbe24e74d34910069344a3f2f90ee021d5ebc8bae7d3233']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--a5cb22b1-6121-469e-aa72-de0b929987f2",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--aa1b66dd-2779-4d4e-8426-2e32d2c49251",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '0621cr0f.sleavepiker.com']",
+   "pattern": "[domain-name:value = 'dierenkadoshop.nl']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -371,251 +507,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--3a7abc4e-89e8-42e6-ac13-c5fa04ec14d2",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '065db2aaa3728200a9a4a77836efe6b298f278ada48f85bf6c28f15f35c815e6']",
+   "id": "indicator--eb397615-ad50-4f6a-bf2f-c5365187929c",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Vidar url",
+   "pattern": "[url:value = 'https://5.75.221.125']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--74f3b325-c538-4e5b-9499-bedc00121bc6",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '06a2dc91a0375a19587342781d97958e8ac699cdf7325dc69a0694c05d56e661']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--ea0f4a0e-6949-4911-8a31-eb89af6bee1d",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '06a3833ccb61fe1dea39f628f1425524fd865c05a850aaf12da84bca23713292']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--97e5854c-59c1-4bc2-9c94-d1e5439af07f",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '07186145331ea813d189959826ccc9935c8d8f148faa5fbc23a576235ed61eb5']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--b993948f-cad7-4347-b8ad-166bba49bef1",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS hash",
-   "pattern": "[file:hashes.'SHA-256' = '076c6be00e574aa294683dc05be443a289936bb026eabd0a1f4b46a2aca994d7']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--7f1b4a59-1ea3-4e0b-8ef1-b7d6dae4866c",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '1bfe29zf.strelizia.fit']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "ClearFake"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--b9257c8e-271a-4bb4-a113-a489bbf2b71a",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '3xuvo152.verticalrewards.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "ClearFake"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--e445e74b-bfaf-4981-aa36-8f514dbb4ee0",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '5xt7cdfm.deurnenwinkel.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "ClearFake"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--76e46f42-1a11-4f45-86cc-e7844b7ba1a4",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '6hyi22f6.bewiseimmunize.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "ClearFake"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--73fa0ba1-d4d4-4df5-aebc-9fea1f2538b2",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '7vwik7zn.enfejar.casino']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "ClearFake"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--b4fb92d5-411e-4178-a2d0-26c125ee0331",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "ClearFake domain",
-   "pattern": "[domain-name:value = '9yzw1gk1.blinkhorizon.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "ClearFake"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--732e36ab-20db-4178-b7c3-a6245a01adbf",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "TonRAT domain",
-   "pattern": "[domain-name:value = 'account-customer-serviceid12659.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "TonRAT"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--bf681e18-a836-4973-a876-d893263c1192",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "TonRAT domain",
-   "pattern": "[domain-name:value = 'account-customer-serviceid12679.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "TonRAT"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--28d106e4-24f3-4508-acac-4a18e59003f1",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "TonRAT domain",
-   "pattern": "[domain-name:value = 'account-customer-serviceid12689.com']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "TonRAT"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--65470f53-689d-4b24-894c-d3c20591b57b",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "Vidar domain",
-   "pattern": "[domain-name:value = 'at.ajo7.org']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Vidar"
@@ -626,13 +524,166 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--a45d19ad-1775-461a-9f95-fa00e6e90ff8",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--6f6b73e5-188e-4c43-a2f2-943c06c4236c",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Grandoreiro url",
+   "pattern": "[url:value = 'https://vmi3666256.contaboserver.net/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "Grandoreiro"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--dfa2d4a7-4899-4a18-86b9-b826eebe12d7",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Grandoreiro url",
+   "pattern": "[url:value = 'https://vmi3666264.contaboserver.net/gSzenEEAgP03Z.php']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "Grandoreiro"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--205741ae-9c6f-42b9-a77e-46d5728b57cc",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Grandoreiro domain",
+   "pattern": "[domain-name:value = 'november.read-books.org']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "Grandoreiro"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c45a4cec-5d08-4ced-aa1c-4b9f19171071",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "ClearFake domain",
+   "pattern": "[domain-name:value = 'pxnng0xw.dierenkadoshop.nl']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "ClearFake"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--22e378a3-d8b9-443b-985d-28b085af53e6",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "ClearFake domain",
+   "pattern": "[domain-name:value = 'suyq58j1.betballl90.app']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "ClearFake"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7a4b8880-f536-4ccf-9bf0-6bd61f49acca",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "StrelaStealer domain",
+   "pattern": "[domain-name:value = 'tm.aileff.top']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "StrelaStealer"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2416df2e-1161-425c-b401-ca842a220f49",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "ClearFake domain",
+   "pattern": "[domain-name:value = 'uymxq8zz.enfejbaaz.bet']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "ClearFake"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4766ad2b-e518-4706-9717-8e27815823e9",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Grandoreiro domain",
+   "pattern": "[domain-name:value = 'vmi3666256.contaboserver.net']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "Grandoreiro"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--34568740-8dd2-4f1d-991a-560608632808",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
+   "name": "Grandoreiro domain",
+   "pattern": "[domain-name:value = 'vmi3666264.contaboserver.net']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T09:31:41Z",
+   "confidence": 100,
+   "labels": [
+    "Grandoreiro"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a9ddb8e2-ac76-4fe9-a941-679dfcb6c510",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Unknown malware url",
    "pattern": "[url:value = 'http://176.65.144.144/api/v1/fetch']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Unknown malware"
@@ -643,13 +694,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--853a1024-59e4-4d0e-969f-aaefb5bbf2aa",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--d9e4addc-4c13-4e9b-ad09-930438f1314b",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Unknown malware url",
    "pattern": "[url:value = 'http://176.65.144.144/api/v1/sync']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Unknown malware"
@@ -660,13 +711,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--783dde6c-96ea-4d0f-954d-afcd0b7a27d8",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--9fb83d06-2ee0-424a-9389-6b298aaf5bb7",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "XMRIG url",
    "pattern": "[url:value = 'http://212.83.185.19/bottom-xe.png']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "XMRIG"
@@ -677,13 +728,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--b017ab80-12a7-476c-b094-75bd59cbe6a2",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--6877a5a8-62f7-4d7f-b71f-1832bf237bf0",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "XMRIG url",
    "pattern": "[url:value = 'http://212.83.185.19/footerd.png']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "XMRIG"
@@ -694,13 +745,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--aa3e6393-ade2-4222-81a1-afbaba79d004",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--cd78e3a0-9419-4517-bc0d-9dd6a6b5dbcc",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "RedTail url",
    "pattern": "[url:value = 'https://217.60.102.5/sh']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -711,13 +762,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--290d73aa-315d-4399-9b88-7bb410a460cd",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--181d6016-2eb7-4ef6-ad44-5880c88ec571",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "RedTail url",
    "pattern": "[url:value = 'https://217.60.103.56/sh']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -728,13 +779,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--90abc99c-d4ef-4ee6-af4a-45bf97127beb",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--1d66dc4f-667e-445a-9102-0fb2a414c21f",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Vidar url",
    "pattern": "[url:value = 'https://at.ajo7.org/']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Vidar"
@@ -745,13 +796,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--dee6ffc8-920c-44d1-aa99-9af6b0b6db92",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--a7a7a787-3d90-4a7f-8bbb-2d2ef9222fca",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Vidar url",
    "pattern": "[url:value = 'https://c.ajo7.org/n/']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Vidar"
@@ -762,67 +813,16 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--33a53116-3be2-4e41-be6b-22e948223757",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "Unknown RAT url",
-   "pattern": "[url:value = 'https://cdn.discordapp.com/attachments/1021403023496458291/1562717800135655474/d17dea6a22']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "Unknown RAT"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--9cee9d5b-12fb-4f38-aaa7-a7001da6da7d",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
+   "id": "indicator--d0fe54cd-df71-405a-91c3-b9897aacb96d",
+   "created": "2026-10-24T09:31:41Z",
+   "modified": "2026-10-24T09:31:41Z",
    "name": "Stealc url",
    "pattern": "[url:value = 'https://claude-ai-fuliapi.pages.dev/downloads/latest.exe']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
+   "valid_from": "2026-10-24T09:31:41Z",
    "confidence": 100,
    "labels": [
     "Stealc"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--6712409d-8222-40ab-a389-25dadd9feeee",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "Stealc url",
-   "pattern": "[url:value = 'https://download-latest-ai-application.pages.dev/downloads/ChatGPT.exe']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "Stealc"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--691b9090-367f-46fa-aa14-00e9441b7038",
-   "created": "2026-10-24T06:52:27Z",
-   "modified": "2026-10-24T06:52:27Z",
-   "name": "AMOS url",
-   "pattern": "[url:value = 'https://draft-loop.com/curl/vkyc5kzawsu/tteme4qj05viaz8rfh.txt']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:52:27Z",
-   "confidence": 100,
-   "labels": [
-    "AMOS"
    ],
    "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
    "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
