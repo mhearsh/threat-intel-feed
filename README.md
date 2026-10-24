@@ -6,12 +6,28 @@
 <a href="https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json"><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&amp;query=$.fresh_6h&amp;label=fresh%20%3C6h&amp;color=e05d44" alt="fresh &lt;6h"></a>
 <a href="https://github.com/mhearsh/threat-intel-feed/commits/main"><img src="https://img.shields.io/badge/updates-every%202h-blue" alt="updates every 2h"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="data license CC BY 4.0"></a>
+<a href="https://github.com/mhearsh/threat-intel-feed/releases/latest"><img src="https://img.shields.io/github/v/release/mhearsh/threat-intel-feed" alt="release"></a>
+<a href="https://mhearsh.github.io/threat-intel-feed/guide/IOC-Feed-Integration-Guide.pdf"><img src="https://img.shields.io/badge/guide-PDF%20%2B%20MD-0aa5b8" alt="integration guide"></a>
+<a href="https://mhearsh.github.io/threat-intel-feed/"><img src="https://img.shields.io/badge/feeds-GitHub%20Pages-222" alt="feeds on GitHub Pages"></a>
 <a href="feeds/generic/stix/stix21.json"><img src="https://img.shields.io/badge/STIX-2.1-purple" alt="STIX 2.1"></a>
 </p>
 
 > A short, curated blocklist of **active, high-confidence** malicious infrastructure (C2, malware delivery, phishing), with ready-to-import files for firewalls, EDR/XDR and SIEM/SOAR platforms. It is regenerated every 2 hours.
 
+<p align="center"><b>📘 <a href="https://mhearsh.github.io/threat-intel-feed/guide/IOC-Feed-Integration-Guide.pdf">Integration guide (PDF)</a> · <a href="https://mhearsh.github.io/threat-intel-feed/guide/GUIDE.md">Integration guide (Markdown)</a> · <a href="https://mhearsh.github.io/threat-intel-feed/">Feed index</a></b></p>
+
+## At a glance
+| | |
+|---|---|
+| **IOC types** | IPv4 addresses, domains (FQDN), URLs (no scheme), file hashes (SHA-256, SHA-1, MD5) |
+| **Score** | 0–100; only **≥ 50** is published. Bands: **critical 90–100 · high 75–89 · medium 50–74** |
+| **Update frequency** | Every 2 hours (commit only when data changes); entries expire after 30 days |
+| **Formats** | Plain text (one per line), vendor CSV/JSON, STIX 2.1 |
+| **Platforms** | Palo Alto, FortiGate, Check Point, Cisco FMC, Sophos, Suricata · Defender, CrowdStrike, SentinelOne, ESET, Trend Vision One, Cortex XDR · Sentinel, Splunk ES, Wazuh, MISP/OpenCTI |
+| **Base URL** | `https://mhearsh.github.io/threat-intel-feed/feeds/` (raw fallback: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/feeds/`) |
+
 ## Table of contents
+- [At a glance](#at-a-glance)
 - [Why this feed](#why-this-feed)
 - [Methodology](#methodology)
 - [Quick start](#quick-start)
@@ -93,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 11:41 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
+_Last update: 2026-10-24 11:45 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
