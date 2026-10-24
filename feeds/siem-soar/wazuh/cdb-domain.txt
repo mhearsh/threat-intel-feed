@@ -1,12 +1,12 @@
-6z9bnriq.ecprofessionals.co:ClearFake
-cdn.remusdownloads.su:Remus
-cdn.remusdownloads.to:Remus
-client.remus.la:Remus
-cloudvault-app.com:Unknown malware
-cyberleakgta6.net:Unknown malware
-ecprofessionals.co:ClearFake
-iy.acunbet89.org:Vidar
-kk.testgeek.de:StrelaStealer
-kucabi.de:StrelaStealer
-kudoassam.org:StrelaStealer
-landing.thtdev.xyz:StrelaStealer
+9blb0qgz.emanuellejaques.com:ClearFake
+anthonyhamlock.cyber-demo-client-website2.com:StrelaStealer
+c0013.bizhomepass.kr:StrelaStealer
+emanuellejaques.com:ClearFake
+impaq.us:StrelaStealer
+isometric.cyber-demo-client-website2.com:StrelaStealer
+kfzgutachterputzke.de:StrelaStealer
+kidden.com.mx:StrelaStealer
+loja.panan.com.br:StrelaStealer
+loopsdigi.com:StrelaStealer
+loseweightandlookyounger.com:StrelaStealer
+lp.wooddesignpe.com.br:StrelaStealer
