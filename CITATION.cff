@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: threat-intel-feed
+message: "If you use this feed in research, please cite it."
+type: dataset
+authors:
+  - name: threat-intel-feed contributors
+license: CC-BY-4.0
+repository-code: https://github.com/mhearsh/threat-intel-feed
+keywords: [threat-intelligence, ioc, blocklist, stix, c2]

@@ -1,0 +1,15 @@
+name: New source
+description: Propose a new reputable IOC source
+labels: [source]
+body:
+  - type: input
+    id: url
+    attributes: {label: Feed URL}
+    validations: {required: true}
+  - type: input
+    id: license
+    attributes: {label: Licence / terms}
+    validations: {required: true}
+  - type: textarea
+    id: why
+    attributes: {label: Why it is high-signal}

@@ -1,0 +1,12 @@
+name: False positive
+description: Report a benign indicator that is listed
+labels: [false-positive]
+body:
+  - type: input
+    id: ioc
+    attributes: {label: Indicator, description: "IP / domain / URL (defanged is fine)"}
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes: {label: Evidence, description: "Ownership, WHOIS, passive DNS, vendor verdicts, business impact"}
+    validations: {required: true}

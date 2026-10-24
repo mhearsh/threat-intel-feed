@@ -1,0 +1,28 @@
+{
+ "updated": "2026-10-24 06:47 UTC",
+ "count": 48,
+ "fresh_6h": 48,
+ "types": {
+  "ip": 12,
+  "hash": 12,
+  "domain": 12,
+  "url": 12
+ },
+ "families": {
+  "AMOS": 12,
+  "ClearFake": 7,
+  "RedTail": 4,
+  "Cobaltstrike": 4,
+  "Potassium": 3,
+  "Unknown RAT": 3,
+  "TonRAT": 3,
+  "Vidar": 3,
+  "Unknown malware": 2,
+  "XMRIG": 2
+ },
+ "sources": {
+  "Spamhaus-DROP": 8,
+  "ThreatFox": 48,
+  "C2IntelFeeds": 4
+ }
+}

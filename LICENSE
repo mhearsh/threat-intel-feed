@@ -1,0 +1,12 @@
+Data license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+The curated lists, scores, context and derived files in this repository are licensed under CC BY 4.0.
+Attribution: "threat-intel-feed (github.com/mhearsh/threat-intel-feed)".
+
+Upstream terms continue to apply to the underlying data:
+- abuse.ch ThreatFox: CC0 1.0
+- Spamhaus DROP: free for non-commercial use only; commercial users need a Spamhaus licence
+- OpenPhish Community Feed: free, attribution required, no resale
+- C2IntelFeeds (drb-ra): attribution
+- IPsum (stamparm): Unlicense
