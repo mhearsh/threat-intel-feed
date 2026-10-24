@@ -4,8 +4,8 @@
  "fresh_6h": 48,
  "types": {
   "ip": 12,
-  "hash": 12,
   "domain": 12,
+  "hash": 12,
   "url": 12
  },
  "families": {
@@ -14,9 +14,9 @@
   "RedTail": 4,
   "Cobaltstrike": 4,
   "Potassium": 3,
-  "Unknown RAT": 3,
   "TonRAT": 3,
   "Vidar": 3,
+  "Unknown RAT": 2,
   "Unknown malware": 2,
   "XMRIG": 2
  },

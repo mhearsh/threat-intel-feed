@@ -10,6 +10,7 @@
 114[.]215[.]184[.]158
 118[.]25[.]147[.]157
 198[.]44[.]116[.]156
+www[.]tipsytransit[.]com
 003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f499d67
 009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415ba922
 00da4b819c4a2c1fbf30b3ccaceb7371bcd86e25252b49fdc7e71ad083691635
@@ -33,7 +34,6 @@ account-customer-serviceid12659[.]com
 account-customer-serviceid12679[.]com
 account-customer-serviceid12689[.]com
 at[.]ajo7[.]org
-ataturk[.]sbs
 hxxp://176[.]65[.]144[.]144/api/v1/fetch
 hxxp://176[.]65[.]144[.]144/api/v1/sync
 hxxp://212[.]83[.]185[.]19/bottom-xe[.]png

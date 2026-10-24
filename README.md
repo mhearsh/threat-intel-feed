@@ -67,7 +67,7 @@ Step-by-step guides: [docs/integrations.md](docs/integrations.md).
 | `stats.json` | Machine-readable stats (drives the badges) |
 
 ## Today's stats
-_Last update: 2026-10-24 06:47 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 12); 48 first seen under 6h ago._
+_Last update: 2026-10-24 06:47 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 12); 48 first seen under 6h ago._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -85,9 +85,9 @@ _Last update: 2026-10-24 06:47 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 
 | 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 145 | T1071, T1105 |
 | 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 145 | T1071, T1105 |
 | 12 | `198[.]44[.]116[.]156` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 13 | `003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f49` | hash | AMOS | 130 | T1071, T1105 |
-| 14 | `009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415b` | hash | AMOS | 130 | T1071, T1105 |
-| 15 | `00da4b819c4a2c1fbf30b3ccaceb7371bcd86e25252b49fdc7e71ad08369` | hash | AMOS | 130 | T1071, T1105 |
+| 13 | `www[.]tipsytransit[.]com` | domain | StrelaStealer | 130 | T1071, T1105 |
+| 14 | `003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f49` | hash | AMOS | 130 | T1071, T1105 |
+| 15 | `009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415b` | hash | AMOS | 130 | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

@@ -1,6 +1,6 @@
 {
  "type": "bundle",
- "id": "bundle--d61bf51e-24db-4951-95a6-4ed63e526c7e",
+ "id": "bundle--9919845d-09db-49e5-b623-b857f2d32158",
  "objects": [
   {
    "type": "identity",
@@ -14,13 +14,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--4b28f26b-73ef-4e94-afea-5236c6a2cc26",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--6570d4d7-5163-4ff8-a8a7-10d0fc326f8d",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Hermes ip",
    "pattern": "[ipv4-addr:value = '109.238.87.239']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Hermes"
@@ -31,13 +31,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--c3af3ddc-8969-4246-bbd6-94cb9a661d1e",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--fbaf8ce4-3854-438d-bf93-879f3dbafe9f",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Havoc ip",
    "pattern": "[ipv4-addr:value = '167.148.201.108']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Havoc"
@@ -48,13 +48,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--fbfd0c95-5005-41da-afe9-f37b100aaa71",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--14df5036-c468-423b-bf66-df7b8ab9827b",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "RedTail ip",
    "pattern": "[ipv4-addr:value = '217.60.102.5']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -65,13 +65,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--0c97eac1-f6a2-41ba-b1a9-caedb277658d",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--b6439434-c5b8-425b-adcb-dd7f6ae9ebf8",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Remcos ip",
    "pattern": "[ipv4-addr:value = '217.60.195.167']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Remcos"
@@ -82,13 +82,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--9a0afeda-20e2-4fc4-a38d-45e2107dace1",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--c365ec54-b661-4460-8a93-1673f44d8389",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "RedTail ip",
    "pattern": "[ipv4-addr:value = '31.56.209.165']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -99,13 +99,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--5eb235af-2301-4871-ac5a-fb444739957e",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--c05d1843-56ab-4522-814f-42cbe1c3b58e",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Potassium ip",
    "pattern": "[ipv4-addr:value = '89.32.41.111']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Potassium"
@@ -116,13 +116,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--ad316ed2-7cd0-43b9-850a-a5c24582482b",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--07b5e071-08f9-4e6c-bc4e-52d59acbd381",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Potassium ip",
    "pattern": "[ipv4-addr:value = '89.32.41.43']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Potassium"
@@ -133,13 +133,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--443a910c-8e5e-4f54-8208-b1001a0cd0f8",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--430e834d-28cc-4940-adc1-dc4bc4a5476c",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Potassium ip",
    "pattern": "[ipv4-addr:value = '91.92.242.19']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Potassium"
@@ -150,13 +150,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--ac80f918-0716-4abb-b70b-f1a6dcf1336d",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--6a82fd6a-4d12-4c5d-b865-c25969b1ccc1",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '113.52.135.27']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -167,13 +167,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--1f6a9167-caa0-4eea-999a-59194b9cedad",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--5f3d1b68-fb92-4266-9570-ea4389f89706",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '114.215.184.158']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -184,13 +184,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--658f4b82-f66a-4eeb-acdf-04e89c3aa212",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--f21750e2-9f82-4bbd-88b9-2e047384da82",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '118.25.147.157']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -201,13 +201,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--1aaf98b1-6a3a-4761-9bdb-0703562d2270",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--99c44696-c8b7-4dc8-bedb-8e7531d81edb",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Cobaltstrike ip",
    "pattern": "[ipv4-addr:value = '198.44.116.156']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Cobaltstrike"
@@ -218,13 +218,30 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--1b7ec5cb-bfe9-4a2e-b9c8-f4b0e11799ef",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--941a136d-037d-4793-90ea-6096a91a06f6",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
+   "name": "StrelaStealer domain",
+   "pattern": "[domain-name:value = 'www.tipsytransit.com']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T06:47:25Z",
+   "confidence": 100,
+   "labels": [
+    "StrelaStealer"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7e629308-7047-4a98-9748-160229c68174",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f499d67']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -235,13 +252,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--8be7a634-56f8-4c98-8d87-4bca192f5426",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--04d27a29-ac6d-4b69-9fc7-7ba4e0e99686",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415ba922']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -252,13 +269,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--8125c128-cdb4-438f-89e4-b51cfa4dcc35",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--149d1fe5-6c21-47e2-a450-e7084e7282a7",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '00da4b819c4a2c1fbf30b3ccaceb7371bcd86e25252b49fdc7e71ad083691635']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -269,13 +286,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--21a1855d-7170-4b86-94be-d40a9728013c",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--65d6223b-e49d-4627-99aa-895719a3bf37",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '01387082db4804bc75c8fb77778d32412f38e6f8e606e0b2ae2ee39ee215a89f']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -286,13 +303,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--e5a270c3-1976-4322-b632-8d6074b0e126",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--39b89533-9274-47f1-8127-82668a9c16f5",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '02780f9d2b3f6dd7f447aae0d6ee09198e8e4ece20c21d24584f010427133854']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -303,13 +320,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--ac67c2b0-5887-4e72-9ad3-8baf2ced5c5c",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--8e38dab3-3ef2-4764-8a41-9c7de6fc95b9",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Unknown RAT hash",
    "pattern": "[file:hashes.'SHA-256' = '02d935be0225ce8774f06f09fad0cda5001a58842d4623f0421dc8bb361a0f99']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Unknown RAT"
@@ -320,13 +337,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--b92419a4-eea6-4dcb-b8da-dda96a5d0a88",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--9467f4b9-de93-41fd-bf5b-9bc0ceb47878",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '03347ea4466ecbc01dbe24e74d34910069344a3f2f90ee021d5ebc8bae7d3233']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -337,13 +354,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--db98a2d5-91d9-494c-8379-37ac8569675f",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--f9bef33d-94eb-43a6-b80b-9ba26ce81ed7",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '0621cr0f.sleavepiker.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -354,13 +371,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--21e9df47-8705-4727-8208-946f9c95349b",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--f86077fc-f53e-4990-9647-23b9876374c9",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '065db2aaa3728200a9a4a77836efe6b298f278ada48f85bf6c28f15f35c815e6']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -371,13 +388,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--b8c7a86f-43fa-4bd6-8dab-8502a1e25698",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--bc81ad36-9ccd-4bce-a61d-8b11523ac5fb",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '06a2dc91a0375a19587342781d97958e8ac699cdf7325dc69a0694c05d56e661']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -388,13 +405,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--d8398c1a-933e-4e59-9e0f-fbf471296db4",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--b3fd607b-c820-4407-9a75-5e33b0f215ac",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '06a3833ccb61fe1dea39f628f1425524fd865c05a850aaf12da84bca23713292']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -405,13 +422,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--a29bfe84-c46c-49e8-81cd-27b1ee6d64b0",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--bce863fc-61ec-492c-93a4-82355508aef5",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '07186145331ea813d189959826ccc9935c8d8f148faa5fbc23a576235ed61eb5']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -422,13 +439,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--e3fd047d-9b45-4705-8bf9-c0412fc21ff2",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--38510e14-7875-49f8-82d7-a5ae80900d1e",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS hash",
    "pattern": "[file:hashes.'SHA-256' = '076c6be00e574aa294683dc05be443a289936bb026eabd0a1f4b46a2aca994d7']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
@@ -439,13 +456,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--3978e3ee-8b41-401e-af46-9539cb591310",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--fdb2bccc-65fb-4bce-8ae6-2311d1b8dbc4",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '1bfe29zf.strelizia.fit']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -456,13 +473,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--7f4a24af-e1f6-4972-8b8c-be311d4a845c",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--ecb15456-2eb5-4068-b123-9d714e91ed4b",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '3xuvo152.verticalrewards.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -473,13 +490,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--6a8f3b94-159e-4f06-805a-67fb2e01095f",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--6f6e1f99-548a-4080-9ffe-174ac38eccba",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '5xt7cdfm.deurnenwinkel.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -490,13 +507,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--ad73e8f0-2aeb-437a-a243-6dbff7f8eab4",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--ad5ffe8b-2756-49c6-a387-170d985486da",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '6hyi22f6.bewiseimmunize.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -507,13 +524,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--026520f8-ccb7-42d3-92e4-74403e43cd6d",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--21cc7aea-d2f1-4905-a9cf-bcf19f91d516",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '7vwik7zn.enfejar.casino']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -524,13 +541,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--f600efb0-0b51-4431-9faa-d881dc5c6c87",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--79133200-b0c1-4530-abed-2826122f5329",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "ClearFake domain",
    "pattern": "[domain-name:value = '9yzw1gk1.blinkhorizon.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "ClearFake"
@@ -541,13 +558,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--0ffbf2aa-d057-404c-8d0b-30cd8b3ccfa3",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--dea8f31f-20ca-4b05-a059-c8bd2a368e0b",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "TonRAT domain",
    "pattern": "[domain-name:value = 'account-customer-serviceid12659.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "TonRAT"
@@ -558,13 +575,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--ccf9302f-f425-4df9-9463-df066410b0f2",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--d01e0653-c68f-474f-b6cd-52556d38601e",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "TonRAT domain",
    "pattern": "[domain-name:value = 'account-customer-serviceid12679.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "TonRAT"
@@ -575,13 +592,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--39c75422-6648-440d-a86f-e6ebe6f9e999",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--b83e8dbf-e812-4d59-9d5f-6606684d3867",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "TonRAT domain",
    "pattern": "[domain-name:value = 'account-customer-serviceid12689.com']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "TonRAT"
@@ -592,13 +609,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--bb1a5212-5eab-4ff7-8550-f87ed926da97",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--e6af3484-9b94-4f28-912c-8500129c4291",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Vidar domain",
    "pattern": "[domain-name:value = 'at.ajo7.org']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Vidar"
@@ -609,30 +626,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--9d4abf96-f09d-491c-b41c-99d3f6b06853",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
-   "name": "Unknown RAT domain",
-   "pattern": "[domain-name:value = 'ataturk.sbs']",
-   "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
-   "confidence": 100,
-   "labels": [
-    "Unknown RAT"
-   ],
-   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: ThreatFox",
-   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
-  },
-  {
-   "type": "indicator",
-   "spec_version": "2.1",
-   "id": "indicator--8801aaa4-b96c-4c94-b53b-a401ee236ef4",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--5bef4134-574f-425e-8f64-01a944685fb3",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Unknown malware url",
    "pattern": "[url:value = 'http://176.65.144.144/api/v1/fetch']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Unknown malware"
@@ -643,13 +643,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--f8250d60-8a45-452e-bab1-00d60cf6fbe2",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--a5b8dfc3-6b07-4d85-9890-c55086993f22",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Unknown malware url",
    "pattern": "[url:value = 'http://176.65.144.144/api/v1/sync']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Unknown malware"
@@ -660,13 +660,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--d7039660-be2b-4820-91b2-edc08289bbf6",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--19276558-8363-4a4a-a976-d0977ca3d1e8",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "XMRIG url",
    "pattern": "[url:value = 'http://212.83.185.19/bottom-xe.png']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "XMRIG"
@@ -677,13 +677,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--60d01f61-5adc-48cb-92d6-3b783027c4cb",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--ae531c3d-04ec-4d5d-81fd-4c18dc9a94ee",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "XMRIG url",
    "pattern": "[url:value = 'http://212.83.185.19/footerd.png']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "XMRIG"
@@ -694,13 +694,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--f4e61a35-0916-4561-b120-bc6f06366a7c",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--d3b8fb3e-4307-458f-8c8f-3ec0c7e41f87",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "RedTail url",
    "pattern": "[url:value = 'https://217.60.102.5/sh']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -711,13 +711,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--f3d9938c-d0bb-4712-a80f-396e337ecf09",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--c124daa8-3375-4c1b-8ef5-cc5f0294d501",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "RedTail url",
    "pattern": "[url:value = 'https://217.60.103.56/sh']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "RedTail"
@@ -728,13 +728,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--7ad8ab26-f25e-4ee3-ae4e-997f77e45fb6",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--6716d4af-1a2e-4047-ac1d-a7cdd328519a",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Vidar url",
    "pattern": "[url:value = 'https://at.ajo7.org/']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Vidar"
@@ -745,13 +745,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--b4d43c8f-54bf-44ff-813e-bbaecd049778",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--56e1e482-d9e9-4604-88a0-90976502974d",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Vidar url",
    "pattern": "[url:value = 'https://c.ajo7.org/n/']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Vidar"
@@ -762,13 +762,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--40d4d22d-e339-4b98-953a-ae79296767bc",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--bd687895-5ca2-44e2-bad6-f31bbdf1b516",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Unknown RAT url",
    "pattern": "[url:value = 'https://cdn.discordapp.com/attachments/1021403023496458291/1562717800135655474/d17dea6a22']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Unknown RAT"
@@ -779,13 +779,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--bd34041e-4ccb-4641-9868-10871f7e097f",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--08ce31f2-3b96-4792-8a18-4ec1d08b416d",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Stealc url",
    "pattern": "[url:value = 'https://claude-ai-fuliapi.pages.dev/downloads/latest.exe']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Stealc"
@@ -796,13 +796,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--8547be4c-bff6-4096-901b-dbe286427164",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--512801de-7a0a-4a11-8523-96050c4f2b2f",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "Stealc url",
    "pattern": "[url:value = 'https://download-latest-ai-application.pages.dev/downloads/ChatGPT.exe']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "Stealc"
@@ -813,13 +813,13 @@
   {
    "type": "indicator",
    "spec_version": "2.1",
-   "id": "indicator--511400e1-f07e-44bc-af91-fa3b4a70b620",
-   "created": "2026-10-24T06:45:23Z",
-   "modified": "2026-10-24T06:45:23Z",
+   "id": "indicator--3005dba4-4877-47ed-a9c8-b60254c23194",
+   "created": "2026-10-24T06:47:25Z",
+   "modified": "2026-10-24T06:47:25Z",
    "name": "AMOS url",
    "pattern": "[url:value = 'https://draft-loop.com/curl/vkyc5kzawsu/tteme4qj05viaz8rfh.txt']",
    "pattern_type": "stix",
-   "valid_from": "2026-10-24T06:45:23Z",
+   "valid_from": "2026-10-24T06:47:25Z",
    "confidence": 100,
    "labels": [
     "AMOS"
