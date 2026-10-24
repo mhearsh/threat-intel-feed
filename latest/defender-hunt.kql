@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-24 - Defender XDR / Sentinel
-let ips = dynamic(["149.104.31.151","192.255.248.153","167.148.201.108","170.231.239.144","89.32.41.111","89.32.41.43","91.92.242.19","113.52.135.27","114.215.184.158","118.25.147.157","38.190.224.38","49.235.158.141","196.251.107.186","160.119.66.206"]);
-let doms = dynamic(["1moko8um.encompass-graphics.co.uk","1pbwy4ua.yellohotelsharmoni.com","ailinshop.com","arclight.pipesnmetals.com","association-acage.fr","bragadeandrade.com.br","canakkaleayvaciktdiosb.org.tr","dannyeveritt.net","encompass-graphics.co.uk","greencrowdsourcing.com","hp-clinics.com","netjournal.id"]);
+let ips = dynamic(["149.104.31.151","192.255.248.153","167.148.201.108","170.231.239.144","89.32.41.111","89.32.41.43","91.92.242.19","113.52.135.27","114.215.184.158","118.25.147.157","38.190.224.38","43.142.137.169","196.251.107.186","160.119.66.206"]);
+let doms = dynamic(["3u8krmfu.energedia.com","4m8axf47.worknernorgram.rest","adbimmo.cs-projets.be","de.remusdownloads.su","energedia.com","gbhpljne.paars.poker","manzzkontolaktolakan.my.id","mytutions.com","n2late.fr","new.decorhome.kz","1moko8um.encompass-graphics.co.uk","1pbwy4ua.yellohotelsharmoni.com"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

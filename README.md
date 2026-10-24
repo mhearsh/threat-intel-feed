@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 18:53 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 36 first seen under 6h ago. File-hash feed: 428 SHA-256 · 76 SHA-1 · 78 MD5._
+_Last update: 2026-10-24 21:03 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 36 first seen under 6h ago. File-hash feed: 438 SHA-256 · 76 SHA-1 · 78 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -126,10 +126,10 @@ _Last update: 2026-10-24 18:53 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url
 | 9 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
 | 10 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
 | 11 | `38[.]190[.]224[.]38` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 13 | `0504b06803101b636501015a222db8c5cc9b74380df9c1794ea1f426cbc0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `06876beb9f04ee6d95882ee4b663b8081b6524dff46f4b58c8057bc8abeb` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `1274915e5b08b24be73bb4d7e55d1cc66784d719f23e1d40b28b41fe7e8e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `43[.]142[.]137[.]169` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 13 | `0b3cd85d11d82969427d4d45dd23e3d6a0c4c8cefd68df51248b019f420e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `0b6b6527204ed3cb0f5663a37d5c29bbef8e0e012336e2f426caacc4d70c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `0f1ac762b4e0e2e9a90e4aa340dc16c0fefbb38f3bfa5fe0d54ce7854686` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

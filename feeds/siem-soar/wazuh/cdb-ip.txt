@@ -9,4 +9,4 @@
 114.215.184.158:Cobaltstrike
 118.25.147.157:Cobaltstrike
 38.190.224.38:Cobaltstrike
-49.235.158.141:Cobaltstrike
+43.142.137.169:Cobaltstrike

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 18:53 UTC",
+ "updated": "2026-10-24 21:03 UTC",
  "count": 48,
  "score_scale": "0-100",
  "bands": {
@@ -9,11 +9,11 @@
  },
  "fresh_6h": 36,
  "hashes": {
-  "sha256": 428,
+  "sha256": 438,
   "sha1": 76,
   "md5": 78
  },
- "hash_count": 582,
+ "hash_count": 592,
  "types": {
   "ip": 12,
   "sha256": 12,
@@ -21,16 +21,16 @@
   "url": 12
  },
  "families": {
-  "AMOS": 12,
-  "StrelaStealer": 12,
+  "AMOS": 9,
   "Cobaltstrike": 8,
+  "StrelaStealer": 7,
+  "ClearFake": 6,
   "IClickFix": 4,
   "Potassium": 3,
-  "ClearFake": 3,
+  "Aisuru": 3,
+  "Mirai": 2,
   "Lumma Stealer": 2,
-  "Havoc": 1,
-  "Amadey": 1,
-  "Vidar": 1
+  "Havoc": 1
  },
  "sources": {
   "C2IntelFeeds": 8,
