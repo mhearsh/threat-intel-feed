@@ -1,12 +1,12 @@
 <p align="center"><img src="assets/banner.svg" alt="threat-intel-feed banner" width="100%"></p>
 
 <p align="center">
-![last update](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&query=$.updated&label=last%20update&color=7b2ff7)
-![IOCs](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&query=$.count&label=IOCs&color=00b3a8)
-![fresh <6h](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&query=$.fresh_6h&label=fresh%20<6h&color=e05d44)
-![update](https://img.shields.io/badge/updates-every%202h-blue)
-![license](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)
-![format](https://img.shields.io/badge/STIX-2.1-purple)
+<a href="https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json"><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&amp;query=$.updated&amp;label=last%20update&amp;color=7b2ff7" alt="last update"></a>
+<a href="https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json"><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&amp;query=$.count&amp;label=IOCs&amp;color=00b3a8" alt="IOCs"></a>
+<a href="https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json"><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&amp;query=$.fresh_6h&amp;label=fresh%20%3C6h&amp;color=e05d44" alt="fresh &lt;6h"></a>
+<a href="https://github.com/mhearsh/threat-intel-feed/commits/main"><img src="https://img.shields.io/badge/updates-every%202h-blue" alt="updates every 2h"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="data license CC BY 4.0"></a>
+<a href="latest/stix21.json"><img src="https://img.shields.io/badge/STIX-2.1-purple" alt="STIX 2.1"></a>
 </p>
 
 > A short, curated blocklist of **active, high-confidence** malicious infrastructure (C2, malware delivery, phishing), with ready-to-import files for every major security platform. It is regenerated every 2 hours.
@@ -67,7 +67,7 @@ Step-by-step guides: [docs/integrations.md](docs/integrations.md).
 | `stats.json` | Machine-readable stats (drives the badges) |
 
 ## Today's stats
-_Last update: 2026-10-24 06:52 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 12); 48 first seen under 6h ago._
+_Last update: 2026-10-24 07:37 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 12); 48 first seen under 6h ago._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
