@@ -50,6 +50,9 @@ See [docs/methodology.md](docs/methodology.md) for the full scoring model.
 | **Microsoft Sentinel** | *Watchlists → New*. Upload `latest/sentinel-watchlist.csv` with search key `Indicator`. |
 | **Defender XDR** | Paste `latest/defender-hunt.kql` into Advanced Hunting, or save it as a custom detection. |
 | **Suricata** | `suricata-update add-source tif https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/suricata.rules && suricata-update` |
+| **Defender XDR (file hashes)** | *Settings → Endpoints → Indicators → File hashes → Import*. Upload [`latest/defender-indicators.csv`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/defender-indicators.csv) (SHA-256 + SHA-1; max 500 rows per import). |
+| **CrowdStrike Falcon** | *Endpoint security → IOC management → Add indicators → Upload CSV* with [`latest/crowdstrike-iocs.csv`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/crowdstrike-iocs.csv) (SHA-256 + MD5). |
+| **EDR / SIEM (plain hash lists)** | [`sha256.txt`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/sha256.txt) · [`sha1.txt`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/sha1.txt) · [`md5.txt`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/md5.txt), one lowercase hash per line. |
 | **STIX / TAXII / MISP / OpenCTI** | Ingest `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/stix21.json` as a STIX 2.1 bundle. |
 
 Step-by-step guides: [docs/integrations.md](docs/integrations.md).
@@ -64,7 +67,11 @@ Step-by-step guides: [docs/integrations.md](docs/integrations.md).
 | `fortigate-*-feed.txt`, `paloalto-edl-*.txt` | Raw values for firewall feeds |
 | `sentinel-watchlist.csv`, `defender-hunt.kql` | Microsoft security stack |
 | `suricata.rules` | IDS rules (SID range 9100001–9100999) |
-| `stix21.json` | STIX 2.1 bundle |
+| `sha256.txt`, `sha1.txt`, `md5.txt` | File-hash feeds, one lowercase hash per line (score ≥ 50) |
+| `file-hashes.csv` | Hash, type, family, score, band, sources, first seen |
+| `defender-indicators.csv` | Defender XDR custom indicators import (FileSha256 / FileSha1) |
+| `crowdstrike-iocs.csv` | CrowdStrike Falcon IOC import (sha256 / md5) |
+| `stix21.json` | STIX 2.1 bundle (network IOCs + all file hashes as `file:hashes` patterns) |
 | `stats.json` | Machine-readable stats (drives the badges) |
 
 ## Score scale
@@ -79,7 +86,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 10:34 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 12); 48 first seen under 6h ago._
+_Last update: 2026-10-24 10:40 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 431 SHA-256 · 52 SHA-1 · 53 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -97,9 +104,9 @@ _Last update: 2026-10-24 10:34 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 
 | 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
 | 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
 | 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
-| 13 | `008391c2f5053f8d6ae93687ff3e646ea3781eb7fceb90dff27662639a78` | hash | Mirai | 74 | medium | T1071, T1105 |
-| 14 | `08906e5c2a385132f3eb69000ecf18fd126ec4bb252e005f1e48ab0df144` | hash | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `1d32753359c4f69d692f319fb16c2aabcb940fb7e7aa5ddabc78403e4779` | hash | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `360393e0b17fcafc92dd33ecaaf5cc02b346dace35a8088e9b4adcb13a50` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `008391c2f5053f8d6ae93687ff3e646ea3781eb7fceb90dff27662639a78` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 15 | `08906e5c2a385132f3eb69000ecf18fd126ec4bb252e005f1e48ab0df144` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
@@ -120,6 +127,7 @@ Open a [False positive issue](../../issues/new?template=false-positive.yml) with
 | [IPsum](https://github.com/stamparm/ipsum) | Unlicense |
 
 ## Changelog
+- **2026-10-24:** new file-hash feed (SHA-256 / SHA-1 / MD5 lists, Defender and CrowdStrike import CSVs, STIX `file:hashes`).
 - **2026-10-24:** scores are now on a documented 0–100 scale with bands (breaking for consumers of `score`/`confidence`); the Palo Alto URL EDL no longer contains bare IPs or trailing `/` (IP hosts moved to the IP EDLs); drop CSVs no longer start with a `#` comment line.
 
 ## Disclaimer

@@ -14,6 +14,9 @@
 7. **Enrich**: a family context line and MITRE ATT&CK techniques from a curated mapping.
 8. **Publish**: platform files, STIX 2.1, stats and charts. A commit is made only when the content changes.
 
+## File hashes
+SHA-256, SHA-1 and MD5 hashes come from ThreatFox. They are lowercased, validated (hex only; 64 / 40 / 32 characters) and de-duplicated, and keep their source, malware family and the pipeline's `first_seen`. They use the same score, bands and ≥ 50 cut-off as the other IOCs. Every passing hash is published in `sha256.txt` / `sha1.txt` / `md5.txt`, `file-hashes.csv`, the Defender (SHA-256/SHA-1) and CrowdStrike (SHA-256/MD5) import CSVs, and `stix21.json`; up to 12 hashes also appear in the top-50 list. Import actions: critical/high → block (Defender `BlockAndRemediate`, Falcon `prevent`), medium → audit/detect. Indicators expire after 30 days.
+
 ## Score scale
 The raw points from step 3 are mapped to a published score: `score = clamp(round(raw × 100 / 175), 0, 100)`, where 175 is the raw maximum (100 base + 2 × 15 extra sources + 15 DROP + 10 family + 20 freshness). Ranking uses the raw points, so the order is unchanged.
 
