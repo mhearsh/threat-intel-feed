@@ -1,4 +1,6 @@
 # Integration guides
+
+> **New:** the full per-vendor guide with Pages URLs is at [guide/GUIDE.md](guide/GUIDE.md) ([PDF](guide/IOC-Feed-Integration-Guide.pdf)). The `latest/` URLs below keep working (compatibility mirror).
 ## FortiGate (FortiOS 7.x)
 1. *Security Fabric → External Connectors → Create New → Threat Feeds → IP Address*.
 2. Name: `TIF-IP`. URI: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/fortigate-ip-feed.txt`. Refresh rate: 60 min. Click OK, then *View Entries* to verify.
