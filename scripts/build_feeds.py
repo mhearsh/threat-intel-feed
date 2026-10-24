@@ -89,3 +89,4 @@ open(os.path.join(D,'index.html'),'w').write(f"""<!doctype html><html lang=en><h
 <p class=b><span style="background:#c0263b">critical 90–100</span><span style="background:#e07b16">high 75–89</span><span style="background:#2f7fd1">medium 50–74</span></p>
 <p><b>📘 <a href="guide/IOC-Feed-Integration-Guide.pdf">Integration guide (PDF)</a> · <a href="guide/GUIDE.md">Markdown</a></b> · <a href="https://github.com/mhearsh/threat-intel-feed">GitHub repo</a> · <a href="https://github.com/mhearsh/threat-intel-feed/blob/main/CHANGELOG.md">Changelog</a></p></div>
 <h2>Feeds</h2>{sec}<h2>Legacy paths (latest/, compatibility mirror)</h2><ul>{leg}</ul></body></html>""")
+open(os.path.join(F,'index.html'),'w').write('<!doctype html><meta charset=utf-8><meta http-equiv="refresh" content="0; url=../"><title>feeds</title><a href="../">Feed index</a>\n')

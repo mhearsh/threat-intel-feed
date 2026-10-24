@@ -24,7 +24,7 @@
 | **Update frequency** | Every 2 hours (commit only when data changes); entries expire after 30 days |
 | **Formats** | Plain text (one per line), vendor CSV/JSON, STIX 2.1 |
 | **Platforms** | Palo Alto, FortiGate, Check Point, Cisco FMC, Sophos, Suricata · Defender, CrowdStrike, SentinelOne, ESET, Trend Vision One, Cortex XDR · Sentinel, Splunk ES, Wazuh, MISP/OpenCTI |
-| **Base URL** | `https://mhearsh.github.io/threat-intel-feed/feeds/` (raw fallback: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/feeds/`) |
+| **Base URL** | `https://mhearsh.github.io/threat-intel-feed/feeds/` (raw fallback: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/feeds/<path>`) |
 
 ## Table of contents
 - [At a glance](#at-a-glance)
@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 11:45 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
+_Last update: 2026-10-24 11:46 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
