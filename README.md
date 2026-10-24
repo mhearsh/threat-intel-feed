@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 11:46 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
+_Last update: 2026-10-24 12:01 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -127,9 +127,9 @@ _Last update: 2026-10-24 11:46 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url
 | 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
 | 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
 | 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
-| 13 | `113fc212d4fe2b16ac2558ad8de72da0eaae9f339d74b058512e8a9e3545` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `1475fe6b5ff6c0d9c90ffce87b030b748f6b2af04b5004e18606283054f8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `1b71ce2da4cdfbed9b25fafeaab8b721ad7f5669deae0052f62c07cd373d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `64c3e8662e79ad67969f47b262e10c40803d7f51f403a56dd1ec384b3501` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `ee9b0eaaf974a945c3c4732ad370a6af152d88be9cdfa5c81844a3ac2db4` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `kejda[.]net` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

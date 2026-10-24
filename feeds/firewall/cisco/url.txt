@@ -1,7 +1,7 @@
 vmi3666264.contaboserver.net/gSzenEEAgP03Z.php
-176.65.144.144/api/v1/fetch
-176.65.144.144/api/v1/sync
 212.83.185.19/bottom-xe.png
 212.83.185.19/footerd.png
 217.60.102.5/sh
 217.60.103.56/sh
+c.ajo7.org/n
+claude-ai-fuliapi.pages.dev/downloads/latest.exe

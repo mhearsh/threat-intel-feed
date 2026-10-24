@@ -1,4 +1,6 @@
 description,file_hash,file_name,weight
+AMOS score 74 (medium),64c3e8662e79ad67969f47b262e10c40803d7f51f403a56dd1ec384b35010a61,,1
+AMOS score 74 (medium),ee9b0eaaf974a945c3c4732ad370a6af152d88be9cdfa5c81844a3ac2db449ed,,1
 AMOS score 74 (medium),113fc212d4fe2b16ac2558ad8de72da0eaae9f339d74b058512e8a9e3545e893,,1
 AMOS score 74 (medium),1475fe6b5ff6c0d9c90ffce87b030b748f6b2af04b5004e18606283054f8c04b,,1
 AMOS score 74 (medium),1b71ce2da4cdfbed9b25fafeaab8b721ad7f5669deae0052f62c07cd373d8327,,1
@@ -87,7 +89,6 @@ AMOS score 74 (medium),0f69497c5da69679931214d4baccc8809d0a0e13ab76b956c979733b3
 Mirai score 74 (medium),0f832acaae076974077a8a2b072a74ea70c441105ed560b625ca593a37de3d05,,1
 AMOS score 74 (medium),11387a0d240ca6a184d4fd7524e63661012b26a51926ba6562fd7d966ad1b23d,,1
 AMOS score 74 (medium),1261922b431913206a8a3586355dcd759679f70fac8d6f7703582b48196e3117,,1
-AMOS score 74 (medium),128292e33e3fe1ad343ff97883d76f1f319613327b1d1d2f24b4798cd5b80a8f,,1
 AMOS score 74 (medium),13841620a19483067986fa872137e576506e00146dd87b2d3eb14a2b16f9504a,,1
 AMOS score 74 (medium),13fdeaed1eb1b2a1e10aa82a5d53f21cfdfdbba30480d3d30da3a490798b7d03,,1
 AMOS score 74 (medium),17294f32056bf3c59c9f60b19003fa824ba329347d47bc58f876ae5beea547b3,,1
@@ -318,6 +319,7 @@ AMOS score 74 (medium),ff290d19e4052db8b664031aaa873a7266c5391aefbd4204f74f9a88e
 AMOS score 74 (medium),ff72b39a559646d5a546eba3c939994ce9c3ed28efe200fa7929018c11292dd3,,1
 AMOS score 74 (medium),ff8d62e0dcdcfda8d29f965ed96f9d07b207774e2721f1066179e9a7188fa20f,,1
 AMOS score 74 (medium),ffc3f8bdd9d37069c190378fc681e70992d9b88d9b8810cf00a1d89080c9ee8f,,1
+SalatStealer score 71 (medium),273322d356cf81182711d7995b92a5b6d0e70aee45a63a351efe8113cba6f87c,,1
 Venus Stealer score 71 (medium),027af7957ca3def5b4bb05629b55921a,,1
 Raven Stealer score 71 (medium),02a6016c4217e4ed8000b9b7d6c0ce09bbfe29c9,,1
 NetWire RC score 71 (medium),040b6ef8b1b5ccd420c6fb6d1995f109,,1
@@ -448,7 +450,6 @@ Raven Stealer score 71 (medium),ca53c9d48a0357482ec9bbbe2073da0d4bc79ac6,,1
 Vidar score 71 (medium),ca7fc82dbe90f6f6f522c7eb3c169d69,,1
 SalatStealer score 71 (medium),cb099db86f0fe8e7f8109d911e96a9e8,,1
 Raven Stealer score 71 (medium),d0307823ab2979f4a16bf2c0a4f81900,,1
-AsyncRAT score 71 (medium),d1b57b6435934414b02330840d93ccb8303d5dadf95a98ac1dc460aa06cc3806,,1
 PY#RATION score 71 (medium),d202c2b177c6f9b88c3ae70f804aadfa,,1
 Vidar score 71 (medium),d463bb4da41d820bc958462161155db7e4123dab,,1
 NetWire RC score 71 (medium),d49530b348781cdf2ff4af676f8f0397b34299e4a433e7c4231201934026fb5a,,1
@@ -477,6 +478,7 @@ Agent Tesla score 71 (medium),fa78a59fe93318deebf08925082ce9e1d46e1b15,,1
 Formbook score 71 (medium),faa8002256c01ac574b4a28be7476ce8,,1
 Venus Stealer score 71 (medium),fd4a6c50f68ee9c8c887d2b871864ff23f332972,,1
 Venus Stealer score 71 (medium),ff545703f407c27b452794e0f341e221c507af5b223f640d1b9b92e758f64988,,1
+SalatStealer score 69 (medium),077684611d443b9ca60bd8bd211db1d3a35be832daeaca2dc08d4850821ec39c,,1
 Mirai score 69 (medium),1ae26cf33fd6ad18aaae01ce8badf6d52782c9153167c37c2ec831723a314354,,1
 Mirai score 69 (medium),51f80a1865c1dec8568925971f4ecd8f8f4348c855259ebc55b4de3c52c8699a,,1
 Mirai score 69 (medium),5c4bf78d795182f218d9ba696fe9a8bdba23f61df2b3b1cbc44116094ed9593f,,1
@@ -521,11 +523,9 @@ Mirai score 69 (medium),de90a4cce172b19dc45211f9260e35bba570be90320c06f4920027e6
 Mirai score 69 (medium),e0a0dee40be5489356cf1f7afc0896e3dbbb33d2caab964540c0c43d50478845,,1
 Mirai score 69 (medium),e880fe4bc887e315ddb67e7b8a8865a2f9ffa3f5c85b4aa11a1eae93ddc4f614,,1
 Mirai score 69 (medium),f13bf6971c4e4d6df124f787bafc6b504d4709c67a1229a8ac13b9f36e6201b8,,1
-Mirai score 69 (medium),f7ba860032751bb0955bde035cc277f702b1ca3b607bf59ebb4eb424730b6e34,,1
 Unknown Loader score 66 (medium),0429da8788c6e83d2774ea3feb60951ecc097d4a8c697efe617920ee47ab99d8,,1
 SmartLoader score 66 (medium),88c027ae91e1515064ccc75f6714ec326b5c3f3cc8266af841884b905df0f818,,1
 Unknown Loader score 66 (medium),9627b0e9001d2f68bb395b0ee034c8cf5547f88b4b64a4b732d6594ea53fcdcf,,1
-Quasar RAT score 66 (medium),9baffa9920c3590d676eea87a3316ddd8d7ebb96a80dc41276244f5fe2e5487a,,1
 SmartLoader score 66 (medium),b8ddba517ded94631018d0b877d23fcdc94ea4a2244bb9e3c7795433fd11604a,,1
 Babar score 66 (medium),ef67a672ece71861f810bdff3e9bdbf5bc14daa347861bed3ce1d1dddb68031c,,1
 HijackLoader score 60 (medium),0bc40efcb7690a9621778d2829c191e481b40efa70532e70c8dd6ab686a00f0e,,1

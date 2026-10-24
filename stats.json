@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 11:46 UTC",
+ "updated": "2026-10-24 12:01 UTC",
  "count": 48,
  "score_scale": "0-100",
  "bands": {
@@ -21,16 +21,16 @@
   "url": 12
  },
  "families": {
-  "AMOS": 11,
-  "StrelaStealer": 9,
+  "AMOS": 12,
+  "StrelaStealer": 10,
+  "Vidar": 5,
   "RedTail": 4,
   "Cobaltstrike": 4,
-  "Vidar": 4,
   "Potassium": 3,
-  "Unknown malware": 3,
   "ClearFake": 2,
   "Grandoreiro": 2,
-  "XMRIG": 2
+  "XMRIG": 2,
+  "Hermes": 1
  },
  "sources": {
   "Spamhaus-DROP": 8,

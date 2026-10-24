@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-24 - Defender XDR / Sentinel
-let ips = dynamic(["109.238.87.239","167.148.201.108","217.60.102.5","217.60.195.167","31.56.209.165","89.32.41.111","89.32.41.43","91.92.242.19","113.52.135.27","114.215.184.158","118.25.147.157","49.235.158.141","5.75.221.125","176.65.144.144","212.83.185.19","217.60.103.56"]);
-let doms = dynamic(["94gs0ok1.dota.pw","dota.pw","education-lab.starbrain.jp","hiv-sar.ru","juliaannlong.depaolisremodeling.com","justrpg.com","kakiseni.org","kaylamilleruxdesigner.com","la.kker.dk","mypersonalphotographerstudios.com","www.judeglass.com","dexband.quest"]);
+let ips = dynamic(["109.238.87.239","167.148.201.108","217.60.102.5","217.60.195.167","31.56.209.165","89.32.41.111","89.32.41.43","91.92.242.19","113.52.135.27","114.215.184.158","118.25.147.157","49.235.158.141","5.75.221.125","212.83.185.19","217.60.103.56"]);
+let doms = dynamic(["kejda.net","94gs0ok1.dota.pw","dota.pw","education-lab.starbrain.jp","hiv-sar.ru","juliaannlong.depaolisremodeling.com","justrpg.com","kakiseni.org","kaylamilleruxdesigner.com","la.kker.dk","mypersonalphotographerstudios.com","www.judeglass.com"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl
