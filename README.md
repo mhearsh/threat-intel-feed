@@ -11,6 +11,10 @@
 
 > A short, curated blocklist of **active, high-confidence** malicious infrastructure (C2, malware delivery, phishing), with ready-to-import files for every major security platform. It is regenerated every 2 hours.
 
+## Daily Drops
+
+Every **Daily Threat Intel Drop** post on X ([@EmunaEliran](https://x.com/EmunaEliran)) ships with a signed CSV of all indicators plus summary and full-list cards, organized as `drops/YYYY/MM/`. See the **[drops index](drops/README.md)**.
+
 ## Table of contents
 - [Why this feed](#why-this-feed)
 - [Methodology](#methodology)
