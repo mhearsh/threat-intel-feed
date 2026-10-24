@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 10:40 UTC",
+ "updated": "2026-10-24 11:41 UTC",
  "count": 48,
  "score_scale": "0-100",
  "bands": {
@@ -9,11 +9,11 @@
  },
  "fresh_6h": 48,
  "hashes": {
-  "sha256": 431,
+  "sha256": 432,
   "sha1": 52,
   "md5": 53
  },
- "hash_count": 536,
+ "hash_count": 537,
  "types": {
   "ip": 12,
   "sha256": 12,
@@ -21,14 +21,14 @@
   "url": 12
  },
  "families": {
-  "AMOS": 9,
-  "StrelaStealer": 8,
-  "Vidar": 6,
+  "AMOS": 11,
+  "StrelaStealer": 9,
   "RedTail": 4,
   "Cobaltstrike": 4,
+  "Vidar": 4,
   "Potassium": 3,
-  "Mirai": 3,
   "Unknown malware": 3,
+  "ClearFake": 2,
   "Grandoreiro": 2,
   "XMRIG": 2
  },
