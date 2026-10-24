@@ -76,3 +76,16 @@ for n in ('top-iocs.csv','blocklist-defanged.txt'):
 open(os.path.join(L,'README.md'),'w').write("# latest/ (compatibility mirror)\n\nSame filenames and content as before; kept online permanently. New integrations should use `feeds/` (see docs/guide/GUIDE.md).\n")
 json.dump({'generated':now.strftime('%Y-%m-%dT%H:%M:%SZ'),'score_min':50,'counts':{t:sum(1 for r in rows if r['type']==t) for t in ST}},open(os.path.join(F,'metadata.json'),'w'),indent=1)
 print('feeds built:',sum(len(f) for _,_,f in os.walk(F)),'files')
+# ---- Pages home (docs/index.html): every feed file + guide
+import html as _h
+D=os.path.join(R,'docs'); os.makedirs(D,exist_ok=True); grp={}
+for dp,_,fs in os.walk(F):
+    for f in fs: rel=os.path.relpath(os.path.join(dp,f),R); grp.setdefault(os.path.dirname(rel),[]).append(rel)
+sec=''.join(f"<h3>{_h.escape(g)}/</h3><ul>"+''.join(f'<li><a href="{_h.escape(x)}">{_h.escape(os.path.basename(x))}</a></li>' for x in sorted(grp[g]))+"</ul>" for g in sorted(grp))
+leg=''.join(f'<li><a href="latest/{n}">{n}</a></li>' for n in sorted(os.listdir(L)))
+open(os.path.join(D,'index.html'),'w').write(f"""<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>threat-intel-feed</title>
+<style>body{{font-family:Segoe UI,Helvetica,Arial,sans-serif;max-width:960px;margin:auto;padding:24px;color:#1b2536}}h1{{margin-bottom:4px}}.hero{{background:#0b1a33;color:#fff;padding:18px 22px;border-radius:8px;border-left:6px solid #19d3e6}}.hero a{{color:#7ff7ee}}h3{{margin:18px 0 4px;font-size:15px;color:#0b1a33;border-bottom:1px solid #d6dde8}}ul{{columns:2;margin:4px 0}}li{{font-family:Consolas,monospace;font-size:13px}}a{{color:#0b5f6b}}.b span{{display:inline-block;padding:2px 8px;border-radius:10px;color:#fff;font-size:12px;margin-right:6px}}</style></head><body>
+<div class=hero><h1>threat-intel-feed</h1><p>Curated, high-confidence IOCs (IPs, domains, URLs, file hashes) in ready-to-import formats for firewalls, EDR/XDR and SIEM/SOAR. Updated every 2 hours · last build {now.strftime('%Y-%m-%d %H:%M UTC')}.</p>
+<p class=b><span style="background:#c0263b">critical 90–100</span><span style="background:#e07b16">high 75–89</span><span style="background:#2f7fd1">medium 50–74</span></p>
+<p><b>📘 <a href="guide/IOC-Feed-Integration-Guide.pdf">Integration guide (PDF)</a> · <a href="guide/GUIDE.md">Markdown</a></b> · <a href="https://github.com/mhearsh/threat-intel-feed">GitHub repo</a> · <a href="https://github.com/mhearsh/threat-intel-feed/blob/main/CHANGELOG.md">Changelog</a></p></div>
+<h2>Feeds</h2>{sec}<h2>Legacy paths (latest/, compatibility mirror)</h2><ul>{leg}</ul></body></html>""")
