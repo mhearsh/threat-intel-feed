@@ -86,4 +86,5 @@ STIX 2.1 for TI platforms. Typed CSV for Splunk.
 
 ---
 
-Threat Intelligence Feed · github.com/mhearsh/threat-intel-feed · 2026
+**Eliran Emuna — Cyber Security**  
+Threat Intelligence Feed · 2026

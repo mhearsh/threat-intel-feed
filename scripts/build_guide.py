@@ -31,7 +31,8 @@ for t,i,st,urls in S:
     lis="".join(f"<li>{s}</li>" for s in st)
     us="".join(f"<tr><td class='st {s}'>{'●' if s=='E' else '○'}</td><td class='l'>{l}</td><td><code>{u.replace(B,'…/feeds')}</code></td></tr>" for l,u,s in urls)
     html.append(f"<section><h2>{t}</h2><p class='i'>{i}</p><ol>{lis}</ol><table>{us}</table></section>")
-md+=["---","","Threat Intelligence Feed · github.com/mhearsh/threat-intel-feed · 2026"]
+sig="Eliran Emuna — Cyber Security"
+md+=["---","","**"+sig+"**  ","Threat Intelligence Feed · 2026"]
 import os;os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","docs","guide"))
 open("GUIDE.md","w").write("\n".join(md))
 css="""@page{size:A4;margin:16mm 16mm 18mm;@bottom-center{content:"IOC Feed Integration Guide · "counter(page);font:8pt Helvetica;color:#7a8ba6}}
@@ -53,5 +54,5 @@ doc=f"""<html><head><meta charset=utf-8><style>{css}</style></head><body>
 <p class=bands style="margin-top:10px"><span style="background:#c0263b">Critical 90–100</span><span style="background:#e07b16">High 75–89</span><span style="background:#2f7fd1">Medium 50–74</span></p></div>
 <p class=note>Base URL: <code>{B}</code> · Refresh: every 2 h · Expiry: 30 days · ● available now. Legacy <code>latest/</code> URLs remain as a compatibility mirror.</p>
 {''.join(html)}
-<div class=sig><div style="font-size:8.5pt;color:#4a5a73;margin-top:4px">Threat Intelligence Feed · github.com/mhearsh/threat-intel-feed · 2026</div></div></body></html>"""
+<div class=sig><div class=n>Eliran Emuna</div><div class=r>Cyber Security</div><div style="font-size:8.5pt;color:#4a5a73;margin-top:4px">Threat Intelligence Feed · github.com/mhearsh/threat-intel-feed · 2026</div></div></body></html>"""
 import weasyprint;weasyprint.HTML(string=doc).write_pdf("IOC-Feed-Integration-Guide.pdf")
