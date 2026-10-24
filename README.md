@@ -6,10 +6,10 @@
 <a href="https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json"><img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/stats.json&amp;query=$.fresh_6h&amp;label=fresh%20%3C6h&amp;color=e05d44" alt="fresh &lt;6h"></a>
 <a href="https://github.com/mhearsh/threat-intel-feed/commits/main"><img src="https://img.shields.io/badge/updates-every%202h-blue" alt="updates every 2h"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="data license CC BY 4.0"></a>
-<a href="latest/stix21.json"><img src="https://img.shields.io/badge/STIX-2.1-purple" alt="STIX 2.1"></a>
+<a href="feeds/generic/stix/stix21.json"><img src="https://img.shields.io/badge/STIX-2.1-purple" alt="STIX 2.1"></a>
 </p>
 
-> A short, curated blocklist of **active, high-confidence** malicious infrastructure (C2, malware delivery, phishing), with ready-to-import files for every major security platform. It is regenerated every 2 hours.
+> A short, curated blocklist of **active, high-confidence** malicious infrastructure (C2, malware delivery, phishing), with ready-to-import files for firewalls, EDR/XDR and SIEM/SOAR platforms. It is regenerated every 2 hours.
 
 ## Table of contents
 - [Why this feed](#why-this-feed)
@@ -43,36 +43,43 @@ flowchart LR
 See [docs/methodology.md](docs/methodology.md) for the full scoring model.
 
 ## Quick start
-| Platform | URL / steps |
-|---|---|
-| **FortiGate** | *Security Fabric → External Connectors → Create New → Threat Feeds → IP Address*. URI `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/fortigate-ip-feed.txt`, refresh 60 min. Use it as the destination in a DENY policy. For domains, use the *Domain Name* type with `fortigate-domain-feed.txt` and reference it in DNS Filter. |
-| **Palo Alto** | *Objects → External Dynamic Lists → Add*. Type *IP List*, source `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/paloalto-edl-ip.txt`, Hourly. Add a *URL List* with `paloalto-edl-url.txt` and reference both in your security / URL-filtering rules. |
-| **Microsoft Sentinel** | *Watchlists → New*. Upload `latest/sentinel-watchlist.csv` with search key `Indicator`. |
-| **Defender XDR** | Paste `latest/defender-hunt.kql` into Advanced Hunting, or save it as a custom detection. |
-| **Suricata** | `suricata-update add-source tif https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/suricata.rules && suricata-update` |
-| **Defender XDR (file hashes)** | *Settings → Endpoints → Indicators → File hashes → Import*. Upload [`latest/defender-indicators.csv`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/defender-indicators.csv) (SHA-256 + SHA-1; max 500 rows per import). |
-| **CrowdStrike Falcon** | *Endpoint security → IOC management → Add indicators → Upload CSV* with [`latest/crowdstrike-iocs.csv`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/crowdstrike-iocs.csv) (SHA-256 + MD5). |
-| **EDR / SIEM (plain hash lists)** | [`sha256.txt`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/sha256.txt) · [`sha1.txt`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/sha1.txt) · [`md5.txt`](https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/md5.txt), one lowercase hash per line. |
-| **STIX / TAXII / MISP / OpenCTI** | Ingest `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/stix21.json` as a STIX 2.1 bundle. |
+Full step-by-step guide for every platform: **[Integration guide](https://mhearsh.github.io/threat-intel-feed/guide/GUIDE.md)** ([PDF](https://mhearsh.github.io/threat-intel-feed/guide/IOC-Feed-Integration-Guide.pdf)). Base URL: `https://mhearsh.github.io/threat-intel-feed/feeds/`.
 
-Step-by-step guides: [docs/integrations.md](docs/integrations.md).
+| Platform | Feed URL(s) |
+|---|---|
+| **Palo Alto NGFW** (EDL) | [`edl-ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/paloalto/edl-ip.txt) · [`edl-domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/paloalto/edl-domain.txt) · [`edl-url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/paloalto/edl-url.txt) |
+| **FortiGate** (Threat Feeds) | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/ip.txt) · [`domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/domain.txt) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/url.txt) · [`hash-sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/hash-sha256.txt) |
+| **Check Point** (Custom Intelligence Feeds) | [`ioc-feed.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/checkpoint/ioc-feed.csv) (native format; MD5 is the only hash type) |
+| **Cisco Secure Firewall / FMC** | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/ip.txt) + [`.md5`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/ip.txt.md5) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/url.txt) + [`.md5`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/url.txt.md5) |
+| **Sophos Firewall** | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/sophos/ip.txt) · [`domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/sophos/domain.txt) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/sophos/url.txt) |
+| **Suricata** | `suricata-update add-source tif https://mhearsh.github.io/threat-intel-feed/feeds/firewall/suricata/suricata.rules` |
+| **Microsoft Defender for Endpoint** | [`files-001.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/microsoft-defender/files-001.csv) · [`network-001.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/microsoft-defender/network-001.csv) (≤500 rows per file, more files `-002`… when needed) · [`hunt.kql`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/microsoft-defender/hunt.kql) |
+| **CrowdStrike Falcon** (API helper) | [`iocs-api.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/crowdstrike/iocs-api.csv): IOC API fields for FalconPy / PSFalcon. Falcon has no documented native CSV import. |
+| **SentinelOne** | [`iocs.json`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/sentinelone/iocs.json), ready-to-POST body for the Threat Intelligence IOC API |
+| **ESET PROTECT** | [`sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/eset/sha256.txt) · [`sha1.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/eset/sha1.txt) |
+| **Trend Vision One** | [`suspicious-objects.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/trendmicro/suspicious-objects.csv) |
+| **Cortex XDR** | [`iocs.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/cortex-xdr/iocs.csv) |
+| **Microsoft Sentinel** | [`stix21.json`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/stix21.json) (TI import, STIX) · [`watchlist.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/watchlist.csv) |
+| **Splunk ES** | [`ip_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/ip_intel.csv) · [`file_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/file_intel.csv) · [`http_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/http_intel.csv) |
+| **Wazuh** (CDB lists) | [`cdb-ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/wazuh/cdb-ip.txt) · [`cdb-domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/wazuh/cdb-domain.txt) · [`cdb-sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/wazuh/cdb-sha256.txt) |
+| **Generic** (MISP, OpenCTI, QRadar, XSOAR, pfSense…) | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/ip.txt) · [`domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/domain.txt) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/url.txt) · [`sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/sha256.txt) · [`iocs.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/csv/iocs.csv) · [`stix21.json`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/stix/stix21.json) |
+
+More: [docs/integrations.md](docs/integrations.md).
 
 ## Files
 | Path | Description |
 |---|---|
-| `latest/` | Stable filenames, overwritten on every run |
+| `feeds/generic/` | One type per file: `txt/` (ip, domain, url, sha256, sha1, md5 + `.md5` checksums), `csv/iocs.csv` (all types, **not** defanged), `csv/file-hashes.csv`, `stix/stix21.json` |
+| `feeds/firewall/<vendor>/` | Palo Alto, Fortinet, Check Point, Cisco, Sophos, Suricata |
+| `feeds/edr/<vendor>/` | Microsoft Defender, CrowdStrike, SentinelOne, ESET, Trend Micro, Cortex XDR |
+| `feeds/siem-soar/<vendor>/` | Microsoft Sentinel, Splunk, Wazuh |
+| `reports/` | Human-readable, defanged: `top-iocs.csv`, `blocklist-defanged.txt` |
+| `latest/` | **Compatibility mirror**: the original filenames (`fortigate-ip-feed.txt`, `paloalto-edl-*.txt`, `defender-indicators.csv`, …), kept online |
 | `archive/YYYY-MM-DD/` | Daily snapshots |
-| `top-iocs.csv` | Defanged IOC, type, family, score, sources, age, context, ATT&CK |
-| `blocklist-defanged.txt` | Defanged list for safe sharing |
-| `fortigate-*-feed.txt`, `paloalto-edl-*.txt` | Raw values for firewall feeds |
-| `sentinel-watchlist.csv`, `defender-hunt.kql` | Microsoft security stack |
-| `suricata.rules` | IDS rules (SID range 9100001–9100999) |
-| `sha256.txt`, `sha1.txt`, `md5.txt` | File-hash feeds, one lowercase hash per line (score ≥ 50) |
-| `file-hashes.csv` | Hash, type, family, score, band, sources, first seen |
-| `defender-indicators.csv` | Defender XDR custom indicators import (FileSha256 / FileSha1) |
-| `crowdstrike-iocs.csv` | CrowdStrike Falcon IOC import (sha256 / md5) |
-| `stix21.json` | STIX 2.1 bundle (network IOCs + all file hashes as `file:hashes` patterns) |
+| `scripts/` | `build_feeds.py` (builds `feeds/`), `validate_feeds.py` (format checks run before every commit) |
 | `stats.json` | Machine-readable stats (drives the badges) |
+
+Raw fallback for any path: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/<path>`.
 
 ## Score scale
 Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs, `confidence` and a `band:` label in STIX). Only scores of 50 and above are published.
@@ -86,7 +93,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 10:40 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 431 SHA-256 · 52 SHA-1 · 53 MD5._
+_Last update: 2026-10-24 11:41 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 432 SHA-256 · 52 SHA-1 · 53 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -104,9 +111,9 @@ _Last update: 2026-10-24 10:40 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url
 | 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
 | 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
 | 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
-| 13 | `360393e0b17fcafc92dd33ecaaf5cc02b346dace35a8088e9b4adcb13a50` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `008391c2f5053f8d6ae93687ff3e646ea3781eb7fceb90dff27662639a78` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 15 | `08906e5c2a385132f3eb69000ecf18fd126ec4bb252e005f1e48ab0df144` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `113fc212d4fe2b16ac2558ad8de72da0eaae9f339d74b058512e8a9e3545` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `1475fe6b5ff6c0d9c90ffce87b030b748f6b2af04b5004e18606283054f8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `1b71ce2da4cdfbed9b25fafeaab8b721ad7f5669deae0052f62c07cd373d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
@@ -127,6 +134,9 @@ Open a [False positive issue](../../issues/new?template=false-positive.yml) with
 | [IPsum](https://github.com/stamparm/ipsum) | Unlicense |
 
 ## Changelog
+Full history: [CHANGELOG.md](CHANGELOG.md).
+
+- **2026-10-24:** new `feeds/` layout (generic + per-vendor folders), feeds served from GitHub Pages, new vendor formats (Check Point, Cisco `.md5`, Trend Vision One, Cortex XDR, SentinelOne, Splunk, Wazuh), Defender split into ≤500-row files, separate `url.txt` / `domain.txt`, generic non-defanged `iocs.csv`. `latest/` stays as a compatibility mirror.
 - **2026-10-24:** new file-hash feed (SHA-256 / SHA-1 / MD5 lists, Defender and CrowdStrike import CSVs, STIX `file:hashes`).
 - **2026-10-24:** scores are now on a documented 0–100 scale with bands (breaking for consumers of `score`/`confidence`); the Palo Alto URL EDL no longer contains bare IPs or trailing `/` (IP hosts moved to the IP EDLs); drop CSVs no longer start with a `#` comment line.
 
