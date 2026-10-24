@@ -6,7 +6,7 @@ Each post in the **Daily Threat Intel Drop** series on X ([@EmunaEliran](https:/
 `drops/YYYY/MM/YYYY-MM-DD-drop-N.csv` · `...-drop-N.png` (summary card) · `...-drop-N-list.png` (full list card)
 
 ## CSV format
-Line 1 is a signature comment starting with `#` (drop number, X handle, repo URL, UTC generation time, license). Skip it when importing (e.g. `pandas.read_csv(f, comment="#")`).
+Line 1 is the header row (no comment lines), so the file imports directly into any CSV tool.
 
 | Column | Description |
 |---|---|
@@ -14,7 +14,7 @@ Line 1 is a signature comment starting with `#` (drop number, X handle, repo URL
 | `indicator_defanged` | Safe-to-share form (`[.]`, `hxxp`) |
 | `type` | `ip`, `domain`, `url` or `hash` (SHA-256) |
 | `family` | Malware family (`Hermes (malware)` is a malware family, unrelated to any AI agent) |
-| `confidence` | Internal score, higher = stronger |
+| `confidence` | Score 0–100 (critical ≥ 90, high 75–89, medium 50–74; see [methodology](../docs/methodology.md#score-scale)). Drops published before 2026-10-24 used the older unbounded internal score |
 | `first_seen` | First-seen time (UTC) |
 | `tags` | Family, type and MITRE ATT&CK technique IDs, `;`-separated |
 

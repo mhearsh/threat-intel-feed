@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-24 09:31 UTC",
+ "updated": "2026-10-24 10:34 UTC",
  "count": 48,
+ "score_scale": "0-100",
+ "bands": {
+  "critical": 0,
+  "high": 12,
+  "medium": 36
+ },
  "fresh_6h": 48,
  "types": {
   "ip": 12,
@@ -9,15 +15,15 @@
   "url": 12
  },
  "families": {
-  "AMOS": 12,
-  "Grandoreiro": 5,
+  "AMOS": 9,
+  "StrelaStealer": 8,
+  "Vidar": 6,
   "RedTail": 4,
   "Cobaltstrike": 4,
-  "StrelaStealer": 4,
-  "ClearFake": 4,
   "Potassium": 3,
+  "Mirai": 3,
   "Unknown malware": 3,
-  "Vidar": 3,
+  "Grandoreiro": 2,
   "XMRIG": 2
  },
  "sources": {

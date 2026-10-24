@@ -16,6 +16,7 @@
 - [Methodology](#methodology)
 - [Quick start](#quick-start)
 - [Files](#files)
+- [Score scale](#score-scale)
 - [Today's stats](#todays-stats)
 - [FAQ](#faq)
 - [Reporting false positives](#reporting-false-positives)
@@ -34,7 +35,7 @@ flowchart LR
   A[ThreatFox · C2IntelFeeds · OpenPhish] --> N[Normalize & dedupe<br/>SQLite]
   C[Spamhaus DROP · IPsum] -->|corroboration| S
   N --> S{Score}
-  S -->|conf ≥ 75 or ≥ 2 sources<br/>named family<br/>age < 72h| K[Keep]
+  S -->|score ≥ 50 of 100<br/>conf ≥ 75 or ≥ 2 sources<br/>age < 72h| K[Keep]
   S -->|private · CDN · sinkhole · stale| X[Drop]
   K --> T[Top 50 · diversity cap]
   T --> O[FortiGate · PAN EDL · Sentinel · KQL · Suricata · STIX]
@@ -66,28 +67,39 @@ Step-by-step guides: [docs/integrations.md](docs/integrations.md).
 | `stix21.json` | STIX 2.1 bundle |
 | `stats.json` | Machine-readable stats (drives the badges) |
 
+## Score scale
+Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs, `confidence` and a `band:` label in STIX). Only scores of 50 and above are published.
+
+| Score | Band | Suggested action |
+|---|---|---|
+| 90–100 | critical | Block |
+| 75–89 | high | Block |
+| 50–74 | medium | Alert / hunt |
+
+Details: [docs/methodology.md](docs/methodology.md#score-scale).
+
 ## Today's stats
-_Last update: 2026-10-24 09:31 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 12); 48 first seen under 6h ago._
+_Last update: 2026-10-24 10:34 UTC. 48 IOCs (ip: 12, hash: 12, domain: 12, url: 12); 48 first seen under 6h ago._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
-| # | IOC (defanged) | Type | Family | Score | ATT&CK |
-|---|---|---|---|---|---|
-| 1 | `109[.]238[.]87[.]239` | ip | Hermes | 145 | T1071, T1105 |
-| 2 | `167[.]148[.]201[.]108` | ip | Havoc | 145 | T1071, T1055 |
-| 3 | `217[.]60[.]102[.]5` | ip | RedTail | 145 | T1071, T1105 |
-| 4 | `217[.]60[.]195[.]167` | ip | Remcos | 145 | T1071, T1105 |
-| 5 | `31[.]56[.]209[.]165` | ip | RedTail | 145 | T1071, T1105 |
-| 6 | `89[.]32[.]41[.]111` | ip | Potassium | 145 | T1071, T1105 |
-| 7 | `89[.]32[.]41[.]43` | ip | Potassium | 145 | T1071, T1105 |
-| 8 | `91[.]92[.]242[.]19` | ip | Potassium | 145 | T1071, T1105 |
-| 9 | `113[.]52[.]135[.]27` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 145 | T1071, T1105 |
-| 13 | `0a32163de2cae86e0658281591ce6e1f44ca75d34a66faedea29cd11c517` | hash | AMOS | 130 | T1071, T1105 |
-| 14 | `0e8fe946202cc568e7849117762483031f2f20c74676ed41b2f890175f71` | hash | AMOS | 130 | T1071, T1105 |
-| 15 | `1091461dbabc8387d1e06e905821a80c795e3e11b9d28c45708071e731fe` | hash | AMOS | 130 | T1071, T1105 |
+| # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
+|---|---|---|---|---|---|---|
+| 1 | `109[.]238[.]87[.]239` | ip | Hermes | 83 | high | T1071, T1105 |
+| 2 | `167[.]148[.]201[.]108` | ip | Havoc | 83 | high | T1071, T1055 |
+| 3 | `217[.]60[.]102[.]5` | ip | RedTail | 83 | high | T1071, T1105 |
+| 4 | `217[.]60[.]195[.]167` | ip | Remcos | 83 | high | T1071, T1105 |
+| 5 | `31[.]56[.]209[.]165` | ip | RedTail | 83 | high | T1071, T1105 |
+| 6 | `89[.]32[.]41[.]111` | ip | Potassium | 83 | high | T1071, T1105 |
+| 7 | `89[.]32[.]41[.]43` | ip | Potassium | 83 | high | T1071, T1105 |
+| 8 | `91[.]92[.]242[.]19` | ip | Potassium | 83 | high | T1071, T1105 |
+| 9 | `113[.]52[.]135[.]27` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
+| 10 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
+| 11 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
+| 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 83 | high | T1071, T1105 |
+| 13 | `008391c2f5053f8d6ae93687ff3e646ea3781eb7fceb90dff27662639a78` | hash | Mirai | 74 | medium | T1071, T1105 |
+| 14 | `08906e5c2a385132f3eb69000ecf18fd126ec4bb252e005f1e48ab0df144` | hash | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `1d32753359c4f69d692f319fb16c2aabcb940fb7e7aa5ddabc78403e4779` | hash | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
@@ -106,6 +118,9 @@ Open a [False positive issue](../../issues/new?template=false-positive.yml) with
 | [OpenPhish Community](https://openphish.com) | Free community feed, attribution, no resale |
 | [C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) | Public feed, attribution |
 | [IPsum](https://github.com/stamparm/ipsum) | Unlicense |
+
+## Changelog
+- **2026-10-24:** scores are now on a documented 0–100 scale with bands (breaking for consumers of `score`/`confidence`); the Palo Alto URL EDL no longer contains bare IPs or trailing `/` (IP hosts moved to the IP EDLs); drop CSVs no longer start with a `#` comment line.
 
 ## Disclaimer
 This feed is provided **as is**, without warranty. Indicators can go stale or produce false positives, for example on reassigned shared infrastructure. Validate before you block in production. Never browse to the listed indicators.
