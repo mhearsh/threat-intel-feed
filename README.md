@@ -67,7 +67,7 @@ Step-by-step guides: [docs/integrations.md](docs/integrations.md).
 | `stats.json` | Machine-readable stats (drives the badges) |
 
 ## Today's stats
-_Last update: 2026-10-24 06:47 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 12); 48 first seen under 6h ago._
+_Last update: 2026-10-24 06:52 UTC. 48 IOCs (ip: 12, domain: 12, hash: 12, url: 12); 48 first seen under 6h ago._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
