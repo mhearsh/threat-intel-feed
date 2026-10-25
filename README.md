@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-25 06:59 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 395 SHA-256 · 76 SHA-1 · 77 MD5._
+_Last update: 2026-10-25 07:53 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 401 SHA-256 · 76 SHA-1 · 77 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -123,13 +123,13 @@ _Last update: 2026-10-25 06:59 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url
 | 6 | `31[.]56[.]209[.]86` | ip | Mirai | 77 | high | T1071, T1105 |
 | 7 | `149[.]104[.]31[.]151` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
 | 8 | `192[.]255[.]248[.]153` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 9 | `130[.]94[.]75[.]105` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
-| 10 | `13ace80845a319fbeaee97f11be7ceb059c2fcf48dba0d7b21f618699c44` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `1a1251bfa582c8b9ac42042ec064075efcba6c1614d0066f48e404b6e85b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `1a8430dcb015e35b323be0dc3df5fa2d904e4ac852da2be644e0101f210c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `1cd71ed976337515ac030ad90f68436c13d4177c7dfcbe629d406c804e07` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `26v6dh2m[.]warmwaffles[.]com` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 15 | `2b4e3b616af9c838490503a5d8d2659a078077fd28fe16c668622fcd69b1` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `08a16332b97d4ee049f0a0eadc5cbea87e16f4a419a9500362f0e92901f9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `123[.]56[.]74[.]141` | ip | VShell | 74 | medium | T1071, T1105 |
+| 11 | `15195687bb341acaf28600d9ebc4bf6c3a6361d71575810b19e10c00c3e3` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `1cc15f077ed5c8d747b978172fd199d58eb9b4d99a7fa040f46112a8e693` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `2fbb749676ddd4c2157167b6aca1e4fff7f73e6aa0f90cb3f3ac87c7f515` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `36d34d0a15d3636c805c3d2dc9e828241484519a525821543ea6aeff061f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `550dc0f7b3ffb2601cfa3c3a601e5a22084d5943e5b9d554d0aea20745c8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
@@ -148,6 +148,7 @@ Open a [False positive issue](../../issues/new?template=false-positive.yml) with
 | [OpenPhish Community](https://openphish.com) | Free community feed, attribution, no resale |
 | [C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) | Public feed, attribution |
 | [IPsum](https://github.com/stamparm/ipsum) | Unlicense |
+| [Curated](curated/) | Manually added indicators listed on official sources only (vendor advisories, CISA, national CERTs); each entry links its source |
 
 ## Changelog
 Full history: [CHANGELOG.md](CHANGELOG.md).

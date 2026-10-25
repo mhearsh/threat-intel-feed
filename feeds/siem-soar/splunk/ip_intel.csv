@@ -7,7 +7,9 @@ Potassium score 83 (high),89.32.41.146,2
 Mirai score 77 (high),31.56.209.86,2
 Cobaltstrike score 77 (high),149.104.31.151,2
 Cobaltstrike score 77 (high),192.255.248.153,2
+VShell score 74 (medium),123.56.74.141,1
+Remus score 74 (medium),80.253.249.242,1
+Remus score 74 (medium),84.32.149.191,1
 Cobalt Strike score 74 (medium),130.94.75.105,1
-VShell score 74 (medium),103.186.85.179,1
-VShell score 74 (medium),103.186.85.182,1
-VShell score 74 (medium),110.173.53.101,1
+Arista VCO exploitation CVE-2026-114625 score 90 (critical),74.82.197.86,3
+Arista VCO exploitation CVE-2026-114625 score 90 (critical),38.54.50.151,3

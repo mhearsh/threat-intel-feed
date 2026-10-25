@@ -1,3 +1,8 @@
+apisumer.net:Remus
+joe-shields.com:StrelaStealer
+kfas.in:StrelaStealer
+lt.remusdownloads.su:Remus
+we.adilawa99.org:Vidar
 26v6dh2m.warmwaffles.com:ClearFake
 6qnia8r3.pooker.app:ClearFake
 epexecutivecoaching.it.com:ClearFake
@@ -5,8 +10,3 @@ eromeofficial.us:ClearFake
 lblue.com.br:StrelaStealer
 loax1ots.eromeofficial.us:ClearFake
 mahed.co.ir:StrelaStealer
-ontimejo.com:StrelaStealer
-passel.me:StrelaStealer
-pcnetpartners.com:StrelaStealer
-pgfdesigns.com:StrelaStealer
-pikun.cl:StrelaStealer

@@ -2,6 +2,10 @@
 All notable changes to this feed. Dates are UTC.
 
 ## [Unreleased] — 2026-10-25
+### Added
+- `curated/curated-iocs.csv`: manually curated indicators, accepted only from official sources, with source URL, CVE, note, confidence, score and expiry (auto-dropped after expiry). They flow into every feed format.
+- 2 IPs from Arista Security Advisory 0199 (CVE-2026-114625, VeloCloud Orchestrator, actively exploited): `74.82.197.86`, `38.54.50.151`, score 90 (critical), expiring 2026-11-24.
+
 ### Fixed (format validation)
 - **Microsoft Sentinel / STIX:** all STIX timestamps now have millisecond precision (`…:50.000Z`), so every object passes STIX 2.1 validation. New `feeds/siem-soar/microsoft-sentinel/stix21-objects.json`: a top-level array of STIX objects matching Sentinel's *Import using a file* JSON template. The bundle `stix21.json` is unchanged in structure.
 - **Splunk ES:** `http_intel.csv` now has the documented header `description,http_referrer,http_user_agent,url,weight`; `ip_intel.csv` uses `description,ip,weight`; domains moved to the new `domain_intel.csv` (`description,domain,weight`).

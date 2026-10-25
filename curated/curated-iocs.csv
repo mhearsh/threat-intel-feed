@@ -1,0 +1,3 @@
+value,type,family,cve,source_url,note,confidence,score,first_seen,expires
+74.82.197.86,ip,Arista VCO exploitation,CVE-2026-114625,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,95,90,2026-10-22T00:00:00Z,2026-11-24T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation,CVE-2026-114625,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,95,90,2026-10-22T00:00:00Z,2026-11-24T00:00:00Z
