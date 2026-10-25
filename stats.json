@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 02:06 UTC",
+ "updated": "2026-10-25 04:11 UTC",
  "count": 48,
  "score_scale": "0-100",
  "bands": {
@@ -7,13 +7,13 @@
   "high": 12,
   "medium": 36
  },
- "fresh_6h": 38,
+ "fresh_6h": 41,
  "hashes": {
-  "sha256": 413,
+  "sha256": 412,
   "sha1": 76,
   "md5": 78
  },
- "hash_count": 567,
+ "hash_count": 566,
  "types": {
   "ip": 12,
   "sha256": 12,
@@ -21,20 +21,20 @@
   "url": 12
  },
  "families": {
-  "Mirai": 12,
-  "AMOS": 12,
-  "Cobaltstrike": 9,
-  "ClearFake": 5,
-  "StrelaStealer": 3,
+  "Unknown malware": 12,
+  "AMOS": 11,
+  "StrelaStealer": 9,
+  "Cobaltstrike": 6,
+  "Mirai": 4,
   "Vidar": 2,
-  "Unknown malware": 2,
+  "AsyncRAT": 1,
   "Potassium": 1,
   "Havoc": 1,
-  "IClickFix": 1
+  "ClearFake": 1
  },
  "sources": {
-  "Spamhaus-DROP": 3,
+  "Spamhaus-DROP": 6,
   "ThreatFox": 48,
-  "C2IntelFeeds": 9
+  "C2IntelFeeds": 6
  }
 }
