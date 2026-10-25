@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-24 21:03 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 36 first seen under 6h ago. File-hash feed: 438 SHA-256 · 76 SHA-1 · 78 MD5._
+_Last update: 2026-10-25 02:06 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 38 first seen under 6h ago. File-hash feed: 413 SHA-256 · 76 SHA-1 · 78 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `149[.]104[.]31[.]151` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 2 | `192[.]255[.]248[.]153` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 3 | `167[.]148[.]201[.]108` | ip | Havoc | 77 | high | T1071, T1055 |
-| 4 | `170[.]231[.]239[.]144` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 5 | `89[.]32[.]41[.]111` | ip | Potassium | 77 | high | T1071, T1105 |
-| 6 | `89[.]32[.]41[.]43` | ip | Potassium | 77 | high | T1071, T1105 |
-| 7 | `91[.]92[.]242[.]19` | ip | Potassium | 77 | high | T1071, T1105 |
-| 8 | `113[.]52[.]135[.]27` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 9 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 10 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 11 | `38[.]190[.]224[.]38` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 12 | `43[.]142[.]137[.]169` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 13 | `0b3cd85d11d82969427d4d45dd23e3d6a0c4c8cefd68df51248b019f420e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `0b6b6527204ed3cb0f5663a37d5c29bbef8e0e012336e2f426caacc4d70c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `0f1ac762b4e0e2e9a90e4aa340dc16c0fefbb38f3bfa5fe0d54ce7854686` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `89[.]32[.]41[.]146` | ip | Potassium | 83 | high | T1071, T1105 |
+| 2 | `31[.]56[.]209[.]86` | ip | Mirai | 77 | high | T1071, T1105 |
+| 3 | `149[.]104[.]31[.]151` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 4 | `192[.]255[.]248[.]153` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 5 | `167[.]148[.]201[.]108` | ip | Havoc | 77 | high | T1071, T1055 |
+| 6 | `170[.]231[.]239[.]144` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 7 | `113[.]52[.]135[.]27` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 8 | `114[.]215[.]184[.]158` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 9 | `118[.]25[.]147[.]157` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 10 | `38[.]190[.]224[.]38` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 11 | `43[.]142[.]137[.]169` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 12 | `49[.]235[.]158[.]141` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 13 | `0605b18a59445979654738a8737b237d58386aaf264767f75c5923e17434` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `0b010bf128dbaff259fb39ac7fdda79f26c572142355da6902e2f186fa62` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `0b8cd4748ff4c5a925d17326057268760fdb691a395140daf798dc67985d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

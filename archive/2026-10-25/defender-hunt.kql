@@ -1,0 +1,6 @@
+// Daily Top IOCs 2026-10-25 - Defender XDR / Sentinel
+let ips = dynamic(["89.32.41.146","31.56.209.86","149.104.31.151","192.255.248.153","167.148.201.108","170.231.239.144","113.52.135.27","114.215.184.158","118.25.147.157","38.190.224.38","43.142.137.169","49.235.158.141","129.121.115.43","176.65.139.201","45.9.2.239"]);
+let doms = dynamic(["2j2yukwx.energedia.foundation","9c9yctp3.energedia.dev","c.adilawa99.org","chant98.com","deload.getpi.su","energedia.dev","energedia.foundation","id-verfied.boats","le1qjsdf.persiianabet.com","mark.teothomas.com","mixfidelity.com","mkbaldwin.com"]);
+DeviceNetworkEvents | where Timestamp > ago(7d)
+| where RemoteIP in (ips) or RemoteUrl has_any (doms)
+| project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

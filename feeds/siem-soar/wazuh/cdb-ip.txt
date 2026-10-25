@@ -1,12 +1,12 @@
+89.32.41.146:Potassium
+31.56.209.86:Mirai
 149.104.31.151:Cobaltstrike
 192.255.248.153:Cobaltstrike
 167.148.201.108:Havoc
 170.231.239.144:Cobaltstrike
-89.32.41.111:Potassium
-89.32.41.43:Potassium
-91.92.242.19:Potassium
 113.52.135.27:Cobaltstrike
 114.215.184.158:Cobaltstrike
 118.25.147.157:Cobaltstrike
 38.190.224.38:Cobaltstrike
 43.142.137.169:Cobaltstrike
+49.235.158.141:Cobaltstrike
