@@ -21,8 +21,8 @@ S=[
  ["Trend: Threat Intelligence → Suspicious Object Management → Import (max 2,000 objects / 1 MB).","Cortex XDR: Detection Rules → IOC → Import CSV."],
  [("Trend Vision One",f"{B}/edr/trendmicro/suspicious-objects.csv","E"),("Cortex XDR",f"{B}/edr/cortex-xdr/iocs.csv","E")]),
 ("SIEM / SOAR","STIX 2.1 for TI platforms. Typed CSV for Splunk.",
- ["Microsoft Sentinel: Threat intelligence → Import → JSON (STIX).","Splunk ES: Threat intelligence → Data sources → URL. Use the ip_intel and file_intel CSVs.","MISP / OpenCTI / XSOAR: add the STIX file or the generic CSV as a feed.","QRadar / Wazuh: load the generic txt into a reference set or CDB list."],
- [("STIX 2.1",f"{B}/generic/stix/stix21.json","E"),("Splunk ip_intel",f"{B}/siem-soar/splunk/ip_intel.csv","E"),("Generic CSV",f"{B}/generic/csv/iocs.csv","E")]),
+ ["Microsoft Sentinel: Threat intelligence → Import → Import using a file → JSON. Use the array file (Sentinel JSON template); the STIX bundle stays available for other tools.","Splunk ES: Threat intelligence → Data sources → URL. Use the ip_intel, domain_intel, http_intel and file_intel CSVs.","MISP / OpenCTI / XSOAR: add the STIX file or the generic CSV as a feed.","QRadar / Wazuh: load the generic txt into a reference set or CDB list."],
+ [("Sentinel JSON",f"{B}/siem-soar/microsoft-sentinel/stix21-objects.json","E"),("STIX 2.1",f"{B}/generic/stix/stix21.json","E"),("Splunk ip_intel",f"{B}/siem-soar/splunk/ip_intel.csv","E"),("Generic CSV",f"{B}/generic/csv/iocs.csv","E")]),
 ]
 md=["# IOC Feed Integration Guide","_Open threat-intel feed · github.com/mhearsh/threat-intel-feed_","","Scores 0–100: **Critical 90–100 · High 75–89 · Medium 50–74**. Feeds refresh every 2 hours. Entries expire after 30 days.","","> ● = available now. Raw fallback: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/feeds/...`. Legacy `latest/` paths stay online as a compatibility mirror.",""]
 html=[]

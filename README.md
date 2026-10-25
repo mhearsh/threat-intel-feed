@@ -65,7 +65,7 @@ Full step-by-step guide for every platform: **[Integration guide](https://mhears
 |---|---|
 | **Palo Alto NGFW** (EDL) | [`edl-ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/paloalto/edl-ip.txt) · [`edl-domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/paloalto/edl-domain.txt) · [`edl-url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/paloalto/edl-url.txt) |
 | **FortiGate** (Threat Feeds) | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/ip.txt) · [`domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/domain.txt) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/url.txt) · [`hash-sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/fortinet/hash-sha256.txt) |
-| **Check Point** (Custom Intelligence Feeds) | [`ioc-feed.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/checkpoint/ioc-feed.csv) (native format; MD5 is the only hash type) |
+| **Check Point** (Custom Intelligence Feeds) | [`ioc-feed.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/checkpoint/ioc-feed.csv) (native format; IP, domain, URL, MD5, SHA1, SHA256) |
 | **Cisco Secure Firewall / FMC** | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/ip.txt) + [`.md5`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/ip.txt.md5) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/url.txt) + [`.md5`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/cisco/url.txt.md5) |
 | **Sophos Firewall** | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/sophos/ip.txt) · [`domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/sophos/domain.txt) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/firewall/sophos/url.txt) |
 | **Suricata** | `suricata-update add-source tif https://mhearsh.github.io/threat-intel-feed/feeds/firewall/suricata/suricata.rules` |
@@ -75,8 +75,8 @@ Full step-by-step guide for every platform: **[Integration guide](https://mhears
 | **ESET PROTECT** | [`sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/eset/sha256.txt) · [`sha1.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/eset/sha1.txt) |
 | **Trend Vision One** | [`suspicious-objects.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/trendmicro/suspicious-objects.csv) |
 | **Cortex XDR** | [`iocs.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/edr/cortex-xdr/iocs.csv) |
-| **Microsoft Sentinel** | [`stix21.json`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/stix21.json) (TI import, STIX) · [`watchlist.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/watchlist.csv) |
-| **Splunk ES** | [`ip_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/ip_intel.csv) · [`file_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/file_intel.csv) · [`http_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/http_intel.csv) |
+| **Microsoft Sentinel** | [`stix21-objects.json`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/stix21-objects.json) (TI *Import using a file*, JSON array template) · [`stix21.json`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/stix21.json) (STIX bundle) · [`watchlist.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/watchlist.csv) |
+| **Splunk ES** | [`ip_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/ip_intel.csv) · [`domain_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/domain_intel.csv) · [`file_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/file_intel.csv) · [`http_intel.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/http_intel.csv) |
 | **Wazuh** (CDB lists) | [`cdb-ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/wazuh/cdb-ip.txt) · [`cdb-domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/wazuh/cdb-domain.txt) · [`cdb-sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/wazuh/cdb-sha256.txt) |
 | **Generic** (MISP, OpenCTI, QRadar, XSOAR, pfSense…) | [`ip.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/ip.txt) · [`domain.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/domain.txt) · [`url.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/url.txt) · [`sha256.txt`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/txt/sha256.txt) · [`iocs.csv`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/csv/iocs.csv) · [`stix21.json`](https://mhearsh.github.io/threat-intel-feed/feeds/generic/stix/stix21.json) |
 
@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-25 06:55 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 395 SHA-256 · 76 SHA-1 · 77 MD5._
+_Last update: 2026-10-25 06:59 UTC. 48 IOCs (ip: 12, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 395 SHA-256 · 76 SHA-1 · 77 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 

@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this feed. Dates are UTC.
 
+## [Unreleased] — 2026-10-25
+### Fixed (format validation)
+- **Microsoft Sentinel / STIX:** all STIX timestamps now have millisecond precision (`…:50.000Z`), so every object passes STIX 2.1 validation. New `feeds/siem-soar/microsoft-sentinel/stix21-objects.json`: a top-level array of STIX objects matching Sentinel's *Import using a file* JSON template. The bundle `stix21.json` is unchanged in structure.
+- **Splunk ES:** `http_intel.csv` now has the documented header `description,http_referrer,http_user_agent,url,weight`; `ip_intel.csv` uses `description,ip,weight`; domains moved to the new `domain_intel.csv` (`description,domain,weight`).
+- **Check Point:** `ioc-feed.csv` now exports SHA1 and SHA256 hashes (PRODUCT AV) in addition to MD5.
+
 ## [1.0.0] — 2026-10-24
 First tagged release. Integration guide: https://mhearsh.github.io/threat-intel-feed/guide/IOC-Feed-Integration-Guide.pdf
 

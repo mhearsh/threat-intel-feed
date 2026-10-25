@@ -75,11 +75,12 @@ CSV import.
 ## SIEM / SOAR
 STIX 2.1 for TI platforms. Typed CSV for Splunk.
 
-1. Microsoft Sentinel: Threat intelligence → Import → JSON (STIX).
-2. Splunk ES: Threat intelligence → Data sources → URL. Use the ip_intel and file_intel CSVs.
+1. Microsoft Sentinel: Threat intelligence → Import → Import using a file → JSON. Use the array file (Sentinel JSON template); the STIX bundle stays available for other tools.
+2. Splunk ES: Threat intelligence → Data sources → URL. Use the ip_intel, domain_intel, http_intel and file_intel CSVs.
 3. MISP / OpenCTI / XSOAR: add the STIX file or the generic CSV as a feed.
 4. QRadar / Wazuh: load the generic txt into a reference set or CDB list.
 
+- ● **Sentinel JSON:** `https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/microsoft-sentinel/stix21-objects.json`
 - ● **STIX 2.1:** `https://mhearsh.github.io/threat-intel-feed/feeds/generic/stix/stix21.json`
 - ● **Splunk ip_intel:** `https://mhearsh.github.io/threat-intel-feed/feeds/siem-soar/splunk/ip_intel.csv`
 - ● **Generic CSV:** `https://mhearsh.github.io/threat-intel-feed/feeds/generic/csv/iocs.csv`
