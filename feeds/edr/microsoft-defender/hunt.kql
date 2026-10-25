@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-25 - Defender XDR / Sentinel
-let ips = dynamic(["217.60.103.135","130.94.75.105","161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","47.100.187.173","123.57.30.209","39.103.98.161","47.243.109.132","8.148.29.180","74.82.197.86","38.54.50.151"]);
-let doms = dynamic(["8qxevlmy.enfejar.casino","nest-52.com","dku.adilawa99.org","flymetoyou.app","iq9k06we.fpikiogankomeringilir.store","k9p8spox.flymetoyou.app","lt.remusdownloads.to","4hqwi3xf.expotour.org","expotour.org","or2by62l.urgentblue.com","seasprayfiley.co.uk","www.rompecabeza.co"]);
+let ips = dynamic(["217.60.103.135","130.94.75.105","161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","116.62.81.149","47.100.187.173","31.56.209.86","175.178.126.48","149.104.31.151","74.82.197.86","38.54.50.151","144.31.108.193"]);
+let doms = dynamic(["b3cxsyd3.slavyera.com","h8a4eye4.frameless1.shop","medidemo.wastore.in","mindfulnessenterprise.com","slavyera.com","u6.adilawa99.org","www.metaleks.com.tr","8qxevlmy.enfejar.casino","nest-52.com","dku.adilawa99.org","flymetoyou.app","iq9k06we.fpikiogankomeringilir.store"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl
