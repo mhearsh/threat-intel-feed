@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-25 - Defender XDR / Sentinel
-let ips = dynamic(["217.60.103.135","130.94.75.105","161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","116.62.81.149","47.100.187.173","31.56.209.86","175.178.126.48","149.104.31.151","74.82.197.86","38.54.50.151","144.31.108.193"]);
-let doms = dynamic(["b3cxsyd3.slavyera.com","h8a4eye4.frameless1.shop","medidemo.wastore.in","mindfulnessenterprise.com","slavyera.com","u6.adilawa99.org","www.metaleks.com.tr","8qxevlmy.enfejar.casino","nest-52.com","dku.adilawa99.org","flymetoyou.app","iq9k06we.fpikiogankomeringilir.store"]);
+let ips = dynamic(["217.60.103.135","130.94.75.105","161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","116.62.81.149","31.56.209.86","175.178.126.48","149.104.31.151","8.156.80.127","74.82.197.86","38.54.50.151"]);
+let doms = dynamic(["791n1fiv.enfejbaaz.bet","9gul6aad.mon-iam-espace-esa-lia.online","drtianna.com","ivanitsky.com","ivh.uvaoficial.com","mon-iam-espace-esa-lia.online","mooc3.politechnicart.net","nikinovin.com","river.marine-force-ishigaki.com","teacher.adm-edu.ru","timenews247.com","uniporctandil.com.ar"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

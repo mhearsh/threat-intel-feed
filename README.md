@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-25 20:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 39 first seen under 6h ago. File-hash feed: 2182 SHA-256 · 67 SHA-1 · 67 MD5._
+_Last update: 2026-10-25 22:46 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 38 first seen under 6h ago. File-hash feed: 2192 SHA-256 · 67 SHA-1 · 67 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -122,14 +122,14 @@ _Last update: 2026-10-25 20:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 | 5 | `85[.]11[.]167[.]7` | ip | Unknown malware | 77 | high | T1071, T1105 |
 | 6 | `94[.]154[.]43[.]68` | ip | Mirai | 77 | high | T1071, T1105 |
 | 7 | `89[.]32[.]41[.]146` | ip | Potassium | 77 | high | T1071, T1105 |
-| 8 | `116[.]62[.]81[.]149` | ip | VShell | 74 | medium | T1071, T1105 |
-| 9 | `1332a3c18bc8ae494b0fd47f57247e923cf31d3ed526fb9b1131b7af087a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `280d39c936aff00cc50ac85c872e0fc46d1496ce22c46e00a1fb01d860c5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `33f35b6e9e37b7cbd5e165f99bd8c95054996e3ccfa1cd95c736f925401f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `3aafc54ca2c123a9cbecc7317b663f786fce738d22e42edbf8f5250d8651` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `463c22aa0da6ac61b18936c02647d826a274328aab99282dff5d95effafa` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `5e7e1d3502e686bbf20aac1fe68ded3772ae39c1ff26e7e3aaf9c3255edb` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `66ff5d90f22a01088b5bd68710da2d14851d923d81759984520e9474913a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `10d8854cd25c6e23060d4f0606f9091d0753d1f2264da7c184e682bf2f07` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `1c9830a8872447eef9a673aaf113a191898f0edcda14453a3823001997f6` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `1e70c0cd3487dca5a21f2cdae5bcb648ba6c3bafabc52ef1e06b1ee04124` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `282eb309aa2d0f77f5f2a91ecc85a255e84bde1593aab31518866899b283` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `479d7a92b8d25a89e36e278a0f322b8cbcafbc1deedf0a8ff86413d3e6d0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `4f1a50a9440b626dc5cd6247bed4284b412f470cc5a8f19bc398bbb79907` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `55d218a123621a4939a01a22866ad4464afa7f006f8e74c2b70f59c5947f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `5723065bb32f424c666124b1ca6950f198f43afef0183f6e0dafc95ab9d3` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
