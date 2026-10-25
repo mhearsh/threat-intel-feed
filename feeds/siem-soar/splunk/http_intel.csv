@@ -1,13 +1,13 @@
-description,url,weight
-Unknown malware score 74 (medium),64.89.163.22:39977/carrier_835.mp4,1
-Unknown malware score 74 (medium),64.89.163.22:39977/item_835.xml,1
-Unknown malware score 74 (medium),85.11.167.7:12103/item.xml,1
-Unknown malware score 74 (medium),85.11.167.7:12898/item.xml,1
-Unknown malware score 74 (medium),85.11.167.7:13013/item.xml,1
-Unknown malware score 74 (medium),91-92-40-202.sslip.io:44519/item.xml,1
-Unknown malware score 74 (medium),94.154.43.7:8952/24f46c5316be/item.xml,1
-Unknown malware score 74 (medium),94.154.43.7:8952/477617d055ce/item.xml,1
-Unknown malware score 74 (medium),94.154.43.7:8952/a7443820956a/item.xml,1
-Unknown malware score 74 (medium),94.154.43.7:8952/e2d4354829dd/item.xml,1
-Unknown malware score 74 (medium),94.154.43.7:8952/item.xml,1
-Vidar score 74 (medium),jtf.adilawa99.org,1
+description,http_referrer,http_user_agent,url,weight
+Unknown malware score 74 (medium),,,64.89.163.22:39977/carrier_835.mp4,1
+Unknown malware score 74 (medium),,,64.89.163.22:39977/item_835.xml,1
+Unknown malware score 74 (medium),,,85.11.167.7:12103/item.xml,1
+Unknown malware score 74 (medium),,,85.11.167.7:12898/item.xml,1
+Unknown malware score 74 (medium),,,85.11.167.7:13013/item.xml,1
+Unknown malware score 74 (medium),,,91-92-40-202.sslip.io:44519/item.xml,1
+Unknown malware score 74 (medium),,,94.154.43.7:8952/24f46c5316be/item.xml,1
+Unknown malware score 74 (medium),,,94.154.43.7:8952/477617d055ce/item.xml,1
+Unknown malware score 74 (medium),,,94.154.43.7:8952/a7443820956a/item.xml,1
+Unknown malware score 74 (medium),,,94.154.43.7:8952/e2d4354829dd/item.xml,1
+Unknown malware score 74 (medium),,,94.154.43.7:8952/item.xml,1
+Vidar score 74 (medium),,,jtf.adilawa99.org,1

@@ -28,15 +28,23 @@ def chunks(xs,n): return [xs[i:i+n] for i in range(0,len(xs),n)] or [[]]
 ip,dom,url=rd('ip.txt'),rd('domain.txt'),rd('url.txt'); H={h:rd(f'{h}.txt') for h in ('sha256','sha1','md5')}
 # ---- generic
 for n,v in (('ip',ip),('domain',dom),('url',url),*H.items()): txt(f'generic/txt/{n}.txt',v,md5=True)
+import re as _re
+_sp=os.path.join(L,'stix21.json')
+if os.path.exists(_sp):  # STIX 2.1 requires millisecond precision on timestamps
+    _b=json.load(open(_sp)); _ms=lambda v:_re.sub(r'(T\d\d:\d\d:\d\d)Z$',r'\1.000Z',v) if isinstance(v,str) else v
+    for _o in _b['objects']:
+        for _k in ('created','modified','valid_from','valid_until'):
+            if _k in _o: _o[_k]=_ms(_o[_k])
+    json.dump(_b,open(_sp,'w'),indent=1)
 cp('iocs.csv','generic/csv/iocs.csv'); cp('file-hashes.csv','generic/csv/file-hashes.csv'); cp('stix21.json','generic/stix/stix21.json')
 # ---- firewalls
 txt('firewall/paloalto/edl-ip.txt',ip); txt('firewall/paloalto/edl-domain.txt',dom); txt('firewall/paloalto/edl-url.txt',url)
 txt('firewall/fortinet/ip.txt',ip); txt('firewall/fortinet/domain.txt',dom); txt('firewall/fortinet/url.txt',url)
 for h,v in H.items(): txt(f'firewall/fortinet/hash-{h}.txt',v)
-CPT={'ip':'IP','domain':'Domain','url':'URL','md5':'MD5'}; cpl=[]; k={}
-for r in net+[r for r in hs if r['type']=='md5']:  # Check Point: MD5 is the only native hash type (AV); network -> AB
+CPT={'ip':'IP','domain':'Domain','url':'URL','md5':'MD5','sha1':'SHA1','sha256':'SHA256'}; cpl=[]; k={}
+for r in net+hs:  # Check Point: hashes (MD5/SHA1/SHA256) -> AV; network -> AB
     k[r['type']]=k.get(r['type'],0)+1; b=r['band']
-    cpl.append([f"tif-{r['type']}-{k[r['type']]}",r['value'],CPT[r['type']],b,b,'AV' if r['type']=='md5' else 'AB',desc(r).replace(',',' ')])
+    cpl.append([f"tif-{r['type']}-{k[r['type']]}",r['value'],CPT[r['type']],b,b,'AV' if r['type'] in ('md5','sha1','sha256') else 'AB',desc(r).replace(',',' ')])
 csvf('firewall/checkpoint/ioc-feed.csv',['#UNIQ-NAME','VALUE','TYPE','CONFIDENCE','SEVERITY','PRODUCT','COMMENT'],cpl)
 txt('firewall/cisco/ip.txt',ip,md5=True); txt('firewall/cisco/domain.txt',dom,md5=True); txt('firewall/cisco/url.txt',url,md5=True)
 txt('firewall/sophos/ip.txt',ip); txt('firewall/sophos/domain.txt',dom); txt('firewall/sophos/url.txt',url)
@@ -62,11 +70,12 @@ for i,c in enumerate(chunks(tl,2000),1): csvf('edr/trendmicro/suspicious-objects
 XT={'ip':'IP','domain':'DOMAIN_NAME','sha256':'HASH'}
 csvf('edr/cortex-xdr/iocs.csv',['indicator','type','severity','expiration_date','comment','reputation','reliability'],[[r['value'],XT[r['type']],r['band'].upper(),EXP_MS,desc(r),'BAD','C'] for r in rows if r['type'] in XT])
 # ---- SIEM / SOAR
-cp('stix21.json','siem-soar/microsoft-sentinel/stix21.json'); cp('sentinel-watchlist.csv','siem-soar/microsoft-sentinel/watchlist.csv')
+cp('stix21.json','siem-soar/microsoft-sentinel/stix21.json'); out('siem-soar/microsoft-sentinel/stix21-objects.json',json.dumps(json.load(open(_sp))['objects'],indent=1)) if os.path.exists(_sp) else None; cp('sentinel-watchlist.csv','siem-soar/microsoft-sentinel/watchlist.csv')
 W={'critical':3,'high':2,'medium':1}
-csvf('siem-soar/splunk/ip_intel.csv',['description','ip','domain','weight'],[[desc(r),r['value'] if r['type']=='ip' else '',r['value'] if r['type']=='domain' else '',W[r['band']]] for r in net if r['type'] in ('ip','domain')])
+csvf('siem-soar/splunk/ip_intel.csv',['description','ip','weight'],[[desc(r),r['value'],W[r['band']]] for r in net if r['type']=='ip'])
+csvf('siem-soar/splunk/domain_intel.csv',['description','domain','weight'],[[desc(r),r['value'],W[r['band']]] for r in net if r['type']=='domain'])
 csvf('siem-soar/splunk/file_intel.csv',['description','file_hash','file_name','weight'],[[desc(r),r['value'],'',W[r['band']]] for r in hs])
-csvf('siem-soar/splunk/http_intel.csv',['description','url','weight'],[[desc(r),r['value'],W[r['band']]] for r in net if r['type']=='url'])
+csvf('siem-soar/splunk/http_intel.csv',['description','http_referrer','http_user_agent','url','weight'],[[desc(r),'','',r['value'],W[r['band']]] for r in net if r['type']=='url'])
 cdb=lambda xs:[f'{r["value"]}:{(r["family"] or "malicious").replace(":"," ")}' for r in xs]
 txt('siem-soar/wazuh/cdb-ip.txt',cdb([r for r in net if r['type']=='ip'])); txt('siem-soar/wazuh/cdb-domain.txt',cdb([r for r in net if r['type']=='domain'])); txt('siem-soar/wazuh/cdb-sha256.txt',cdb([r for r in hs if r['type']=='sha256']))
 # ---- reports (human-readable, defanged) + compat note

@@ -1,25 +1,13 @@
-description,ip,domain,weight
-NjRAT score 83 (high),161.248.179.115,,2
-AsyncRAT score 83 (high),64.89.161.138,,2
-Unknown malware score 83 (high),85.11.167.7,,2
-Mirai score 83 (high),94.154.43.68,,2
-Potassium score 83 (high),89.32.41.146,,2
-Mirai score 77 (high),31.56.209.86,,2
-Cobaltstrike score 77 (high),149.104.31.151,,2
-Cobaltstrike score 77 (high),192.255.248.153,,2
-Cobalt Strike score 74 (medium),130.94.75.105,,1
-ClearFake score 74 (medium),,26v6dh2m.warmwaffles.com,1
-ClearFake score 74 (medium),,6qnia8r3.pooker.app,1
-ClearFake score 74 (medium),,epexecutivecoaching.it.com,1
-ClearFake score 74 (medium),,eromeofficial.us,1
-StrelaStealer score 74 (medium),,lblue.com.br,1
-ClearFake score 74 (medium),,loax1ots.eromeofficial.us,1
-StrelaStealer score 74 (medium),,mahed.co.ir,1
-StrelaStealer score 74 (medium),,ontimejo.com,1
-StrelaStealer score 74 (medium),,passel.me,1
-StrelaStealer score 74 (medium),,pcnetpartners.com,1
-StrelaStealer score 74 (medium),,pgfdesigns.com,1
-StrelaStealer score 74 (medium),,pikun.cl,1
-VShell score 74 (medium),103.186.85.179,,1
-VShell score 74 (medium),103.186.85.182,,1
-VShell score 74 (medium),110.173.53.101,,1
+description,ip,weight
+NjRAT score 83 (high),161.248.179.115,2
+AsyncRAT score 83 (high),64.89.161.138,2
+Unknown malware score 83 (high),85.11.167.7,2
+Mirai score 83 (high),94.154.43.68,2
+Potassium score 83 (high),89.32.41.146,2
+Mirai score 77 (high),31.56.209.86,2
+Cobaltstrike score 77 (high),149.104.31.151,2
+Cobaltstrike score 77 (high),192.255.248.153,2
+Cobalt Strike score 74 (medium),130.94.75.105,1
+VShell score 74 (medium),103.186.85.179,1
+VShell score 74 (medium),103.186.85.182,1
+VShell score 74 (medium),110.173.53.101,1
