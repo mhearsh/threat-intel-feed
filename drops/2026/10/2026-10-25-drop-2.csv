@@ -1,0 +1,51 @@
+indicator,indicator_defanged,type,family,confidence,first_seen,tags
+161.248.179.115,161[.]248[.]179[.]115,ip,NjRAT,83,2026-10-25T07:34Z,njrat;ip;T1071;T1105
+64.89.161.138,64[.]89[.]161[.]138,ip,AsyncRAT,83,2026-10-25T04:46Z,asyncrat;ip;T1071;T1105
+85.11.167.7,85[.]11[.]167[.]7,ip,Unknown malware,83,2026-10-25T04:46Z,unknown-malware;ip;T1071;T1105
+94.154.43.68,94[.]154[.]43[.]68,ip,Mirai,83,2026-10-25T04:46Z,mirai;ip;T1071;T1105
+89.32.41.146,89[.]32[.]41[.]146,ip,Potassium,77,2026-10-25T02:46Z,potassium;ip;T1071;T1105
+149.104.31.151,149[.]104[.]31[.]151,ip,Cobalt Strike,77,2026-10-24T10:10Z,cobalt-strike;ip;T1071;T1105
+192.255.248.153,192[.]255[.]248[.]153,ip,Cobalt Strike,77,2026-10-24T10:10Z,cobalt-strike;ip;T1071;T1105
+061addb88053fdbe4b1fee7ad6d05082b1007ef072cd8dbcc0d934b25f2b15fa,061addb88053fdbe4b1fee7ad6d05082b1007ef072cd8dbcc0d934b25f2b15fa,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+13.202.120.94,13[.]202[.]120[.]94,ip,AdaptixC2,74,2026-10-25T10:04Z,adaptixc2;ip;T1071;T1105
+15.164.241.232,15[.]164[.]241[.]232,ip,Cobalt Strike,74,2026-10-25T10:04Z,cobalt-strike;ip;T1071.001;T1105;T1059
+1a1bb5d172553a78f4149c581509207eaa0838fbc66e456039d1ff4b65c0eeaa,1a1bb5d172553a78f4149c581509207eaa0838fbc66e456039d1ff4b65c0eeaa,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+1bb35f3e1bc945ff547abda48bbb1c943aacf2e13521f188a8a7475799378763,1bb35f3e1bc945ff547abda48bbb1c943aacf2e13521f188a8a7475799378763,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+1cca4154bff749992d0e8b7255038242840c7a06744a4280a6cbd168b8d0a48c,1cca4154bff749992d0e8b7255038242840c7a06744a4280a6cbd168b8d0a48c,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+3535793b9d28ddb012cda5e793b78c9da4b533017881ff32502c5a6e3b694cf1,3535793b9d28ddb012cda5e793b78c9da4b533017881ff32502c5a6e3b694cf1,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+38.240.48.153,38[.]240[.]48[.]153,ip,Quasar RAT,74,2026-10-25T10:04Z,quasar-rat;ip;T1071;T1105
+3dda7102c145d4845ba2444be27c3a1d13b6bd5ac7de23638317154691da5a27,3dda7102c145d4845ba2444be27c3a1d13b6bd5ac7de23638317154691da5a27,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+4216ed59345fdcf0426c9f8c7d46e1e6119d634ccbc0b681bf254199b97023b9,4216ed59345fdcf0426c9f8c7d46e1e6119d634ccbc0b681bf254199b97023b9,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+47.94.132.198,47[.]94[.]132[.]198,ip,VShell,74,2026-10-25T10:04Z,vshell;ip;T1071;T1105
+53945e1b7209aaa3c2b6d7f1c5d2524080eed4117234bd393e089c116f11dbcc,53945e1b7209aaa3c2b6d7f1c5d2524080eed4117234bd393e089c116f11dbcc,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+74445d8f9f8d9fcea2379bc0ab1812323795abea652fb537369e82adf869618d,74445d8f9f8d9fcea2379bc0ab1812323795abea652fb537369e82adf869618d,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+8ac49113a19ac207e8090f2ae4b566beaa8c08e550b057984c8f164dfc3522b4,8ac49113a19ac207e8090f2ae4b566beaa8c08e550b057984c8f164dfc3522b4,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+920fe95004937aee34afa6aaf6e0caa45d684db28b2ebba5472a75a9663b69c1,920fe95004937aee34afa6aaf6e0caa45d684db28b2ebba5472a75a9663b69c1,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+95.111.226.157,95[.]111[.]226[.]157,ip,VShell,74,2026-10-25T10:04Z,vshell;ip;T1071;T1105
+9b75737faf4b6ad817a3c8660f84fe8c14cace627b74a26c6487237278fc1e54,9b75737faf4b6ad817a3c8660f84fe8c14cace627b74a26c6487237278fc1e54,sha256,AMOS,74,2026-10-25T10:04Z,amos;sha256;T1071;T1105
+cgl3dmf1.etablissementsbonnet.com,cgl3dmf1[.]etablissementsbonnet[.]com,domain,ClearFake,74,2026-10-25T10:04Z,clearfake;domain;T1071;T1105
+dpgtvp4s.rabona.promo,dpgtvp4s[.]rabona[.]promo,domain,ClearFake,74,2026-10-25T10:04Z,clearfake;domain;T1071;T1105
+etablissementsbonnet.com,etablissementsbonnet[.]com,domain,ClearFake,74,2026-10-25T10:04Z,clearfake;domain;T1071;T1105
+kingchef.com.vn,kingchef[.]com[.]vn,domain,StrelaStealer,74,2026-10-25T10:04Z,strelastealer;domain;T1071;T1105
+klershirt.it,klershirt[.]it,domain,StrelaStealer,74,2026-10-25T10:04Z,strelastealer;domain;T1071;T1105
+labellavitamarissa.com,labellavitamarissa[.]com,domain,StrelaStealer,74,2026-10-25T10:04Z,strelastealer;domain;T1071;T1105
+lajt.com,lajt[.]com,domain,StrelaStealer,74,2026-10-25T10:04Z,strelastealer;domain;T1071;T1105
+leadteam.mpstreets.com,leadteam[.]mpstreets[.]com,domain,StrelaStealer,74,2026-10-25T10:04Z,strelastealer;domain;T1071;T1105
+p7do7hzs.verticalrewards.com,p7do7hzs[.]verticalrewards[.]com,domain,ClearFake,74,2026-10-25T10:04Z,clearfake;domain;T1071;T1105
+practice.onemillionfactory.com,practice[.]onemillionfactory[.]com,domain,StrelaStealer,74,2026-10-25T10:04Z,strelastealer;domain;T1071;T1105
+apisumer.net,apisumer[.]net,domain,Remus,74,2026-10-25T08:28Z,remus;domain;T1071;T1105
+https://we.adilawa99.org/,hxxps://we[.]adilawa99[.]org/,url,Vidar,74,2026-10-25T08:28Z,vidar;url;T1071;T1105
+joe-shields.com,joe-shields[.]com,domain,StrelaStealer,74,2026-10-25T08:28Z,strelastealer;domain;T1071;T1105
+http://64.89.163.22:39977/carrier_835.mp4,hxxp://64[.]89[.]163[.]22:39977/carrier_835[.]mp4,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://64.89.163.22:39977/item_835.xml,hxxp://64[.]89[.]163[.]22:39977/item_835[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://85.11.167.7:12103/item.xml,hxxp://85[.]11[.]167[.]7:12103/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://85.11.167.7:12898/item.xml,hxxp://85[.]11[.]167[.]7:12898/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://85.11.167.7:13013/item.xml,hxxp://85[.]11[.]167[.]7:13013/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://91-92-40-202.sslip.io:44519/item.xml,hxxp://91-92-40-202[.]sslip[.]io:44519/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://94.154.43.7:8952/24f46c5316be/item.xml,hxxp://94[.]154[.]43[.]7:8952/24f46c5316be/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://94.154.43.7:8952/477617d055ce/item.xml,hxxp://94[.]154[.]43[.]7:8952/477617d055ce/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://94.154.43.7:8952/a7443820956a/item.xml,hxxp://94[.]154[.]43[.]7:8952/a7443820956a/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://94.154.43.7:8952/e2d4354829dd/item.xml,hxxp://94[.]154[.]43[.]7:8952/e2d4354829dd/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+http://94.154.43.7:8952/item.xml,hxxp://94[.]154[.]43[.]7:8952/item[.]xml,url,Unknown malware,74,2026-10-25T04:46Z,unknown-malware;url;T1071;T1105
+74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:34Z,arista-vco-exploitation-cve-2026-114625;ip;T1190
+38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:34Z,arista-vco-exploitation-cve-2026-114625;ip;T1190
