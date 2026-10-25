@@ -1,15 +1,15 @@
 description,ip,weight
 NjRAT score 83 (high),161.248.179.115,2
-AsyncRAT score 83 (high),64.89.161.138,2
-Unknown malware score 83 (high),85.11.167.7,2
-Mirai score 83 (high),94.154.43.68,2
+AsyncRAT score 77 (high),64.89.161.138,2
+Unknown malware score 77 (high),85.11.167.7,2
+Mirai score 77 (high),94.154.43.68,2
 Potassium score 77 (high),89.32.41.146,2
-Cobaltstrike score 77 (high),149.104.31.151,2
-Cobaltstrike score 77 (high),192.255.248.153,2
-AdaptixC2 score 74 (medium),13.202.120.94,1
-Cobalt Strike score 74 (medium),15.164.241.232,1
-Quasar RAT score 74 (medium),38.240.48.153,1
-VShell score 74 (medium),47.94.132.198,1
-VShell score 74 (medium),95.111.226.157,1
+VShell score 74 (medium),103.236.85.116,1
+VShell score 74 (medium),130.94.30.70,1
+VShell score 74 (medium),154.94.237.203,1
+VShell score 74 (medium),198.46.131.230,1
+VShell score 74 (medium),43.142.143.95,1
+VShell score 74 (medium),47.104.30.212,1
+ValleyRAT score 74 (medium),8.218.8.170,1
 Arista VCO exploitation CVE-2026-114625 score 90 (critical),74.82.197.86,3
 Arista VCO exploitation CVE-2026-114625 score 90 (critical),38.54.50.151,3

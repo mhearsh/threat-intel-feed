@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-25 - Defender XDR / Sentinel
-let ips = dynamic(["161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","149.104.31.151","192.255.248.153","13.202.120.94","15.164.241.232","38.240.48.153","47.94.132.198","95.111.226.157","74.82.197.86","38.54.50.151","64.89.163.22","94.154.43.7"]);
-let doms = dynamic(["cgl3dmf1.etablissementsbonnet.com","dpgtvp4s.rabona.promo","etablissementsbonnet.com","kingchef.com.vn","klershirt.it","labellavitamarissa.com","lajt.com","leadteam.mpstreets.com","p7do7hzs.verticalrewards.com","practice.onemillionfactory.com","apisumer.net","joe-shields.com"]);
+let ips = dynamic(["161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","103.236.85.116","130.94.30.70","154.94.237.203","198.46.131.230","43.142.143.95","47.104.30.212","8.218.8.170","74.82.197.86","38.54.50.151"]);
+let doms = dynamic(["6bjuquuj.exploreargentina.tours","c.amo98.org","exploreargentina.tours","im.adilawa99.org","leceramicheotranto.it","liverupdate.org","lunchlinkwp.csgofinland.fi","rocksaltlight.tinyzoo.com","t-trustrest.com","wishline.xyz","cgl3dmf1.etablissementsbonnet.com","dpgtvp4s.rabona.promo"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl
