@@ -1,4 +1,5 @@
 description,ip,weight
+Unknown malware score 77 (high),217.60.103.135,2
 Cobaltstrike score 77 (high),130.94.75.105,2
 NjRAT score 77 (high),161.248.179.115,2
 AsyncRAT score 77 (high),64.89.161.138,2
@@ -10,6 +11,5 @@ VShell score 74 (medium),123.57.30.209,1
 VShell score 74 (medium),39.103.98.161,1
 Ghost RAT score 74 (medium),47.243.109.132,1
 VShell score 74 (medium),8.148.29.180,1
-VShell score 74 (medium),103.236.85.116,1
 Arista VCO exploitation CVE-2026-114625 score 90 (critical),74.82.197.86,3
 Arista VCO exploitation CVE-2026-114625 score 90 (critical),38.54.50.151,3
