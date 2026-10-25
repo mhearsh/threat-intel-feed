@@ -3,12 +3,12 @@
 85.11.167.7:Unknown malware
 94.154.43.68:Mirai
 89.32.41.146:Potassium
-31.56.209.86:Mirai
 149.104.31.151:Cobaltstrike
 192.255.248.153:Cobaltstrike
-123.56.74.141:VShell
-80.253.249.242:Remus
-84.32.149.191:Remus
-130.94.75.105:Cobalt Strike
+13.202.120.94:AdaptixC2
+15.164.241.232:Cobalt Strike
+38.240.48.153:Quasar RAT
+47.94.132.198:VShell
+95.111.226.157:VShell
 74.82.197.86:Arista VCO exploitation CVE-2026-114625
 38.54.50.151:Arista VCO exploitation CVE-2026-114625
