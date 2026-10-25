@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-25 - Defender XDR / Sentinel
-let ips = dynamic(["161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","103.236.85.116","130.94.30.70","154.94.237.203","198.46.131.230","43.142.143.95","47.104.30.212","8.218.8.170","74.82.197.86","38.54.50.151"]);
-let doms = dynamic(["6bjuquuj.exploreargentina.tours","c.amo98.org","exploreargentina.tours","im.adilawa99.org","leceramicheotranto.it","liverupdate.org","lunchlinkwp.csgofinland.fi","rocksaltlight.tinyzoo.com","t-trustrest.com","wishline.xyz","cgl3dmf1.etablissementsbonnet.com","dpgtvp4s.rabona.promo"]);
+let ips = dynamic(["130.94.75.105","161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","175.178.126.48","123.57.30.209","39.103.98.161","47.243.109.132","8.148.29.180","103.236.85.116","74.82.197.86","38.54.50.151"]);
+let doms = dynamic(["4hqwi3xf.expotour.org","expotour.org","or2by62l.urgentblue.com","seasprayfiley.co.uk","6bjuquuj.exploreargentina.tours","c.amo98.org","exploreargentina.tours","im.adilawa99.org","leceramicheotranto.it","liverupdate.org","lunchlinkwp.csgofinland.fi","rocksaltlight.tinyzoo.com"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl
