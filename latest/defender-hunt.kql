@@ -1,6 +1,6 @@
 // Daily Top IOCs 2026-10-25 - Defender XDR / Sentinel
-let ips = dynamic(["64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","31.56.209.86","149.104.31.151","192.255.248.153","167.148.201.108","170.231.239.144","8.156.80.127","113.52.135.27","114.215.184.158","64.89.163.22","94.154.43.7"]);
-let doms = dynamic(["advogado.impulsestrategy.com.br","aleppofood.com","alessiaremedies.com","ar7keyma.epexecutivecoaching.com","bruidsmomenten.nl","chicassalondebelleza.com","fat.ag","fourseasonsgarden.hu","gmvision.be","hand.genddos.st","jtf.adilawa99.org","npamoney.com"]);
+let ips = dynamic(["161.248.179.115","64.89.161.138","85.11.167.7","94.154.43.68","89.32.41.146","31.56.209.86","149.104.31.151","192.255.248.153","130.94.75.105","103.186.85.179","103.186.85.182","110.173.53.101","64.89.163.22","94.154.43.7"]);
+let doms = dynamic(["26v6dh2m.warmwaffles.com","6qnia8r3.pooker.app","epexecutivecoaching.it.com","eromeofficial.us","lblue.com.br","loax1ots.eromeofficial.us","mahed.co.ir","ontimejo.com","passel.me","pcnetpartners.com","pgfdesigns.com","pikun.cl"]);
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

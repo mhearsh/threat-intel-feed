@@ -1,3 +1,4 @@
+161.248.179.115:NjRAT
 64.89.161.138:AsyncRAT
 85.11.167.7:Unknown malware
 94.154.43.68:Mirai
@@ -5,8 +6,7 @@
 31.56.209.86:Mirai
 149.104.31.151:Cobaltstrike
 192.255.248.153:Cobaltstrike
-167.148.201.108:Havoc
-170.231.239.144:Cobaltstrike
-8.156.80.127:Cobaltstrike
-113.52.135.27:Cobaltstrike
-114.215.184.158:Cobaltstrike
+130.94.75.105:Cobalt Strike
+103.186.85.179:VShell
+103.186.85.182:VShell
+110.173.53.101:VShell

@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-25 04:11 UTC",
+ "updated": "2026-10-25 06:55 UTC",
  "count": 48,
  "score_scale": "0-100",
  "bands": {
   "critical": 0,
-  "high": 12,
-  "medium": 36
+  "high": 8,
+  "medium": 40
  },
- "fresh_6h": 41,
+ "fresh_6h": 46,
  "hashes": {
-  "sha256": 412,
+  "sha256": 395,
   "sha1": 76,
-  "md5": 78
+  "md5": 77
  },
- "hash_count": 566,
+ "hash_count": 548,
  "types": {
   "ip": 12,
   "sha256": 12,
@@ -22,19 +22,19 @@
  },
  "families": {
   "Unknown malware": 12,
-  "AMOS": 11,
-  "StrelaStealer": 9,
-  "Cobaltstrike": 6,
-  "Mirai": 4,
-  "Vidar": 2,
+  "AMOS": 12,
+  "StrelaStealer": 7,
+  "ClearFake": 5,
+  "VShell": 3,
+  "Mirai": 2,
+  "Cobaltstrike": 2,
+  "NjRAT": 1,
   "AsyncRAT": 1,
-  "Potassium": 1,
-  "Havoc": 1,
-  "ClearFake": 1
+  "Potassium": 1
  },
  "sources": {
   "Spamhaus-DROP": 6,
   "ThreatFox": 48,
-  "C2IntelFeeds": 6
+  "C2IntelFeeds": 2
  }
 }
