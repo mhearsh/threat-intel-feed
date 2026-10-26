@@ -1,12 +1,12 @@
-2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd.onion:Unknown malware
-4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd.onion:Unknown malware
-4tumprjdxgadgyffjxce3be3adxvhrl4hud5rksy6yam3hc2uslfh5ad.onion:Unknown malware
-af2tfcqmwc3crg56d5iirf3u5znrqc36wxn4mst4ytljm56dwtxgkfid.onion:Unknown malware
-agldrywall.com.br:StrelaStealer
-aket65o2xznczt5ef4xtlo46g6lv5nlebjpsjrl3ihrvq3pmysekhhyd.onion:Unknown malware
-artemusicacademy.com:StrelaStealer
-asf8lmtv.bociljepe.info:ClearFake
-atr2t37ngllrkkbt7tsxprlnuejxknxjjiqvy3woralbuok3unhuzeqd.onion:Unknown malware
-bq2uu6vdafrufhfwheghkmurzogtmum67ffah7sqkqyzw36wps2l6xqd.onion:Unknown malware
-bqn1d926.epexecutivecoaching.com:ClearFake
-chant66.com:AMOS
+attractions.oppasharing.com:StrelaStealer
+ayuntamientodeprogreso.gob.mx:StrelaStealer
+baydounappliances.com:StrelaStealer
+bet212.live:ClearFake
+blog.cdc7.net:StrelaStealer
+blog.paipweb.com:StrelaStealer
+blog.universe-edge.ru:StrelaStealer
+du03146t.eromeofficial.us:ClearFake
+eczy948u.georgelounge.com:ClearFake
+gcnj52gi.bet212.live:ClearFake
+kianm3aw.thrivingchaos.com:ClearFake
+thrivingchaos.com:ClearFake

@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 03:18 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 39 first seen under 6h ago. File-hash feed: 2275 SHA-256 · 67 SHA-1 · 67 MD5._
+_Last update: 2026-10-26 06:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 42 first seen under 6h ago. File-hash feed: 2305 SHA-256 · 67 SHA-1 · 67 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `130[.]94[.]75[.]105` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 2 | `161[.]248[.]179[.]115` | ip | NjRAT | 77 | high | T1071, T1105 |
-| 3 | `85[.]11[.]167[.]7` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 4 | `94[.]154[.]43[.]68` | ip | Mirai | 77 | high | T1071, T1105 |
-| 5 | `02dea3fde44dd098f7bb7562617a8b3475a4c04728f16d61a195ade38957` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `04b381803469ad344515be05fe4b85347e55c0e8cc22e29a17402188fcfe` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `111e4fd49b33bf1ea5cd287a41e6a46eab87386fda163b91ea96aed6dc08` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `179[.]199[.]199[.]60` | ip | VShell | 74 | medium | T1071, T1105 |
-| 9 | `1c05b05bf57cb5ac9e63a1b490bf785a50cfc94ed2f5732c8e9a4b750b7f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `1e1d07d2b3eeb3a27a16aba84973885bc76fa494a1f8dfe2f4c165717238` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `2v75pgpqlguqpflfjtz6iynwg3ndshjhh6vkxyldorarc6mpc5if5qqd[.]o` | domain | Unknown malware | 74 | medium | T1071, T1105 |
-| 12 | `36393d61a6f0f1bb28ed162aa375d447ecb7092ac276d2e7e3e54c13d15b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `37ad9b47526a05baa175c37557bcafaf1e5d41ce088497503f5b2f6abcb6` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `4cce755f6e0f4bf39388c676e66d9e3f19dc1164b70482dce616b793dfd5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `4ee4snln5yuwmjdxwgznj5lahs24loa54f6aoehbeu6pc3axbcuzepyd[.]o` | domain | Unknown malware | 74 | medium | T1071, T1105 |
+| 1 | `94[.]154[.]43[.]195` | ip | Unknown malware | 77 | high | T1071, T1105 |
+| 2 | `130[.]94[.]75[.]105` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
+| 3 | `161[.]248[.]179[.]115` | ip | NjRAT | 77 | high | T1071, T1105 |
+| 4 | `074a569d024a213dd4d139b7ccb93672d8daa40c546bdc7fbc782c732c6c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `1231f13c1b77f1d94b2dd175d41aa9d98273e332bcf4b8a70e34bb20a1d0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `12e194238e89e11b3a44065852848baf6d680fb01beb75cbdbfb0c5a6aae` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `153ed75bd5b22ca3ebfc455589e0d930651f92f7961476e5275b33f01605` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `1b6f2f6abe8d1a333cf5ea0afcc98bc572ac2c50176f044d7bd5ea928af2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `2d6f9f1288e65bba7117be32c7e6972281200f1d75a648ee0a842fc79725` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `2eaa5d9397598138206c4264723babd12b590769bd259c31e41a901ae801` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `33fd0bdf49d78ea01743ef2685bbce2b88f49d9ab6b26f7c1cfc330f5dfe` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `37eb44f7067138300caa9331fb93e1a99b86015333d2f9af396f2934849c` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 13 | `3a7acae2c7f773ea79076025cf3748d4ed767804264f08f49722119e99b2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `3e09d56000216c730f880258f97f9d2bb0222ad59444c8bb00c2170f65c9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `40fa3d1532ecfd655f99d4b295cf29a947578cbf248b3f3bd4cac3e91e3a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
