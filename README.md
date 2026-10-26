@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 06:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 42 first seen under 6h ago. File-hash feed: 2305 SHA-256 · 67 SHA-1 · 67 MD5._
+_Last update: 2026-10-26 08:01 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 42 first seen under 6h ago. File-hash feed: 2830 SHA-256 · 143 SHA-1 · 145 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -135,6 +135,8 @@ _Last update: 2026-10-26 06:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
 **Why so few entries?** On purpose. The list is tuned for blocking with a low false-positive rate.<br>
 **Are the values defanged?** Only in the `top-iocs.csv` and `blocklist-defanged.txt` files. The platform files contain live values so they can be imported directly.<br>
+**What do the .txt lists look like?** Like a classic IOC list: an 11-line `#` title banner (title, purpose, format, usage, `Updated` UTC, `Count`, `Expiry`), then dated blocks, newest first. Each block has 3 comment lines (source or campaign, `TLP:CLEAR - Threat Level: …`, `YYYY-MM-DD` = the date the IOC first entered the feed) followed by sorted, live (not defanged) values. Lists are cumulative: an IOC stays for 30 days after it was last seen. Every line is validated before publishing.<br>
+**My firewall rejects `#` lines.** Use the `-plain.txt` copy next to each Palo Alto / FortiGate file (same values, no comments). Cisco, Sophos, ESET and Wazuh files stay comment-free.<br>
 **Can I use it commercially?** Our data is CC BY 4.0, but Spamhaus DROP-derived corroboration is non-commercial. See [LICENSE](LICENSE).
 
 ## Reporting false positives
@@ -153,6 +155,7 @@ Open a [False positive issue](../../issues/new?template=false-positive.yml) with
 ## Changelog
 Full history: [CHANGELOG.md](CHANGELOG.md).
 
+- **2026-10-26:** titled, dated `.txt` lists (banner + dated blocks, newest first), cumulative with 30-day expiry, `-plain.txt` comment-free copies for Palo Alto / FortiGate, strict per-line IOC validation.
 - **2026-10-24:** new `feeds/` layout (generic + per-vendor folders), feeds served from GitHub Pages, new vendor formats (Check Point, Cisco `.md5`, Trend Vision One, Cortex XDR, SentinelOne, Splunk, Wazuh), Defender split into ≤500-row files, separate `url.txt` / `domain.txt`, generic non-defanged `iocs.csv`. `latest/` stays as a compatibility mirror.
 - **2026-10-24:** new file-hash feed (SHA-256 / SHA-1 / MD5 lists, Defender and CrowdStrike import CSVs, STIX `file:hashes`).
 - **2026-10-24:** scores are now on a documented 0–100 scale with bands (breaking for consumers of `score`/`confidence`); the Palo Alto URL EDL no longer contains bare IPs or trailing `/` (IP hosts moved to the IP EDLs); drop CSVs no longer start with a `#` comment line.

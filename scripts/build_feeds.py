@@ -24,10 +24,21 @@ def csvf(rel,header,data):
 def cp(src,rel):
     s=os.path.join(L,src)
     if os.path.exists(s): os.makedirs(os.path.dirname(os.path.join(F,rel)),exist_ok=True); shutil.copy(s,os.path.join(F,rel))
+import listfmt as LF
+_upd=now.strftime('%Y-%m-%d %H:%M UTC')
+def blk(n):  # dated blocks from latest/<n> (falls back to one block for a legacy plain file)
+    p=os.path.join(L,n); t=open(p).read() if os.path.exists(p) else ''
+    return LF.parse(t) if t.startswith('#') else [(now.strftime('%Y-%m-%d'),'Auto-Fetch-ThreatIntel','TLP:CLEAR - Threat Level: High',LF.values(t))]
+def btxt(rel,kind,src,md5=False,plain=False):  # titled list (+ optional comment-free -plain copy); invalid lines are refused
+    data,kept,bad=LF.render(kind,blk(src),_upd,LF.EDL_MAX)
+    if bad: print('build_feeds: rejected',rel,len(bad))
+    p=out(rel,data)
+    if md5: open(p+'.md5','w').write(hashlib.md5(open(p,'rb').read()).hexdigest()+'\n')
+    if plain: txt(rel[:-4]+'-plain.txt',kept,md5=md5)
 def chunks(xs,n): return [xs[i:i+n] for i in range(0,len(xs),n)] or [[]]
 ip,dom,url=rd('ip.txt'),rd('domain.txt'),rd('url.txt'); H={h:rd(f'{h}.txt') for h in ('sha256','sha1','md5')}
 # ---- generic
-for n,v in (('ip',ip),('domain',dom),('url',url),*H.items()): txt(f'generic/txt/{n}.txt',v,md5=True)
+for n in ('ip','domain','url','sha256','sha1','md5'): btxt(f'generic/txt/{n}.txt',n,f'{n}.txt',md5=True)
 import re as _re
 _sp=os.path.join(L,'stix21.json')
 if os.path.exists(_sp):  # STIX 2.1 requires millisecond precision on timestamps
@@ -38,9 +49,9 @@ if os.path.exists(_sp):  # STIX 2.1 requires millisecond precision on timestamps
     json.dump(_b,open(_sp,'w'),indent=1)
 cp('iocs.csv','generic/csv/iocs.csv'); cp('file-hashes.csv','generic/csv/file-hashes.csv'); cp('stix21.json','generic/stix/stix21.json')
 # ---- firewalls
-txt('firewall/paloalto/edl-ip.txt',ip); txt('firewall/paloalto/edl-domain.txt',dom); txt('firewall/paloalto/edl-url.txt',url)
-txt('firewall/fortinet/ip.txt',ip); txt('firewall/fortinet/domain.txt',dom); txt('firewall/fortinet/url.txt',url)
-for h,v in H.items(): txt(f'firewall/fortinet/hash-{h}.txt',v)
+for n,k in (('ip','ip'),('domain','domain'),('url','url')): btxt(f'firewall/paloalto/edl-{n}.txt',k,f'{n}.txt',plain=True); btxt(f'firewall/fortinet/{n}.txt',k,f'{n}.txt',plain=True)
+for h in H: btxt(f'firewall/fortinet/hash-{h}.txt',h,f'{h}.txt',plain=True)
+# Cisco, Sophos, ESET, Wazuh stay comment-free (comment support not confirmed)
 CPT={'ip':'IP','domain':'Domain','url':'URL','md5':'MD5','sha1':'SHA1','sha256':'SHA256'}; cpl=[]; k={}
 for r in net+hs:  # Check Point: hashes (MD5/SHA1/SHA256) -> AV; network -> AB
     k[r['type']]=k.get(r['type'],0)+1; b=r['band']

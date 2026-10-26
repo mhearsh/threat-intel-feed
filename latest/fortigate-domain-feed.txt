@@ -1,3 +1,20 @@
+###############################################################################
+#                                                                             #
+#                        MALICIOUS DOMAINS & FQDN FEED                        #
+#             C2, Malware and Phishing Domains (threat-intel-feed)            #
+#                                                                             #
+#  Purpose: IOC - Malicious domain collection (score >= 50)                   #
+#  Format:  one FQDN per line, not defanged; '#' = comment                    #
+#  Usage:   DNS filtering, web proxy, firewall EDL                            #
+#  Updated: 2026-10-26 07:58 UTC   Count: 48   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# TLP:CLEAR - Threat Level: Medium
+# 2026-10-26
+
 attractions.oppasharing.com
 ayuntamientodeprogreso.gob.mx
 baydounappliances.com
@@ -8,5 +25,54 @@ blog.universe-edge.ru
 du03146t.eromeofficial.us
 eczy948u.georgelounge.com
 gcnj52gi.bet212.live
+h5.adwgamestore.org
 kianm3aw.thrivingchaos.com
+m.aot88.com
 thrivingchaos.com
+ww.adilawa99.org
+z.amo98.org
+
+
+# Auto-Fetch-ThreatIntel
+# TLP:CLEAR - Threat Level: Medium
+# 2026-10-25
+
+791n1fiv.enfejbaaz.bet
+9gul6aad.mon-iam-espace-esa-lia.online
+arabianlibas.com
+bharatlivestock.farm
+bonanza333gac0r.space
+bookpublishingventure.com
+bran.lol
+drtianna.com
+ivanitsky.com
+ivh.uvaoficial.com
+mon-iam-espace-esa-lia.online
+mooc3.politechnicart.net
+nikinovin.com
+river.marine-force-ishigaki.com
+teacher.adm-edu.ru
+timenews247.com
+u6.adilawa99.org
+uniporctandil.com.ar
+vitsmare.pages.dev
+
+
+# Auto-Fetch-ThreatIntel
+# TLP:CLEAR - Threat Level: Medium
+# 2026-10-24
+
+1moko8um.encompass-graphics.co.uk
+1pbwy4ua.yellohotelsharmoni.com
+3u8krmfu.energedia.com
+4m8axf47.worknernorgram.rest
+adbimmo.cs-projets.be
+de.remusdownloads.su
+energedia.com
+gbhpljne.paars.poker
+manzzkontolaktolakan.my.id
+mytutions.com
+n2late.fr
+new.decorhome.kz
+rf.adilawa99.org
+

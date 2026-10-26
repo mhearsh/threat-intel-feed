@@ -1,6 +1,17 @@
 # Integration guides
 
 > **New:** the full per-vendor guide with Pages URLs is at [guide/GUIDE.md](guide/GUIDE.md) ([PDF](guide/IOC-Feed-Integration-Guide.pdf)). The `latest/` URLs below keep working (compatibility mirror).
+## List format (.txt)
+Generic, Palo Alto and FortiGate `.txt` lists start with an 11-line `#` title banner (with `Updated`, `Count`, `Expiry: 30 days`), followed by dated blocks, newest first:
+```
+# Auto-Fetch-ThreatIntel: Spamhaus-DROP + ThreatFox
+# TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+94.154.43.195
+```
+The date is when the IOC first entered the feed. Palo Alto EDLs and FortiGate threat feeds ignore `#` lines. If your parser does not, use the `-plain.txt` file next to it (e.g. `paloalto/edl-ip-plain.txt`, `fortinet/ip-plain.txt`, `latest/paloalto-edl-ip-plain.txt`). Cisco, Sophos, ESET and Wazuh files have no comments.
+
 ## FortiGate (FortiOS 7.x)
 1. *Security Fabric → External Connectors → Create New → Threat Feeds → IP Address*.
 2. Name: `TIF-IP`. URI: `https://raw.githubusercontent.com/mhearsh/threat-intel-feed/main/latest/fortigate-ip-feed.txt`. Refresh rate: 60 min. Click OK, then *View Entries* to verify.
