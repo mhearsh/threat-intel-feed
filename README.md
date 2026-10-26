@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 13:05 UTC. 50 IOCs (sha256: 12, ip: 14, url: 12, domain: 12); 47 first seen under 6h ago. File-hash feed: 2942 SHA-256 · 143 SHA-1 · 145 MD5._
+_Last update: 2026-10-26 15:06 UTC. 50 IOCs (sha256: 12, ip: 14, domain: 12, url: 12); 43 first seen under 6h ago. File-hash feed: 2974 SHA-256 · 143 SHA-1 · 145 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `00522dcddb240e0a77614b5490245710ff53734e9f918c3f134a2ed47387` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 2 | `23148a6861ae7d575a031d5c39e22b635d2cb82f84505f8833be005cd18a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 3 | `2812cedf3f4a6754316b83cb8b9ece98070784a0848f56582f2c928ee13e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 4 | `31d6f56dbdf84ce4803b8a5d9c5fb904a2f677f3f7fb0b2a66f322706c31` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 5 | `3447a73a770e2cb9a47db2b8488e81f4677152c576e655265aea113730c9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `38[.]255[.]34[.]171` | ip | Remcos | 74 | medium | T1071, T1105 |
-| 7 | `441206a3f1648a44d56735cc2ee8054da50cf279a8924bc985ccbd9fe3a5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `493ef64b29017cc6ed3468991f75d3214c4acc63984171154a88882a4972` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `4c2cfc403ddb295f4ac6177ad4a0be834bdcde5123c1d0a8d3dbdc553c56` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `5b0ce896f1c2da584b089da607f409cc537cd6a70b0ad4ced9baadb5a591` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `5c7ef4d50a42260d9c72be5b7db1527e1c103bcdd3569ebc4cd056f6e97e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `5efc7daeaf2173451cc9d4de68b1fce1ac8c11724e8cf677ae8bc7deeddd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `658b825805a79f32c7d0fc4df92d3a6ccf36abd456b107a7a25e0d7c52fd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `hxxps://h4[.]agenplay89[.]org/bl/` | url | Vidar | 74 | medium | T1071, T1105 |
-| 15 | `hxxps://h4[.]agenplay89[.]org/cy/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 1 | `07445494a699ee31363563df1f6254f5458b3a8343cc4d3af84c466bd6e5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 2 | `106[.]75[.]148[.]37` | ip | VShell | 74 | medium | T1071, T1105 |
+| 3 | `10e3bf8023104b11cbea9955d76570092e8c9fe14e86ed17b32786f3dc9d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 4 | `111[.]229[.]199[.]24` | ip | VShell | 74 | medium | T1071, T1105 |
+| 5 | `16c4c2947ed6644acaf5a09814fd314c480b32dae0182f18830b93a88ec4` | sha256 | Unknown malware | 74 | medium | T1071, T1105 |
+| 6 | `20b5c7608afa69688499cf3a6e44afa43a8d2938705db49beb2d4c995a35` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `23ac9467216e33bf50c7f58e99613f0b36e6fe1d50853071fba3dc2c2535` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `24eb1426b0bedf3235a02301675b56dbe42b70e18788e4a02c4d6bf50305` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `3413718a[.]exploreargentina[.]tours` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 10 | `362f9a4a4e8d309d4cf0b647ef011d8d9c087742037030e9e9da472956e9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `37e916a94348781f75e03035716479f2a0ab59b7d9eda03b5dcd4621ff17` | sha256 | Unknown malware | 74 | medium | T1071, T1105 |
+| 12 | `3875e700f4fb720e6548aebe75be6df32352efe1ec0a6e8d5d036c40d385` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `39[.]100[.]64[.]125` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
+| 14 | `3afb2ce6f50ccf2e3631061f542abe3a722f4c2a0a4b7ae6d1d8ca5b7795` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `4b107d24922a8c683f59847ff501875ead51cbe376fa8a128e5fb6290845` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

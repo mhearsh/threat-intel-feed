@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-26 13:05 UTC   Count: 47   Expiry: 30 days                #
+#  Updated: 2026-10-26 15:06 UTC   Count: 59   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -24,6 +24,18 @@ chant66.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb
 e.ayu99.pro/c
 e.ayu99.pro/h
 e.ayu99.pro/s
+f.agenplay89.org/bq
+f.agenplay89.org/cv
+f.agenplay89.org/cx
+f.agenplay89.org/dd
+f.agenplay89.org/e0x
+f.agenplay89.org/ki
+f.agenplay89.org/lx
+f.agenplay89.org/o
+f.agenplay89.org/qx
+f.agenplay89.org/t
+f.agenplay89.org/t3
+f.agenplay89.org/t9
 g.agenplay89.org/zn
 h4.agenplay89.org/bl
 h4.agenplay89.org/cy

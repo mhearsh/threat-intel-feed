@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-26 13:05 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-26 15:06 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,53 +15,49 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-26
 
-00522dcddb240e0a77614b5490245710ff53734e9f918c3f134a2ed47387db45
-104[.]105[.]4[.]229
-110[.]41[.]77[.]122
-204[.]168[.]137[.]221
-207[.]57[.]123[.]251
-23148a6861ae7d575a031d5c39e22b635d2cb82f84505f8833be005cd18a0894
-2812cedf3f4a6754316b83cb8b9ece98070784a0848f56582f2c928ee13e8fb1
-31d6f56dbdf84ce4803b8a5d9c5fb904a2f677f3f7fb0b2a66f322706c31f88f
-3447a73a770e2cb9a47db2b8488e81f4677152c576e655265aea113730c926f2
-37[.]27[.]4[.]20
-37[.]27[.]4[.]38
-37[.]27[.]9[.]42
+07445494a699ee31363563df1f6254f5458b3a8343cc4d3af84c466bd6e55d10
+106[.]75[.]148[.]37
+10e3bf8023104b11cbea9955d76570092e8c9fe14e86ed17b32786f3dc9da716
+111[.]229[.]199[.]24
+16c4c2947ed6644acaf5a09814fd314c480b32dae0182f18830b93a88ec49b45
+20b5c7608afa69688499cf3a6e44afa43a8d2938705db49beb2d4c995a3587e8
+23ac9467216e33bf50c7f58e99613f0b36e6fe1d50853071fba3dc2c2535f5b2
+24eb1426b0bedf3235a02301675b56dbe42b70e18788e4a02c4d6bf50305e8f2
+3413718a[.]exploreargentina[.]tours
+362f9a4a4e8d309d4cf0b647ef011d8d9c087742037030e9e9da472956e9de40
+37e916a94348781f75e03035716479f2a0ab59b7d9eda03b5dcd4621ff1768bc
+3875e700f4fb720e6548aebe75be6df32352efe1ec0a6e8d5d036c40d3855167
 38[.]240[.]56[.]216
 38[.]255[.]34[.]171
+39[.]100[.]64[.]125
+3afb2ce6f50ccf2e3631061f542abe3a722f4c2a0a4b7ae6d1d8ca5b779589ae
 43[.]203[.]112[.]69
-441206a3f1648a44d56735cc2ee8054da50cf279a8924bc985ccbd9fe3a57c92
-493ef64b29017cc6ed3468991f75d3214c4acc63984171154a88882a4972003f
-4c2cfc403ddb295f4ac6177ad4a0be834bdcde5123c1d0a8d3dbdc553c56bedd
-5b0ce896f1c2da584b089da607f409cc537cd6a70b0ad4ced9baadb5a591c160
-5c7ef4d50a42260d9c72be5b7db1527e1c103bcdd3569ebc4cd056f6e97eee7f
-5efc7daeaf2173451cc9d4de68b1fce1ac8c11724e8cf677ae8bc7deeddd3cb6
-658b825805a79f32c7d0fc4df92d3a6ccf36abd456b107a7a25e0d7c52fdb2c4
-77[.]42[.]9[.]174
+4b107d24922a8c683f59847ff501875ead51cbe376fa8a128e5fb629084504b5
+524fe38abc8ab665daf0a10cf988ee83bdb30f7b86197a5bb86aa34b46a6bde3
+81[.]71[.]128[.]221
 94[.]154[.]43[.]195
+ab41vc541fd04435740[.]health-carereform[.]com
+anj99u86[.]verticalrewards[.]com
 bb6lxq63[.]verticalrewards[.]com
+bbwptlox[.]dota[.]pw
 cbg80csz[.]deurnenwinkel[.]com
-cy9[.]narahtech[.]com
-dance[.]pappu[.]co[.]in
-dash[.]erosteps[.]in
-dccidadu[.]org[.]pk
-debug[.]pingload[.]cc
-deesaidesign[.]com
-e[.]ayu99[.]pro
-hxxps://h4[.]agenplay89[.]org/bl/
-hxxps://h4[.]agenplay89[.]org/cy/
-hxxps://h4[.]agenplay89[.]org/ho/
-hxxps://h4[.]agenplay89[.]org/jo/
-hxxps://h4[.]agenplay89[.]org/jp/
-hxxps://h4[.]agenplay89[.]org/mn/
-hxxps://h4[.]agenplay89[.]org/ob/
-hxxps://h4[.]agenplay89[.]org/qf/
-hxxps://h4[.]agenplay89[.]org/rp/
-hxxps://h4[.]agenplay89[.]org/up/
-hxxps://h4[.]agenplay89[.]org/z9/
-hxxps://h4[.]agenplay89[.]org/zb/
+ftp[.]prometeon[.]info
+hxxps://f[.]agenplay89[.]org/bq/
+hxxps://f[.]agenplay89[.]org/cv/
+hxxps://f[.]agenplay89[.]org/cx/
+hxxps://f[.]agenplay89[.]org/dd/
+hxxps://f[.]agenplay89[.]org/e0x/
+hxxps://f[.]agenplay89[.]org/ki/
+hxxps://f[.]agenplay89[.]org/lx/
+hxxps://f[.]agenplay89[.]org/o/
+hxxps://f[.]agenplay89[.]org/qx/
+hxxps://f[.]agenplay89[.]org/t/
+hxxps://f[.]agenplay89[.]org/t3/
+hxxps://f[.]agenplay89[.]org/t9/
+ioypdsgj[.]dota[.]pw
 t0kmixg4[.]glas-design[.]shop
 td3avpdc[.]dota[.]pw
+tuffcromlech[.]info
 vm[.]adwgamestore[.]org
 
 
@@ -69,6 +65,16 @@ vm[.]adwgamestore[.]org
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+217[.]60[.]103[.]135
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+118[.]25[.]147[.]157
+49[.]235[.]158[.]141
+8[.]156[.]80[.]127
 
