@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious IPv4 collection (score >= 50)                     #
 #  Format:  one IPv4 per line, not defanged; '#' = comment                    #
 #  Usage:   Firewall EDL (Palo Alto / FortiGate), SIEM                        #
-#  Updated: 2026-10-26 21:22 UTC   Count: 76   Expiry: 30 days                #
+#  Updated: 2026-10-26 23:24 UTC   Count: 76   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-26 21:22 UTC   Count: 203   Expiry: 30 days               #
+#  Updated: 2026-10-26 23:24 UTC   Count: 218   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -33,6 +33,10 @@ ac.agenpr.org/ue
 b.ayu99.pro/k
 chant66.com/curl/4c0rmvw61d6/q1sfb31ar08qqofqjduay.dat
 chant66.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb
+dk.agia4d.org/n
+dk.agia4d.org/ob
+dk.agia4d.org/pmz
+dk.agia4d.org/vn
 e.ayu99.pro/c
 e.ayu99.pro/h
 e.ayu99.pro/s
@@ -77,6 +81,13 @@ lr.agenpr.org/p
 lr.agenpr.org/pj
 lr.agenpr.org/u6
 lr.agenpr.org/x
+m.agenpr.org/ck
+m.agenpr.org/i
+m.agenpr.org/jt
+m.agenpr.org/l
+m.agenpr.org/mh
+m.agenpr.org/nz
+m.agenpr.org/ol
 pm.agenpr.org/m4
 pm.agenpr.org/r56
 pm.agenpr.org/w
@@ -145,6 +156,7 @@ formazionedocenti.org
 francescmarcalvaro.cat
 ftp.jmacsafety.com
 ftp.prometeon.info
+ga.adwgamestore.org
 galerie-dakoenig.de
 garden-82.com
 gcnj52gi.bet212.live
@@ -163,6 +175,7 @@ jj.adwgamestore.org
 k2rf8oi3.energedia.com
 kianm3aw.thrivingchaos.com
 m.aot88.com
+majastee.com
 nt5kwuux.paars.poker
 object.glimmerpull.cc
 pm3c7bwl.encompass-graphics.co.uk
@@ -175,6 +188,8 @@ vm.adwgamestore.org
 ww.adilawa99.org
 ya.adwgamestore.org
 z.amo98.org
+z0bhclq0.energedia.dev
+zfvg0vcv.forbesae.com
 zz-infratechniek.nl
 
 

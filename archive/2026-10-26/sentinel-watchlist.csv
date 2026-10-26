@@ -1,36 +1,40 @@
 Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 31.56.19.71,ip,Potassium,83,high,"T1071, T1105",2026-10-26T19:21:50Z
-094072349a313cb7618adb520812ad506fad6f7165d64629aad7cddd61e94e79,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-09f1ab353152727f5c62fe9e4102ea90888edc9b0b6a949691c4ebb2870a66d2,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-0d98501ac73fd2c318e0e1a4a223b9e2589f235627e512eac8b88a275315b69a,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-0dce904c73f9839313628101eabc6055a8885bc40b7adfd7097ba283ee991df5,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
+0c32f0e6e9f0b6d683ac33d12cfacd8679a552c1b3be2a22c8d7301626243725,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+0e4233ea31ddf9b40c10b7302afa658207caf154d049af282cbf4191cd9e2796,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+1b37fa166113be6dc2af69d453525ba219b644a14a55bece671c569d7f015457,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+22e3e4b6e868874f221acfdfb5cb1fecd5b6371628eaeeee368d11de73825522,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+35ac6bdb74d3de6525dea276068900b1f1f6c58c5840bae7d4fb1e21aca2302c,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+37c3241ef811b90b3afb9062d292cb0645b300842547a6e6bdb834e0b7cd896f,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+462ae0633aa6d9da3ac7ba770ea311299f42387c8e7fec8378ebe19287bb4013,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+62f73dee201dfe781335b5e65ee3f082b12ded930f5bf2462505976f1bebfac8,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+64b07b6962b1cf1e450e596e54c4610da4d076d7288f0c22f7b0d427cc7988ab,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+70953d184d44fecda1153b0bfd4e0285b5c09c457829e134fda926fb8ed65dfa,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+7bef9a6e154a1bbba7c2edca0df3af39b975f18c3f60af14d1af3c2485e4f688,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+7cbc06c5a80c45ade7be3d7df9af418314bc08f31dbe8fd6fceabd511f2da2d7,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+ga.adwgamestore.org,domain,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://dk.agia4d.org/n/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://dk.agia4d.org/ob/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://dk.agia4d.org/pmz/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://dk.agia4d.org/vn/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://ga.adwgamestore.org/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/ck/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/i/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/jt/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/l/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/mh/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/nz/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+https://m.agenpr.org/ol/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+majastee.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+z0bhclq0.energedia.dev,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
+zfvg0vcv.forbesae.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T23:24:55Z
 104.218.50.244,ip,Jackskid,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 13.60.4.205,ip,Cobalt Strike,74,medium,"T1071.001, T1105, T1059",2026-10-26T21:22:53Z
-131299a9c31c6b3e8d5c4dc614fc3cf2b31b9f91d78d28f37ece9a206f3469be,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-132777f3cd54eb2fdea38bd9971c78e5e4215f33fd30496df69301a87e7167d7,sha256,Unknown malware,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-13de8f6601748c959829a719068482bd80f1d934e1afb1f5dfa32f315ee40592,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-18438ce3e58bdbe47c9d7058ce05f456d5792d99926be82eb894fba985c567c8,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 204.12.218.236,ip,Jackskid,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-2c4229230fdcb224538828468a8642aaf4429a1591fe83776f8b3aa683d65050,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-2de0e353270c3beddc1f38b860c09f86757d9c7006208bbf09a7cc22055442eb,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-330ed0bf38d987d25a0b08b49232c75c2cc410aa5acf3e9ab626299afc663198,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-357b7dee8a51d5b6dc3031844f715615ca7aa70a16029ff879599237b9963412,sha256,Unknown malware,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 39.96.78.162,ip,Cobalt Strike,74,medium,"T1071.001, T1105, T1059",2026-10-26T21:22:53Z
 45.59.126.125,ip,Jackskid,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 85.137.244.138,ip,VShell,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 garden-82.com,domain,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://garden-82.com/curl/c7d2xn1k0/fmv7bafu0t42u1byn1.dat,url,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://garden-82.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s,url,AMOS,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://pm.agenpr.org/m4/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://pm.agenpr.org/r56/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://pm.agenpr.org/w/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://pm.agenpr.org/x/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://qtr.agenpr.org/b7/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://qtr.agenpr.org/cb/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://qtr.agenpr.org/egs/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://qtr.agenpr.org/h4/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://qtr.agenpr.org/j4/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
-https://qtr.agenpr.org/kcv/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 idrive.ba,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 iict.gov.la,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
 ilovevirginiabeer.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T21:22:53Z
@@ -43,9 +47,5 @@ nt5kwuux.paars.poker,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T21:22:
 146.190.252.67,ip,Jackskid,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
 161.35.62.230,ip,Jackskid,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
 3cb50pyi.warmwaffles.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
-5gs2zjcc.fazbet1.app,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
-galerie-dakoenig.de,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
-globalintermed.com.br,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
-grant.vandersee.id.au,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T19:21:50Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

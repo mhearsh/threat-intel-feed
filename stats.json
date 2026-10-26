@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 21:22 UTC",
+ "updated": "2026-10-26 23:24 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -9,11 +9,11 @@
  },
  "fresh_6h": 48,
  "hashes": {
-  "sha256": 3078,
+  "sha256": 3131,
   "sha1": 143,
   "md5": 145
  },
- "hash_count": 3366,
+ "hash_count": 3419,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -22,13 +22,12 @@
  },
  "families": {
   "AMOS": 13,
-  "Vidar": 10,
-  "StrelaStealer": 7,
+  "Vidar": 13,
+  "StrelaStealer": 5,
+  "ClearFake": 5,
   "Jackskid": 5,
   "VShell": 4,
-  "ClearFake": 4,
   "Cobalt Strike": 2,
-  "Unknown malware": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
   "Potassium": 1
  },
