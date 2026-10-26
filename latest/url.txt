@@ -6,27 +6,38 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-26 07:58 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-10-26 11:03 UTC   Count: 35   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
-# TLP:CLEAR - Threat Level: Medium
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-26
 
 94.154.43.195/bins/arm
 94.154.43.195/bins/arm5
+ac.agenpr.org/ue
+b.ayu99.pro/k
 chant66.com/curl/4c0rmvw61d6/q1sfb31ar08qqofqjduay.dat
 chant66.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb
+e.ayu99.pro/c
+e.ayu99.pro/h
+e.ayu99.pro/s
+g.agenplay89.org/zn
 i.amo98.org/f
 i.amo98.org/l
 kavasa8f.beget.tech/L1nc0In.php
+lr.agenpr.org/fy
 tx.abad777.org/r
+wx.agenpr.org/bb
+wx.agenpr.org/d2
+wx.agenpr.org/df
+wx.agenpr.org/f
 
 
 # Auto-Fetch-ThreatIntel
-# TLP:CLEAR - Threat Level: Medium
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-25
 
 bitfinance.live/cgi-sys/defaultwebpage.cgi
@@ -37,7 +48,7 @@ zen.ayxandevgang.workers.dev/m/license-20260928125936-24d9
 
 
 # Auto-Fetch-ThreatIntel
-# TLP:CLEAR - Threat Level: Medium
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-24
 
 160.119.66.206/bins/net.arc

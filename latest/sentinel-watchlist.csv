@@ -1,51 +1,51 @@
-Indicator,Type,Family,Score,Band,Mitre
-94.154.43.195,ip,Unknown malware,77,high,"T1071, T1105"
-130.94.75.105,ip,Cobaltstrike,77,high,"T1071, T1105"
-161.248.179.115,ip,NjRAT,77,high,"T1071, T1105"
-074a569d024a213dd4d139b7ccb93672d8daa40c546bdc7fbc782c732c6c78e3,sha256,AMOS,74,medium,"T1071, T1105"
-1231f13c1b77f1d94b2dd175d41aa9d98273e332bcf4b8a70e34bb20a1d03d00,sha256,AMOS,74,medium,"T1071, T1105"
-12e194238e89e11b3a44065852848baf6d680fb01beb75cbdbfb0c5a6aae9d96,sha256,AMOS,74,medium,"T1071, T1105"
-153ed75bd5b22ca3ebfc455589e0d930651f92f7961476e5275b33f0160592db,sha256,AMOS,74,medium,"T1071, T1105"
-1b6f2f6abe8d1a333cf5ea0afcc98bc572ac2c50176f044d7bd5ea928af2ed30,sha256,AMOS,74,medium,"T1071, T1105"
-2d6f9f1288e65bba7117be32c7e6972281200f1d75a648ee0a842fc79725ddb1,sha256,AMOS,74,medium,"T1071, T1105"
-2eaa5d9397598138206c4264723babd12b590769bd259c31e41a901ae8018d27,sha256,AMOS,74,medium,"T1071, T1105"
-33fd0bdf49d78ea01743ef2685bbce2b88f49d9ab6b26f7c1cfc330f5dfed03b,sha256,AMOS,74,medium,"T1071, T1105"
-37eb44f7067138300caa9331fb93e1a99b86015333d2f9af396f2934849cd534,sha256,Mirai,74,medium,"T1071, T1105"
-3a7acae2c7f773ea79076025cf3748d4ed767804264f08f49722119e99b2c477,sha256,AMOS,74,medium,"T1071, T1105"
-3e09d56000216c730f880258f97f9d2bb0222ad59444c8bb00c2170f65c98e69,sha256,AMOS,74,medium,"T1071, T1105"
-40fa3d1532ecfd655f99d4b295cf29a947578cbf248b3f3bd4cac3e91e3a98f8,sha256,AMOS,74,medium,"T1071, T1105"
-94.154.32.128,ip,Remcos,74,medium,"T1071, T1105"
-94.154.32.69,ip,Remcos,74,medium,"T1071, T1105"
-attractions.oppasharing.com,domain,StrelaStealer,74,medium,"T1071, T1105"
-ayuntamientodeprogreso.gob.mx,domain,StrelaStealer,74,medium,"T1071, T1105"
-baydounappliances.com,domain,StrelaStealer,74,medium,"T1071, T1105"
-bet212.live,domain,ClearFake,74,medium,"T1071, T1105"
-blog.cdc7.net,domain,StrelaStealer,74,medium,"T1071, T1105"
-blog.paipweb.com,domain,StrelaStealer,74,medium,"T1071, T1105"
-blog.universe-edge.ru,domain,StrelaStealer,74,medium,"T1071, T1105"
-du03146t.eromeofficial.us,domain,ClearFake,74,medium,"T1071, T1105"
-eczy948u.georgelounge.com,domain,ClearFake,74,medium,"T1071, T1105"
-gcnj52gi.bet212.live,domain,ClearFake,74,medium,"T1071, T1105"
-http://kavasa8f.beget.tech/L1nc0In.php,url,DCRat,74,medium,"T1071, T1105"
-kianm3aw.thrivingchaos.com,domain,ClearFake,74,medium,"T1071, T1105"
-thrivingchaos.com,domain,ClearFake,74,medium,"T1071, T1105"
-179.199.199.60,ip,VShell,74,medium,"T1071, T1105"
-https://chant66.com/curl/4c0rmvw61d6/q1sfb31ar08qqofqjduay.dat,url,AMOS,74,medium,"T1071, T1105"
-https://chant66.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb,url,AMOS,74,medium,"T1071, T1105"
-https://h5.adwgamestore.org/,url,Vidar,74,medium,"T1071, T1105"
-https://m.aot88.com/,url,Vidar,74,medium,"T1071, T1105"
-47.239.212.183,ip,VShell,74,medium,"T1071, T1105"
-8.134.160.8,ip,VShell,74,medium,"T1071, T1105"
-https://i.amo98.org/f/,url,Vidar,74,medium,"T1071, T1105"
-https://i.amo98.org/l/,url,Vidar,74,medium,"T1071, T1105"
-https://tx.abad777.org/r/,url,Vidar,74,medium,"T1071, T1105"
-https://ww.adilawa99.org/,url,Vidar,74,medium,"T1071, T1105"
-https://z.amo98.org/,url,Vidar,74,medium,"T1071, T1105"
-217.60.103.135,ip,Unknown malware,71,medium,"T1071, T1105"
-8.156.80.127,ip,Cobaltstrike,71,medium,"T1071, T1105"
-118.25.147.157,ip,Cobaltstrike,71,medium,"T1071, T1105"
-156.254.20.46,ip,Cobaltstrike,71,medium,"T1071, T1105"
-http://94.154.43.195/bins/arm,url,Mirai,69,medium,"T1071, T1105"
-http://94.154.43.195/bins/arm5,url,Mirai,69,medium,"T1071, T1105"
-74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190
-38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190
+Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+94.154.43.195,ip,Unknown malware,77,high,"T1071, T1105",2026-10-26T00:00:00Z
+1087483ba137024a97d09e162497a7fe1e4a5c8fe5b9abefdd804bda35ccfb40,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+11a120766b864e5d64e69243a772a9f02404127d454acc18b3da8d71d7c80432,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+15b316d0d5385147d5b85e5b940d8e6bf664c9cfe2bc32546e8b79b782bdc230,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+15c28338b6bc3ade51a5054d532cab12300a162e88d61ed7e31319ba4d9bf160,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+1844cb426938fc15bb8eb809026c05a0f9dcedfe64aca3e8b06263e49c415e98,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+1fd739c3a4848b32822198f2e58455de330bda07d18d1e4cb254f249c46dd435,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+357f7d54a164eb9abf535ea8d72f2dbdf7db3b85d636f67397a05ba5f80765eb,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+38.240.56.216,ip,Remcos,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+43.203.112.69,ip,Cobalt Strike,74,medium,"T1071.001, T1105, T1059",2026-10-26T11:03:29Z
+4b512c8b390f88652a197a988384aaad4fde84300e41a3954829df0fa9cc926d,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+5a7c5be18ab40eb69629b25353db969fb0d7c1a90a8aadc5c23d8c8b0bb3b3ff,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+5d212b5c62ac9032859e57365ecdc73dad35fc0fcb17392978d953bb4545a002,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+71d4699009430a0c83d4cb0f263e338b55004e65eb8aa1c3a507e9ef2d1407f5,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+7b8d265de467110c38da240fc9953d272047acfb657815ba6c3dd38e927beaa8,sha256,AMOS,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+bb6lxq63.verticalrewards.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+cbg80csz.deurnenwinkel.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+cy9.narahtech.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+dance.pappu.co.in,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+dash.erosteps.in,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+dccidadu.org.pk,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+debug.pingload.cc,domain,ACR Stealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+deesaidesign.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+e.ayu99.pro,domain,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://ac.agenpr.org/ue/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://b.ayu99.pro/k/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://e.ayu99.pro/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://e.ayu99.pro/c/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://e.ayu99.pro/h/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://e.ayu99.pro/s/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://g.agenplay89.org/zn/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://lr.agenpr.org/fy/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://wx.agenpr.org/bb/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://wx.agenpr.org/d2/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://wx.agenpr.org/df/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+https://wx.agenpr.org/f/,url,Vidar,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+iejzff0w.etablissementsbonnet.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+object.glimmerpull.cc,domain,ACR Stealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+relay.reelxgrab.cc,domain,ACR Stealer,74,medium,"T1071, T1105",2026-10-26T11:03:29Z
+104.105.4.229,ip,Vidar,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+110.41.77.122,ip,Cobalt Strike,74,medium,"T1071.001, T1105, T1059",2026-10-26T08:49:01Z
+204.168.137.221,ip,Vidar,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+207.57.123.251,ip,Unknown malware,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+37.27.4.20,ip,Vidar,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+37.27.4.38,ip,Vidar,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+37.27.9.42,ip,Vidar,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+77.42.9.174,ip,Vidar,74,medium,"T1071, T1105",2026-10-26T08:49:01Z
+94.154.32.128,ip,Remcos,74,medium,"T1071, T1105",2026-10-26T00:00:00Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

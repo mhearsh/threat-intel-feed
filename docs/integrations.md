@@ -10,7 +10,7 @@ Generic, Palo Alto and FortiGate `.txt` lists start with an 11-line `#` title ba
 
 94.154.43.195
 ```
-The date is when the IOC first entered the feed. Palo Alto EDLs and FortiGate threat feeds ignore `#` lines. If your parser does not, use the `-plain.txt` file next to it (e.g. `paloalto/edl-ip-plain.txt`, `fortinet/ip-plain.txt`, `latest/paloalto-edl-ip-plain.txt`). Cisco, Sophos, ESET and Wazuh files have no comments.
+The date is when the IOC first entered the feed. Palo Alto EDLs and FortiGate threat feeds ignore `#` lines. If your parser does not, use the `-plain.txt` file next to it (e.g. `paloalto/edl-ip-plain.txt`, `fortinet/ip-plain.txt`, `latest/paloalto-edl-ip-plain.txt`). Cisco FMC lists are titled too (FMC treats `#` lines as comments). Sophos and ESET keep comment-free files at the same paths, with `-titled.txt` copies for reading. Wazuh CDB stays `key:value`. Structured files carry the date of addition natively: `first_published` CSV columns or `added YYYY-MM-DD` in description fields, STIX `created`/`valid_from` plus a `report` object, Suricata `metadata:created_at`, and a `FirstPublished` column in the KQL datatable.
 
 ## FortiGate (FortiOS 7.x)
 1. *Security Fabric → External Connectors → Create New → Threat Feeds → IP Address*.

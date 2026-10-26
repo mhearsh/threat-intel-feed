@@ -1,14 +1,14 @@
-94.154.43.195:Unknown malware
-130.94.75.105:Cobaltstrike
-161.248.179.115:NjRAT
-94.154.32.128:Remcos
-94.154.32.69:Remcos
-179.199.199.60:VShell
-47.239.212.183:VShell
-8.134.160.8:VShell
-217.60.103.135:Unknown malware
-8.156.80.127:Cobaltstrike
-118.25.147.157:Cobaltstrike
-156.254.20.46:Cobaltstrike
-74.82.197.86:Arista VCO exploitation CVE-2026-114625
-38.54.50.151:Arista VCO exploitation CVE-2026-114625
+94.154.43.195:Unknown malware added 2026-10-26
+38.240.56.216:Remcos added 2026-10-26
+43.203.112.69:Cobalt Strike added 2026-10-26
+104.105.4.229:Vidar added 2026-10-26
+110.41.77.122:Cobalt Strike added 2026-10-26
+204.168.137.221:Vidar added 2026-10-26
+207.57.123.251:Unknown malware added 2026-10-26
+37.27.4.20:Vidar added 2026-10-26
+37.27.4.38:Vidar added 2026-10-26
+37.27.9.42:Vidar added 2026-10-26
+77.42.9.174:Vidar added 2026-10-26
+94.154.32.128:Remcos added 2026-10-26
+74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
+38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

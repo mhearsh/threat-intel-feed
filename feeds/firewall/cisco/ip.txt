@@ -1,9 +1,45 @@
+###############################################################################
+#                                                                             #
+#                         MALICIOUS IP ADDRESSES FEED                         #
+#               C2 / Malware Infrastructure (threat-intel-feed)               #
+#                                                                             #
+#  Purpose: IOC - Malicious IPv4 collection (score >= 50)                     #
+#  Format:  one IPv4 per line, not defanged; '#' = comment                    #
+#  Usage:   Firewall EDL (Palo Alto / FortiGate), SIEM                        #
+#  Updated: 2026-10-26 11:03 UTC   Count: 47   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: Spamhaus-DROP + ThreatFox
+# C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+104.105.4.229
+110.41.77.122
+135.181.105.214
+167.233.150.198
 179.199.199.60
+204.168.137.221
+207.57.123.251
+37.27.4.20
+37.27.4.38
+37.27.9.42
+38.240.56.216
+43.203.112.69
 47.239.212.183
+5.75.217.106
+77.42.9.174
 8.134.160.8
 94.154.32.128
 94.154.32.69
 94.154.43.195
+
+
+# Auto-Fetch-ThreatIntel: C2IntelFeeds + Spamhaus-DROP + ThreatFox
+# C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
 116.62.81.149
 130.94.75.105
 161.248.179.115
@@ -13,6 +49,12 @@
 85.11.167.7
 89.32.41.146
 94.154.43.68
+
+
+# Auto-Fetch-ThreatIntel: C2IntelFeeds + ThreatFox
+# C2 & malware infrastructure / TLP:CLEAR - Threat Level: Medium
+# 2026-10-24
+
 113.52.135.27
 114.215.184.158
 118.25.147.157
@@ -30,5 +72,12 @@
 89.32.41.111
 89.32.41.43
 91.92.242.19
+
+
+# Arista VCO exploitation CVE-2026-114625 IOC's
+# Arista VCO exploitation / TLP:CLEAR - Threat Level: Critical
+# 2026-10-22
+
 38.54.50.151
 74.82.197.86
+

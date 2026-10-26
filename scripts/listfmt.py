@@ -10,11 +10,16 @@ TITLES={'ip':('MALICIOUS IP ADDRESSES FEED','C2 / Malware Infrastructure (threat
  'edlurl':('MALICIOUS URL & DOMAIN EDL','URLs and Domains for URL-category EDLs (threat-intel-feed)','IOC - Malicious URLs + domains (score >= 50)','one URL or FQDN per line, no scheme','Palo Alto URL EDL, web proxy'),
  'md5':('MALICIOUS FILE HASHES - MD5','Malware Samples (threat-intel-feed)','IOC - Malicious file hash collection','one MD5 (32 hex) per line','EDR / AV block lists, hunting'),
  'sha1':('MALICIOUS FILE HASHES - SHA1','Malware Samples (threat-intel-feed)','IOC - Malicious file hash collection','one SHA1 (40 hex) per line','EDR / AV block lists, hunting'),
+ 'defanged':('TOP IOCs - DEFANGED (HUMAN-READABLE)','Highest-scored indicators of the latest run','Reporting / sharing only, not for blocking','one defanged IOC per line ([.] and hxxp)','Reports, tickets, chat (safe to paste)'),
  'sha256':('MALICIOUS FILE HASHES - SHA256','Malware Samples (threat-intel-feed)','IOC - Malicious file hash collection','one SHA256 (64 hex) per line','EDR / AV block lists, hunting')}
 EDL_MAX=50000  # newest-first cap; below Palo Alto (50k IP / 100k URL per EDL) and FortiGate connector limits
 HEX={'md5':32,'sha1':40,'sha256':64}
 FQDN=re.compile(r'(?=.{1,253}$)([a-z0-9_]([a-z0-9_-]{0,61}[a-z0-9])?\.)+[a-z][a-z0-9-]{0,62}',re.I)
+def refang(v): return v.replace('hxxp','http').replace('[.]','.').replace('[:]',':')
 def valid(v,kind):
+    if kind=='defanged':
+        if not v or v!=v.strip() or '[.]' not in v and not re.fullmatch(r'[0-9a-f]{32}|[0-9a-f]{40}|[0-9a-f]{64}',v): return False
+        r=re.sub(r'^https?://','',refang(v)); return any(valid(r,k) for k in ('ip','domain','url','md5','sha1','sha256'))
     if not v or v!=v.strip() or any(c in v for c in ' \t<>"\'#') or '[.]' in v or v.lower().startswith(('http','hxxp')): return False
     if kind=='ip':
         try: return isinstance(ipaddress.ip_address(v),ipaddress.IPv4Address)

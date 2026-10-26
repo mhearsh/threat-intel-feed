@@ -1,6 +1,39 @@
-// Daily Top IOCs 2026-10-26 - Defender XDR / Sentinel
-let ips = dynamic(["94.154.43.195","130.94.75.105","161.248.179.115","94.154.32.128","94.154.32.69","179.199.199.60","47.239.212.183","8.134.160.8","217.60.103.135","8.156.80.127","118.25.147.157","156.254.20.46","74.82.197.86","38.54.50.151"]);
-let doms = dynamic(["attractions.oppasharing.com","ayuntamientodeprogreso.gob.mx","baydounappliances.com","bet212.live","blog.cdc7.net","blog.paipweb.com","blog.universe-edge.ru","du03146t.eromeofficial.us","eczy948u.georgelounge.com","gcnj52gi.bet212.live","kianm3aw.thrivingchaos.com","thrivingchaos.com"]);
+// ============================================================================
+//  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
+//  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
+//  Updated: 2026-10-26 11:03 UTC   Count: 26   TLP:CLEAR
+//  FirstPublished = date the IOC first entered the feed (newest first)
+// ============================================================================
+let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "38.240.56.216", "ip", "Remcos", datetime(2026-10-26T11:03:29Z),
+    "43.203.112.69", "ip", "Cobalt Strike", datetime(2026-10-26T11:03:29Z),
+    "bb6lxq63.verticalrewards.com", "domain", "ClearFake", datetime(2026-10-26T11:03:29Z),
+    "cbg80csz.deurnenwinkel.com", "domain", "ClearFake", datetime(2026-10-26T11:03:29Z),
+    "cy9.narahtech.com", "domain", "StrelaStealer", datetime(2026-10-26T11:03:29Z),
+    "dance.pappu.co.in", "domain", "StrelaStealer", datetime(2026-10-26T11:03:29Z),
+    "dash.erosteps.in", "domain", "StrelaStealer", datetime(2026-10-26T11:03:29Z),
+    "dccidadu.org.pk", "domain", "StrelaStealer", datetime(2026-10-26T11:03:29Z),
+    "debug.pingload.cc", "domain", "ACR Stealer", datetime(2026-10-26T11:03:29Z),
+    "deesaidesign.com", "domain", "StrelaStealer", datetime(2026-10-26T11:03:29Z),
+    "e.ayu99.pro", "domain", "Vidar", datetime(2026-10-26T11:03:29Z),
+    "iejzff0w.etablissementsbonnet.com", "domain", "ClearFake", datetime(2026-10-26T11:03:29Z),
+    "object.glimmerpull.cc", "domain", "ACR Stealer", datetime(2026-10-26T11:03:29Z),
+    "relay.reelxgrab.cc", "domain", "ACR Stealer", datetime(2026-10-26T11:03:29Z),
+    "104.105.4.229", "ip", "Vidar", datetime(2026-10-26T08:49:01Z),
+    "110.41.77.122", "ip", "Cobalt Strike", datetime(2026-10-26T08:49:01Z),
+    "204.168.137.221", "ip", "Vidar", datetime(2026-10-26T08:49:01Z),
+    "207.57.123.251", "ip", "Unknown malware", datetime(2026-10-26T08:49:01Z),
+    "37.27.4.20", "ip", "Vidar", datetime(2026-10-26T08:49:01Z),
+    "37.27.4.38", "ip", "Vidar", datetime(2026-10-26T08:49:01Z),
+    "37.27.9.42", "ip", "Vidar", datetime(2026-10-26T08:49:01Z),
+    "77.42.9.174", "ip", "Vidar", datetime(2026-10-26T08:49:01Z),
+    "94.154.43.195", "ip", "Unknown malware", datetime(2026-10-26T00:00:00Z),
+    "94.154.32.128", "ip", "Remcos", datetime(2026-10-26T00:00:00Z),
+    "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
+    "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
+];
+let ips = iocs | where Type == "ip" | project Indicator;
+let doms = iocs | where Type == "domain" | project Indicator;
 DeviceNetworkEvents | where Timestamp > ago(7d)
 | where RemoteIP in (ips) or RemoteUrl has_any (doms)
 | project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

@@ -109,34 +109,35 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 08:01 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 42 first seen under 6h ago. File-hash feed: 2830 SHA-256 · 143 SHA-1 · 145 MD5._
+_Last update: 2026-10-26 11:03 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 2914 SHA-256 · 143 SHA-1 · 145 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
 | 1 | `94[.]154[.]43[.]195` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 2 | `130[.]94[.]75[.]105` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 3 | `161[.]248[.]179[.]115` | ip | NjRAT | 77 | high | T1071, T1105 |
-| 4 | `074a569d024a213dd4d139b7ccb93672d8daa40c546bdc7fbc782c732c6c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 5 | `1231f13c1b77f1d94b2dd175d41aa9d98273e332bcf4b8a70e34bb20a1d0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `12e194238e89e11b3a44065852848baf6d680fb01beb75cbdbfb0c5a6aae` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `153ed75bd5b22ca3ebfc455589e0d930651f92f7961476e5275b33f01605` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `1b6f2f6abe8d1a333cf5ea0afcc98bc572ac2c50176f044d7bd5ea928af2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `2d6f9f1288e65bba7117be32c7e6972281200f1d75a648ee0a842fc79725` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `2eaa5d9397598138206c4264723babd12b590769bd259c31e41a901ae801` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `33fd0bdf49d78ea01743ef2685bbce2b88f49d9ab6b26f7c1cfc330f5dfe` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `37eb44f7067138300caa9331fb93e1a99b86015333d2f9af396f2934849c` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 13 | `3a7acae2c7f773ea79076025cf3748d4ed767804264f08f49722119e99b2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `3e09d56000216c730f880258f97f9d2bb0222ad59444c8bb00c2170f65c9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `40fa3d1532ecfd655f99d4b295cf29a947578cbf248b3f3bd4cac3e91e3a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 2 | `1087483ba137024a97d09e162497a7fe1e4a5c8fe5b9abefdd804bda35cc` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 3 | `11a120766b864e5d64e69243a772a9f02404127d454acc18b3da8d71d7c8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 4 | `15b316d0d5385147d5b85e5b940d8e6bf664c9cfe2bc32546e8b79b782bd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `15c28338b6bc3ade51a5054d532cab12300a162e88d61ed7e31319ba4d9b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `1844cb426938fc15bb8eb809026c05a0f9dcedfe64aca3e8b06263e49c41` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `1fd739c3a4848b32822198f2e58455de330bda07d18d1e4cb254f249c46d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `357f7d54a164eb9abf535ea8d72f2dbdf7db3b85d636f67397a05ba5f807` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `38[.]240[.]56[.]216` | ip | Remcos | 74 | medium | T1071, T1105 |
+| 10 | `43[.]203[.]112[.]69` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
+| 11 | `4b512c8b390f88652a197a988384aaad4fde84300e41a3954829df0fa9cc` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `5a7c5be18ab40eb69629b25353db969fb0d7c1a90a8aadc5c23d8c8b0bb3` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `5d212b5c62ac9032859e57365ecdc73dad35fc0fcb17392978d953bb4545` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `71d4699009430a0c83d4cb0f263e338b55004e65eb8aa1c3a507e9ef2d14` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `7b8d265de467110c38da240fc9953d272047acfb657815ba6c3dd38e927b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
 **Why so few entries?** On purpose. The list is tuned for blocking with a low false-positive rate.<br>
 **Are the values defanged?** Only in the `top-iocs.csv` and `blocklist-defanged.txt` files. The platform files contain live values so they can be imported directly.<br>
 **What do the .txt lists look like?** Like a classic IOC list: an 11-line `#` title banner (title, purpose, format, usage, `Updated` UTC, `Count`, `Expiry`), then dated blocks, newest first. Each block has 3 comment lines (source or campaign, `TLP:CLEAR - Threat Level: …`, `YYYY-MM-DD` = the date the IOC first entered the feed) followed by sorted, live (not defanged) values. Lists are cumulative: an IOC stays for 30 days after it was last seen. Every line is validated before publishing.<br>
-**My firewall rejects `#` lines.** Use the `-plain.txt` copy next to each Palo Alto / FortiGate file (same values, no comments). Cisco, Sophos, ESET and Wazuh files stay comment-free.<br>
+**My firewall rejects `#` lines.** Use the `-plain.txt` copy next to each Palo Alto / FortiGate file (same values, no comments). Cisco FMC accepts `#` comments, so its lists are titled. Sophos and ESET files stay comment-free (a titled `-titled.txt` copy sits next to them for humans). Wazuh CDB stays `key:value`.<br>
+**Where is the date of addition in structured files?** CSV: a `first_published` / `FirstPublished` column, or `added YYYY-MM-DD` in the vendor's description/comment field when the import schema is fixed. STIX: `created` / `valid_from`. Suricata: `metadata:created_at`. KQL: a `FirstPublished` datatable column. Wazuh CDB and SentinelOne: `added YYYY-MM-DD` in the value/description.<br>
 **Can I use it commercially?** Our data is CC BY 4.0, but Spamhaus DROP-derived corroboration is non-commercial. See [LICENSE](LICENSE).
 
 ## Reporting false positives

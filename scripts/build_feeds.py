@@ -10,7 +10,8 @@ rows=[r for r in csv.DictReader(open(os.path.join(L,'iocs.csv'))) if int(r['scor
 net=[r for r in rows if r['type'] in ('ip','domain','url')]; hs=[r for r in rows if r['type'] in ('md5','sha1','sha256')]
 now=dt.datetime.now(dt.timezone.utc); exp=now+dt.timedelta(days=30)
 EXP_ISO=exp.strftime('%Y-%m-%dT%H:%M:%SZ'); EXP_MS=int(exp.timestamp()*1000)
-desc=lambda r:f"{r['family'] or 'malicious'} score {r['score']} ({r['band']})"
+fpd=lambda r:(r.get('first_published') or r.get('first_seen') or now.strftime('%Y-%m-%d'))[:10]  # date of addition
+desc=lambda r:f"{r['family'] or 'malicious'} score {r['score']} ({r['band']}) added {fpd(r)}"
 if os.path.isdir(F): shutil.rmtree(F)
 def out(rel,data):
     p=os.path.join(F,rel); os.makedirs(os.path.dirname(p),exist_ok=True)
@@ -28,7 +29,7 @@ import listfmt as LF
 _upd=now.strftime('%Y-%m-%d %H:%M UTC')
 def blk(n):  # dated blocks from latest/<n> (falls back to one block for a legacy plain file)
     p=os.path.join(L,n); t=open(p).read() if os.path.exists(p) else ''
-    return LF.parse(t) if t.startswith('#') else [(now.strftime('%Y-%m-%d'),'Auto-Fetch-ThreatIntel','TLP:CLEAR - Threat Level: High',LF.values(t))]
+    return LF.parse(t) if t.startswith('#') else [(now.strftime('%Y-%m-%d'),'Auto-Fetch-ThreatIntel','Malicious indicators / TLP:CLEAR - Threat Level: High',LF.values(t))]
 def btxt(rel,kind,src,md5=False,plain=False):  # titled list (+ optional comment-free -plain copy); invalid lines are refused
     data,kept,bad=LF.render(kind,blk(src),_upd,LF.EDL_MAX)
     if bad: print('build_feeds: rejected',rel,len(bad))
@@ -57,8 +58,9 @@ for r in net+hs:  # Check Point: hashes (MD5/SHA1/SHA256) -> AV; network -> AB
     k[r['type']]=k.get(r['type'],0)+1; b=r['band']
     cpl.append([f"tif-{r['type']}-{k[r['type']]}",r['value'],CPT[r['type']],b,b,'AV' if r['type'] in ('md5','sha1','sha256') else 'AB',desc(r).replace(',',' ')])
 csvf('firewall/checkpoint/ioc-feed.csv',['#UNIQ-NAME','VALUE','TYPE','CONFIDENCE','SEVERITY','PRODUCT','COMMENT'],cpl)
-txt('firewall/cisco/ip.txt',ip,md5=True); txt('firewall/cisco/domain.txt',dom,md5=True); txt('firewall/cisco/url.txt',url,md5=True)
-txt('firewall/sophos/ip.txt',ip); txt('firewall/sophos/domain.txt',dom); txt('firewall/sophos/url.txt',url)
+for n in ('ip','domain','url'): btxt(f'firewall/cisco/{n}.txt',n,f'{n}.txt',md5=True)  # FMC: '#' lines are comments (docs.manage.security.cisco.com r_custom-list-and-feed-requirements)
+txt('firewall/sophos/ip.txt',ip); txt('firewall/sophos/domain.txt',dom); txt('firewall/sophos/url.txt',url)  # Sophos third-party feeds: one IOC per line, no comments
+for n in ('ip','domain','url'): btxt(f'firewall/sophos/{n}-titled.txt',n,f'{n}.txt')  # human/titled sibling, do not point Sophos at it
 cp('suricata.rules','firewall/suricata/suricata.rules')
 # ---- EDR
 DH=['IndicatorType','IndicatorValue','ExpirationTime','Action','Severity','Title','Description','RecommendedActions','RbacGroups','Category','MitreTechniques','GenerateAlert']
@@ -74,20 +76,21 @@ ST={'ip':'IPV4','domain':'DNS','url':'URL','md5':'MD5','sha1':'SHA1','sha256':'S
 s1=[{'source':'threat-intel-feed','type':ST[r['type']],'value':r['value'],'method':'EQUALS','validUntil':EXP_ISO,'name':f"{r['family'] or 'malicious'} {r['type']}",'description':desc(r),'externalId':r['value'],'severity':{'critical':5,'high':4,'medium':3}.get(r['band'],3)} for r in rows]
 out('edr/sentinelone/iocs.json',json.dumps({'data':s1},indent=1))
 out('edr/sentinelone/README.md',"# SentinelOne\n\n`iocs.json` is a ready-to-POST body for `POST /web/api/v2.1/threat-intelligence/iocs`. Add your own `filter` scope (account/site) before posting. validUntil is 30 days.\n")
-txt('edr/eset/sha256.txt',H['sha256']); txt('edr/eset/sha1.txt',H['sha1'])
+txt('edr/eset/sha256.txt',H['sha256']); txt('edr/eset/sha1.txt',H['sha1'])  # ESET: no documented comment support -> plain
+for h in ('sha256','sha1'): btxt(f'edr/eset/{h}-titled.txt',h,f'{h}.txt')
 TT={'ip':'IP','domain':'Domain','url':'URL','sha1':'File SHA-1','sha256':'File SHA-256'}
 tl=[[TT[r['type']],r['value'],desc(r)] for r in rows if r['type'] in TT]
 for i,c in enumerate(chunks(tl,2000),1): csvf('edr/trendmicro/suspicious-objects.csv' if i==1 else f'edr/trendmicro/suspicious-objects-{i:03d}.csv',['Type','Object','Description'],c)
 XT={'ip':'IP','domain':'DOMAIN_NAME','sha256':'HASH'}
 csvf('edr/cortex-xdr/iocs.csv',['indicator','type','severity','expiration_date','comment','reputation','reliability'],[[r['value'],XT[r['type']],r['band'].upper(),EXP_MS,desc(r),'BAD','C'] for r in rows if r['type'] in XT])
 # ---- SIEM / SOAR
-cp('stix21.json','siem-soar/microsoft-sentinel/stix21.json'); out('siem-soar/microsoft-sentinel/stix21-objects.json',json.dumps(json.load(open(_sp))['objects'],indent=1)) if os.path.exists(_sp) else None; cp('sentinel-watchlist.csv','siem-soar/microsoft-sentinel/watchlist.csv')
+cp('stix21.json','siem-soar/microsoft-sentinel/stix21.json'); out('siem-soar/microsoft-sentinel/stix21-objects.json',json.dumps([o for o in json.load(open(_sp))['objects'] if o['type']!='report'],indent=1)) if os.path.exists(_sp) else None; cp('sentinel-watchlist.csv','siem-soar/microsoft-sentinel/watchlist.csv')
 W={'critical':3,'high':2,'medium':1}
-csvf('siem-soar/splunk/ip_intel.csv',['description','ip','weight'],[[desc(r),r['value'],W[r['band']]] for r in net if r['type']=='ip'])
-csvf('siem-soar/splunk/domain_intel.csv',['description','domain','weight'],[[desc(r),r['value'],W[r['band']]] for r in net if r['type']=='domain'])
-csvf('siem-soar/splunk/file_intel.csv',['description','file_hash','file_name','weight'],[[desc(r),r['value'],'',W[r['band']]] for r in hs])
-csvf('siem-soar/splunk/http_intel.csv',['description','http_referrer','http_user_agent','url','weight'],[[desc(r),'','',r['value'],W[r['band']]] for r in net if r['type']=='url'])
-cdb=lambda xs:[f'{r["value"]}:{(r["family"] or "malicious").replace(":"," ")}' for r in xs]
+csvf('siem-soar/splunk/ip_intel.csv',['description','ip','weight','first_published'],[[desc(r),r['value'],W[r['band']],fpd(r)] for r in net if r['type']=='ip'])
+csvf('siem-soar/splunk/domain_intel.csv',['description','domain','weight','first_published'],[[desc(r),r['value'],W[r['band']],fpd(r)] for r in net if r['type']=='domain'])
+csvf('siem-soar/splunk/file_intel.csv',['description','file_hash','file_name','weight','first_published'],[[desc(r),r['value'],'',W[r['band']],fpd(r)] for r in hs])
+csvf('siem-soar/splunk/http_intel.csv',['description','http_referrer','http_user_agent','url','weight','first_published'],[[desc(r),'','',r['value'],W[r['band']],fpd(r)] for r in net if r['type']=='url'])
+cdb=lambda xs:[f'{r["value"]}:{(r["family"] or "malicious").replace(":"," ")} added {fpd(r)}' for r in xs]  # Wazuh CDB key:value, no comments
 txt('siem-soar/wazuh/cdb-ip.txt',cdb([r for r in net if r['type']=='ip'])); txt('siem-soar/wazuh/cdb-domain.txt',cdb([r for r in net if r['type']=='domain'])); txt('siem-soar/wazuh/cdb-sha256.txt',cdb([r for r in hs if r['type']=='sha256']))
 # ---- reports (human-readable, defanged) + compat note
 os.makedirs(os.path.join(R,'reports'),exist_ok=True)
