@@ -1,15 +1,15 @@
 description,ip,weight
 Cobaltstrike score 77 (high),130.94.75.105,2
 NjRAT score 77 (high),161.248.179.115,2
-AsyncRAT score 77 (high),64.89.161.138,2
 Unknown malware score 77 (high),85.11.167.7,2
 Mirai score 77 (high),94.154.43.68,2
+VShell score 74 (medium),179.199.199.60,1
 VShell score 74 (medium),47.239.212.183,1
 VShell score 74 (medium),8.134.160.8,1
-VShell score 74 (medium),116.62.81.149,1
 Unknown malware score 71 (medium),217.60.103.135,1
-Mirai score 71 (medium),31.56.209.86,1
 Cobaltstrike score 71 (medium),175.178.126.48,1
 Cobaltstrike score 71 (medium),149.104.31.151,1
+Cobaltstrike score 71 (medium),8.156.80.127,1
+Cobaltstrike score 71 (medium),114.215.184.158,1
 Arista VCO exploitation CVE-2026-114625 score 90 (critical),74.82.197.86,3
 Arista VCO exploitation CVE-2026-114625 score 90 (critical),38.54.50.151,3
