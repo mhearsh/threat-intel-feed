@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-26 19:21 UTC   Count: 82   Expiry: 30 days                #
+#  Updated: 2026-10-26 21:22 UTC   Count: 94   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -49,6 +49,8 @@ f.agenplay89.org/t
 f.agenplay89.org/t3
 f.agenplay89.org/t9
 g.agenplay89.org/zn
+garden-82.com/curl/c7d2xn1k0/fmv7bafu0t42u1byn1.dat
+garden-82.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
 h4.agenplay89.org/bl
 h4.agenplay89.org/cy
 h4.agenplay89.org/ho
@@ -75,7 +77,17 @@ lr.agenpr.org/p
 lr.agenpr.org/pj
 lr.agenpr.org/u6
 lr.agenpr.org/x
+pm.agenpr.org/m4
+pm.agenpr.org/r56
+pm.agenpr.org/w
+pm.agenpr.org/x
 pt.agenpr.org/a
+qtr.agenpr.org/b7
+qtr.agenpr.org/cb
+qtr.agenpr.org/egs
+qtr.agenpr.org/h4
+qtr.agenpr.org/j4
+qtr.agenpr.org/kcv
 tx.abad777.org/r
 wx.agenpr.org/bb
 wx.agenpr.org/d2

@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 19:21 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 3029 SHA-256 · 143 SHA-1 · 145 MD5._
+_Last update: 2026-10-26 21:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 3078 SHA-256 · 143 SHA-1 · 145 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
 | 1 | `31[.]56[.]19[.]71` | ip | Potassium | 83 | high | T1071, T1105 |
-| 2 | `0d71f57e0da7bb32157be51b9e96e242b2ae82030d133e9ac75b4dce6ce1` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 3 | `103[.]186[.]85[.]180` | ip | VShell | 74 | medium | T1071, T1105 |
-| 4 | `103[.]186[.]85[.]181` | ip | VShell | 74 | medium | T1071, T1105 |
-| 5 | `124[.]222[.]147[.]241` | ip | VShell | 74 | medium | T1071, T1105 |
-| 6 | `146[.]190[.]252[.]67` | ip | Jackskid | 74 | medium | T1071, T1105 |
-| 7 | `161[.]35[.]62[.]230` | ip | Jackskid | 74 | medium | T1071, T1105 |
-| 8 | `181ec92cc09b00bf5d00f9a7f0da8dc1844358232664ad5456f210d591bd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `192[.]238[.]244[.]116` | ip | Unknown malware | 74 | medium | T1071, T1105 |
-| 10 | `1f098cf367885640acf96e8ecbfa805029802f1549634f01e795bc87aed1` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `207[.]174[.]31[.]71` | ip | Jackskid | 74 | medium | T1071, T1105 |
-| 12 | `212[.]192[.]214[.]7` | ip | Jackskid | 74 | medium | T1071, T1105 |
-| 13 | `30b8d7d6c3f3f9ff3c30cda762b7abfbeabfea45ae3f63686a2738accf1c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `3cb50pyi[.]warmwaffles[.]com` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 15 | `45[.]144[.]172[.]49` | ip | Jackskid | 74 | medium | T1071, T1105 |
+| 2 | `094072349a313cb7618adb520812ad506fad6f7165d64629aad7cddd61e9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 3 | `09f1ab353152727f5c62fe9e4102ea90888edc9b0b6a949691c4ebb2870a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 4 | `0d98501ac73fd2c318e0e1a4a223b9e2589f235627e512eac8b88a275315` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `0dce904c73f9839313628101eabc6055a8885bc40b7adfd7097ba283ee99` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `104[.]218[.]50[.]244` | ip | Jackskid | 74 | medium | T1071, T1105 |
+| 7 | `13[.]60[.]4[.]205` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
+| 8 | `131299a9c31c6b3e8d5c4dc614fc3cf2b31b9f91d78d28f37ece9a206f34` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `132777f3cd54eb2fdea38bd9971c78e5e4215f33fd30496df69301a87e71` | sha256 | Unknown malware | 74 | medium | T1071, T1105 |
+| 10 | `13de8f6601748c959829a719068482bd80f1d934e1afb1f5dfa32f315ee4` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `18438ce3e58bdbe47c9d7058ce05f456d5792d99926be82eb894fba985c5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `204[.]12[.]218[.]236` | ip | Jackskid | 74 | medium | T1071, T1105 |
+| 13 | `2c4229230fdcb224538828468a8642aaf4429a1591fe83776f8b3aa683d6` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `2de0e353270c3beddc1f38b860c09f86757d9c7006208bbf09a7cc220554` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `330ed0bf38d987d25a0b08b49232c75c2cc410aa5acf3e9ab626299afc66` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-26 19:21 UTC   Count: 102   Expiry: 30 days               #
+#  Updated: 2026-10-26 21:22 UTC   Count: 109   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -62,17 +62,24 @@ francescmarcalvaro.cat
 ftp.jmacsafety.com
 ftp.prometeon.info
 galerie-dakoenig.de
+garden-82.com
 gcnj52gi.bet212.live
 globalintermed.com.br
 grant.vandersee.id.au
 gventerpriseswork.com
 h5.adwgamestore.org
 hu406sua.ozabet.promo
+idrive.ba
 iejzff0w.etablissementsbonnet.com
+iict.gov.la
+ilovevirginiabeer.com
+imhoteplukata.com
 ioypdsgj.dota.pw
 jj.adwgamestore.org
+k2rf8oi3.energedia.com
 kianm3aw.thrivingchaos.com
 m.aot88.com
+nt5kwuux.paars.poker
 object.glimmerpull.cc
 pm3c7bwl.encompass-graphics.co.uk
 relay.reelxgrab.cc

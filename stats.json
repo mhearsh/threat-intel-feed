@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 19:21 UTC",
+ "updated": "2026-10-26 21:22 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -9,11 +9,11 @@
  },
  "fresh_6h": 48,
  "hashes": {
-  "sha256": 3029,
+  "sha256": 3078,
   "sha1": 143,
   "md5": 145
  },
- "hash_count": 3317,
+ "hash_count": 3366,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -21,16 +21,16 @@
   "url": 12
  },
  "families": {
-  "Vidar": 13,
-  "AMOS": 11,
-  "Jackskid": 7,
-  "StrelaStealer": 6,
+  "AMOS": 13,
+  "Vidar": 10,
+  "StrelaStealer": 7,
+  "Jackskid": 5,
+  "VShell": 4,
   "ClearFake": 4,
-  "VShell": 3,
+  "Cobalt Strike": 2,
+  "Unknown malware": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
-  "Potassium": 1,
-  "Unknown malware": 1,
-  "XOR DDoS": 1
+  "Potassium": 1
  },
  "sources": {
   "Spamhaus-DROP": 1,

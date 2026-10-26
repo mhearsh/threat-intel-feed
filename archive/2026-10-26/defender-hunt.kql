@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-26 19:21 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-26 21:22 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "104.218.50.244", "ip", "Jackskid", datetime(2026-10-26T21:22:53Z),
+    "13.60.4.205", "ip", "Cobalt Strike", datetime(2026-10-26T21:22:53Z),
+    "204.12.218.236", "ip", "Jackskid", datetime(2026-10-26T21:22:53Z),
+    "39.96.78.162", "ip", "Cobalt Strike", datetime(2026-10-26T21:22:53Z),
+    "45.59.126.125", "ip", "Jackskid", datetime(2026-10-26T21:22:53Z),
+    "85.137.244.138", "ip", "VShell", datetime(2026-10-26T21:22:53Z),
+    "garden-82.com", "domain", "AMOS", datetime(2026-10-26T21:22:53Z),
+    "idrive.ba", "domain", "StrelaStealer", datetime(2026-10-26T21:22:53Z),
+    "iict.gov.la", "domain", "StrelaStealer", datetime(2026-10-26T21:22:53Z),
+    "ilovevirginiabeer.com", "domain", "StrelaStealer", datetime(2026-10-26T21:22:53Z),
+    "imhoteplukata.com", "domain", "StrelaStealer", datetime(2026-10-26T21:22:53Z),
+    "k2rf8oi3.energedia.com", "domain", "ClearFake", datetime(2026-10-26T21:22:53Z),
+    "nt5kwuux.paars.poker", "domain", "ClearFake", datetime(2026-10-26T21:22:53Z),
     "31.56.19.71", "ip", "Potassium", datetime(2026-10-26T19:21:50Z),
     "103.186.85.180", "ip", "VShell", datetime(2026-10-26T19:21:50Z),
     "103.186.85.181", "ip", "VShell", datetime(2026-10-26T19:21:50Z),
     "124.222.147.241", "ip", "VShell", datetime(2026-10-26T19:21:50Z),
     "146.190.252.67", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
     "161.35.62.230", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
-    "192.238.244.116", "ip", "Unknown malware", datetime(2026-10-26T19:21:50Z),
-    "207.174.31.71", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
-    "212.192.214.7", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
     "3cb50pyi.warmwaffles.com", "domain", "ClearFake", datetime(2026-10-26T19:21:50Z),
-    "45.144.172.49", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
     "5gs2zjcc.fazbet1.app", "domain", "ClearFake", datetime(2026-10-26T19:21:50Z),
-    "68.183.90.240", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
-    "77.90.63.58", "ip", "Jackskid", datetime(2026-10-26T19:21:50Z),
     "galerie-dakoenig.de", "domain", "StrelaStealer", datetime(2026-10-26T19:21:50Z),
     "globalintermed.com.br", "domain", "StrelaStealer", datetime(2026-10-26T19:21:50Z),
     "grant.vandersee.id.au", "domain", "StrelaStealer", datetime(2026-10-26T19:21:50Z),
-    "gventerpriseswork.com", "domain", "StrelaStealer", datetime(2026-10-26T19:21:50Z),
-    "jj.adwgamestore.org", "domain", "Vidar", datetime(2026-10-26T19:21:50Z),
-    "pm3c7bwl.encompass-graphics.co.uk", "domain", "ClearFake", datetime(2026-10-26T19:21:50Z),
-    "zz-infratechniek.nl", "domain", "StrelaStealer", datetime(2026-10-26T19:21:50Z),
-    "balsamdolmen.org", "domain", "SmartApeSG", datetime(2026-10-26T17:15:52Z),
-    "cpw81zy7.emanuellejaques.com", "domain", "ClearFake", datetime(2026-10-26T17:15:52Z),
-    "familylegacyprotection.com", "domain", "StrelaStealer", datetime(2026-10-26T17:15:52Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];
