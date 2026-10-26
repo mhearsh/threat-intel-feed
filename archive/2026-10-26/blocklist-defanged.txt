@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-26 15:06 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-26 17:15 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,57 +15,56 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-26
 
-07445494a699ee31363563df1f6254f5458b3a8343cc4d3af84c466bd6e55d10
+104[.]249[.]10[.]158
 106[.]75[.]148[.]37
-10e3bf8023104b11cbea9955d76570092e8c9fe14e86ed17b32786f3dc9da716
 111[.]229[.]199[.]24
-16c4c2947ed6644acaf5a09814fd314c480b32dae0182f18830b93a88ec49b45
-20b5c7608afa69688499cf3a6e44afa43a8d2938705db49beb2d4c995a3587e8
-23ac9467216e33bf50c7f58e99613f0b36e6fe1d50853071fba3dc2c2535f5b2
-24eb1426b0bedf3235a02301675b56dbe42b70e18788e4a02c4d6bf50305e8f2
+15b854997d58ba90b3243525171dc45136dfc06cc88d37f16cd21acc441700bd
+1ad3481cd203237e06f089e10887b3b49e52b550ff73af58c9cbce34de887136
+28fa49e6176856c0b9e753b351d99b1e6421f8fe7d6d9eaed13064481e51ecac
+29675762fc30b9226091259c8aece4fe87c92d45b586547b9010fc34abcf9510
+31[.]56[.]19[.]166
+329c8b6856e6fa18f51f5af2d512b5d3264e01c1664abac21a4d3f21fff5f36b
+32edf70e9f0998c25ad5328dcab6f171b072e3f411c848735278db1f358fbbec
 3413718a[.]exploreargentina[.]tours
-362f9a4a4e8d309d4cf0b647ef011d8d9c087742037030e9e9da472956e9de40
-37e916a94348781f75e03035716479f2a0ab59b7d9eda03b5dcd4621ff1768bc
-3875e700f4fb720e6548aebe75be6df32352efe1ec0a6e8d5d036c40d3855167
-38[.]240[.]56[.]216
 38[.]255[.]34[.]171
 39[.]100[.]64[.]125
-3afb2ce6f50ccf2e3631061f542abe3a722f4c2a0a4b7ae6d1d8ca5b779589ae
-43[.]203[.]112[.]69
-4b107d24922a8c683f59847ff501875ead51cbe376fa8a128e5fb629084504b5
-524fe38abc8ab665daf0a10cf988ee83bdb30f7b86197a5bb86aa34b46a6bde3
+4da3af4b73a357e13d2927ba2d3660213130330685d9c729c3490357466c5251
+617e42d2497608afcf89dff337724eef62ce045ff792b325ffc9f9475eb00eec
+7bf616b51a46a38a4982163bf24d504b726fcca85c01b15564a93a785d6fc700
+7cf705ee69cfcce908351c67b3d12afca1a572895849f94cb6b0a5adc776ebe0
 81[.]71[.]128[.]221
 94[.]154[.]43[.]195
-ab41vc541fd04435740[.]health-carereform[.]com
-anj99u86[.]verticalrewards[.]com
-bb6lxq63[.]verticalrewards[.]com
-bbwptlox[.]dota[.]pw
-cbg80csz[.]deurnenwinkel[.]com
-ftp[.]prometeon[.]info
-hxxps://f[.]agenplay89[.]org/bq/
-hxxps://f[.]agenplay89[.]org/cv/
-hxxps://f[.]agenplay89[.]org/cx/
-hxxps://f[.]agenplay89[.]org/dd/
-hxxps://f[.]agenplay89[.]org/e0x/
-hxxps://f[.]agenplay89[.]org/ki/
-hxxps://f[.]agenplay89[.]org/lx/
-hxxps://f[.]agenplay89[.]org/o/
-hxxps://f[.]agenplay89[.]org/qx/
-hxxps://f[.]agenplay89[.]org/t/
-hxxps://f[.]agenplay89[.]org/t3/
-hxxps://f[.]agenplay89[.]org/t9/
-ioypdsgj[.]dota[.]pw
-t0kmixg4[.]glas-design[.]shop
-td3avpdc[.]dota[.]pw
-tuffcromlech[.]info
-vm[.]adwgamestore[.]org
+9eb052edaf2d307bb328388eaed113b428ce630029973135c7e373052280ad0f
+a353259c6d0e27e373c3d87327844b0603fcdaa1401cf2d54fb13607f6f0251f
+balsamdolmen[.]org
+cpw81zy7[.]emanuellejaques[.]com
+familylegacyprotection[.]com
+figieiredo[.]lol
+firebase[.]emeraldpineventuresllc[.]com
+flexyyservices[.]pt
+formazionedocenti[.]org
+francescmarcalvaro[.]cat
+ftp[.]jmacsafety[.]com
+hu406sua[.]ozabet[.]promo
+hxxp://104[.]238[.]149[.]90/login
+hxxp://16[.]5[.]0[.]150:8080/q4w8z[.]x86
+hxxps://ac[.]agenpr[.]org/b/
+hxxps://ac[.]agenpr[.]org/ea/
+hxxps://ac[.]agenpr[.]org/fn/
+hxxps://ac[.]agenpr[.]org/ft/
+hxxps://ac[.]agenpr[.]org/fv/
+hxxps://ac[.]agenpr[.]org/pg/
+hxxps://ac[.]agenpr[.]org/pl/
+hxxps://ac[.]agenpr[.]org/t/
+hxxps://ac[.]agenpr[.]org/tf/
+hxxps://ac[.]agenpr[.]org/ty/
+ya[.]adwgamestore[.]org
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
-217[.]60[.]103[.]135
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
 
@@ -77,4 +76,5 @@ vm[.]adwgamestore[.]org
 118[.]25[.]147[.]157
 49[.]235[.]158[.]141
 8[.]156[.]80[.]127
+92[.]249[.]61[.]190
 

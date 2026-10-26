@@ -1,5 +1,17 @@
+104.238.149.90/login
+16.5.0.150:8080/q4w8z.x86
 94.154.43.195/bins/arm
 94.154.43.195/bins/arm5
+ac.agenpr.org/b
+ac.agenpr.org/ea
+ac.agenpr.org/fn
+ac.agenpr.org/ft
+ac.agenpr.org/fv
+ac.agenpr.org/pg
+ac.agenpr.org/pl
+ac.agenpr.org/t
+ac.agenpr.org/tf
+ac.agenpr.org/ty
 ac.agenpr.org/ue
 b.ayu99.pro/k
 chant66.com/curl/4c0rmvw61d6/q1sfb31ar08qqofqjduay.dat

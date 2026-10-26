@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 15:06 UTC. 50 IOCs (sha256: 12, ip: 14, domain: 12, url: 12); 43 first seen under 6h ago. File-hash feed: 2974 SHA-256 · 143 SHA-1 · 145 MD5._
+_Last update: 2026-10-26 17:15 UTC. 50 IOCs (sha256: 12, domain: 12, url: 12, ip: 14); 43 first seen under 6h ago. File-hash feed: 3002 SHA-256 · 143 SHA-1 · 145 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `07445494a699ee31363563df1f6254f5458b3a8343cc4d3af84c466bd6e5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 2 | `106[.]75[.]148[.]37` | ip | VShell | 74 | medium | T1071, T1105 |
-| 3 | `10e3bf8023104b11cbea9955d76570092e8c9fe14e86ed17b32786f3dc9d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 4 | `111[.]229[.]199[.]24` | ip | VShell | 74 | medium | T1071, T1105 |
-| 5 | `16c4c2947ed6644acaf5a09814fd314c480b32dae0182f18830b93a88ec4` | sha256 | Unknown malware | 74 | medium | T1071, T1105 |
-| 6 | `20b5c7608afa69688499cf3a6e44afa43a8d2938705db49beb2d4c995a35` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `23ac9467216e33bf50c7f58e99613f0b36e6fe1d50853071fba3dc2c2535` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `24eb1426b0bedf3235a02301675b56dbe42b70e18788e4a02c4d6bf50305` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `3413718a[.]exploreargentina[.]tours` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 10 | `362f9a4a4e8d309d4cf0b647ef011d8d9c087742037030e9e9da472956e9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `37e916a94348781f75e03035716479f2a0ab59b7d9eda03b5dcd4621ff17` | sha256 | Unknown malware | 74 | medium | T1071, T1105 |
-| 12 | `3875e700f4fb720e6548aebe75be6df32352efe1ec0a6e8d5d036c40d385` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `39[.]100[.]64[.]125` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
-| 14 | `3afb2ce6f50ccf2e3631061f542abe3a722f4c2a0a4b7ae6d1d8ca5b7795` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `4b107d24922a8c683f59847ff501875ead51cbe376fa8a128e5fb6290845` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `15b854997d58ba90b3243525171dc45136dfc06cc88d37f16cd21acc4417` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 2 | `1ad3481cd203237e06f089e10887b3b49e52b550ff73af58c9cbce34de88` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 3 | `28fa49e6176856c0b9e753b351d99b1e6421f8fe7d6d9eaed13064481e51` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 4 | `29675762fc30b9226091259c8aece4fe87c92d45b586547b9010fc34abcf` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `329c8b6856e6fa18f51f5af2d512b5d3264e01c1664abac21a4d3f21fff5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `32edf70e9f0998c25ad5328dcab6f171b072e3f411c848735278db1f358f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `4da3af4b73a357e13d2927ba2d3660213130330685d9c729c3490357466c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `617e42d2497608afcf89dff337724eef62ce045ff792b325ffc9f9475eb0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `7bf616b51a46a38a4982163bf24d504b726fcca85c01b15564a93a785d6f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `7cf705ee69cfcce908351c67b3d12afca1a572895849f94cb6b0a5adc776` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `9eb052edaf2d307bb328388eaed113b428ce630029973135c7e373052280` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `a353259c6d0e27e373c3d87327844b0603fcdaa1401cf2d54fb13607f6f0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `balsamdolmen[.]org` | domain | SmartApeSG | 74 | medium | T1071, T1105 |
+| 14 | `cpw81zy7[.]emanuellejaques[.]com` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 15 | `familylegacyprotection[.]com` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-26 15:06 UTC   Count: 141   Expiry: 30 days               #
+#  Updated: 2026-10-26 17:15 UTC   Count: 164   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,8 +15,20 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-26
 
+104.238.149.90/login
+16.5.0.150:8080/q4w8z.x86
 94.154.43.195/bins/arm
 94.154.43.195/bins/arm5
+ac.agenpr.org/b
+ac.agenpr.org/ea
+ac.agenpr.org/fn
+ac.agenpr.org/ft
+ac.agenpr.org/fv
+ac.agenpr.org/pg
+ac.agenpr.org/pl
+ac.agenpr.org/t
+ac.agenpr.org/tf
+ac.agenpr.org/ty
 ac.agenpr.org/ue
 b.ayu99.pro/k
 chant66.com/curl/4c0rmvw61d6/q1sfb31ar08qqofqjduay.dat
@@ -71,6 +83,7 @@ anj99u86.verticalrewards.com
 at.adwgamestore.org
 attractions.oppasharing.com
 ayuntamientodeprogreso.gob.mx
+balsamdolmen.org
 baydounappliances.com
 bb6lxq63.verticalrewards.com
 bbwptlox.dota.pw
@@ -89,6 +102,7 @@ cinderfetch.cc
 civil.rezendenetto.adv.br
 commithealthandwellness.com
 concreterepairny.com
+cpw81zy7.emanuellejaques.com
 cy9.narahtech.com
 dance.pappu.co.in
 dash.erosteps.in
@@ -98,9 +112,17 @@ deesaidesign.com
 du03146t.eromeofficial.us
 e.ayu99.pro
 eczy948u.georgelounge.com
+familylegacyprotection.com
+figieiredo.lol
+firebase.emeraldpineventuresllc.com
+flexyyservices.pt
+formazionedocenti.org
+francescmarcalvaro.cat
+ftp.jmacsafety.com
 ftp.prometeon.info
 gcnj52gi.bet212.live
 h5.adwgamestore.org
+hu406sua.ozabet.promo
 iejzff0w.etablissementsbonnet.com
 ioypdsgj.dota.pw
 kianm3aw.thrivingchaos.com
@@ -113,6 +135,7 @@ thrivingchaos.com
 tuffcromlech.info
 vm.adwgamestore.org
 ww.adilawa99.org
+ya.adwgamestore.org
 z.amo98.org
 
 
