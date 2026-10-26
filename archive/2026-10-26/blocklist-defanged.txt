@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-26 17:15 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-26 19:21 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,50 +15,54 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-26
 
-104[.]249[.]10[.]158
-106[.]75[.]148[.]37
-111[.]229[.]199[.]24
-15b854997d58ba90b3243525171dc45136dfc06cc88d37f16cd21acc441700bd
-1ad3481cd203237e06f089e10887b3b49e52b550ff73af58c9cbce34de887136
-28fa49e6176856c0b9e753b351d99b1e6421f8fe7d6d9eaed13064481e51ecac
-29675762fc30b9226091259c8aece4fe87c92d45b586547b9010fc34abcf9510
-31[.]56[.]19[.]166
-329c8b6856e6fa18f51f5af2d512b5d3264e01c1664abac21a4d3f21fff5f36b
-32edf70e9f0998c25ad5328dcab6f171b072e3f411c848735278db1f358fbbec
-3413718a[.]exploreargentina[.]tours
-38[.]255[.]34[.]171
-39[.]100[.]64[.]125
-4da3af4b73a357e13d2927ba2d3660213130330685d9c729c3490357466c5251
-617e42d2497608afcf89dff337724eef62ce045ff792b325ffc9f9475eb00eec
-7bf616b51a46a38a4982163bf24d504b726fcca85c01b15564a93a785d6fc700
-7cf705ee69cfcce908351c67b3d12afca1a572895849f94cb6b0a5adc776ebe0
-81[.]71[.]128[.]221
-94[.]154[.]43[.]195
-9eb052edaf2d307bb328388eaed113b428ce630029973135c7e373052280ad0f
-a353259c6d0e27e373c3d87327844b0603fcdaa1401cf2d54fb13607f6f0251f
+0d71f57e0da7bb32157be51b9e96e242b2ae82030d133e9ac75b4dce6ce1c96d
+103[.]186[.]85[.]180
+103[.]186[.]85[.]181
+124[.]222[.]147[.]241
+146[.]190[.]252[.]67
+161[.]35[.]62[.]230
+181ec92cc09b00bf5d00f9a7f0da8dc1844358232664ad5456f210d591bd8f55
+192[.]238[.]244[.]116
+1f098cf367885640acf96e8ecbfa805029802f1549634f01e795bc87aed11ced
+207[.]174[.]31[.]71
+212[.]192[.]214[.]7
+30b8d7d6c3f3f9ff3c30cda762b7abfbeabfea45ae3f63686a2738accf1c69cc
+31[.]56[.]19[.]71
+3cb50pyi[.]warmwaffles[.]com
+45[.]144[.]172[.]49
+57edbacc6785bde555d8455f39bae5d1426467a4617c63b3f04d88c1fd4f44b4
+5b89ab64a71c9e9f8a89abc0ac14d04671d27083c9192cbb96960292e9157f28
+5bc631967a0e38092471618bec2655b473da3b9448281dc7f944880fe50bde99
+5gs2zjcc[.]fazbet1[.]app
+61645f048795c29bb3b8e342487a75087e73945f43faf7d260d29750976860b2
+62e7e94733ab0e1a581419037c148e75a5458eb236414a469869d8c365d78a61
+68[.]183[.]90[.]240
+6e5819301e93c5011f823a7467c9abeacd4ed481181de64877edb05d7f2075c3
+6f45c6d9c70d97f695cb7bbef362812a17f8ed4d37dafc342c26c86ed9b43638
+7081fbbbab2ddbe83329fc1525894e07b8b97c2cd554a60c3bc17ff61712efb6
+77[.]90[.]63[.]58
 balsamdolmen[.]org
 cpw81zy7[.]emanuellejaques[.]com
 familylegacyprotection[.]com
-figieiredo[.]lol
-firebase[.]emeraldpineventuresllc[.]com
-flexyyservices[.]pt
-formazionedocenti[.]org
-francescmarcalvaro[.]cat
-ftp[.]jmacsafety[.]com
-hu406sua[.]ozabet[.]promo
-hxxp://104[.]238[.]149[.]90/login
-hxxp://16[.]5[.]0[.]150:8080/q4w8z[.]x86
-hxxps://ac[.]agenpr[.]org/b/
-hxxps://ac[.]agenpr[.]org/ea/
-hxxps://ac[.]agenpr[.]org/fn/
-hxxps://ac[.]agenpr[.]org/ft/
-hxxps://ac[.]agenpr[.]org/fv/
-hxxps://ac[.]agenpr[.]org/pg/
-hxxps://ac[.]agenpr[.]org/pl/
-hxxps://ac[.]agenpr[.]org/t/
-hxxps://ac[.]agenpr[.]org/tf/
-hxxps://ac[.]agenpr[.]org/ty/
-ya[.]adwgamestore[.]org
+galerie-dakoenig[.]de
+globalintermed[.]com[.]br
+grant[.]vandersee[.]id[.]au
+gventerpriseswork[.]com
+hxxps://jj[.]adwgamestore[.]org/
+hxxps://lr[.]agenpr[.]org/c4/
+hxxps://lr[.]agenpr[.]org/e66/
+hxxps://lr[.]agenpr[.]org/gi/
+hxxps://lr[.]agenpr[.]org/ja/
+hxxps://lr[.]agenpr[.]org/k0b/
+hxxps://lr[.]agenpr[.]org/kk/
+hxxps://lr[.]agenpr[.]org/p/
+hxxps://lr[.]agenpr[.]org/pj/
+hxxps://lr[.]agenpr[.]org/u6/
+hxxps://lr[.]agenpr[.]org/x/
+hxxps://pt[.]agenpr[.]org/a/
+jj[.]adwgamestore[.]org
+pm3c7bwl[.]encompass-graphics[.]co[.]uk
+zz-infratechniek[.]nl
 
 
 # Auto-Fetch-ThreatIntel
@@ -67,14 +71,4 @@ ya[.]adwgamestore[.]org
 
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-24
-
-118[.]25[.]147[.]157
-49[.]235[.]158[.]141
-8[.]156[.]80[.]127
-92[.]249[.]61[.]190
 

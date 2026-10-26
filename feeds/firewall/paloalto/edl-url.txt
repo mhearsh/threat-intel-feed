@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-26 17:15 UTC   Count: 71   Expiry: 30 days                #
+#  Updated: 2026-10-26 19:21 UTC   Count: 82   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -64,7 +64,18 @@ h4.agenplay89.org/zb
 i.amo98.org/f
 i.amo98.org/l
 kavasa8f.beget.tech/L1nc0In.php
+lr.agenpr.org/c4
+lr.agenpr.org/e66
 lr.agenpr.org/fy
+lr.agenpr.org/gi
+lr.agenpr.org/ja
+lr.agenpr.org/k0b
+lr.agenpr.org/kk
+lr.agenpr.org/p
+lr.agenpr.org/pj
+lr.agenpr.org/u6
+lr.agenpr.org/x
+pt.agenpr.org/a
 tx.abad777.org/r
 wx.agenpr.org/bb
 wx.agenpr.org/d2

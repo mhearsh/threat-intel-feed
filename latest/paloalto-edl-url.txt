@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-26 17:15 UTC   Count: 164   Expiry: 30 days               #
+#  Updated: 2026-10-26 19:21 UTC   Count: 184   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -64,7 +64,18 @@ h4.agenplay89.org/zb
 i.amo98.org/f
 i.amo98.org/l
 kavasa8f.beget.tech/L1nc0In.php
+lr.agenpr.org/c4
+lr.agenpr.org/e66
 lr.agenpr.org/fy
+lr.agenpr.org/gi
+lr.agenpr.org/ja
+lr.agenpr.org/k0b
+lr.agenpr.org/kk
+lr.agenpr.org/p
+lr.agenpr.org/pj
+lr.agenpr.org/u6
+lr.agenpr.org/x
+pt.agenpr.org/a
 tx.abad777.org/r
 wx.agenpr.org/bb
 wx.agenpr.org/d2
@@ -78,6 +89,8 @@ wx.agenpr.org/f
 
 1p289c94.betballl90.app
 3413718a.exploreargentina.tours
+3cb50pyi.warmwaffles.com
+5gs2zjcc.fazbet1.app
 ab41vc541fd04435740.health-carereform.com
 anj99u86.verticalrewards.com
 at.adwgamestore.org
@@ -120,14 +133,20 @@ formazionedocenti.org
 francescmarcalvaro.cat
 ftp.jmacsafety.com
 ftp.prometeon.info
+galerie-dakoenig.de
 gcnj52gi.bet212.live
+globalintermed.com.br
+grant.vandersee.id.au
+gventerpriseswork.com
 h5.adwgamestore.org
 hu406sua.ozabet.promo
 iejzff0w.etablissementsbonnet.com
 ioypdsgj.dota.pw
+jj.adwgamestore.org
 kianm3aw.thrivingchaos.com
 m.aot88.com
 object.glimmerpull.cc
+pm3c7bwl.encompass-graphics.co.uk
 relay.reelxgrab.cc
 t0kmixg4.glas-design.shop
 td3avpdc.dota.pw
@@ -137,6 +156,7 @@ vm.adwgamestore.org
 ww.adilawa99.org
 ya.adwgamestore.org
 z.amo98.org
+zz-infratechniek.nl
 
 
 # Auto-Fetch-ThreatIntel
