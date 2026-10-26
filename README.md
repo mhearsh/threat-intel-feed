@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 11:03 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 2914 SHA-256 · 143 SHA-1 · 145 MD5._
+_Last update: 2026-10-26 13:05 UTC. 50 IOCs (sha256: 12, ip: 14, url: 12, domain: 12); 47 first seen under 6h ago. File-hash feed: 2942 SHA-256 · 143 SHA-1 · 145 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `94[.]154[.]43[.]195` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 2 | `1087483ba137024a97d09e162497a7fe1e4a5c8fe5b9abefdd804bda35cc` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 3 | `11a120766b864e5d64e69243a772a9f02404127d454acc18b3da8d71d7c8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 4 | `15b316d0d5385147d5b85e5b940d8e6bf664c9cfe2bc32546e8b79b782bd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 5 | `15c28338b6bc3ade51a5054d532cab12300a162e88d61ed7e31319ba4d9b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `1844cb426938fc15bb8eb809026c05a0f9dcedfe64aca3e8b06263e49c41` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `1fd739c3a4848b32822198f2e58455de330bda07d18d1e4cb254f249c46d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `357f7d54a164eb9abf535ea8d72f2dbdf7db3b85d636f67397a05ba5f807` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `38[.]240[.]56[.]216` | ip | Remcos | 74 | medium | T1071, T1105 |
-| 10 | `43[.]203[.]112[.]69` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
-| 11 | `4b512c8b390f88652a197a988384aaad4fde84300e41a3954829df0fa9cc` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `5a7c5be18ab40eb69629b25353db969fb0d7c1a90a8aadc5c23d8c8b0bb3` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `5d212b5c62ac9032859e57365ecdc73dad35fc0fcb17392978d953bb4545` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `71d4699009430a0c83d4cb0f263e338b55004e65eb8aa1c3a507e9ef2d14` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `7b8d265de467110c38da240fc9953d272047acfb657815ba6c3dd38e927b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `00522dcddb240e0a77614b5490245710ff53734e9f918c3f134a2ed47387` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 2 | `23148a6861ae7d575a031d5c39e22b635d2cb82f84505f8833be005cd18a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 3 | `2812cedf3f4a6754316b83cb8b9ece98070784a0848f56582f2c928ee13e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 4 | `31d6f56dbdf84ce4803b8a5d9c5fb904a2f677f3f7fb0b2a66f322706c31` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `3447a73a770e2cb9a47db2b8488e81f4677152c576e655265aea113730c9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `38[.]255[.]34[.]171` | ip | Remcos | 74 | medium | T1071, T1105 |
+| 7 | `441206a3f1648a44d56735cc2ee8054da50cf279a8924bc985ccbd9fe3a5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `493ef64b29017cc6ed3468991f75d3214c4acc63984171154a88882a4972` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `4c2cfc403ddb295f4ac6177ad4a0be834bdcde5123c1d0a8d3dbdc553c56` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `5b0ce896f1c2da584b089da607f409cc537cd6a70b0ad4ced9baadb5a591` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `5c7ef4d50a42260d9c72be5b7db1527e1c103bcdd3569ebc4cd056f6e97e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `5efc7daeaf2173451cc9d4de68b1fce1ac8c11724e8cf677ae8bc7deeddd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `658b825805a79f32c7d0fc4df92d3a6ccf36abd456b107a7a25e0d7c52fd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `hxxps://h4[.]agenplay89[.]org/bl/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 15 | `hxxps://h4[.]agenplay89[.]org/cy/` | url | Vidar | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

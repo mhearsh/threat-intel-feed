@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-26 11:03 UTC   Count: 72   Expiry: 30 days                #
+#  Updated: 2026-10-26 13:05 UTC   Count: 75   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -52,7 +52,10 @@ kianm3aw.thrivingchaos.com
 m.aot88.com
 object.glimmerpull.cc
 relay.reelxgrab.cc
+t0kmixg4.glas-design.shop
+td3avpdc.dota.pw
 thrivingchaos.com
+vm.adwgamestore.org
 ww.adilawa99.org
 z.amo98.org
 

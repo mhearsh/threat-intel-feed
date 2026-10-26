@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-26 11:03 UTC   Count: 107   Expiry: 30 days               #
+#  Updated: 2026-10-26 13:05 UTC   Count: 122   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -25,6 +25,18 @@ e.ayu99.pro/c
 e.ayu99.pro/h
 e.ayu99.pro/s
 g.agenplay89.org/zn
+h4.agenplay89.org/bl
+h4.agenplay89.org/cy
+h4.agenplay89.org/ho
+h4.agenplay89.org/jo
+h4.agenplay89.org/jp
+h4.agenplay89.org/mn
+h4.agenplay89.org/ob
+h4.agenplay89.org/qf
+h4.agenplay89.org/rp
+h4.agenplay89.org/up
+h4.agenplay89.org/z9
+h4.agenplay89.org/zb
 i.amo98.org/f
 i.amo98.org/l
 kavasa8f.beget.tech/L1nc0In.php
@@ -77,7 +89,10 @@ kianm3aw.thrivingchaos.com
 m.aot88.com
 object.glimmerpull.cc
 relay.reelxgrab.cc
+t0kmixg4.glas-design.shop
+td3avpdc.dota.pw
 thrivingchaos.com
+vm.adwgamestore.org
 ww.adilawa99.org
 z.amo98.org
 

@@ -1,4 +1,4 @@
-94.154.43.195:Unknown malware added 2026-10-26
+38.255.34.171:Remcos added 2026-10-26
 38.240.56.216:Remcos added 2026-10-26
 43.203.112.69:Cobalt Strike added 2026-10-26
 104.105.4.229:Vidar added 2026-10-26
@@ -9,6 +9,6 @@
 37.27.4.38:Vidar added 2026-10-26
 37.27.9.42:Vidar added 2026-10-26
 77.42.9.174:Vidar added 2026-10-26
-94.154.32.128:Remcos added 2026-10-26
+94.154.43.195:Unknown malware added 2026-10-26
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
