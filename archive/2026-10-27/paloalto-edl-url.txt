@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-27 06:11 UTC   Count: 266   Expiry: 30 days               #
+#  Updated: 2026-10-27 08:13 UTC   Count: 290   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -37,21 +37,36 @@ amf.agia4d.org/sb
 amf.agia4d.org/tl
 amf.agia4d.org/xf
 amf.agia4d.org/y
+b.agitawin.org/e
+b.agitawin.org/ft
+b.agitawin.org/ga
+b.agitawin.org/gr
+b.agitawin.org/h0k
+b.agitawin.org/ho
+b.agitawin.org/jc
+b.agitawin.org/q
+b.agitawin.org/t1
+b.agitawin.org/v7
+b.agitawin.org/z1
 b.ayu99.pro/t
 b.ayu99.pro/x
+cu789179.tw1.ru/ca113cf1.php
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
+1q4l6c52.georgelounge.bar
 2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
+9c0v693y.epexecutivecoaching.com
 airport-homes.com
 b.ayu99.pro
 bluedoggdesign.com
 burnoutblog.lieselotmaes.be
 bzijzpfj.yellohotelsharmoni.com
 catsport.it
+cedardirection.cfd
 centrealestetic.com
 clinicadivinoninojesus.org.pe
 clinicavetcenter.com.br
@@ -62,6 +77,7 @@ dbperformance.com
 dec-llc.net
 despina.ph
 dfsellereneewu2cd54frrkusfy7po3bpd2alljaqlpwse5avkomgfyd.onion
+emberhaven.cfd
 encuentrocofrade.oracionlebrija.es
 epicskater.com
 finatic.1stcontent.co.za
@@ -69,6 +85,14 @@ fpikiogankomeringilir.store
 frameless1.shop
 ga5.uk
 gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
+imissyou333.duckdns.org
+is.adwgamestore.org
+jensloew.de
+mail.merchantinvestnetwork.com
+merchantinvestnetwork.com
+nyaralogondozo.hu
+oritasinc.ca
+owensfinancialconsulting.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

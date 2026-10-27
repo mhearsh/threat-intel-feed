@@ -1,14 +1,14 @@
 172.111.150.134:Remcos added 2026-10-27
 31.56.19.71:Potassium added 2026-10-26
-68.64.176.76:Cobaltstrike added 2026-10-26
+119.42.148.190:VShell added 2026-10-27
+123.207.214.58:VShell added 2026-10-27
+179.199.199.11:VShell added 2026-10-27
+182.16.98.86:VShell added 2026-10-27
 34.41.139.193:Nanocore RAT added 2026-10-27
 167.99.165.191:AdaptixC2 added 2026-10-27
 192.169.69.25:Remcos added 2026-10-27
-94.154.43.195:Unknown malware added 2026-10-26
+68.64.176.76:Cobaltstrike added 2026-10-26
 176.65.139.201:Unknown malware added 2026-10-24
-8.156.80.127:Cobaltstrike added 2026-10-24
-89.32.41.43:Potassium added 2026-10-24
-118.25.147.157:Cobaltstrike added 2026-10-24
-49.235.158.141:Cobaltstrike added 2026-10-24
+176.65.139.79:Mirai added 2026-10-27
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
