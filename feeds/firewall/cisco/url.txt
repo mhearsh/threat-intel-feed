@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-27 08:13 UTC   Count: 141   Expiry: 30 days               #
+#  Updated: 2026-10-27 11:24 UTC   Count: 152   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -51,6 +51,17 @@ b.agitawin.org/z1
 b.ayu99.pro/t
 b.ayu99.pro/x
 cu789179.tw1.ru/ca113cf1.php
+kj.agitawin.org/ah
+kj.agitawin.org/d
+kj.agitawin.org/gb
+kj.agitawin.org/hv
+kj.agitawin.org/ix
+kj.agitawin.org/m6
+kj.agitawin.org/xp
+kj.agitawin.org/z7
+kj.agitawin.org/zz
+q4.agitawin.org/ed
+q4.agitawin.org/hg
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

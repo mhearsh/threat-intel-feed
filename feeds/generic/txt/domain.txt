@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-27 08:13 UTC   Count: 149   Expiry: 30 days               #
+#  Updated: 2026-10-27 11:24 UTC   Count: 159   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -17,7 +17,9 @@
 
 1q4l6c52.georgelounge.bar
 2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
+4ck8ubdi.warmwaffles.com
 9c0v693y.epexecutivecoaching.com
+9jhdivoe.enfejar.casino
 airport-homes.com
 b.ayu99.pro
 bluedoggdesign.com
@@ -37,20 +39,28 @@ despina.ph
 dfsellereneewu2cd54frrkusfy7po3bpd2alljaqlpwse5avkomgfyd.onion
 emberhaven.cfd
 encuentrocofrade.oracionlebrija.es
+enfejar.casino
 epicskater.com
 finatic.1stcontent.co.za
 fpikiogankomeringilir.store
 frameless1.shop
 ga5.uk
 gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
+i8uuptbx.georgelounge.com
 imissyou333.duckdns.org
 is.adwgamestore.org
 jensloew.de
 mail.merchantinvestnetwork.com
 merchantinvestnetwork.com
 nyaralogondozo.hu
+oj.aeon888link.org
 oritasinc.ca
 owensfinancialconsulting.com
+preview.salamacademy.edu.eg
+primeringroad.com
+project7.thedivineprojecthouse.co.za
+rmetq562.urgentblue.com
+v.ayu99.pro
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

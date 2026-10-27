@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 08:13 UTC",
+ "updated": "2026-10-27 11:24 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -7,31 +7,30 @@
   "high": 2,
   "medium": 46
  },
- "fresh_6h": 45,
+ "fresh_6h": 44,
  "hashes": {
-  "sha256": 3453,
+  "sha256": 3558,
   "sha1": 222,
   "md5": 225
  },
- "hash_count": 3900,
+ "hash_count": 4005,
  "types": {
   "ip": 14,
-  "md5": 1,
-  "sha256": 11,
+  "sha256": 12,
   "domain": 12,
   "url": 12
  },
  "families": {
-  "Vidar": 12,
-  "AMOS": 11,
-  "VShell": 4,
-  "StrelaStealer": 4,
-  "Remcos": 2,
-  "ClearFake": 2,
-  "Unknown Loader": 2,
-  "Unknown malware": 2,
-  "MASS Logger": 2,
-  "Arista VCO exploitation CVE-2026-114625": 2
+  "Vidar": 14,
+  "AMOS": 12,
+  "ClearFake": 7,
+  "VShell": 6,
+  "StrelaStealer": 3,
+  "Arista VCO exploitation CVE-2026-114625": 2,
+  "Remcos": 1,
+  "Potassium": 1,
+  "Nanocore RAT": 1,
+  "Cobaltstrike": 1
  },
  "sources": {
   "Spamhaus-DROP": 4,
