@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-27 11:24 UTC   Count: 159   Expiry: 30 days               #
+#  Updated: 2026-10-27 21:39 UTC   Count: 171   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,14 +15,22 @@
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
+09kg55cv.fazbet1.app
 1q4l6c52.georgelounge.bar
 2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
+3imyvvfh.slavyera.com
 4ck8ubdi.warmwaffles.com
+5l85t8ay.slotsensi138.org
+6l6uqen4.worknernorgram.rest
 9c0v693y.epexecutivecoaching.com
 9jhdivoe.enfejar.casino
 airport-homes.com
+apache-update.csproject.org
+apache-update.ddns.net
+arvion.network
 b.ayu99.pro
 bluedoggdesign.com
+bridge73.com
 burnoutblog.lieselotmaes.be
 bzijzpfj.yellohotelsharmoni.com
 catsport.it
@@ -31,8 +39,10 @@ centrealestetic.com
 clinicadivinoninojesus.org.pe
 clinicavetcenter.com.br
 codes.caffe-img.com
+coffeetocode.duckdns.org
 constructoraags.com.do
 d1muwuka.frameless1.shop
+d4izlyh1.thrivingchaos.com
 dbperformance.com
 dec-llc.net
 despina.ph
@@ -42,10 +52,12 @@ encuentrocofrade.oracionlebrija.es
 enfejar.casino
 epicskater.com
 finatic.1stcontent.co.za
+fortwayneswoodfloorcleaner.com
 fpikiogankomeringilir.store
 frameless1.shop
 ga5.uk
 gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
+i.bala7.org
 i8uuptbx.georgelounge.com
 imissyou333.duckdns.org
 is.adwgamestore.org

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-27 11:24 UTC   Count: 311   Expiry: 30 days               #
+#  Updated: 2026-10-27 21:39 UTC   Count: 335   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -50,6 +50,18 @@ b.agitawin.org/v7
 b.agitawin.org/z1
 b.ayu99.pro/t
 b.ayu99.pro/x
+bridge73.com/curl/rkizur957z/jeyyhvymr85y0vzd.json
+bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
+c0.agng11.org/d
+c0.agng11.org/di
+c0.agng11.org/e8
+c0.agng11.org/ei
+c0.agng11.org/fq
+c0.agng11.org/he6
+c0.agng11.org/n1
+c0.agng11.org/ny
+c0.agng11.org/r
+cf-restapi.com/bmv75v9gatymn3
 cu789179.tw1.ru/ca113cf1.php
 kj.agitawin.org/ah
 kj.agitawin.org/d
@@ -68,14 +80,22 @@ q4.agitawin.org/hg
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
+09kg55cv.fazbet1.app
 1q4l6c52.georgelounge.bar
 2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
+3imyvvfh.slavyera.com
 4ck8ubdi.warmwaffles.com
+5l85t8ay.slotsensi138.org
+6l6uqen4.worknernorgram.rest
 9c0v693y.epexecutivecoaching.com
 9jhdivoe.enfejar.casino
 airport-homes.com
+apache-update.csproject.org
+apache-update.ddns.net
+arvion.network
 b.ayu99.pro
 bluedoggdesign.com
+bridge73.com
 burnoutblog.lieselotmaes.be
 bzijzpfj.yellohotelsharmoni.com
 catsport.it
@@ -84,8 +104,10 @@ centrealestetic.com
 clinicadivinoninojesus.org.pe
 clinicavetcenter.com.br
 codes.caffe-img.com
+coffeetocode.duckdns.org
 constructoraags.com.do
 d1muwuka.frameless1.shop
+d4izlyh1.thrivingchaos.com
 dbperformance.com
 dec-llc.net
 despina.ph
@@ -95,10 +117,12 @@ encuentrocofrade.oracionlebrija.es
 enfejar.casino
 epicskater.com
 finatic.1stcontent.co.za
+fortwayneswoodfloorcleaner.com
 fpikiogankomeringilir.store
 frameless1.shop
 ga5.uk
 gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
+i.bala7.org
 i8uuptbx.georgelounge.com
 imissyou333.duckdns.org
 is.adwgamestore.org
