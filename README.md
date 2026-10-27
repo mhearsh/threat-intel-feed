@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-26 23:24 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 3131 SHA-256 · 143 SHA-1 · 145 MD5._
+_Last update: 2026-10-27 03:12 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 45 first seen under 6h ago. File-hash feed: 3299 SHA-256 · 222 SHA-1 · 224 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `31[.]56[.]19[.]71` | ip | Potassium | 83 | high | T1071, T1105 |
-| 2 | `0c32f0e6e9f0b6d683ac33d12cfacd8679a552c1b3be2a22c8d730162624` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 3 | `0e4233ea31ddf9b40c10b7302afa658207caf154d049af282cbf4191cd9e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 4 | `1b37fa166113be6dc2af69d453525ba219b644a14a55bece671c569d7f01` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 5 | `22e3e4b6e868874f221acfdfb5cb1fecd5b6371628eaeeee368d11de7382` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `35ac6bdb74d3de6525dea276068900b1f1f6c58c5840bae7d4fb1e21aca2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `37c3241ef811b90b3afb9062d292cb0645b300842547a6e6bdb834e0b7cd` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `462ae0633aa6d9da3ac7ba770ea311299f42387c8e7fec8378ebe19287bb` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `62f73dee201dfe781335b5e65ee3f082b12ded930f5bf2462505976f1beb` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `64b07b6962b1cf1e450e596e54c4610da4d076d7288f0c22f7b0d427cc79` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `70953d184d44fecda1153b0bfd4e0285b5c09c457829e134fda926fb8ed6` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `7bef9a6e154a1bbba7c2edca0df3af39b975f18c3f60af14d1af3c2485e4` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `7cbc06c5a80c45ade7be3d7df9af418314bc08f31dbe8fd6fceabd511f2d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `ga[.]adwgamestore[.]org` | domain | Vidar | 74 | medium | T1071, T1105 |
-| 15 | `hxxps://dk[.]agia4d[.]org/n/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 1 | `172[.]111[.]150[.]134` | ip | Remcos | 83 | high | T1071, T1105 |
+| 2 | `31[.]56[.]19[.]71` | ip | Potassium | 77 | high | T1071, T1105 |
+| 3 | `037306182584729d733c83c43cb5718835f38c08b1d1fb00067f7a9da07d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 4 | `0399ca7415747462838370bfa68f475a4bcec07d964e2879cb6457004095` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `04e30db39d13194ddd1d20dcc31779bf3e174d7957931be3aa7cb92f852f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `064b6737d8c9abb3546c6c4c929b95aa29f22f5b3f37772950c5b288b545` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `0781523ea1247151d8d5eef4ac1ac5a21b709384fbbc96eb45aaba4df30f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `0b0ac5a4f89c964e24830af701a2a760db9282a747b051defb8871f2faf9` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `104cdee7b06c4989aaddedffffe5795b1877d0b5d2b1165cb7a50e96dec2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `1110ecc48012b50c32ff189ddc8acbe4b9cd118d5ee2991f79cb43ef2968` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `167[.]99[.]165[.]191` | ip | AdaptixC2 | 74 | medium | T1071, T1105 |
+| 12 | `192[.]169[.]69[.]25` | ip | Remcos | 74 | medium | T1071, T1105 |
+| 13 | `2a21ad53a61241180857ac9d179b577cf4e677f7c0c45873160bd5a1e7b5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `2b2db5ba050175472c1ba8c4853b151de3a7ff55f3eeca901802ec75aa73` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `40532a868f16862ebe65bf5359e14be68b1bf2142a573f7cc14ce29babde` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

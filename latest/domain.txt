@@ -6,9 +6,27 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-26 23:24 UTC   Count: 113   Expiry: 30 days               #
+#  Updated: 2026-10-27 03:12 UTC   Count: 125   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-27
+
+airport-homes.com
+b.ayu99.pro
+bluedoggdesign.com
+burnoutblog.lieselotmaes.be
+catsport.it
+centrealestetic.com
+clinicadivinoninojesus.org.pe
+clinicavetcenter.com.br
+codes.caffe-img.com
+constructoraags.com.do
+dbperformance.com
+dec-llc.net
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

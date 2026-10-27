@@ -6,9 +6,45 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-26 23:24 UTC   Count: 218   Expiry: 30 days               #
+#  Updated: 2026-10-27 03:12 UTC   Count: 242   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-27
+
+a.agia4d.org/b1
+a.agia4d.org/dmy
+a.agia4d.org/j
+a.agia4d.org/k
+a.agia4d.org/k4
+a.agia4d.org/ov
+a.agia4d.org/rk
+a.agia4d.org/rr
+a.agia4d.org/s2i
+a.agia4d.org/sv
+a.agia4d.org/t
+a.agia4d.org/u
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-27
+
+airport-homes.com
+b.ayu99.pro
+bluedoggdesign.com
+burnoutblog.lieselotmaes.be
+catsport.it
+centrealestetic.com
+clinicadivinoninojesus.org.pe
+clinicavetcenter.com.br
+codes.caffe-img.com
+constructoraags.com.do
+dbperformance.com
+dec-llc.net
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

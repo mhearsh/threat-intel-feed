@@ -1,0 +1,161 @@
+###############################################################################
+#                                                                             #
+#                        MALICIOUS DOMAINS & FQDN FEED                        #
+#             C2, Malware and Phishing Domains (threat-intel-feed)            #
+#                                                                             #
+#  Purpose: IOC - Malicious domain collection (score >= 50)                   #
+#  Format:  one FQDN per line, not defanged; '#' = comment                    #
+#  Usage:   DNS filtering, web proxy, firewall EDL                            #
+#  Updated: 2026-10-27 03:12 UTC   Count: 125   Expiry: 30 days               #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-27
+
+airport-homes.com
+b.ayu99.pro
+bluedoggdesign.com
+burnoutblog.lieselotmaes.be
+catsport.it
+centrealestetic.com
+clinicadivinoninojesus.org.pe
+clinicavetcenter.com.br
+codes.caffe-img.com
+constructoraags.com.do
+dbperformance.com
+dec-llc.net
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-26
+
+1p289c94.betballl90.app
+3413718a.exploreargentina.tours
+3cb50pyi.warmwaffles.com
+5gs2zjcc.fazbet1.app
+ab41vc541fd04435740.health-carereform.com
+anj99u86.verticalrewards.com
+at.adwgamestore.org
+attractions.oppasharing.com
+ayuntamientodeprogreso.gob.mx
+balsamdolmen.org
+baydounappliances.com
+bb6lxq63.verticalrewards.com
+bbwptlox.dota.pw
+bet212.live
+betballl90.app
+blog.cdc7.net
+blog.paipweb.com
+blog.universe-edge.ru
+buecher.hagalil.com
+bzxlc31w.ghostnode.us
+c.aot88.com
+c.aww88.net
+cbg80csz.deurnenwinkel.com
+church.springsoflife.org
+cinderfetch.cc
+civil.rezendenetto.adv.br
+commithealthandwellness.com
+concreterepairny.com
+cpw81zy7.emanuellejaques.com
+cy9.narahtech.com
+dance.pappu.co.in
+dash.erosteps.in
+dccidadu.org.pk
+debug.pingload.cc
+deesaidesign.com
+du03146t.eromeofficial.us
+e.ayu99.pro
+eczy948u.georgelounge.com
+familylegacyprotection.com
+figieiredo.lol
+firebase.emeraldpineventuresllc.com
+flexyyservices.pt
+formazionedocenti.org
+francescmarcalvaro.cat
+ftp.jmacsafety.com
+ftp.prometeon.info
+ga.adwgamestore.org
+galerie-dakoenig.de
+garden-82.com
+gcnj52gi.bet212.live
+globalintermed.com.br
+grant.vandersee.id.au
+gventerpriseswork.com
+h5.adwgamestore.org
+hu406sua.ozabet.promo
+idrive.ba
+iejzff0w.etablissementsbonnet.com
+iict.gov.la
+ilovevirginiabeer.com
+imhoteplukata.com
+ioypdsgj.dota.pw
+jj.adwgamestore.org
+k2rf8oi3.energedia.com
+kianm3aw.thrivingchaos.com
+m.aot88.com
+majastee.com
+nt5kwuux.paars.poker
+object.glimmerpull.cc
+pm3c7bwl.encompass-graphics.co.uk
+relay.reelxgrab.cc
+t0kmixg4.glas-design.shop
+td3avpdc.dota.pw
+thrivingchaos.com
+tuffcromlech.info
+vm.adwgamestore.org
+ww.adilawa99.org
+ya.adwgamestore.org
+z.amo98.org
+z0bhclq0.energedia.dev
+zfvg0vcv.forbesae.com
+zz-infratechniek.nl
+
+
+# Auto-Fetch-ThreatIntel
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-25
+
+791n1fiv.enfejbaaz.bet
+9gul6aad.mon-iam-espace-esa-lia.online
+arabianlibas.com
+bharatlivestock.farm
+bonanza333gac0r.space
+bookpublishingventure.com
+bran.lol
+drtianna.com
+ivanitsky.com
+ivh.uvaoficial.com
+mon-iam-espace-esa-lia.online
+mooc3.politechnicart.net
+nikinovin.com
+river.marine-force-ishigaki.com
+teacher.adm-edu.ru
+timenews247.com
+u6.adilawa99.org
+uniporctandil.com.ar
+vitsmare.pages.dev
+
+
+# Auto-Fetch-ThreatIntel
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-24
+
+1moko8um.encompass-graphics.co.uk
+1pbwy4ua.yellohotelsharmoni.com
+3u8krmfu.energedia.com
+4m8axf47.worknernorgram.rest
+adbimmo.cs-projets.be
+de.remusdownloads.su
+energedia.com
+gbhpljne.paars.poker
+manzzkontolaktolakan.my.id
+mytutions.com
+n2late.fr
+new.decorhome.kz
+rf.adilawa99.org
+

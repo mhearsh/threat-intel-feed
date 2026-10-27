@@ -1,0 +1,86 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-10-27 03:12 UTC   Count: 50   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+037306182584729d733c83c43cb5718835f38c08b1d1fb00067f7a9da07d13f3
+0399ca7415747462838370bfa68f475a4bcec07d964e2879cb64570040950fbc
+04e30db39d13194ddd1d20dcc31779bf3e174d7957931be3aa7cb92f852fa11e
+064b6737d8c9abb3546c6c4c929b95aa29f22f5b3f37772950c5b288b5452735
+0781523ea1247151d8d5eef4ac1ac5a21b709384fbbc96eb45aaba4df30f2398
+0b0ac5a4f89c964e24830af701a2a760db9282a747b051defb8871f2faf96511
+104cdee7b06c4989aaddedffffe5795b1877d0b5d2b1165cb7a50e96dec293ce
+1110ecc48012b50c32ff189ddc8acbe4b9cd118d5ee2991f79cb43ef2968778b
+167[.]99[.]165[.]191
+172[.]111[.]150[.]134
+192[.]169[.]69[.]25
+2a21ad53a61241180857ac9d179b577cf4e677f7c0c45873160bd5a1e7b5445c
+2b2db5ba050175472c1ba8c4853b151de3a7ff55f3eeca901802ec75aa73b770
+40532a868f16862ebe65bf5359e14be68b1bf2142a573f7cc14ce29babde43d7
+46c09f852a7f05361b8758d10aba4426d4eacab74ed6e0ea5fdef20812934133
+airport-homes[.]com
+b[.]ayu99[.]pro
+bluedoggdesign[.]com
+burnoutblog[.]lieselotmaes[.]be
+catsport[.]it
+centrealestetic[.]com
+clinicadivinoninojesus[.]org[.]pe
+clinicavetcenter[.]com[.]br
+codes[.]caffe-img[.]com
+constructoraags[.]com[.]do
+dbperformance[.]com
+dec-llc[.]net
+hxxps://a[.]agia4d[.]org/b1/
+hxxps://a[.]agia4d[.]org/dmy/
+hxxps://a[.]agia4d[.]org/j/
+hxxps://a[.]agia4d[.]org/k/
+hxxps://a[.]agia4d[.]org/k4/
+hxxps://a[.]agia4d[.]org/ov/
+hxxps://a[.]agia4d[.]org/rk/
+hxxps://a[.]agia4d[.]org/rr/
+hxxps://a[.]agia4d[.]org/s2i/
+hxxps://a[.]agia4d[.]org/sv/
+hxxps://a[.]agia4d[.]org/t/
+hxxps://a[.]agia4d[.]org/u/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+104[.]218[.]50[.]244
+13[.]60[.]4[.]205
+204[.]12[.]218[.]236
+31[.]56[.]19[.]71
+39[.]96[.]78[.]162
+45[.]59[.]126[.]125
+85[.]137[.]244[.]138
+94[.]154[.]43[.]195
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+176[.]65[.]139[.]201
+
