@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-27 03:12 UTC   Count: 125   Expiry: 30 days               #
+#  Updated: 2026-10-27 06:11 UTC   Count: 137   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,18 +15,30 @@
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
+2q2spejlgz2x5haqe3ygclxj6jwlylgj5rg4jgwax6ub2fbpct27ibyd.onion
 airport-homes.com
 b.ayu99.pro
 bluedoggdesign.com
 burnoutblog.lieselotmaes.be
+bzijzpfj.yellohotelsharmoni.com
 catsport.it
 centrealestetic.com
 clinicadivinoninojesus.org.pe
 clinicavetcenter.com.br
 codes.caffe-img.com
 constructoraags.com.do
+d1muwuka.frameless1.shop
 dbperformance.com
 dec-llc.net
+despina.ph
+dfsellereneewu2cd54frrkusfy7po3bpd2alljaqlpwse5avkomgfyd.onion
+encuentrocofrade.oracionlebrija.es
+epicskater.com
+finatic.1stcontent.co.za
+fpikiogankomeringilir.store
+frameless1.shop
+ga5.uk
+gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
