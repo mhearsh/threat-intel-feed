@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-28 06:05 UTC   Count: 359   Expiry: 30 days               #
+#  Updated: 2026-10-28 08:18 UTC   Count: 378   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,18 @@
 # 2026-10-28
 
 193.178.158.62/twizt
+216.158.95.183:8700/login
+85.193.68.206/angel
+85.193.68.206/reload
+ar.ahoktoto.org/b9
+ar.ahoktoto.org/cf
+ar.ahoktoto.org/dj
+ar.ahoktoto.org/eq
+ar.ahoktoto.org/ft
+ar.ahoktoto.org/ip
+ar.ahoktoto.org/j
+ar.ahoktoto.org/mx
+ar.ahoktoto.org/q
 cg.aguan11.org/f
 cg.aguan11.org/fu
 cg.aguan11.org/kw
@@ -33,18 +45,25 @@ cg.aguan11.org/yv
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-28
 
+0riyg2qe.mon-iam-espace-esa-lia.online
 4gzdhrn8.epexecutivecoaching.com
+5v8ryehz.worknernorgram.rest
 9qhklald.enfejar.casino
+akumaqqq.xyz
+et.aeon888link.org
 forbesae.com
 forgestudios.co
 gg8gdk7e.sleavepiker.com
 hrv8ks0h.urgentblue.com
+i4.bala7.org
 iz6jswi0.forbesae.com
 j0.bala7.org
 jj.bala7.org
+k0v5zt7p.verticalrewards.com
 k2im6qzv.warmwaffles.com
 koa1sb08.forgestudios.co
 l0.aeon888link.org
+ssl.cinderfetch.cc
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

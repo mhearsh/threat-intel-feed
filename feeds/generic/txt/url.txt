@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-28 06:05 UTC   Count: 176   Expiry: 30 days               #
+#  Updated: 2026-10-28 08:18 UTC   Count: 188   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,18 @@
 # 2026-10-28
 
 193.178.158.62/twizt
+216.158.95.183:8700/login
+85.193.68.206/angel
+85.193.68.206/reload
+ar.ahoktoto.org/b9
+ar.ahoktoto.org/cf
+ar.ahoktoto.org/dj
+ar.ahoktoto.org/eq
+ar.ahoktoto.org/ft
+ar.ahoktoto.org/ip
+ar.ahoktoto.org/j
+ar.ahoktoto.org/mx
+ar.ahoktoto.org/q
 cg.aguan11.org/f
 cg.aguan11.org/fu
 cg.aguan11.org/kw

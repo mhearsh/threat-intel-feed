@@ -1,4 +1,16 @@
 193.178.158.62/twizt
+216.158.95.183:8700/login
+85.193.68.206/angel
+85.193.68.206/reload
+ar.ahoktoto.org/b9
+ar.ahoktoto.org/cf
+ar.ahoktoto.org/dj
+ar.ahoktoto.org/eq
+ar.ahoktoto.org/ft
+ar.ahoktoto.org/ip
+ar.ahoktoto.org/j
+ar.ahoktoto.org/mx
+ar.ahoktoto.org/q
 cg.aguan11.org/f
 cg.aguan11.org/fu
 cg.aguan11.org/kw

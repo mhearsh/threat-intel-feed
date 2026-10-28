@@ -1,15 +1,15 @@
 description,ip,weight,first_published
+DCRat score 83 (high) added 2026-10-28,130.12.181.221,2,2026-10-28
 Unknown RAT score 83 (high) added 2026-10-28,134.122.189.138,2,2026-10-28
 Unknown Loader score 77 (high) added 2026-10-28,202.61.160.181,2,2026-10-28
 Cobaltstrike score 77 (high) added 2026-10-27,101.133.229.117,2,2026-10-27
 Remcos score 77 (high) added 2026-10-27,217.60.195.43,2,2026-10-27
 Mirai score 77 (high) added 2026-10-27,94.154.43.102,2,2026-10-27
+VShell score 74 (medium) added 2026-10-28,1.94.146.36,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,60.204.226.40,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,8.140.228.202,1,2026-10-28
 VShell score 74 (medium) added 2026-10-28,1.15.65.4,1,2026-10-28
 VShell score 74 (medium) added 2026-10-28,119.42.148.189,1,2026-10-28
 VShell score 74 (medium) added 2026-10-28,120.26.161.0,1,2026-10-28
-Drifter score 74 (medium) added 2026-10-28,138.68.134.9,1,2026-10-28
-VShell score 74 (medium) added 2026-10-28,182.16.98.83,1,2026-10-28
-VShell score 74 (medium) added 2026-10-28,182.16.98.85,1,2026-10-28
-VShell score 74 (medium) added 2026-10-28,182.16.98.88,1,2026-10-28
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22
