@@ -6,63 +6,69 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-27 21:39 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-28 06:05 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+0379a855b0902aaa73de9433070a13a2f6043a3f0e53f7ced37f1127340db30d
+0611cf61fa7ef2bab6cabd19207b0256a69a2981966b1f32691057c7dc03a433
+0659cc5f8a0461fb871daf325d5e12efd8d786c46b597d8d55268c2580fe11ca
+0a98364f1e415b44014360896e82464f1a24abf8c6e19e4b0f8a66828e74d7b9
+0aed1632019f250753752183eeb4fb696f6e6631aa5f31f58f2f3637f8b653f7
+0deb4de4d941b7a0daacef60d255571121b4aca07d85250e37351942f5066609
+0ef8ea3a72c9a1e2c6920eedf122f28435379b10c98a1bfbdf2b189110a3f1d6
+10c48a2e83d0548e839b6ad12ce2b4868b5c03ce8b072a6af21263994c9331ed
+114b69aa53a40d7702a11ff81e3fc1d7104a3132c3395f403e6033c68f181230
+116ad320c9864d6e46c8859651232ac11602cb90812c29848990de8514507e72
+119[.]42[.]148[.]189
+120[.]26[.]161[.]0
+134[.]122[.]189[.]138
+138[.]68[.]134[.]9
+169c56febc9c3d6dd6bb10f7752168ce2d47db6a1d52503d35d80e62bd09a8d7
+182[.]16[.]98[.]83
+182[.]16[.]98[.]85
+182[.]16[.]98[.]88
+191db2b7ef254a75a53aaa8bf7d4d77dab3fb3a0f1ed906321505bc6b7700987
+1[.]15[.]65[.]4
+202[.]61[.]160[.]181
+4gzdhrn8[.]epexecutivecoaching[.]com
+9qhklald[.]enfejar[.]casino
+forbesae[.]com
+forgestudios[.]co
+gg8gdk7e[.]sleavepiker[.]com
+hrv8ks0h[.]urgentblue[.]com
+hxxp://193[.]178[.]158[.]62/twizt
+hxxps://cg[.]aguan11[.]org/f/
+hxxps://cg[.]aguan11[.]org/fu/
+hxxps://cg[.]aguan11[.]org/kw/
+hxxps://cg[.]aguan11[.]org/lf/
+hxxps://cg[.]aguan11[.]org/p8/
+hxxps://cg[.]aguan11[.]org/qts/
+hxxps://cg[.]aguan11[.]org/th/
+hxxps://cg[.]aguan11[.]org/wr/
+hxxps://cg[.]aguan11[.]org/xk/
+hxxps://cg[.]aguan11[.]org/xn/
+hxxps://cg[.]aguan11[.]org/yv/
+iz6jswi0[.]forbesae[.]com
+j0[.]bala7[.]org
+jj[.]bala7[.]org
+k2im6qzv[.]warmwaffles[.]com
+koa1sb08[.]forgestudios[.]co
+l0[.]aeon888link[.]org
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-27
 
-03b805a309b790e0fcabac5752f7215f13c118219c1cfd43028dac753df7e992
-060a1f3baa65f357dacaf47e4784d9c4cf577acfacfd8cd13ee6f98d5b775957
-063de546758933e41727e8a977a112054eabf2d8ef5972bb193a695cf2e75a94
-0819fd2736ae35183e646ce54205adbfe8d8bd0fa47e015ddccf7ea3d2a92fd3
-09kg55cv[.]fazbet1[.]app
-0a2161886198c2eb5e9716f9c80ee631502963b938171a8a8c476ae6cc38d120
-0b1343a6f74d28beb79ee405d42d9b725fb7b882d3c36036c0680117154ea177
-0b41b300f906ed7bb79b33a404f970c6956514b95ca8565ff031c32b2cb030f1
-0d8edca1bfd70ee35546a0701072ec4e92669ec61a34f7547180ac2f1b5c88f1
 101[.]133[.]229[.]117
-103[.]186[.]85[.]178
-119[.]42[.]148[.]187
-1224819d1474faf94c4eb44efd328b5952fd30f247acafe3fcfad44c9e6cedd3
-139[.]196[.]239[.]236
-13[.]62[.]46[.]62
-14a08ad3c87e4842454495a943ab4e936b693c1179e8941a18683ed76b53662e
-157[.]254[.]223[.]89
-16300d8cb33ebfce56d8a188d48c5f5751303e31aa7cce357bb186d32f63c6e8
-172[.]111[.]150[.]134
-1763867b85228543f3dadabb24661074ba2d20c19e19d87937a6703d5ff8766f
-176[.]234[.]231[.]136
-182[.]16[.]98[.]82
-1[.]14[.]181[.]139
 217[.]60[.]195[.]43
-3imyvvfh[.]slavyera[.]com
-5l85t8ay[.]slotsensi138[.]org
-6l6uqen4[.]worknernorgram[.]rest
 94[.]154[.]43[.]102
-apache-update[.]csproject[.]org
-apache-update[.]ddns[.]net
-arvion[.]network
-bridge73[.]com
-coffeetocode[.]duckdns[.]org
-d4izlyh1[.]thrivingchaos[.]com
-fortwayneswoodfloorcleaner[.]com
-hxxp://cf-restapi[.]com/bmv75v9gatymn3
-hxxps://bridge73[.]com/curl/rkizur957z/jeyyhvymr85y0vzd[.]json
-hxxps://bridge73[.]com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
-hxxps://c0[.]agng11[.]org/d/
-hxxps://c0[.]agng11[.]org/di/
-hxxps://c0[.]agng11[.]org/e8/
-hxxps://c0[.]agng11[.]org/ei/
-hxxps://c0[.]agng11[.]org/fq/
-hxxps://c0[.]agng11[.]org/he6/
-hxxps://c0[.]agng11[.]org/n1/
-hxxps://c0[.]agng11[.]org/ny/
-hxxps://c0[.]agng11[.]org/r/
-i[.]bala7[.]org
 
 
 # Auto-Fetch-ThreatIntel

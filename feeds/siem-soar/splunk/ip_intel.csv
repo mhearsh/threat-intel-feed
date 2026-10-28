@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-Cobaltstrike score 83 (high) added 2026-10-27,101.133.229.117,2,2026-10-27
-Remcos score 83 (high) added 2026-10-27,217.60.195.43,2,2026-10-27
-Mirai score 83 (high) added 2026-10-27,94.154.43.102,2,2026-10-27
-Remcos score 77 (high) added 2026-10-27,172.111.150.134,2,2026-10-27
-VShell score 74 (medium) added 2026-10-27,1.14.181.139,1,2026-10-27
-VShell score 74 (medium) added 2026-10-27,103.186.85.178,1,2026-10-27
-VShell score 74 (medium) added 2026-10-27,119.42.148.187,1,2026-10-27
-Havoc score 74 (medium) added 2026-10-27,13.62.46.62,1,2026-10-27
-VShell score 74 (medium) added 2026-10-27,139.196.239.236,1,2026-10-27
-Unknown RAT score 74 (medium) added 2026-10-27,157.254.223.89,1,2026-10-27
-Unknown malware score 74 (medium) added 2026-10-27,176.234.231.136,1,2026-10-27
-VShell score 74 (medium) added 2026-10-27,182.16.98.82,1,2026-10-27
+Unknown RAT score 83 (high) added 2026-10-28,134.122.189.138,2,2026-10-28
+Unknown Loader score 77 (high) added 2026-10-28,202.61.160.181,2,2026-10-28
+Cobaltstrike score 77 (high) added 2026-10-27,101.133.229.117,2,2026-10-27
+Remcos score 77 (high) added 2026-10-27,217.60.195.43,2,2026-10-27
+Mirai score 77 (high) added 2026-10-27,94.154.43.102,2,2026-10-27
+VShell score 74 (medium) added 2026-10-28,1.15.65.4,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,119.42.148.189,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,120.26.161.0,1,2026-10-28
+Drifter score 74 (medium) added 2026-10-28,138.68.134.9,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,182.16.98.83,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,182.16.98.85,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,182.16.98.88,1,2026-10-28
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

@@ -6,9 +6,45 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-27 21:39 UTC   Count: 335   Expiry: 30 days               #
+#  Updated: 2026-10-28 06:05 UTC   Count: 359   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-28
+
+193.178.158.62/twizt
+cg.aguan11.org/f
+cg.aguan11.org/fu
+cg.aguan11.org/kw
+cg.aguan11.org/lf
+cg.aguan11.org/p8
+cg.aguan11.org/qts
+cg.aguan11.org/th
+cg.aguan11.org/wr
+cg.aguan11.org/xk
+cg.aguan11.org/xn
+cg.aguan11.org/yv
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-28
+
+4gzdhrn8.epexecutivecoaching.com
+9qhklald.enfejar.casino
+forbesae.com
+forgestudios.co
+gg8gdk7e.sleavepiker.com
+hrv8ks0h.urgentblue.com
+iz6jswi0.forbesae.com
+j0.bala7.org
+jj.bala7.org
+k2im6qzv.warmwaffles.com
+koa1sb08.forgestudios.co
+l0.aeon888link.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-27 21:39 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-28 06:05 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "134.122.189.138", "ip", "Unknown RAT", datetime(2026-10-28T06:05:17Z),
+    "202.61.160.181", "ip", "Unknown Loader", datetime(2026-10-28T06:05:17Z),
+    "1.15.65.4", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
+    "119.42.148.189", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
+    "120.26.161.0", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
+    "138.68.134.9", "ip", "Drifter", datetime(2026-10-28T06:05:17Z),
+    "182.16.98.83", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
+    "182.16.98.85", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
+    "182.16.98.88", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
+    "4gzdhrn8.epexecutivecoaching.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "9qhklald.enfejar.casino", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "forbesae.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "forgestudios.co", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "gg8gdk7e.sleavepiker.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "hrv8ks0h.urgentblue.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "iz6jswi0.forbesae.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "j0.bala7.org", "domain", "Vidar", datetime(2026-10-28T06:05:17Z),
+    "jj.bala7.org", "domain", "Vidar", datetime(2026-10-28T06:05:17Z),
+    "k2im6qzv.warmwaffles.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "koa1sb08.forgestudios.co", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
+    "l0.aeon888link.org", "domain", "Vidar", datetime(2026-10-28T06:05:17Z),
     "101.133.229.117", "ip", "Cobaltstrike", datetime(2026-10-27T21:39:41Z),
     "217.60.195.43", "ip", "Remcos", datetime(2026-10-27T21:39:41Z),
     "94.154.43.102", "ip", "Mirai", datetime(2026-10-27T21:39:41Z),
-    "09kg55cv.fazbet1.app", "domain", "ClearFake", datetime(2026-10-27T21:39:41Z),
-    "1.14.181.139", "ip", "VShell", datetime(2026-10-27T21:39:41Z),
-    "103.186.85.178", "ip", "VShell", datetime(2026-10-27T21:39:41Z),
-    "119.42.148.187", "ip", "VShell", datetime(2026-10-27T21:39:41Z),
-    "13.62.46.62", "ip", "Havoc", datetime(2026-10-27T21:39:41Z),
-    "139.196.239.236", "ip", "VShell", datetime(2026-10-27T21:39:41Z),
-    "157.254.223.89", "ip", "Unknown RAT", datetime(2026-10-27T21:39:41Z),
-    "176.234.231.136", "ip", "Unknown malware", datetime(2026-10-27T21:39:41Z),
-    "182.16.98.82", "ip", "VShell", datetime(2026-10-27T21:39:41Z),
-    "3imyvvfh.slavyera.com", "domain", "ClearFake", datetime(2026-10-27T21:39:41Z),
-    "5l85t8ay.slotsensi138.org", "domain", "ClearFake", datetime(2026-10-27T21:39:41Z),
-    "6l6uqen4.worknernorgram.rest", "domain", "ClearFake", datetime(2026-10-27T21:39:41Z),
-    "apache-update.csproject.org", "domain", "Tsunami", datetime(2026-10-27T21:39:41Z),
-    "apache-update.ddns.net", "domain", "Tsunami", datetime(2026-10-27T21:39:41Z),
-    "arvion.network", "domain", "Unknown RAT", datetime(2026-10-27T21:39:41Z),
-    "bridge73.com", "domain", "AMOS", datetime(2026-10-27T21:39:41Z),
-    "coffeetocode.duckdns.org", "domain", "XoriumStealer", datetime(2026-10-27T21:39:41Z),
-    "d4izlyh1.thrivingchaos.com", "domain", "ClearFake", datetime(2026-10-27T21:39:41Z),
-    "fortwayneswoodfloorcleaner.com", "domain", "StrelaStealer", datetime(2026-10-27T21:39:41Z),
-    "i.bala7.org", "domain", "Vidar", datetime(2026-10-27T21:39:41Z),
-    "172.111.150.134", "ip", "Remcos", datetime(2026-10-27T03:12:48Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

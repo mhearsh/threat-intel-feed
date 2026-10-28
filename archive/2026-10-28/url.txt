@@ -1,0 +1,218 @@
+###############################################################################
+#                                                                             #
+#                              MALICIOUS URL FEED                             #
+#             Phishing / Malware Delivery URLs (threat-intel-feed)            #
+#                                                                             #
+#  Purpose: IOC - Malicious URL collection (score >= 50)                      #
+#  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
+#  Usage:   Web proxy / firewall URL EDL                                      #
+#  Updated: 2026-10-28 06:05 UTC   Count: 176   Expiry: 30 days               #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-28
+
+193.178.158.62/twizt
+cg.aguan11.org/f
+cg.aguan11.org/fu
+cg.aguan11.org/kw
+cg.aguan11.org/lf
+cg.aguan11.org/p8
+cg.aguan11.org/qts
+cg.aguan11.org/th
+cg.aguan11.org/wr
+cg.aguan11.org/xk
+cg.aguan11.org/xn
+cg.aguan11.org/yv
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-27
+
+a.agia4d.org/b1
+a.agia4d.org/dmy
+a.agia4d.org/j
+a.agia4d.org/k
+a.agia4d.org/k4
+a.agia4d.org/ov
+a.agia4d.org/rk
+a.agia4d.org/rr
+a.agia4d.org/s2i
+a.agia4d.org/sv
+a.agia4d.org/t
+a.agia4d.org/u
+amf.agia4d.org/dm
+amf.agia4d.org/hq
+amf.agia4d.org/ht
+amf.agia4d.org/kr
+amf.agia4d.org/ocs
+amf.agia4d.org/r7
+amf.agia4d.org/sb
+amf.agia4d.org/tl
+amf.agia4d.org/xf
+amf.agia4d.org/y
+b.agitawin.org/e
+b.agitawin.org/ft
+b.agitawin.org/ga
+b.agitawin.org/gr
+b.agitawin.org/h0k
+b.agitawin.org/ho
+b.agitawin.org/jc
+b.agitawin.org/q
+b.agitawin.org/t1
+b.agitawin.org/v7
+b.agitawin.org/z1
+b.ayu99.pro/t
+b.ayu99.pro/x
+bridge73.com/curl/rkizur957z/jeyyhvymr85y0vzd.json
+bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
+c0.agng11.org/d
+c0.agng11.org/di
+c0.agng11.org/e8
+c0.agng11.org/ei
+c0.agng11.org/fq
+c0.agng11.org/he6
+c0.agng11.org/n1
+c0.agng11.org/ny
+c0.agng11.org/r
+cf-restapi.com/bmv75v9gatymn3
+cu789179.tw1.ru/ca113cf1.php
+kj.agitawin.org/ah
+kj.agitawin.org/d
+kj.agitawin.org/gb
+kj.agitawin.org/hv
+kj.agitawin.org/ix
+kj.agitawin.org/m6
+kj.agitawin.org/xp
+kj.agitawin.org/z7
+kj.agitawin.org/zz
+q4.agitawin.org/ed
+q4.agitawin.org/hg
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-26
+
+104.238.149.90/login
+16.5.0.150:8080/q4w8z.x86
+94.154.43.195/bins/arm
+94.154.43.195/bins/arm5
+ac.agenpr.org/b
+ac.agenpr.org/ea
+ac.agenpr.org/fn
+ac.agenpr.org/ft
+ac.agenpr.org/fv
+ac.agenpr.org/pg
+ac.agenpr.org/pl
+ac.agenpr.org/t
+ac.agenpr.org/tf
+ac.agenpr.org/ty
+ac.agenpr.org/ue
+b.ayu99.pro/k
+chant66.com/curl/4c0rmvw61d6/q1sfb31ar08qqofqjduay.dat
+chant66.com/f/nt5ax1_btyoxzizb9whm9q/nuyar9lb
+dk.agia4d.org/n
+dk.agia4d.org/ob
+dk.agia4d.org/pmz
+dk.agia4d.org/vn
+e.ayu99.pro/c
+e.ayu99.pro/h
+e.ayu99.pro/s
+f.agenplay89.org/bq
+f.agenplay89.org/cv
+f.agenplay89.org/cx
+f.agenplay89.org/dd
+f.agenplay89.org/e0x
+f.agenplay89.org/ki
+f.agenplay89.org/lx
+f.agenplay89.org/o
+f.agenplay89.org/qx
+f.agenplay89.org/t
+f.agenplay89.org/t3
+f.agenplay89.org/t9
+g.agenplay89.org/zn
+garden-82.com/curl/c7d2xn1k0/fmv7bafu0t42u1byn1.dat
+garden-82.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
+h4.agenplay89.org/bl
+h4.agenplay89.org/cy
+h4.agenplay89.org/ho
+h4.agenplay89.org/jo
+h4.agenplay89.org/jp
+h4.agenplay89.org/mn
+h4.agenplay89.org/ob
+h4.agenplay89.org/qf
+h4.agenplay89.org/rp
+h4.agenplay89.org/up
+h4.agenplay89.org/z9
+h4.agenplay89.org/zb
+i.amo98.org/f
+i.amo98.org/l
+kavasa8f.beget.tech/L1nc0In.php
+lr.agenpr.org/c4
+lr.agenpr.org/e66
+lr.agenpr.org/fy
+lr.agenpr.org/gi
+lr.agenpr.org/ja
+lr.agenpr.org/k0b
+lr.agenpr.org/kk
+lr.agenpr.org/p
+lr.agenpr.org/pj
+lr.agenpr.org/u6
+lr.agenpr.org/x
+m.agenpr.org/ck
+m.agenpr.org/i
+m.agenpr.org/jt
+m.agenpr.org/l
+m.agenpr.org/mh
+m.agenpr.org/nz
+m.agenpr.org/ol
+pm.agenpr.org/m4
+pm.agenpr.org/r56
+pm.agenpr.org/w
+pm.agenpr.org/x
+pt.agenpr.org/a
+qtr.agenpr.org/b7
+qtr.agenpr.org/cb
+qtr.agenpr.org/egs
+qtr.agenpr.org/h4
+qtr.agenpr.org/j4
+qtr.agenpr.org/kcv
+tx.abad777.org/r
+wx.agenpr.org/bb
+wx.agenpr.org/d2
+wx.agenpr.org/df
+wx.agenpr.org/f
+
+
+# Auto-Fetch-ThreatIntel
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-25
+
+bitfinance.live/cgi-sys/defaultwebpage.cgi
+nest-52.com/curl/qwafbxxe971/re5qltb29l0wle432.txt
+nest-52.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
+v.amo98.org/x
+zen.ayxandevgang.workers.dev/m/license-20260928125936-24d9
+
+
+# Auto-Fetch-ThreatIntel
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-24
+
+160.119.66.206/bins/net.arc
+196.251.107.186/8jdjZhdf7/index.php
+becheglokevevetoglo.beiksk.my.id/win/index.php?vq=p3XT5sNwHLY0JhBAxOGqE2dNbXFDMGZsWERNelRTWTh6V1BFUXlINTZQWnpqb2lHVGFIZ0wyTlB0bGlCSUFyOE9RdGxkbmpFTHc1U3A3dFZMUzN0MUdJZkhFWDY1c3U0YjU4cDdRKytsc2U0dC84eCtDb0tseTdqcGhML3lYQ0haZDF3ZVhMNXdBU1RUWmIyR3E3WUtYTCtHUFVDS0RsaGFtOFI1bjVIV2ZVbk9zN045WVhhdlF4WjIrQldHdVEwbjFCdDU4bHdHcVFEQUgvSw==
+bzf168.com/loader.ps1
+indigo-finch-misgoaen.life/t.js?site=07c3730c3a7e0cdc33104bbd16e756a9
+mesa-zaimmuen.life/t.js?site=22bb70d66057a56d34dc29c5b847ae83
+orienttaxtile.com/tues/crypted.ps1
+petal2380.pages.dev/win/index.php?vq=dC9lIgV5hOV093/k8lLF6jRCWG1OQ25vaDlCbU9vSmVlaDlBN3JYWXowek8wMENYZ0JMN3UzaVJVdWdqNFpMalJtRU5WalE1RVV4QnBDMEE4R29Da1oyamtQa21xQ01ZdCtaTGIybjhzQlN3T2tLT28rMy9pU1FDSGxWcWxkam9lVUtHY1JSa3NKdm0vTzZQVkF4L0FscDNFOHdkalZ6Smg2Y1lYZzBWM045dDlQMVJJOWNjVFJRU3VsU2Uwd2RxeGRjWkdLNTBsZjh4RnJ2TA==
+pixxarting21.life/t.js?site=8877e14b1cd4aa573aea550c2ae9c73d
+satin-burst19.pages.dev/win/index.php?vq=nxsYfEh3AmI4Wjjxn7UwD1FtbWJnMGE1WkFoODN4d1ZaTy9LSlVSMXE0L25QQTR5TnR3Q3lqcVdLY201ZUtEMVNPNXpKcjRrSE4zeEZLUzQvT3R3QXQ2aWFWVXZ1bzJISWRscVhuVXg5eG9nL2w4TmNpckpneCtrRzZONTFiaFVrb0FxNzF0dSswbjFydEw0V3QwTENwZkk5VW02ZlVLcktZeUlWRmZLOENja2JlYVphK2NJblBhZmFPQStNK2ZLYndvNGl0ZXd3N0V0Q3ZpUQ==
+vivid-roam-cove-gleon.life/t.js?site=7f469927630a01245c8e1125bfe9f9cc
+

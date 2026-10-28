@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-27 21:39 UTC",
+ "updated": "2026-10-28 06:05 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
   "critical": 2,
-  "high": 4,
-  "medium": 44
+  "high": 5,
+  "medium": 43
  },
- "fresh_6h": 47,
+ "fresh_6h": 45,
  "hashes": {
-  "sha256": 3907,
+  "sha256": 4118,
   "sha1": 311,
   "md5": 314
  },
- "hash_count": 4532,
+ "hash_count": 4743,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -21,21 +21,21 @@
   "url": 12
  },
  "families": {
-  "AMOS": 13,
-  "Vidar": 10,
-  "ClearFake": 5,
-  "VShell": 5,
-  "Unknown malware": 3,
-  "Remcos": 2,
-  "Unknown RAT": 2,
-  "Tsunami": 2,
+  "Vidar": 14,
+  "AMOS": 10,
+  "ClearFake": 9,
+  "VShell": 6,
+  "Unknown malware": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
-  "Cobaltstrike": 1
+  "Unknown RAT": 1,
+  "Unknown Loader": 1,
+  "Cobaltstrike": 1,
+  "Remcos": 1
  },
  "sources": {
-  "C2IntelFeeds": 1,
+  "Spamhaus-DROP": 4,
   "ThreatFox": 48,
-  "Spamhaus-DROP": 3,
+  "C2IntelFeeds": 1,
   "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199": 2
  }
 }

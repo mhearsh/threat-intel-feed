@@ -1,0 +1,51 @@
+Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+134.122.189.138,ip,Unknown RAT,83,high,"T1071, T1105",2026-10-28T06:05:17Z
+202.61.160.181,ip,Unknown Loader,77,high,"T1071, T1105",2026-10-28T06:05:17Z
+101.133.229.117,ip,Cobaltstrike,77,high,"T1071, T1105",2026-10-27T21:39:41Z
+217.60.195.43,ip,Remcos,77,high,"T1071, T1105",2026-10-27T21:39:41Z
+94.154.43.102,ip,Mirai,77,high,"T1071, T1105",2026-10-27T21:39:41Z
+0379a855b0902aaa73de9433070a13a2f6043a3f0e53f7ced37f1127340db30d,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+0611cf61fa7ef2bab6cabd19207b0256a69a2981966b1f32691057c7dc03a433,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+0659cc5f8a0461fb871daf325d5e12efd8d786c46b597d8d55268c2580fe11ca,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+0a98364f1e415b44014360896e82464f1a24abf8c6e19e4b0f8a66828e74d7b9,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+0aed1632019f250753752183eeb4fb696f6e6631aa5f31f58f2f3637f8b653f7,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+0deb4de4d941b7a0daacef60d255571121b4aca07d85250e37351942f5066609,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+0ef8ea3a72c9a1e2c6920eedf122f28435379b10c98a1bfbdf2b189110a3f1d6,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+1.15.65.4,ip,VShell,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+10c48a2e83d0548e839b6ad12ce2b4868b5c03ce8b072a6af21263994c9331ed,sha256,Unknown malware,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+114b69aa53a40d7702a11ff81e3fc1d7104a3132c3395f403e6033c68f181230,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+116ad320c9864d6e46c8859651232ac11602cb90812c29848990de8514507e72,sha256,Unknown malware,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+119.42.148.189,ip,VShell,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+120.26.161.0,ip,VShell,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+138.68.134.9,ip,Drifter,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+169c56febc9c3d6dd6bb10f7752168ce2d47db6a1d52503d35d80e62bd09a8d7,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+182.16.98.83,ip,VShell,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+182.16.98.85,ip,VShell,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+182.16.98.88,ip,VShell,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+191db2b7ef254a75a53aaa8bf7d4d77dab3fb3a0f1ed906321505bc6b7700987,sha256,AMOS,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+4gzdhrn8.epexecutivecoaching.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+9qhklald.enfejar.casino,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+forbesae.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+forgestudios.co,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+gg8gdk7e.sleavepiker.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+hrv8ks0h.urgentblue.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+http://193.178.158.62/twizt,url,Phorpiex,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/f/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/fu/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/kw/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/lf/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/p8/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/qts/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/th/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/wr/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/xk/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/xn/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+https://cg.aguan11.org/yv/,url,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+iz6jswi0.forbesae.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+j0.bala7.org,domain,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+jj.bala7.org,domain,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+k2im6qzv.warmwaffles.com,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+koa1sb08.forgestudios.co,domain,ClearFake,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+l0.aeon888link.org,domain,Vidar,74,medium,"T1071, T1105",2026-10-28T06:05:17Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

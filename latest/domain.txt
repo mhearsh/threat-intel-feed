@@ -6,9 +6,27 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-27 21:39 UTC   Count: 171   Expiry: 30 days               #
+#  Updated: 2026-10-28 06:05 UTC   Count: 183   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-28
+
+4gzdhrn8.epexecutivecoaching.com
+9qhklald.enfejar.casino
+forbesae.com
+forgestudios.co
+gg8gdk7e.sleavepiker.com
+hrv8ks0h.urgentblue.com
+iz6jswi0.forbesae.com
+j0.bala7.org
+jj.bala7.org
+k2im6qzv.warmwaffles.com
+koa1sb08.forgestudios.co
+l0.aeon888link.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
