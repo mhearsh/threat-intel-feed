@@ -6,9 +6,9 @@
 130.12.181.221:DCRat added 2026-10-28
 134.122.189.138:Unknown RAT added 2026-10-28
 101.133.229.117:Cobaltstrike added 2026-10-27
+144.31.59.27:Jackskid added 2026-10-28
 20.199.40.109:Quasar RAT added 2026-10-28
 45.43.37.232:VShell added 2026-10-28
 64.118.134.192:VShell added 2026-10-28
-111.90.150.193:Stealc added 2026-10-28
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

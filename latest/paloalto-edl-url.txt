@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-28 16:27 UTC   Count: 453   Expiry: 30 days               #
+#  Updated: 2026-10-28 18:37 UTC   Count: 468   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,7 @@
 # 2026-10-28
 
 193.178.158.62/twizt
+209.97.190.241/GhoStmOOd/inc/1f24a95b06868e.php
 216.158.95.183:8700/login
 85.193.68.206/angel
 85.193.68.206/reload
@@ -55,6 +56,13 @@ champion-casino-pzy.buzz/:43
 cr.ahoktoto.org/aa
 cr.ahoktoto.org/gxt
 cr.ahoktoto.org/u4
+dm.aidolai33.org/f
+dm.aidolai33.org/i7
+dm.aidolai33.org/m
+dm.aidolai33.org/ngr
+dm.aidolai33.org/pu
+dm.aidolai33.org/rt
+dm.aidolai33.org/x7
 fq.ahoktoto.org/a9m
 fq.ahoktoto.org/ci
 fq.ahoktoto.org/fp
@@ -62,6 +70,10 @@ fq.ahoktoto.org/k6
 fq.ahoktoto.org/kw
 fq.ahoktoto.org/lf
 fq.ahoktoto.org/oc
+igt.aidolai33.org/cd
+igt.aidolai33.org/ea
+igt.aidolai33.org/gs
+igt.aidolai33.org/jb
 jp.ahoktoto.org/h
 jp.ahoktoto.org/vh
 jp.ahoktoto.org/ya
@@ -121,7 +133,10 @@ n0n-cases.net
 n0n.to
 nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 os.aeon888link.org
+otlosushi.com
+paringenieria.es
 q.bamto.org
+r.bamto.org
 rj9fhzwl.antava.store
 sail91.com
 sassafrastell.org

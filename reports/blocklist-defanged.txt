@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-28 16:27 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-28 18:37 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,53 +15,53 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-28
 
-02e1fb58d1807275a96369666bc7f5405beff334bdf5ab8a244411688f380a7a
 109[.]238[.]86[.]106
-111[.]90[.]150[.]193
 130[.]12[.]181[.]221
 134[.]122[.]189[.]138
+138f6af192d10bc49d6704a49bd6f0d17fd73e5f309e2a0197fc40c90faec6a9
+144[.]31[.]59[.]27
+147385f3b05cd2a704a42fdc7ea2f7ea3b00c00825fd998483130fc708ac1d40
 1a6m3e8e[.]ased[.]store
 20[.]199[.]40[.]109
 23[.]94[.]252[.]54
-3e280d77733c04ec3e605d51060d998ca173f53d32596ad0cb508b3985e80d6d
-3e58eab0e9c17f460b91e9ce381fec9dcf628b91fb7cd4d0de58881b3e71a199
+34438a4b101d9ce72ac49534e7b96a2e6f5618bc93fa267512468c780348b70a
+36af6df3ae52b0d20eca851a096dd178e317d0cecb573926b439aa967e123f8a
 45[.]43[.]37[.]232
-4876970acebec6d83179b6aa62f7dd44e84039e2fce1d2aa6e50c62a188da400
-4fa4c8571235def307188b795561272d7d27fa7a63ed162b5d43c094d8af4b40
-578f29011090f3dccc8029a36e47bd3c49a26b41c64152eca79f3230b39a6902
-581e54e7a8d40ef7aaa51f1b98db49debac5fb97da25cdee4b002e72e8ddfc75
-5cc45c32691acd3f9b7bbd3c2fa5fa8318534a0563045b23d2677821ce23af7b
+4744039f9723cf12b6134bbcf6c113bf48e87912d7dea98d61b10bf8253cabec
+5bf1d2e3507431fb40aa04cd205114bc8e59114fa08aa472db5fd7694270d92a
+5c667c3d494177d48ced1f7668075855d36a6fca7092875d8fb210ef7f010302
+5ca6bd4ea1667212a423ee9d25fdbf556384e7791265d62db4ce41805c48b3cc
+61b63ef2f50ca47d7628a4797d1224595cc62882ec1ce6ec3b7fed90e4e1bf1a
 64[.]118[.]134[.]192
-66afbcd9aa56025f2b948acce346bbfed4e1f999673d91062bec28a619e89e59
-70f64c758cc17362e3704acf297e9b8115e585bb055e67c742ef304fc6606c8e
-73ccd55e8e355e9db24034a008dee2a12287ed208b6fec26aaa21abd0b0530cf
-75e9afec4cb13695ffe32da53f15db00d2ab2f0fb00f0d61d330c90db2793f97
+6c4ee3cc72c8dacdb722f32f11e90ff2ee6ed5fdace13d0a2ba4bb226427fe53
 7n1cvrut[.]fazbet1[.]app
+810884190cff617a7387aeea36505f2c0f3e81562b328eaca311cae0a0bd733e
+83dd1fc9099fa89534ea0e8df38caa71a9cc1c1e6fee374d926ecb80bd159923
 87[.]120[.]104[.]161
 87[.]120[.]104[.]209
 94[.]26[.]0[.]120
 a2rf9er0[.]bossbaba[.]store
 fazbet1[.]app
-hxxps://c[.]aidolai33[.]org/c9/
-hxxps://c[.]aidolai33[.]org/ct/
-hxxps://c[.]aidolai33[.]org/jp/
-hxxps://c[.]aidolai33[.]org/l/
-hxxps://c[.]aidolai33[.]org/lj/
-hxxps://c[.]aidolai33[.]org/ls5/
-hxxps://c[.]aidolai33[.]org/m4/
-hxxps://c[.]aidolai33[.]org/mp/
-hxxps://c[.]aidolai33[.]org/p9/
-hxxps://c[.]aidolai33[.]org/swh/
-hxxps://c[.]aidolai33[.]org/xc/
-hxxps://c[.]aidolai33[.]org/yy/
+hxxp://209[.]97[.]190[.]241/GhoStmOOd/inc/1f24a95b06868e[.]php
+hxxps://dm[.]aidolai33[.]org/f/
+hxxps://dm[.]aidolai33[.]org/i7/
+hxxps://dm[.]aidolai33[.]org/m/
+hxxps://dm[.]aidolai33[.]org/ngr/
+hxxps://dm[.]aidolai33[.]org/pu/
+hxxps://dm[.]aidolai33[.]org/rt/
+hxxps://dm[.]aidolai33[.]org/x7/
+hxxps://igt[.]aidolai33[.]org/cd/
+hxxps://igt[.]aidolai33[.]org/ea/
+hxxps://igt[.]aidolai33[.]org/gs/
+hxxps://igt[.]aidolai33[.]org/jb/
 lb[.]heronpull[.]cc
 lift50[.]com
 montanari[.]lol
 os[.]aeon888link[.]org
+otlosushi[.]com
+paringenieria[.]es
+r[.]bamto[.]org
 sail91[.]com
-sguf571h[.]bossbeyburda[.]xyz
-t-smc[.]top
-www[.]lirosseafood[.]gr
 
 
 # Auto-Fetch-ThreatIntel

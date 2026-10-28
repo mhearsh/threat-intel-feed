@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-28 16:27 UTC   Count: 227   Expiry: 30 days               #
+#  Updated: 2026-10-28 18:37 UTC   Count: 230   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -53,7 +53,10 @@ n0n-cases.net
 n0n.to
 nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 os.aeon888link.org
+otlosushi.com
+paringenieria.es
 q.bamto.org
+r.bamto.org
 rj9fhzwl.antava.store
 sail91.com
 sassafrastell.org
