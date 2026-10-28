@@ -1,10 +1,21 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-28 08:18 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-28 10:20 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "159.223.89.103", "ip", "Drifter", datetime(2026-10-28T10:02:53Z),
+    "217.60.242.27", "ip", "Aisuru", datetime(2026-10-28T10:02:53Z),
+    "49.234.181.30", "ip", "Cobalt Strike", datetime(2026-10-28T10:02:53Z),
+    "admin.model-point.click", "domain", "RevStealer", datetime(2026-10-28T10:02:53Z),
+    "g9h533a0.georgelounge.bar", "domain", "ClearFake", datetime(2026-10-28T10:02:53Z),
+    "georgelounge.bar", "domain", "ClearFake", datetime(2026-10-28T10:02:53Z),
+    "health3.flex-haven.click", "domain", "RevStealer", datetime(2026-10-28T10:02:53Z),
+    "n0n-cases.net", "domain", "Unknown malware", datetime(2026-10-28T10:02:53Z),
+    "n0n.to", "domain", "Unknown malware", datetime(2026-10-28T10:02:53Z),
+    "nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion", "domain", "Unknown malware", datetime(2026-10-28T10:02:53Z),
+    "trace9.web-nest.xyz", "domain", "RevStealer", datetime(2026-10-28T10:02:53Z),
     "130.12.181.221", "ip", "DCRat", datetime(2026-10-28T08:18:53Z),
     "0riyg2qe.mon-iam-espace-esa-lia.online", "domain", "ClearFake", datetime(2026-10-28T08:18:53Z),
     "1.94.146.36", "ip", "VShell", datetime(2026-10-28T08:18:53Z),
@@ -13,19 +24,8 @@ let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublishe
     "8.140.228.202", "ip", "VShell", datetime(2026-10-28T08:18:53Z),
     "akumaqqq.xyz", "domain", "Unknown Stealer", datetime(2026-10-28T08:18:53Z),
     "et.aeon888link.org", "domain", "Vidar", datetime(2026-10-28T08:18:53Z),
-    "i4.bala7.org", "domain", "Vidar", datetime(2026-10-28T08:18:53Z),
-    "k0v5zt7p.verticalrewards.com", "domain", "ClearFake", datetime(2026-10-28T08:18:53Z),
-    "ssl.cinderfetch.cc", "domain", "NeedleStealer", datetime(2026-10-28T08:18:53Z),
     "134.122.189.138", "ip", "Unknown RAT", datetime(2026-10-28T06:05:17Z),
     "202.61.160.181", "ip", "Unknown Loader", datetime(2026-10-28T06:05:17Z),
-    "1.15.65.4", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
-    "119.42.148.189", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
-    "120.26.161.0", "ip", "VShell", datetime(2026-10-28T06:05:17Z),
-    "4gzdhrn8.epexecutivecoaching.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
-    "9qhklald.enfejar.casino", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
-    "forbesae.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
-    "forgestudios.co", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
-    "gg8gdk7e.sleavepiker.com", "domain", "ClearFake", datetime(2026-10-28T06:05:17Z),
     "101.133.229.117", "ip", "Cobaltstrike", datetime(2026-10-27T21:39:41Z),
     "217.60.195.43", "ip", "Remcos", datetime(2026-10-27T21:39:41Z),
     "94.154.43.102", "ip", "Mirai", datetime(2026-10-27T21:39:41Z),

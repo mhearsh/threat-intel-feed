@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-28 08:18 UTC   Count: 190   Expiry: 30 days               #
+#  Updated: 2026-10-28 10:20 UTC   Count: 198   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -19,11 +19,15 @@
 4gzdhrn8.epexecutivecoaching.com
 5v8ryehz.worknernorgram.rest
 9qhklald.enfejar.casino
+admin.model-point.click
 akumaqqq.xyz
 et.aeon888link.org
 forbesae.com
 forgestudios.co
+g9h533a0.georgelounge.bar
+georgelounge.bar
 gg8gdk7e.sleavepiker.com
+health3.flex-haven.click
 hrv8ks0h.urgentblue.com
 i4.bala7.org
 iz6jswi0.forbesae.com
@@ -33,7 +37,11 @@ k0v5zt7p.verticalrewards.com
 k2im6qzv.warmwaffles.com
 koa1sb08.forgestudios.co
 l0.aeon888link.org
+n0n-cases.net
+n0n.to
+nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 ssl.cinderfetch.cc
+trace9.web-nest.xyz
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

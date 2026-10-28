@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-28 08:18 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 45 first seen under 6h ago. File-hash feed: 4184 SHA-256 · 311 SHA-1 · 314 MD5._
+_Last update: 2026-10-28 10:20 UTC. 50 IOCs (ip: 14, sha256: 12, url: 12, domain: 12); 45 first seen under 6h ago. File-hash feed: 4243 SHA-256 · 312 SHA-1 · 314 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -121,15 +121,15 @@ _Last update: 2026-10-28 08:18 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 | 4 | `101[.]133[.]229[.]117` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
 | 5 | `217[.]60[.]195[.]43` | ip | Remcos | 77 | high | T1071, T1105 |
 | 6 | `94[.]154[.]43[.]102` | ip | Mirai | 77 | high | T1071, T1105 |
-| 7 | `03a09ced75a8a506159f44d409cc95eec4d0bbc360164fc80bb9580aac00` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `07daf9070e1a86b96fbbd55b655a04bafd8ac8be81a0dcb126bf0dc77d38` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `09e94a848e973eca911b10832b020f98f6325e4118387c4c117eb578e4ad` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `0cd48009def685653e1227ff6ef2ec07ed43aa6baa80444fdc4ca8c7e8b4` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `0riyg2qe[.]mon-iam-espace-esa-lia[.]online` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 12 | `1[.]94[.]146[.]36` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `1be8fa32f3352a7a6ec520ed39328f886f15796ff8290f980e7cc2936099` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `224b29b4a505df4bff072b64d030d6b7a9b5948a0fd3285ecd6e17ea2368` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `2632867386186be5e4488386c139db1b7bd6cf4d37ebf188035986e631d2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `1b84048738d5b071cb82afde08c73f0acd5a9c0bd737d82dc43ffa42ba24` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `41daa7f39a7ffe3f7b39502b155f14dcf9d3fa6c345e990ac4651d7e94df` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `439bfe15f59d1e40fe0f91d9dd1b9dadab92ddf38d10a80b798d84d8365e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `494c462390afa798d4579fc8f337fac3e6243019e17cd4a28fe02ab0713a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `a35d24fcaf8f6b26468329a32819ed0151eae7d90f59e7427632b6f1be6d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `hxxps://jp[.]ahoktoto[.]org/h/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 13 | `hxxps://jp[.]ahoktoto[.]org/vh/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 14 | `hxxps://jp[.]ahoktoto[.]org/ya/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 15 | `02923d33715e20cf48580a2138d508f9caed730cc7ef4d0d9a49e4015096` | sha256 | Unknown malware | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

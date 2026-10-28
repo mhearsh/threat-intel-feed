@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-28 08:18 UTC   Count: 188   Expiry: 30 days               #
+#  Updated: 2026-10-28 10:20 UTC   Count: 203   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -39,6 +39,21 @@ cg.aguan11.org/wr
 cg.aguan11.org/xk
 cg.aguan11.org/xn
 cg.aguan11.org/yv
+jp.ahoktoto.org/h
+jp.ahoktoto.org/vh
+jp.ahoktoto.org/ya
+x.ahoktoto.org/a2
+x.ahoktoto.org/ag
+x.ahoktoto.org/b
+x.ahoktoto.org/d7
+x.ahoktoto.org/j
+x.ahoktoto.org/l5
+x.ahoktoto.org/mg
+x.ahoktoto.org/nx
+x.ahoktoto.org/o8
+x.ahoktoto.org/re
+x.ahoktoto.org/tz
+x.ahoktoto.org/z
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

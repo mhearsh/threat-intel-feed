@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-28 08:18 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-28 10:20 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,51 +15,51 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-28
 
-03a09ced75a8a506159f44d409cc95eec4d0bbc360164fc80bb9580aac00905d
-07daf9070e1a86b96fbbd55b655a04bafd8ac8be81a0dcb126bf0dc77d385dad
-09e94a848e973eca911b10832b020f98f6325e4118387c4c117eb578e4ad6a53
-0cd48009def685653e1227ff6ef2ec07ed43aa6baa80444fdc4ca8c7e8b4c971
+02923d33715e20cf48580a2138d508f9caed730cc7ef4d0d9a49e401509605c8
+049de2fd1f787f05070f15b94899a8d634830a4cd840ab66738d8bbcb550b843
+0730ec0f8c1996d21536984bf2d51f04f6b659070c4b61e8934de44365a3a0e4
 0riyg2qe[.]mon-iam-espace-esa-lia[.]online
-119[.]42[.]148[.]189
-120[.]26[.]161[.]0
 130[.]12[.]181[.]221
 134[.]122[.]189[.]138
-1[.]15[.]65[.]4
+159[.]223[.]89[.]103
+192a5cc51a3b6c9066c8873a0cbfea6a191101a74ff7dbb4937d58b6502bb502
 1[.]94[.]146[.]36
-1be8fa32f3352a7a6ec520ed39328f886f15796ff8290f980e7cc29360990227
+1adab9a916b40c76f0cce25ebcb0e9d32889dcea5e31ccd29807c5ba51981fe7
+1b84048738d5b071cb82afde08c73f0acd5a9c0bd737d82dc43ffa42ba24d4c7
+1bb0381736e208a693be257e908295ce97a82e8c052e75495581002739a191da
 202[.]61[.]160[.]181
-224b29b4a505df4bff072b64d030d6b7a9b5948a0fd3285ecd6e17ea2368bdce
-2632867386186be5e4488386c139db1b7bd6cf4d37ebf188035986e631d2d49b
-42f86033600342d7c20a4604409ac56bb25eaab55610110dce4203c32d270a01
-444ed24e3824df84f4eca0a460d17e1a8307e0a188329781e7b23b62cb958613
-4gzdhrn8[.]epexecutivecoaching[.]com
-5b655fc81c7688861ef92a2309b2e689f3e486841a07bdc939ce4f01a30785ea
+217[.]60[.]242[.]27
+23cc8eb7ee2a5fb1184d5918fd726af1903effbe841b25c9627ad3ee61cc6006
+41daa7f39a7ffe3f7b39502b155f14dcf9d3fa6c345e990ac4651d7e94dfe745
+439bfe15f59d1e40fe0f91d9dd1b9dadab92ddf38d10a80b798d84d8365e95c3
+494c462390afa798d4579fc8f337fac3e6243019e17cd4a28fe02ab0713afab2
+49[.]234[.]181[.]30
 5v8ryehz[.]worknernorgram[.]rest
 60[.]204[.]226[.]40
-60cdc213550d1f6a4efdba7d7053b0407310d5343f1fd64b65cd5ab530b0fea6
-655e38419e203ae667a3252c30b9393c7cabefca43b2daa1fffbf17eb03cdc27
 8[.]140[.]228[.]202
-9qhklald[.]enfejar[.]casino
+a35d24fcaf8f6b26468329a32819ed0151eae7d90f59e7427632b6f1be6ddbfc
+admin[.]model-point[.]click
 akumaqqq[.]xyz
 et[.]aeon888link[.]org
-forbesae[.]com
-forgestudios[.]co
-gg8gdk7e[.]sleavepiker[.]com
-hxxp://216[.]158[.]95[.]183:8700/login
-hxxp://85[.]193[.]68[.]206/angel
-hxxp://85[.]193[.]68[.]206/reload
-hxxps://ar[.]ahoktoto[.]org/b9/
-hxxps://ar[.]ahoktoto[.]org/cf/
-hxxps://ar[.]ahoktoto[.]org/dj/
-hxxps://ar[.]ahoktoto[.]org/eq/
-hxxps://ar[.]ahoktoto[.]org/ft/
-hxxps://ar[.]ahoktoto[.]org/ip/
-hxxps://ar[.]ahoktoto[.]org/j/
-hxxps://ar[.]ahoktoto[.]org/mx/
-hxxps://ar[.]ahoktoto[.]org/q/
-i4[.]bala7[.]org
-k0v5zt7p[.]verticalrewards[.]com
-ssl[.]cinderfetch[.]cc
+g9h533a0[.]georgelounge[.]bar
+georgelounge[.]bar
+health3[.]flex-haven[.]click
+hxxps://jp[.]ahoktoto[.]org/h/
+hxxps://jp[.]ahoktoto[.]org/vh/
+hxxps://jp[.]ahoktoto[.]org/ya/
+hxxps://x[.]ahoktoto[.]org/a2/
+hxxps://x[.]ahoktoto[.]org/ag/
+hxxps://x[.]ahoktoto[.]org/b/
+hxxps://x[.]ahoktoto[.]org/d7/
+hxxps://x[.]ahoktoto[.]org/j/
+hxxps://x[.]ahoktoto[.]org/l5/
+hxxps://x[.]ahoktoto[.]org/mg/
+hxxps://x[.]ahoktoto[.]org/nx/
+hxxps://x[.]ahoktoto[.]org/o8/
+n0n-cases[.]net
+n0n[.]to
+nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad[.]onion
+trace9[.]web-nest[.]xyz
 
 
 # Auto-Fetch-ThreatIntel
