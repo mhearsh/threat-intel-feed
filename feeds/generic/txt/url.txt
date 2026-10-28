@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-28 14:27 UTC   Count: 214   Expiry: 30 days               #
+#  Updated: 2026-10-28 16:27 UTC   Count: 226   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -28,6 +28,18 @@ ar.ahoktoto.org/ip
 ar.ahoktoto.org/j
 ar.ahoktoto.org/mx
 ar.ahoktoto.org/q
+c.aidolai33.org/c9
+c.aidolai33.org/ct
+c.aidolai33.org/jp
+c.aidolai33.org/l
+c.aidolai33.org/lj
+c.aidolai33.org/ls5
+c.aidolai33.org/m4
+c.aidolai33.org/mp
+c.aidolai33.org/p9
+c.aidolai33.org/swh
+c.aidolai33.org/xc
+c.aidolai33.org/yy
 cg.aguan11.org/f
 cg.aguan11.org/fu
 cg.aguan11.org/kw

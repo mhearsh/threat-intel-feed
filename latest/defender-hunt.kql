@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-28 14:27 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-28 16:27 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "1a6m3e8e.ased.store", "domain", "ClearFake", datetime(2026-10-28T16:27:06Z),
+    "20.199.40.109", "ip", "Quasar RAT", datetime(2026-10-28T16:27:06Z),
+    "45.43.37.232", "ip", "VShell", datetime(2026-10-28T16:27:06Z),
+    "64.118.134.192", "ip", "VShell", datetime(2026-10-28T16:27:06Z),
+    "7n1cvrut.fazbet1.app", "domain", "ClearFake", datetime(2026-10-28T16:27:06Z),
+    "a2rf9er0.bossbaba.store", "domain", "ClearFake", datetime(2026-10-28T16:27:06Z),
+    "fazbet1.app", "domain", "ClearFake", datetime(2026-10-28T16:27:06Z),
+    "lb.heronpull.cc", "domain", "ACR Stealer", datetime(2026-10-28T16:27:06Z),
+    "lift50.com", "domain", "AMOS", datetime(2026-10-28T16:27:06Z),
+    "montanari.lol", "domain", "KongTuke", datetime(2026-10-28T16:27:06Z),
+    "os.aeon888link.org", "domain", "Vidar", datetime(2026-10-28T16:27:06Z),
+    "sail91.com", "domain", "AMOS", datetime(2026-10-28T16:27:06Z),
+    "sguf571h.bossbeyburda.xyz", "domain", "ClearFake", datetime(2026-10-28T16:27:06Z),
+    "t-smc.top", "domain", "Unknown malware", datetime(2026-10-28T16:27:06Z),
+    "www.lirosseafood.gr", "domain", "StrelaStealer", datetime(2026-10-28T16:27:06Z),
     "109.238.86.106", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
     "23.94.252.54", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
     "87.120.104.161", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
     "87.120.104.209", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
     "94.26.0.120", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
-    "0a07hpvb.georgelounge.com", "domain", "ClearFake", datetime(2026-10-28T14:26:57Z),
     "111.90.150.193", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
-    "119.42.148.186", "ip", "VShell", datetime(2026-10-28T14:26:57Z),
-    "144.31.57.121", "ip", "Stealc", datetime(2026-10-28T14:26:57Z),
-    "georgelounge.com", "domain", "ClearFake", datetime(2026-10-28T14:26:57Z),
-    "q.bamto.org", "domain", "Vidar", datetime(2026-10-28T14:26:57Z),
-    "sassafrastell.org", "domain", "SmartApeSG", datetime(2026-10-28T14:26:57Z),
-    "thetrendygalblog.com", "domain", "StrelaStealer", datetime(2026-10-28T14:26:57Z),
-    "ubbrobccheck20.cc", "domain", "IClickFix", datetime(2026-10-28T14:26:57Z),
-    "verifyidentrob01.cc", "domain", "IClickFix", datetime(2026-10-28T14:26:57Z),
-    "wp.ttsc.tw", "domain", "StrelaStealer", datetime(2026-10-28T14:26:57Z),
-    "www.backup.masjidulemaan.com", "domain", "StrelaStealer", datetime(2026-10-28T14:26:57Z),
-    "www.ecopestcontrolperth.com.au", "domain", "StrelaStealer", datetime(2026-10-28T14:26:57Z),
-    "www.k-diaspora.biz", "domain", "StrelaStealer", datetime(2026-10-28T14:26:57Z),
-    "www.karagkiozis-chatzianagnostou.gr", "domain", "StrelaStealer", datetime(2026-10-28T14:26:57Z),
     "130.12.181.221", "ip", "DCRat", datetime(2026-10-28T08:18:53Z),
     "134.122.189.138", "ip", "Unknown RAT", datetime(2026-10-28T06:05:17Z),
     "101.133.229.117", "ip", "Cobaltstrike", datetime(2026-10-27T21:39:41Z),
-    "217.60.195.43", "ip", "Remcos", datetime(2026-10-27T21:39:41Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

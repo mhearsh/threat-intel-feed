@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-28 14:27 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-28 16:27 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,52 +15,53 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-28
 
-00141583dd89fff678b8d2bb9b332255701238ff2e2400c0732e06cbd0730f5f
-0a07hpvb[.]georgelounge[.]com
-0ab61948c869a28df9655ffe723b98af479ed0e30e7fb80ac64cfd4a8d9def40
-0f67ad0bb2ee4507c3312736b38a14a32783ccf7e988152d64e3d9ad90621808
+02e1fb58d1807275a96369666bc7f5405beff334bdf5ab8a244411688f380a7a
 109[.]238[.]86[.]106
 111[.]90[.]150[.]193
-119[.]42[.]148[.]186
 130[.]12[.]181[.]221
 134[.]122[.]189[.]138
-144[.]31[.]57[.]121
-18efd111d8cbe223ed8e1d1243185afad0dd0d534d888b9094cea5d16af26350
+1a6m3e8e[.]ased[.]store
+20[.]199[.]40[.]109
 23[.]94[.]252[.]54
-2c9aa5f304211262eaeb682aa7c78b779850f06f52a8c2a33de5f7d8d6e86a38
-37789cfce78503a4a546deac7c9b88206a9618a7a732beadc03ae617ceeaf900
-513b895017d1c357976ca5439e3a547d857e0f04068faf16748a9ca954d71a50
-5e7e56e3747113b0ef44a3f6e5d10ee44aa6db578e2a43d8df1345da4eee1a1a
-6db74dc39cb00e08d3faa7009c94a32cff76b094b3e7599252de8965f8973f13
-720b27732fff4999a5ce0b5f02e74793efff7451cf3d4dbc73539773a7c0c6e9
-7e17358ac4b955919440ef4348098fe6c6975d7ff907dd562d340e71a203a740
-7e5d7ef34be6252ec6bdc8602249efdc0c8d486683eabcb4314db94e04d1e80b
+3e280d77733c04ec3e605d51060d998ca173f53d32596ad0cb508b3985e80d6d
+3e58eab0e9c17f460b91e9ce381fec9dcf628b91fb7cd4d0de58881b3e71a199
+45[.]43[.]37[.]232
+4876970acebec6d83179b6aa62f7dd44e84039e2fce1d2aa6e50c62a188da400
+4fa4c8571235def307188b795561272d7d27fa7a63ed162b5d43c094d8af4b40
+578f29011090f3dccc8029a36e47bd3c49a26b41c64152eca79f3230b39a6902
+581e54e7a8d40ef7aaa51f1b98db49debac5fb97da25cdee4b002e72e8ddfc75
+5cc45c32691acd3f9b7bbd3c2fa5fa8318534a0563045b23d2677821ce23af7b
+64[.]118[.]134[.]192
+66afbcd9aa56025f2b948acce346bbfed4e1f999673d91062bec28a619e89e59
+70f64c758cc17362e3704acf297e9b8115e585bb055e67c742ef304fc6606c8e
+73ccd55e8e355e9db24034a008dee2a12287ed208b6fec26aaa21abd0b0530cf
+75e9afec4cb13695ffe32da53f15db00d2ab2f0fb00f0d61d330c90db2793f97
+7n1cvrut[.]fazbet1[.]app
 87[.]120[.]104[.]161
 87[.]120[.]104[.]209
 94[.]26[.]0[.]120
-georgelounge[.]com
-hxxp://109[.]238[.]86[.]106/
-hxxp://111[.]90[.]150[.]193/
-hxxp://144[.]31[.]57[.]121/
-hxxp://146[.]70[.]169[.]146/
-hxxp://150[.]241[.]66[.]89/
-hxxp://167[.]148[.]195[.]14/
-hxxp://176[.]65[.]144[.]135/
-hxxp://178[.]63[.]28[.]35/
-hxxp://181[.]174[.]164[.]31/
-hxxp://185[.]103[.]167[.]136/
-hxxp://192[.]162[.]199[.]70/
-hxxp://193[.]111[.]117[.]22/
-q[.]bamto[.]org
-sassafrastell[.]org
-thetrendygalblog[.]com
-ubbrobccheck20[.]cc
-verifyidentrob01[.]cc
-wp[.]ttsc[.]tw
-www[.]backup[.]masjidulemaan[.]com
-www[.]ecopestcontrolperth[.]com[.]au
-www[.]k-diaspora[.]biz
-www[.]karagkiozis-chatzianagnostou[.]gr
+a2rf9er0[.]bossbaba[.]store
+fazbet1[.]app
+hxxps://c[.]aidolai33[.]org/c9/
+hxxps://c[.]aidolai33[.]org/ct/
+hxxps://c[.]aidolai33[.]org/jp/
+hxxps://c[.]aidolai33[.]org/l/
+hxxps://c[.]aidolai33[.]org/lj/
+hxxps://c[.]aidolai33[.]org/ls5/
+hxxps://c[.]aidolai33[.]org/m4/
+hxxps://c[.]aidolai33[.]org/mp/
+hxxps://c[.]aidolai33[.]org/p9/
+hxxps://c[.]aidolai33[.]org/swh/
+hxxps://c[.]aidolai33[.]org/xc/
+hxxps://c[.]aidolai33[.]org/yy/
+lb[.]heronpull[.]cc
+lift50[.]com
+montanari[.]lol
+os[.]aeon888link[.]org
+sail91[.]com
+sguf571h[.]bossbeyburda[.]xyz
+t-smc[.]top
+www[.]lirosseafood[.]gr
 
 
 # Auto-Fetch-ThreatIntel
@@ -68,7 +69,6 @@ www[.]karagkiozis-chatzianagnostou[.]gr
 # 2026-10-27
 
 101[.]133[.]229[.]117
-217[.]60[.]195[.]43
 
 
 # Auto-Fetch-ThreatIntel
