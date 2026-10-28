@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-28 10:20 UTC   Count: 203   Expiry: 30 days               #
+#  Updated: 2026-10-28 12:20 UTC   Count: 214   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -39,6 +39,17 @@ cg.aguan11.org/wr
 cg.aguan11.org/xk
 cg.aguan11.org/xn
 cg.aguan11.org/yv
+champion-casino-pzy.buzz/:43
+cr.ahoktoto.org/aa
+cr.ahoktoto.org/gxt
+cr.ahoktoto.org/u4
+fq.ahoktoto.org/a9m
+fq.ahoktoto.org/ci
+fq.ahoktoto.org/fp
+fq.ahoktoto.org/k6
+fq.ahoktoto.org/kw
+fq.ahoktoto.org/lf
+fq.ahoktoto.org/oc
 jp.ahoktoto.org/h
 jp.ahoktoto.org/vh
 jp.ahoktoto.org/ya

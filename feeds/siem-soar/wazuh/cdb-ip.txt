@@ -1,14 +1,14 @@
 130.12.181.221:DCRat added 2026-10-28
 134.122.189.138:Unknown RAT added 2026-10-28
-202.61.160.181:Unknown Loader added 2026-10-28
 101.133.229.117:Cobaltstrike added 2026-10-27
 217.60.195.43:Remcos added 2026-10-27
 94.154.43.102:Mirai added 2026-10-27
+104.153.209.125:Sliver added 2026-10-28
+204.10.160.206:STRRAT added 2026-10-28
 159.223.89.103:Drifter added 2026-10-28
 217.60.242.27:Aisuru added 2026-10-28
 49.234.181.30:Cobalt Strike added 2026-10-28
 1.94.146.36:VShell added 2026-10-28
 60.204.226.40:VShell added 2026-10-28
-8.140.228.202:VShell added 2026-10-28
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
