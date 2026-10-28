@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-Stealc score 83 (high) added 2026-10-28,109.238.86.106,2,2026-10-28
-Stealc score 83 (high) added 2026-10-28,23.94.252.54,2,2026-10-28
-Stealc score 83 (high) added 2026-10-28,87.120.104.161,2,2026-10-28
-Stealc score 83 (high) added 2026-10-28,87.120.104.209,2,2026-10-28
-Stealc score 83 (high) added 2026-10-28,94.26.0.120,2,2026-10-28
+Stealc score 77 (high) added 2026-10-28,109.238.86.106,2,2026-10-28
+Stealc score 77 (high) added 2026-10-28,23.94.252.54,2,2026-10-28
+Stealc score 77 (high) added 2026-10-28,87.120.104.161,2,2026-10-28
+Stealc score 77 (high) added 2026-10-28,87.120.104.209,2,2026-10-28
+Stealc score 77 (high) added 2026-10-28,94.26.0.120,2,2026-10-28
 DCRat score 77 (high) added 2026-10-28,130.12.181.221,2,2026-10-28
 Unknown RAT score 77 (high) added 2026-10-28,134.122.189.138,2,2026-10-28
 Cobaltstrike score 77 (high) added 2026-10-27,101.133.229.117,2,2026-10-27
+OtterCookie score 74 (medium) added 2026-10-28,172.86.112.154,1,2026-10-28
+VShell score 74 (medium) added 2026-10-28,182.16.98.90,1,2026-10-28
+Cobalt Strike score 74 (medium) added 2026-10-28,43.163.242.241,1,2026-10-28
 Jackskid score 74 (medium) added 2026-10-28,144.31.59.27,1,2026-10-28
-Quasar RAT score 74 (medium) added 2026-10-28,20.199.40.109,1,2026-10-28
-VShell score 74 (medium) added 2026-10-28,45.43.37.232,1,2026-10-28
-VShell score 74 (medium) added 2026-10-28,64.118.134.192,1,2026-10-28
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

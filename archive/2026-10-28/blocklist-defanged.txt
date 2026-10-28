@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-28 18:37 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-28 20:46 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,53 +15,53 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-28
 
+089abc07822eca0762a34dfac06f69c1e9ba0496198046a4ed6959755fac2a98
+0ae0eb063717daff40f60386acda92f1110f948cb569ff9701f8d9030f511002
 109[.]238[.]86[.]106
+10buigpz[.]bossbey19[.]click
+1136d28fe8fa1e7d8cd390d03b278da806abb82c455b509f301d38f0c0b5b4ca
 130[.]12[.]181[.]221
 134[.]122[.]189[.]138
-138f6af192d10bc49d6704a49bd6f0d17fd73e5f309e2a0197fc40c90faec6a9
 144[.]31[.]59[.]27
-147385f3b05cd2a704a42fdc7ea2f7ea3b00c00825fd998483130fc708ac1d40
-1a6m3e8e[.]ased[.]store
-20[.]199[.]40[.]109
+172[.]86[.]112[.]154
+182[.]16[.]98[.]90
 23[.]94[.]252[.]54
-34438a4b101d9ce72ac49534e7b96a2e6f5618bc93fa267512468c780348b70a
-36af6df3ae52b0d20eca851a096dd178e317d0cecb573926b439aa967e123f8a
-45[.]43[.]37[.]232
-4744039f9723cf12b6134bbcf6c113bf48e87912d7dea98d61b10bf8253cabec
-5bf1d2e3507431fb40aa04cd205114bc8e59114fa08aa472db5fd7694270d92a
-5c667c3d494177d48ced1f7668075855d36a6fca7092875d8fb210ef7f010302
-5ca6bd4ea1667212a423ee9d25fdbf556384e7791265d62db4ce41805c48b3cc
-61b63ef2f50ca47d7628a4797d1224595cc62882ec1ce6ec3b7fed90e4e1bf1a
-64[.]118[.]134[.]192
-6c4ee3cc72c8dacdb722f32f11e90ff2ee6ed5fdace13d0a2ba4bb226427fe53
-7n1cvrut[.]fazbet1[.]app
-810884190cff617a7387aeea36505f2c0f3e81562b328eaca311cae0a0bd733e
-83dd1fc9099fa89534ea0e8df38caa71a9cc1c1e6fee374d926ecb80bd159923
+2cdfb7283a2466e537f851daad9065be0783b066da9c43d43e3d011db855a150
+43[.]163[.]242[.]241
+6os989ve[.]avako[.]store
+7108c13382e67115314e813f0141f87e1c9e2a50b122d0c0d8d15dee0a082c14
+747de0d636a9a45f9ba8c291a915e2b1b53c752048456a1ccdb317d5bd8e3c52
+74923c4f458e6eb44ae42a57a3f8f667505698e55122f18bb0066084c1698927
+75e9ba3625fb715ba70f9d55bdaa00de1626e0b88906e445b1f4597a92be074a
+7977227951e4f6dc468f31aadab335ec442af2e0c48a0c641858a3061dadb493
+7fa0ab8e0a2dcb297d0a797bfa208b047b07af0da374829d089d9700680bfafb
+81c7b0546c7eb27c634a5ff09b6cd7c5bef87610cb096f34987b9542001967a2
 87[.]120[.]104[.]161
 87[.]120[.]104[.]209
+88888d1ab4569124f829f54540fd7010e47f432d1328b1741a0801acee7cac6a
 94[.]26[.]0[.]120
-a2rf9er0[.]bossbaba[.]store
-fazbet1[.]app
-hxxp://209[.]97[.]190[.]241/GhoStmOOd/inc/1f24a95b06868e[.]php
-hxxps://dm[.]aidolai33[.]org/f/
-hxxps://dm[.]aidolai33[.]org/i7/
-hxxps://dm[.]aidolai33[.]org/m/
-hxxps://dm[.]aidolai33[.]org/ngr/
-hxxps://dm[.]aidolai33[.]org/pu/
-hxxps://dm[.]aidolai33[.]org/rt/
-hxxps://dm[.]aidolai33[.]org/x7/
-hxxps://igt[.]aidolai33[.]org/cd/
-hxxps://igt[.]aidolai33[.]org/ea/
-hxxps://igt[.]aidolai33[.]org/gs/
-hxxps://igt[.]aidolai33[.]org/jb/
-lb[.]heronpull[.]cc
-lift50[.]com
-montanari[.]lol
-os[.]aeon888link[.]org
+bossbey19[.]click
+c[.]bamto[.]org
+ek[.]aeoncash[.]org
+hxxps://c[.]bamto[.]org/
+hxxps://c[.]bamto[.]org/t/
+hxxps://ek[.]aeoncash[.]org/
+hxxps://ide-hooker-v1-eight[.]vercel[.]app/settings/bootstraplinux?flag=4
+hxxps://ide-hooker-v1-eight[.]vercel[.]app/settings/env?flag=4
+hxxps://r[.]bamto[.]org/e/
+hxxps://r[.]bamto[.]org/g/
+hxxps://r[.]bamto[.]org/l/
+hxxps://re[.]aidolai33[.]org/ac/
+hxxps://re[.]aidolai33[.]org/az/
+hxxps://re[.]aidolai33[.]org/bdo/
+hxxps://re[.]aidolai33[.]org/bq/
+j3y2klex[.]bossbey11[.]click
+klt[.]frontio[.]net
+kunaltailor[.]com
 otlosushi[.]com
 paringenieria[.]es
-r[.]bamto[.]org
-sail91[.]com
+tufacrannog[.]info
+wu517q9x[.]bossbeycenter[.]click
 
 
 # Auto-Fetch-ThreatIntel

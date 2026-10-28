@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-28 18:37 UTC   Count: 238   Expiry: 30 days               #
+#  Updated: 2026-10-28 20:46 UTC   Count: 248   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -41,6 +41,7 @@ c.aidolai33.org/p9
 c.aidolai33.org/swh
 c.aidolai33.org/xc
 c.aidolai33.org/yy
+c.bamto.org/t
 cg.aguan11.org/f
 cg.aguan11.org/fu
 cg.aguan11.org/kw
@@ -70,6 +71,8 @@ fq.ahoktoto.org/k6
 fq.ahoktoto.org/kw
 fq.ahoktoto.org/lf
 fq.ahoktoto.org/oc
+ide-hooker-v1-eight.vercel.app/settings/bootstraplinux?flag=4
+ide-hooker-v1-eight.vercel.app/settings/env?flag=4
 igt.aidolai33.org/cd
 igt.aidolai33.org/ea
 igt.aidolai33.org/gs
@@ -77,6 +80,13 @@ igt.aidolai33.org/jb
 jp.ahoktoto.org/h
 jp.ahoktoto.org/vh
 jp.ahoktoto.org/ya
+r.bamto.org/e
+r.bamto.org/g
+r.bamto.org/l
+re.aidolai33.org/ac
+re.aidolai33.org/az
+re.aidolai33.org/bdo
+re.aidolai33.org/bq
 x.ahoktoto.org/a2
 x.ahoktoto.org/ag
 x.ahoktoto.org/b

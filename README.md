@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-28 18:37 UTC. 50 IOCs (ip: 14, sha256: 12, url: 12, domain: 12); 45 first seen under 6h ago. File-hash feed: 4460 SHA-256 · 312 SHA-1 · 314 MD5._
+_Last update: 2026-10-28 20:46 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 40 first seen under 6h ago. File-hash feed: 4528 SHA-256 · 312 SHA-1 · 314 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `109[.]238[.]86[.]106` | ip | Stealc | 83 | high | T1071, T1105 |
-| 2 | `23[.]94[.]252[.]54` | ip | Stealc | 83 | high | T1071, T1105 |
-| 3 | `87[.]120[.]104[.]161` | ip | Stealc | 83 | high | T1071, T1105 |
-| 4 | `87[.]120[.]104[.]209` | ip | Stealc | 83 | high | T1071, T1105 |
-| 5 | `94[.]26[.]0[.]120` | ip | Stealc | 83 | high | T1071, T1105 |
+| 1 | `109[.]238[.]86[.]106` | ip | Stealc | 77 | high | T1071, T1105 |
+| 2 | `23[.]94[.]252[.]54` | ip | Stealc | 77 | high | T1071, T1105 |
+| 3 | `87[.]120[.]104[.]161` | ip | Stealc | 77 | high | T1071, T1105 |
+| 4 | `87[.]120[.]104[.]209` | ip | Stealc | 77 | high | T1071, T1105 |
+| 5 | `94[.]26[.]0[.]120` | ip | Stealc | 77 | high | T1071, T1105 |
 | 6 | `130[.]12[.]181[.]221` | ip | DCRat | 77 | high | T1071, T1105 |
 | 7 | `134[.]122[.]189[.]138` | ip | Unknown RAT | 77 | high | T1071, T1105 |
 | 8 | `101[.]133[.]229[.]117` | ip | Cobaltstrike | 77 | high | T1071, T1105 |
-| 9 | `138f6af192d10bc49d6704a49bd6f0d17fd73e5f309e2a0197fc40c90fae` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `144[.]31[.]59[.]27` | ip | Jackskid | 74 | medium | T1071, T1105 |
-| 11 | `147385f3b05cd2a704a42fdc7ea2f7ea3b00c00825fd998483130fc708ac` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `34438a4b101d9ce72ac49534e7b96a2e6f5618bc93fa267512468c780348` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `36af6df3ae52b0d20eca851a096dd178e317d0cecb573926b439aa967e12` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `4744039f9723cf12b6134bbcf6c113bf48e87912d7dea98d61b10bf8253c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `5bf1d2e3507431fb40aa04cd205114bc8e59114fa08aa472db5fd7694270` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `089abc07822eca0762a34dfac06f69c1e9ba0496198046a4ed6959755fac` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `0ae0eb063717daff40f60386acda92f1110f948cb569ff9701f8d9030f51` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `10buigpz[.]bossbey19[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 12 | `1136d28fe8fa1e7d8cd390d03b278da806abb82c455b509f301d38f0c0b5` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `172[.]86[.]112[.]154` | ip | OtterCookie | 74 | medium | T1071, T1105 |
+| 14 | `182[.]16[.]98[.]90` | ip | VShell | 74 | medium | T1071, T1105 |
+| 15 | `2cdfb7283a2466e537f851daad9065be0783b066da9c43d43e3d011db855` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
