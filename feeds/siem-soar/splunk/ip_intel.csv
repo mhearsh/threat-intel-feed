@@ -1,15 +1,15 @@
 description,ip,weight,first_published
+Unknown malware score 83 (high) added 2026-10-29,216.9.224.44,2,2026-10-29
 Unknown malware score 83 (high) added 2026-10-29,31.56.209.8,2,2026-10-29
 Unknown malware score 83 (high) added 2026-10-29,85.11.167.6,2,2026-10-29
-Remcos score 83 (high) added 2026-10-29,217.60.102.45,2,2026-10-29
-Stealc score 83 (high) added 2026-10-29,62.60.226.22,2,2026-10-29
+Remcos score 77 (high) added 2026-10-29,217.60.102.45,2,2026-10-29
+Stealc score 77 (high) added 2026-10-29,62.60.226.22,2,2026-10-29
 Potassium score 77 (high) added 2026-10-29,89.32.41.114,2,2026-10-29
 Potassium score 77 (high) added 2026-10-29,89.32.41.59,2,2026-10-29
 XMRIG score 77 (high) added 2026-10-29,209.99.187.159,2,2026-10-29
 XMRIG score 77 (high) added 2026-10-29,64.89.163.212,2,2026-10-29
-VShell score 74 (medium) added 2026-10-29,111.229.215.182,1,2026-10-29
-Aisuru score 74 (medium) added 2026-10-29,125.155.126.245,1,2026-10-29
-Unknown malware score 74 (medium) added 2026-10-29,143.244.144.70,1,2026-10-29
-VShell score 74 (medium) added 2026-10-29,154.91.49.173,1,2026-10-29
+Unknown malware score 74 (medium) added 2026-10-29,130.254.45.8,1,2026-10-29
+Unknown malware score 74 (medium) added 2026-10-29,135.136.191.231,1,2026-10-29
+Unknown malware score 74 (medium) added 2026-10-29,143.246.62.76,1,2026-10-29
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

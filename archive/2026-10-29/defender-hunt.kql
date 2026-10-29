@@ -1,30 +1,30 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-29 16:54 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-29 20:17 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "216.9.224.44", "ip", "Unknown malware", datetime(2026-10-29T20:17:52Z),
+    "130.254.45.8", "ip", "Unknown malware", datetime(2026-10-29T20:17:52Z),
+    "135.136.191.231", "ip", "Unknown malware", datetime(2026-10-29T20:17:52Z),
+    "143.246.62.76", "ip", "Unknown malware", datetime(2026-10-29T20:17:52Z),
+    "71vu88ey.bossbeyagency.click", "domain", "ClearFake", datetime(2026-10-29T20:17:52Z),
+    "ac5qz4t1.urgentblue.com", "domain", "ClearFake", datetime(2026-10-29T20:17:52Z),
+    "bossbeyagency.click", "domain", "ClearFake", datetime(2026-10-29T20:17:52Z),
+    "c.bb69.org", "domain", "Vidar", datetime(2026-10-29T20:17:52Z),
+    "crackedkrypton.xyz", "domain", "Unknown RAT", datetime(2026-10-29T20:17:52Z),
+    "f0qnr43h.epexecutivecoaching.com", "domain", "ClearFake", datetime(2026-10-29T20:17:52Z),
+    "gutmann.lol", "domain", "KongTuke", datetime(2026-10-29T20:17:52Z),
+    "k1.bb69.org", "domain", "Vidar", datetime(2026-10-29T20:17:52Z),
+    "q.aeoncash.org", "domain", "Vidar", datetime(2026-10-29T20:17:52Z),
     "31.56.209.8", "ip", "Unknown malware", datetime(2026-10-29T16:54:03Z),
     "85.11.167.6", "ip", "Unknown malware", datetime(2026-10-29T16:54:03Z),
-    "111.229.215.182", "ip", "VShell", datetime(2026-10-29T16:54:03Z),
-    "125.155.126.245", "ip", "Aisuru", datetime(2026-10-29T16:54:03Z),
-    "143.244.144.70", "ip", "Unknown malware", datetime(2026-10-29T16:54:03Z),
-    "154.91.49.173", "ip", "VShell", datetime(2026-10-29T16:54:03Z),
     "arrtofphotography.com", "domain", "StrelaStealer", datetime(2026-10-29T16:54:03Z),
     "artkoruna.ru", "domain", "StrelaStealer", datetime(2026-10-29T16:54:03Z),
     "ayuow0q7.bossbey71.click", "domain", "ClearFake", datetime(2026-10-29T16:54:03Z),
-    "bossbey71.click", "domain", "ClearFake", datetime(2026-10-29T16:54:03Z),
-    "fileagreement.xyz", "domain", "Unknown Loader", datetime(2026-10-29T16:54:03Z),
-    "flv.aeoncash.org", "domain", "Vidar", datetime(2026-10-29T16:54:03Z),
-    "greatwivesforme.wifenet.lol", "domain", "Unknown malware", datetime(2026-10-29T16:54:03Z),
-    "namecheat.niggerservers.xyz", "domain", "Unknown malware", datetime(2026-10-29T16:54:03Z),
-    "nossaestante.com.br", "domain", "StrelaStealer", datetime(2026-10-29T16:54:03Z),
-    "vmi3703999.contaboserver.net", "domain", "Grandoreiro", datetime(2026-10-29T16:54:03Z),
-    "yrayg0ro.sleavepiker.com", "domain", "ClearFake", datetime(2026-10-29T16:54:03Z),
     "217.60.102.45", "ip", "Remcos", datetime(2026-10-29T14:14:57Z),
     "62.60.226.22", "ip", "Stealc", datetime(2026-10-29T14:14:57Z),
-    "abreuquimica.com.br", "domain", "StrelaStealer", datetime(2026-10-29T14:14:57Z),
     "89.32.41.114", "ip", "Potassium", datetime(2026-10-29T10:02:58Z),
     "89.32.41.59", "ip", "Potassium", datetime(2026-10-29T10:02:58Z),
     "209.99.187.159", "ip", "XMRIG", datetime(2026-10-29T02:15:50Z),
