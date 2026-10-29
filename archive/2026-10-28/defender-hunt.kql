@@ -1,23 +1,23 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-28 20:46 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-28 20:48 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "10buigpz.bossbey19.click", "domain", "ClearFake", datetime(2026-10-28T20:46:38Z),
-    "172.86.112.154", "ip", "OtterCookie", datetime(2026-10-28T20:46:38Z),
-    "182.16.98.90", "ip", "VShell", datetime(2026-10-28T20:46:38Z),
-    "43.163.242.241", "ip", "Cobalt Strike", datetime(2026-10-28T20:46:38Z),
-    "6os989ve.avako.store", "domain", "ClearFake", datetime(2026-10-28T20:46:38Z),
-    "bossbey19.click", "domain", "ClearFake", datetime(2026-10-28T20:46:38Z),
-    "c.bamto.org", "domain", "Vidar", datetime(2026-10-28T20:46:38Z),
-    "ek.aeoncash.org", "domain", "Vidar", datetime(2026-10-28T20:46:38Z),
-    "j3y2klex.bossbey11.click", "domain", "ClearFake", datetime(2026-10-28T20:46:38Z),
-    "klt.frontio.net", "domain", "StrelaStealer", datetime(2026-10-28T20:46:38Z),
-    "kunaltailor.com", "domain", "StrelaStealer", datetime(2026-10-28T20:46:38Z),
-    "tufacrannog.info", "domain", "SmartApeSG", datetime(2026-10-28T20:46:38Z),
-    "wu517q9x.bossbeycenter.click", "domain", "ClearFake", datetime(2026-10-28T20:46:38Z),
+    "10buigpz.bossbey19.click", "domain", "ClearFake", datetime(2026-10-28T20:48:09Z),
+    "172.86.112.154", "ip", "OtterCookie", datetime(2026-10-28T20:48:09Z),
+    "182.16.98.90", "ip", "VShell", datetime(2026-10-28T20:48:09Z),
+    "43.163.242.241", "ip", "Cobalt Strike", datetime(2026-10-28T20:48:09Z),
+    "6os989ve.avako.store", "domain", "ClearFake", datetime(2026-10-28T20:48:09Z),
+    "bossbey19.click", "domain", "ClearFake", datetime(2026-10-28T20:48:09Z),
+    "c.bamto.org", "domain", "Vidar", datetime(2026-10-28T20:48:09Z),
+    "ek.aeoncash.org", "domain", "Vidar", datetime(2026-10-28T20:48:09Z),
+    "j3y2klex.bossbey11.click", "domain", "ClearFake", datetime(2026-10-28T20:48:09Z),
+    "klt.frontio.net", "domain", "StrelaStealer", datetime(2026-10-28T20:48:09Z),
+    "kunaltailor.com", "domain", "StrelaStealer", datetime(2026-10-28T20:48:09Z),
+    "tufacrannog.info", "domain", "SmartApeSG", datetime(2026-10-28T20:48:09Z),
+    "wu517q9x.bossbeycenter.click", "domain", "ClearFake", datetime(2026-10-28T20:48:09Z),
     "144.31.59.27", "ip", "Jackskid", datetime(2026-10-28T18:37:24Z),
     "otlosushi.com", "domain", "StrelaStealer", datetime(2026-10-28T18:37:24Z),
     "paringenieria.es", "domain", "StrelaStealer", datetime(2026-10-28T18:37:24Z),

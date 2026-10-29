@@ -6,9 +6,69 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-28 20:46 UTC   Count: 488   Expiry: 30 days               #
+#  Updated: 2026-10-29 10:03 UTC   Count: 536   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-29
+
+45.225.135.233/2/config.json
+45.225.135.233/2/ll.sh
+45.225.135.233/ce2
+45.225.135.233/pers2.sh
+45.225.135.233/softwaretech
+45.225.135.233/w3.sh
+ag.aira99.org/c
+ag.aira99.org/e
+ag.aira99.org/h6
+ag.aira99.org/ia
+ag.aira99.org/jd
+ag.aira99.org/kb
+ag.aira99.org/n
+ag.aira99.org/q4
+ag.aira99.org/rb
+ag.aira99.org/sm
+ag.aira99.org/tu
+ag.aira99.org/z9
+c.bamto.org/b
+c.bamto.org/e
+c.bamto.org/x
+e.aira99.org/ax
+e.aira99.org/b
+e.aira99.org/cd
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-29
+
+0dd93xws.bossbey20.click
+1xlbkrp4.bossbey1.click
+7vpwppvd.bossbey31.click
+960gz3a6.bossbeycity.click
+bossbey1.click
+bossbey20.click
+bossbey30.click
+bossbey31.click
+bryan.dvrcam.info
+chrisrico.picklescoop.com
+coffiimg.beer
+f6mnq0ep.bossbey13.click
+fbcx5nas.bossbey15.click
+fh8bjwfs.bossbey30.click
+genovaorobotic.com
+glcdn.githack.com
+if.aeoncash.org
+jifepzmu.bossbey12.click
+jq.aeoncash.org
+losaguilera-izaguirre.com
+m0.aeoncash.org
+magicalplanet.4nmn.com
+n.bamto.org
+patriothousinggroup.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

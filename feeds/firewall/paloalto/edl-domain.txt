@@ -6,9 +6,39 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-28 20:46 UTC   Count: 240   Expiry: 30 days               #
+#  Updated: 2026-10-29 10:03 UTC   Count: 264   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-29
+
+0dd93xws.bossbey20.click
+1xlbkrp4.bossbey1.click
+7vpwppvd.bossbey31.click
+960gz3a6.bossbeycity.click
+bossbey1.click
+bossbey20.click
+bossbey30.click
+bossbey31.click
+bryan.dvrcam.info
+chrisrico.picklescoop.com
+coffiimg.beer
+f6mnq0ep.bossbey13.click
+fbcx5nas.bossbey15.click
+fh8bjwfs.bossbey30.click
+genovaorobotic.com
+glcdn.githack.com
+if.aeoncash.org
+jifepzmu.bossbey12.click
+jq.aeoncash.org
+losaguilera-izaguirre.com
+m0.aeoncash.org
+magicalplanet.4nmn.com
+n.bamto.org
+patriothousinggroup.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

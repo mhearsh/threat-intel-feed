@@ -6,69 +6,69 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-28 20:46 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-29 10:03 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-28
+# 2026-10-29
 
-089abc07822eca0762a34dfac06f69c1e9ba0496198046a4ed6959755fac2a98
-0ae0eb063717daff40f60386acda92f1110f948cb569ff9701f8d9030f511002
-109[.]238[.]86[.]106
-10buigpz[.]bossbey19[.]click
-1136d28fe8fa1e7d8cd390d03b278da806abb82c455b509f301d38f0c0b5b4ca
-130[.]12[.]181[.]221
-134[.]122[.]189[.]138
-144[.]31[.]59[.]27
-172[.]86[.]112[.]154
-182[.]16[.]98[.]90
-23[.]94[.]252[.]54
-2cdfb7283a2466e537f851daad9065be0783b066da9c43d43e3d011db855a150
-43[.]163[.]242[.]241
-6os989ve[.]avako[.]store
-7108c13382e67115314e813f0141f87e1c9e2a50b122d0c0d8d15dee0a082c14
-747de0d636a9a45f9ba8c291a915e2b1b53c752048456a1ccdb317d5bd8e3c52
-74923c4f458e6eb44ae42a57a3f8f667505698e55122f18bb0066084c1698927
-75e9ba3625fb715ba70f9d55bdaa00de1626e0b88906e445b1f4597a92be074a
-7977227951e4f6dc468f31aadab335ec442af2e0c48a0c641858a3061dadb493
-7fa0ab8e0a2dcb297d0a797bfa208b047b07af0da374829d089d9700680bfafb
-81c7b0546c7eb27c634a5ff09b6cd7c5bef87610cb096f34987b9542001967a2
-87[.]120[.]104[.]161
-87[.]120[.]104[.]209
-88888d1ab4569124f829f54540fd7010e47f432d1328b1741a0801acee7cac6a
-94[.]26[.]0[.]120
-bossbey19[.]click
-c[.]bamto[.]org
-ek[.]aeoncash[.]org
-hxxps://c[.]bamto[.]org/
-hxxps://c[.]bamto[.]org/t/
-hxxps://ek[.]aeoncash[.]org/
-hxxps://ide-hooker-v1-eight[.]vercel[.]app/settings/bootstraplinux?flag=4
-hxxps://ide-hooker-v1-eight[.]vercel[.]app/settings/env?flag=4
-hxxps://r[.]bamto[.]org/e/
-hxxps://r[.]bamto[.]org/g/
-hxxps://r[.]bamto[.]org/l/
-hxxps://re[.]aidolai33[.]org/ac/
-hxxps://re[.]aidolai33[.]org/az/
-hxxps://re[.]aidolai33[.]org/bdo/
-hxxps://re[.]aidolai33[.]org/bq/
-j3y2klex[.]bossbey11[.]click
-klt[.]frontio[.]net
-kunaltailor[.]com
-otlosushi[.]com
-paringenieria[.]es
-tufacrannog[.]info
-wu517q9x[.]bossbeycenter[.]click
+019f8714fd6c45ee9096fe1cbd09b46358b8d92d25f2af63f564736a8e3737b2
+02085920f481165ee6d319c99eddbdd5a0309191c04a3ae85533ef52a0eccdb5
+04f9dd5ec4d65a647088716bd77a4d87a3c6f4c1ed23d53e56666d33ed44944c
+0a7589a80b60f4a2ede96d81552c39d0ad6ec1875e4a89141dc29e1a9181a199
+0e481f24a9a4177e05bb54fbf7a59ee4045d408610c8c7a2a33cbda65397aad9
+0f00a95856ccc795e4641387560f61855490b7c915c7041bc4f871496ec0adf4
+101[.]201[.]37[.]97
+103[.]39[.]79[.]102
+106[.]54[.]13[.]23
+11e4853ef4dbc5f3997c1de9db7d9a8c4ef387346086dc50f20afc123558e357
+15b43a39b979568645677a5e2d2b4f4e5388c7b0d2f5ff8fd71474c378a7b19d
+186383f7deb05ea2667a8e2ca11681e920924533c72dea668463d36c798cb51e
+190e8aaf5886a7af155f315387076340d72c4a60e44021e0ab78fe4fee3c7cfe
+209[.]99[.]187[.]159
+21d394819a8beeb01c90a2015a4f6e5d0340f1065dd03673d70f1285d1f89914
+2353d7f411e90b5e39647ef81cad281a67e0d3c4f5a36ee0a483d7c52c3157f1
+64[.]89[.]163[.]212
+7vpwppvd[.]bossbey31[.]click
+89[.]32[.]41[.]114
+89[.]32[.]41[.]59
+bossbey30[.]click
+bossbey31[.]click
+bryan[.]dvrcam[.]info
+coffiimg[.]beer
+f6mnq0ep[.]bossbey13[.]click
+fbcx5nas[.]bossbey15[.]click
+fh8bjwfs[.]bossbey30[.]click
+genovaorobotic[.]com
+hxxps://ag[.]aira99[.]org/c/
+hxxps://ag[.]aira99[.]org/e/
+hxxps://ag[.]aira99[.]org/h6/
+hxxps://ag[.]aira99[.]org/ia/
+hxxps://ag[.]aira99[.]org/jd/
+hxxps://ag[.]aira99[.]org/kb/
+hxxps://ag[.]aira99[.]org/n/
+hxxps://ag[.]aira99[.]org/q4/
+hxxps://ag[.]aira99[.]org/rb/
+hxxps://ag[.]aira99[.]org/sm/
+hxxps://ag[.]aira99[.]org/tu/
+hxxps://ag[.]aira99[.]org/z9/
+jq[.]aeoncash[.]org
+m0[.]aeoncash[.]org
+magicalplanet[.]4nmn[.]com
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-27
+# 2026-10-28
 
-101[.]133[.]229[.]117
+109[.]238[.]86[.]106
+23[.]94[.]252[.]54
+87[.]120[.]104[.]161
+87[.]120[.]104[.]209
+94[.]26[.]0[.]120
 
 
 # Auto-Fetch-ThreatIntel
