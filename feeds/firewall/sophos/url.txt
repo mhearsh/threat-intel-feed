@@ -31,6 +31,17 @@ c.bamto.org/x
 e.aira99.org/ax
 e.aira99.org/b
 e.aira99.org/cd
+m.ajo889.org/b2
+m.ajo889.org/dy
+m.ajo889.org/ge
+m.ajo889.org/hh
+m.ajo889.org/ip
+m.ajo889.org/l7
+m.ajo889.org/n0
+m.ajo889.org/or
+m.ajo889.org/os
+m.ajo889.org/p9
+m.ajo889.org/t6
 193.178.158.62/twizt
 209.97.190.241/GhoStmOOd/inc/1f24a95b06868e.php
 216.158.95.183:8700/login

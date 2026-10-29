@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-29 14:15 UTC   Count: 276   Expiry: 30 days               #
+#  Updated: 2026-10-29 16:54 UTC   Count: 287   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -20,6 +20,9 @@
 7vpwppvd.bossbey31.click
 960gz3a6.bossbeycity.click
 abreuquimica.com.br
+arrtofphotography.com
+artkoruna.ru
+ayuow0q7.bossbey71.click
 b8ecrz1g.yellohotelsharmoni.com
 blbekcpc.bossbey69.click
 bloom-88.com
@@ -28,14 +31,18 @@ bossbey20.click
 bossbey30.click
 bossbey31.click
 bossbey69.click
+bossbey71.click
 bryan.dvrcam.info
 chrisrico.picklescoop.com
 coffiimg.beer
 f6mnq0ep.bossbey13.click
 fbcx5nas.bossbey15.click
 fh8bjwfs.bossbey30.click
+fileagreement.xyz
+flv.aeoncash.org
 genovaorobotic.com
 glcdn.githack.com
+greatwivesforme.wifenet.lol
 if.aeoncash.org
 jifepzmu.bossbey12.click
 jq.aeoncash.org
@@ -46,11 +53,15 @@ lvtraveladventures.com
 m0.aeoncash.org
 magicalplanet.4nmn.com
 n.bamto.org
+namecheat.niggerservers.xyz
+nossaestante.com.br
 nvprofessional.com
 oi.bb69.org
 patriothousinggroup.com
 t750k3kz.enfejar.casino
 travertinekurgans.info
+vmi3703999.contaboserver.net
+yrayg0ro.sleavepiker.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
