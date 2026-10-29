@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-29 10:03 UTC   Count: 272   Expiry: 30 days               #
+#  Updated: 2026-10-29 14:15 UTC   Count: 281   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -33,6 +33,15 @@ ag.aira99.org/rb
 ag.aira99.org/sm
 ag.aira99.org/tu
 ag.aira99.org/z9
+ak.airbet.org/bx
+ak.airbet.org/c6
+ak.airbet.org/cc
+ak.airbet.org/fi
+ak.airbet.org/fpp
+ak.airbet.org/hi
+ak.airbet.org/jp
+ak.airbet.org/ko
+ak.airbet.org/ro
 c.bamto.org/b
 c.bamto.org/e
 c.bamto.org/x

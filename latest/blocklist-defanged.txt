@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-29 10:03 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-29 14:15 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,49 +15,48 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-29
 
-019f8714fd6c45ee9096fe1cbd09b46358b8d92d25f2af63f564736a8e3737b2
-02085920f481165ee6d319c99eddbdd5a0309191c04a3ae85533ef52a0eccdb5
-04f9dd5ec4d65a647088716bd77a4d87a3c6f4c1ed23d53e56666d33ed44944c
-0a7589a80b60f4a2ede96d81552c39d0ad6ec1875e4a89141dc29e1a9181a199
-0e481f24a9a4177e05bb54fbf7a59ee4045d408610c8c7a2a33cbda65397aad9
-0f00a95856ccc795e4641387560f61855490b7c915c7041bc4f871496ec0adf4
-101[.]201[.]37[.]97
-103[.]39[.]79[.]102
-106[.]54[.]13[.]23
-11e4853ef4dbc5f3997c1de9db7d9a8c4ef387346086dc50f20afc123558e357
-15b43a39b979568645677a5e2d2b4f4e5388c7b0d2f5ff8fd71474c378a7b19d
-186383f7deb05ea2667a8e2ca11681e920924533c72dea668463d36c798cb51e
-190e8aaf5886a7af155f315387076340d72c4a60e44021e0ab78fe4fee3c7cfe
+0479132c3c7465fa06cd4cd5a3a8156b9b3ed29186ef38500a9f05172794e73b
+17682ff36844c3db3fcfa4538bd19e34ae7c8be350b2726a3d408546e90e3808
+1c76a46953827f29b1693501f2d445adab7edc880613582433eb686df628be8e
 209[.]99[.]187[.]159
-21d394819a8beeb01c90a2015a4f6e5d0340f1065dd03673d70f1285d1f89914
-2353d7f411e90b5e39647ef81cad281a67e0d3c4f5a36ee0a483d7c52c3157f1
+217[.]60[.]102[.]45
+22db5794babaf8b386506440b5fffc402350f75a3d5c000c95def87160517e1a
+371ee72dde7a8848fe2a4470b40c62037a8e1bf8c1cf03d7c1c435e61c1d05d0
+3eddb703aa901a87c209058961d46c0b1113b1e0e697d16ad74a89ced4f21185
+3f84bbdf0ab6091459d11b8eeedd0f70ec3dc31f361ce99a61f5a83599e1395f
+49ebf15587ff2f14ab641a09532a8bcaded47000fe5e430e87809209209deae5
+5ace5227e537ad58d03350d767d26b123f9a92ca8eaeb2f60892dd8dad0ab50d
+5b22bc357bc40addeec853761877c177c6edd66810d9c8b8b4dcaed0573bec31
+5b3e323179bc4555155934991183940d9c6c1c0bd891d746176b8c7759247151
+5de35cbde05d40a4475c2adc408fc39b90e61b64180051403274ef79e6e65991
+62[.]60[.]226[.]22
 64[.]89[.]163[.]212
-7vpwppvd[.]bossbey31[.]click
 89[.]32[.]41[.]114
 89[.]32[.]41[.]59
-bossbey30[.]click
-bossbey31[.]click
-bryan[.]dvrcam[.]info
-coffiimg[.]beer
-f6mnq0ep[.]bossbey13[.]click
-fbcx5nas[.]bossbey15[.]click
-fh8bjwfs[.]bossbey30[.]click
-genovaorobotic[.]com
-hxxps://ag[.]aira99[.]org/c/
-hxxps://ag[.]aira99[.]org/e/
-hxxps://ag[.]aira99[.]org/h6/
-hxxps://ag[.]aira99[.]org/ia/
-hxxps://ag[.]aira99[.]org/jd/
-hxxps://ag[.]aira99[.]org/kb/
-hxxps://ag[.]aira99[.]org/n/
-hxxps://ag[.]aira99[.]org/q4/
-hxxps://ag[.]aira99[.]org/rb/
-hxxps://ag[.]aira99[.]org/sm/
-hxxps://ag[.]aira99[.]org/tu/
-hxxps://ag[.]aira99[.]org/z9/
-jq[.]aeoncash[.]org
-m0[.]aeoncash[.]org
-magicalplanet[.]4nmn[.]com
+abreuquimica[.]com[.]br
+b8ecrz1g[.]yellohotelsharmoni[.]com
+blbekcpc[.]bossbey69[.]click
+bloom-88[.]com
+bossbey69[.]click
+hxxp://62[.]60[.]226[.]22/
+hxxp://78[.]129[.]237[.]27/
+hxxp://94[.]26[.]83[.]90/
+hxxps://ak[.]airbet[.]org/bx/
+hxxps://ak[.]airbet[.]org/c6/
+hxxps://ak[.]airbet[.]org/cc/
+hxxps://ak[.]airbet[.]org/fi/
+hxxps://ak[.]airbet[.]org/fpp/
+hxxps://ak[.]airbet[.]org/hi/
+hxxps://ak[.]airbet[.]org/jp/
+hxxps://ak[.]airbet[.]org/ko/
+hxxps://ak[.]airbet[.]org/ro/
+kfsesbn5[.]paars[.]poker
+ksm[.]aeoncash[.]org
+lvtraveladventures[.]com
+nvprofessional[.]com
+oi[.]bb69[.]org
+t750k3kz[.]enfejar[.]casino
+travertinekurgans[.]info
 
 
 # Auto-Fetch-ThreatIntel
@@ -65,6 +64,7 @@ magicalplanet[.]4nmn[.]com
 # 2026-10-28
 
 109[.]238[.]86[.]106
+176[.]65[.]144[.]135
 23[.]94[.]252[.]54
 87[.]120[.]104[.]161
 87[.]120[.]104[.]209

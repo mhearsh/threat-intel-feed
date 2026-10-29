@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-29 10:03 UTC   Count: 264   Expiry: 30 days               #
+#  Updated: 2026-10-29 14:15 UTC   Count: 276   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -19,10 +19,15 @@
 1xlbkrp4.bossbey1.click
 7vpwppvd.bossbey31.click
 960gz3a6.bossbeycity.click
+abreuquimica.com.br
+b8ecrz1g.yellohotelsharmoni.com
+blbekcpc.bossbey69.click
+bloom-88.com
 bossbey1.click
 bossbey20.click
 bossbey30.click
 bossbey31.click
+bossbey69.click
 bryan.dvrcam.info
 chrisrico.picklescoop.com
 coffiimg.beer
@@ -34,11 +39,18 @@ glcdn.githack.com
 if.aeoncash.org
 jifepzmu.bossbey12.click
 jq.aeoncash.org
+kfsesbn5.paars.poker
+ksm.aeoncash.org
 losaguilera-izaguirre.com
+lvtraveladventures.com
 m0.aeoncash.org
 magicalplanet.4nmn.com
 n.bamto.org
+nvprofessional.com
+oi.bb69.org
 patriothousinggroup.com
+t750k3kz.enfejar.casino
+travertinekurgans.info
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

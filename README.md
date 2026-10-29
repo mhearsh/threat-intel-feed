@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-29 10:03 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 41 first seen under 6h ago. File-hash feed: 4857 SHA-256 · 391 SHA-1 · 393 MD5._
+_Last update: 2026-10-29 14:15 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 40 first seen under 6h ago. File-hash feed: 4891 SHA-256 · 391 SHA-1 · 393 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `89[.]32[.]41[.]114` | ip | Potassium | 83 | high | T1071, T1105 |
-| 2 | `89[.]32[.]41[.]59` | ip | Potassium | 83 | high | T1071, T1105 |
-| 3 | `209[.]99[.]187[.]159` | ip | XMRIG | 77 | high | T1071, T1105 |
-| 4 | `64[.]89[.]163[.]212` | ip | XMRIG | 77 | high | T1071, T1105 |
-| 5 | `109[.]238[.]86[.]106` | ip | Stealc | 77 | high | T1071, T1105 |
-| 6 | `23[.]94[.]252[.]54` | ip | Stealc | 77 | high | T1071, T1105 |
-| 7 | `87[.]120[.]104[.]161` | ip | Stealc | 77 | high | T1071, T1105 |
-| 8 | `87[.]120[.]104[.]209` | ip | Stealc | 77 | high | T1071, T1105 |
-| 9 | `94[.]26[.]0[.]120` | ip | Stealc | 77 | high | T1071, T1105 |
-| 10 | `019f8714fd6c45ee9096fe1cbd09b46358b8d92d25f2af63f564736a8e37` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `02085920f481165ee6d319c99eddbdd5a0309191c04a3ae85533ef52a0ec` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `04f9dd5ec4d65a647088716bd77a4d87a3c6f4c1ed23d53e56666d33ed44` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `0a7589a80b60f4a2ede96d81552c39d0ad6ec1875e4a89141dc29e1a9181` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `0e481f24a9a4177e05bb54fbf7a59ee4045d408610c8c7a2a33cbda65397` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `0f00a95856ccc795e4641387560f61855490b7c915c7041bc4f871496ec0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `217[.]60[.]102[.]45` | ip | Remcos | 83 | high | T1071, T1105 |
+| 2 | `62[.]60[.]226[.]22` | ip | Stealc | 83 | high | T1071, T1105 |
+| 3 | `89[.]32[.]41[.]114` | ip | Potassium | 83 | high | T1071, T1105 |
+| 4 | `89[.]32[.]41[.]59` | ip | Potassium | 83 | high | T1071, T1105 |
+| 5 | `209[.]99[.]187[.]159` | ip | XMRIG | 77 | high | T1071, T1105 |
+| 6 | `64[.]89[.]163[.]212` | ip | XMRIG | 77 | high | T1071, T1105 |
+| 7 | `109[.]238[.]86[.]106` | ip | Stealc | 77 | high | T1071, T1105 |
+| 8 | `176[.]65[.]144[.]135` | ip | Stealc | 77 | high | T1071, T1105 |
+| 9 | `23[.]94[.]252[.]54` | ip | Stealc | 77 | high | T1071, T1105 |
+| 10 | `87[.]120[.]104[.]161` | ip | Stealc | 77 | high | T1071, T1105 |
+| 11 | `87[.]120[.]104[.]209` | ip | Stealc | 77 | high | T1071, T1105 |
+| 12 | `94[.]26[.]0[.]120` | ip | Stealc | 77 | high | T1071, T1105 |
+| 13 | `0479132c3c7465fa06cd4cd5a3a8156b9b3ed29186ef38500a9f05172794` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `17682ff36844c3db3fcfa4538bd19e34ae7c8be350b2726a3d408546e90e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `1c76a46953827f29b1693501f2d445adab7edc880613582433eb686df628` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
