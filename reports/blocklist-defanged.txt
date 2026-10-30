@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-30 10:01 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-30 14:07 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,49 +15,50 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-30
 
-03239558d000bd000d800c4d5e6e978325c6e3d44e3d907a6801ded2eccbf213
-04a2226fa10344330178e0710009097c3042cf404e85ed744beffee2a6b3a4ba
-06699c7542243673d88c1b352e188b323a9d29da3b8c556203c8268b3c9a4f6f
-0e3fc2fb43a82f7963ac539b2ff1ef064e0d2c0d59e54b3f07fb67973836eed0
-108619cda483784f4ad433ecd5d38730cc351667ed577a91bca3859e02cf13e1
-10ffda89d06d75ea0f94d548645e0dd51ca30a0ff2f9134acb8e47f0f48f0c81
-14a1428e2fcb07b9938a68dac0762c63363f735d254027e826b285c52283f51f
-154[.]91[.]52[.]183
-154[.]91[.]52[.]188
-154[.]91[.]53[.]167
-154[.]91[.]53[.]168
-154[.]91[.]54[.]175
-154[.]91[.]54[.]176
-1812c75db34cf437f4ccdd8e900de0787f20d8f3b828c294b18e93f11061c70f
-18756b75afedee74bbf49832a1b1dada4961672c41d595be5c1bbe75709de927
-2c93e318cf542d9b755f6ad2d7a68e3f721bf15932657937a3527874edc77db7
-2cdcc67367775b351818b7f076fb40ac55dd7aef4db21e7d220138fc506395db
-34234342342rerr[.]beer
-358d0a370e690af564602b308910ba9a7a0ed68357854de9972d5e4ad5ab09fb
+0cbf4af34b0b5fefdcb6b9eea0e595496ab7342b01b603d7506c58925e1b4c1d
+0e58ef52e95389d9918bafb00c312f9e945bb769a2dfc47aac9e3fb25a0d8424
+108[.]61[.]247[.]185
+14943b84845ee7af54b992c317e01aacd2e5f1a589ffcd12f6ae9cba71c5c263
+14f4f308bca458f79a4cf4b7cebcdf61ff76339adf03aef6ddd65ef710b54f34
+154[.]91[.]48[.]166
+154[.]91[.]48[.]167
+154[.]91[.]48[.]168
+154[.]91[.]48[.]169
+154[.]91[.]48[.]170
+154[.]91[.]48[.]171
+164b90bcb0681c394698a50efdf2bebd6dc2cc03c8c5e9116cba7642934a039e
+1c00f07412c5098955a94d2c34819f79b086e0e7091d19c71a99278de83756e5
+23e85be99e989543019471a3edb2c1618a7b37806762c68f81df428ede23c6f2
+26c08d8b1311c5921d31499c3122547a688fe0a0b98026e2e7a54552b222243e
+2rzkuxmn[.]verticalrewards[.]com
+339b27daeb628288fdf3b0cf5011ee2e924c8395c72fc5c2f5d8d5fae013ac55
+3487ace51ca3ef8b8c1536227c45aeef5dd2d65726189c48d5869f4d1515b759
+362ceea6959c0bd9b5d6e4db14f5584c2a572721f0839780b371b033bdab0094
+39571290dbeed2c6fcbc7fc2b6dd80457db262a8bb53ae5ff95fb245b704888e
 46[.]151[.]182[.]70
-clarorecargas[.]online
-concretehomesaruba[.]lat
-d[.]bb69[.]org
-en9rg9th[.]avako[.]store
-hjazfioe[.]surf
-hxxp://134[.]209[.]82[.]225:8099/beacon
-hxxp://134[.]209[.]89[.]212/r
-hxxp://134[.]209[.]89[.]212/x86_64
-hxxps://api[.]telegram[.]org/bot8320911571:AAGWRwP6H6w41Ujb6F7lh6rccpqEx9KV51g/sendDocument
-hxxps://d[.]bb69[.]org/
-hxxps://d[.]bb69[.]org/b/
-hxxps://d[.]bb69[.]org/c/
-hxxps://d[.]bb69[.]org/q/
-hxxps://d[.]bb69[.]org/u/
-hxxps://hw[.]akantoto[.]com/cx/
-hxxps://hw[.]akantoto[.]com/ge/
-hxxps://hw[.]akantoto[.]com/hj/
-j0uxrx2g[.]paars[.]poker
-jaymarsh[.]4masgrooming[.]com
-lahvidovre[.]dk
-mydiaperisfull[.]baby
-poopflavored[.]beer
-sometimes-i-fuck-a[.]baby
+avisee[.]com
+b0silg64[.]bossbey12[.]click
+blog[.]anjobi[.]at
+catalinaconsultant[.]com
+cvbmynpm[.]bittu[.]store
+events[.]mirthfield[.]cc
+fm[.]afktogel[.]org
+hxxps://ai[.]akantoto[.]com/f3/
+hxxps://ai[.]akantoto[.]com/gn/
+hxxps://ai[.]akantoto[.]com/hw/
+hxxps://ai[.]akantoto[.]com/ir/
+hxxps://ai[.]akantoto[.]com/nj/
+hxxps://ai[.]akantoto[.]com/no/
+hxxps://ai[.]akantoto[.]com/ny/
+hxxps://ai[.]akantoto[.]com/p2/
+hxxps://ai[.]akantoto[.]com/sy/
+hxxps://ai[.]akantoto[.]com/ta/
+hxxps://ai[.]akantoto[.]com/xc/
+hxxps://ai[.]akantoto[.]com/yh/
+l[.]bb69[.]org
+mail[.]holzbrenzii[.]com
+melo[.]rs
+newhomebuildingservice[.]co[.]uk
 
 
 # Auto-Fetch-ThreatIntel
@@ -65,7 +66,6 @@ sometimes-i-fuck-a[.]baby
 # 2026-10-29
 
 216[.]9[.]224[.]44
-217[.]60[.]102[.]45
 31[.]56[.]209[.]8
 62[.]60[.]226[.]22
 85[.]11[.]167[.]6

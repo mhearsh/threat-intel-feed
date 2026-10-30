@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-30 10:01 UTC   Count: 661   Expiry: 30 days               #
+#  Updated: 2026-10-30 14:07 UTC   Count: 685   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -19,6 +19,18 @@
 134.209.89.212/r
 134.209.89.212/x86_64
 85.11.161.54/data
+ai.akantoto.com/f3
+ai.akantoto.com/gn
+ai.akantoto.com/hw
+ai.akantoto.com/ir
+ai.akantoto.com/nj
+ai.akantoto.com/no
+ai.akantoto.com/ny
+ai.akantoto.com/p2
+ai.akantoto.com/sy
+ai.akantoto.com/ta
+ai.akantoto.com/xc
+ai.akantoto.com/yh
 api.telegram.org/bot8320911571:AAGWRwP6H6w41Ujb6F7lh6rccpqEx9KV51g/sendDocument
 c.bb69.org/d
 c.bb69.org/f
@@ -56,12 +68,17 @@ hw.akantoto.com/hj
 # 2026-10-30
 
 22ed84bl.georgelounge.bar
+2rzkuxmn.verticalrewards.com
 34234342342rerr.beer
 9e9tjipz.bossbeyavrupa.store
+avisee.com
+b0silg64.bossbey12.click
+blog.anjobi.at
 bossbeyalpha.click
 bossbeyanadolu.store
 bossbeyavrupa.store
 branthtech.com.br
+catalinaconsultant.com
 chiru.upper.jp
 clarorecargas.online
 cm.afktogel.org
@@ -70,15 +87,22 @@ coloradomarketingresources.com
 concretehomesaruba.lat
 coursepulse.sitasys.in
 curseddark.co.uk
+cvbmynpm.bittu.store
 cvya.com
 d.bb69.org
 en9rg9th.avako.store
+events.mirthfield.cc
 farenaw.cc
+fm.afktogel.org
 hjazfioe.surf
 j0uxrx2g.paars.poker
 jaymarsh.4masgrooming.com
+l.bb69.org
 lahvidovre.dk
+mail.holzbrenzii.com
+melo.rs
 mydiaperisfull.baby
+newhomebuildingservice.co.uk
 poopflavored.beer
 sometimes-i-fuck-a.baby
 vt0potv8.bossbey1.click

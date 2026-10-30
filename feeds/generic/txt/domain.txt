@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-30 10:01 UTC   Count: 323   Expiry: 30 days               #
+#  Updated: 2026-10-30 14:07 UTC   Count: 335   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,12 +16,17 @@
 # 2026-10-30
 
 22ed84bl.georgelounge.bar
+2rzkuxmn.verticalrewards.com
 34234342342rerr.beer
 9e9tjipz.bossbeyavrupa.store
+avisee.com
+b0silg64.bossbey12.click
+blog.anjobi.at
 bossbeyalpha.click
 bossbeyanadolu.store
 bossbeyavrupa.store
 branthtech.com.br
+catalinaconsultant.com
 chiru.upper.jp
 clarorecargas.online
 cm.afktogel.org
@@ -30,15 +35,22 @@ coloradomarketingresources.com
 concretehomesaruba.lat
 coursepulse.sitasys.in
 curseddark.co.uk
+cvbmynpm.bittu.store
 cvya.com
 d.bb69.org
 en9rg9th.avako.store
+events.mirthfield.cc
 farenaw.cc
+fm.afktogel.org
 hjazfioe.surf
 j0uxrx2g.paars.poker
 jaymarsh.4masgrooming.com
+l.bb69.org
 lahvidovre.dk
+mail.holzbrenzii.com
+melo.rs
 mydiaperisfull.baby
+newhomebuildingservice.co.uk
 poopflavored.beer
 sometimes-i-fuck-a.baby
 vt0potv8.bossbey1.click

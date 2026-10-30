@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-CECbot score 83 (high) added 2026-10-30,46.151.182.70,2,2026-10-30
+CECbot score 77 (high) added 2026-10-30,46.151.182.70,2,2026-10-30
 Unknown malware score 77 (high) added 2026-10-29,216.9.224.44,2,2026-10-29
 Unknown malware score 77 (high) added 2026-10-29,31.56.209.8,2,2026-10-29
 Unknown malware score 77 (high) added 2026-10-29,85.11.167.6,2,2026-10-29
-Remcos score 77 (high) added 2026-10-29,217.60.102.45,2,2026-10-29
 Stealc score 77 (high) added 2026-10-29,62.60.226.22,2,2026-10-29
-VShell score 74 (medium) added 2026-10-30,154.91.52.183,1,2026-10-30
-VShell score 74 (medium) added 2026-10-30,154.91.52.188,1,2026-10-30
-VShell score 74 (medium) added 2026-10-30,154.91.53.167,1,2026-10-30
-VShell score 74 (medium) added 2026-10-30,154.91.53.168,1,2026-10-30
-VShell score 74 (medium) added 2026-10-30,154.91.54.175,1,2026-10-30
-VShell score 74 (medium) added 2026-10-30,154.91.54.176,1,2026-10-30
+Sliver score 74 (medium) added 2026-10-30,108.61.247.185,1,2026-10-30
+VShell score 74 (medium) added 2026-10-30,154.91.48.166,1,2026-10-30
+VShell score 74 (medium) added 2026-10-30,154.91.48.167,1,2026-10-30
+VShell score 74 (medium) added 2026-10-30,154.91.48.168,1,2026-10-30
+VShell score 74 (medium) added 2026-10-30,154.91.48.169,1,2026-10-30
+VShell score 74 (medium) added 2026-10-30,154.91.48.170,1,2026-10-30
+VShell score 74 (medium) added 2026-10-30,154.91.48.171,1,2026-10-30
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22
