@@ -1,14 +1,14 @@
+46.151.182.70:CECbot added 2026-10-30
 216.9.224.44:Unknown malware added 2026-10-29
 31.56.209.8:Unknown malware added 2026-10-29
 85.11.167.6:Unknown malware added 2026-10-29
 217.60.102.45:Remcos added 2026-10-29
 62.60.226.22:Stealc added 2026-10-29
-89.32.41.114:Potassium added 2026-10-29
-89.32.41.59:Potassium added 2026-10-29
-209.99.187.159:XMRIG added 2026-10-29
-64.89.163.212:XMRIG added 2026-10-29
-130.254.45.8:Unknown malware added 2026-10-29
-135.136.191.231:Unknown malware added 2026-10-29
-143.246.62.76:Unknown malware added 2026-10-29
+154.91.50.165:VShell added 2026-10-30
+154.91.50.170:VShell added 2026-10-30
+154.91.50.176:VShell added 2026-10-30
+154.91.50.177:VShell added 2026-10-30
+154.91.50.178:VShell added 2026-10-30
+154.91.50.179:VShell added 2026-10-30
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

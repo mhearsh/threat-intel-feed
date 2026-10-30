@@ -1,0 +1,80 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-10-30 05:20 UTC   Count: 50   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-30
+
+03a7917bdf72020adfe51950679cd2fb141b4f0c3776ced382cbaf6e647dc1ca
+043dd3381cda35e5570b684d667e679660761049f37ea9a98c596d937a483c8f
+0527f4d58e301239cf8f432363fbabd444d7d0eca1d1d85a675aee4823751023
+053fcb1999e16ebaaca10347a4a996c671e82e77515c787d29d6695ba607d856
+0740105c4c2cdad52b675f8bddfe2fc935468fa52c86d21aff878d65ae6ff037
+08d8be68a7bf1e73f01a5b7aaf8dae8b9f8a771cc7469fd7a8f5f72d901d0d7d
+09bea18497117288a119cf0da9fbbdc1e5802782c7c7ff6cfa6da8be5aba208f
+0c6dc7c70dd1f121245c5eb743c18fc8a9532024e137535070d6c8479e7ccd9a
+0f2ea4c972c7828e01ad90902dc88a9b0943a0ce5a918a070acab8e0b7ea0830
+14abc0840a57a2e81577e60c0a239396f3ab63218243ef2aee3041624bd785ab
+14f4ff195c3d6719d0fe07d329e673dd99e7fc1354d05def2a95a7691997fc10
+1548dd2185d99e5c385b3cf33f95977f0eaa6c8a2377dfb0e43e3fb744328f47
+154[.]91[.]50[.]165
+154[.]91[.]50[.]170
+154[.]91[.]50[.]176
+154[.]91[.]50[.]177
+154[.]91[.]50[.]178
+154[.]91[.]50[.]179
+22ed84bl[.]georgelounge[.]bar
+46[.]151[.]182[.]70
+9e9tjipz[.]bossbeyavrupa[.]store
+bossbeyalpha[.]click
+bossbeyanadolu[.]store
+bossbeyavrupa[.]store
+branthtech[.]com[.]br
+chiru[.]upper[.]jp
+cognituslifesciences[.]com
+coloradomarketingresources[.]com
+coursepulse[.]sitasys[.]in
+curseddark[.]co[.]uk
+cvya[.]com
+hxxps://c[.]bb69[.]org/d/
+hxxps://c[.]bb69[.]org/f/
+hxxps://c[.]bb69[.]org/m/
+hxxps://c[.]bb69[.]org/o/
+hxxps://c[.]bb69[.]org/q/
+hxxps://c[.]bb69[.]org/y/
+hxxps://d5[.]ajuna88[.]org/b1/
+hxxps://d5[.]ajuna88[.]org/bp/
+hxxps://d5[.]ajuna88[.]org/bv/
+hxxps://d5[.]ajuna88[.]org/ek/
+hxxps://d5[.]ajuna88[.]org/m/
+hxxps://d5[.]ajuna88[.]org/nv/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+216[.]9[.]224[.]44
+217[.]60[.]102[.]45
+31[.]56[.]209[.]8
+62[.]60[.]226[.]22
+85[.]11[.]167[.]6
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

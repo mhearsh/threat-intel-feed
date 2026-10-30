@@ -6,9 +6,45 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-29 20:17 UTC   Count: 600   Expiry: 30 days               #
+#  Updated: 2026-10-30 05:20 UTC   Count: 624   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-30
+
+c.bb69.org/d
+c.bb69.org/f
+c.bb69.org/m
+c.bb69.org/o
+c.bb69.org/q
+c.bb69.org/y
+d5.ajuna88.org/b1
+d5.ajuna88.org/bp
+d5.ajuna88.org/bv
+d5.ajuna88.org/ek
+d5.ajuna88.org/m
+d5.ajuna88.org/nv
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-10-30
+
+22ed84bl.georgelounge.bar
+9e9tjipz.bossbeyavrupa.store
+bossbeyalpha.click
+bossbeyanadolu.store
+bossbeyavrupa.store
+branthtech.com.br
+chiru.upper.jp
+cognituslifesciences.com
+coloradomarketingresources.com
+coursepulse.sitasys.in
+curseddark.co.uk
+cvya.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
