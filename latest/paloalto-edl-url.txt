@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-30 16:57 UTC   Count: 704   Expiry: 30 days               #
+#  Updated: 2026-10-30 19:25 UTC   Count: 717   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -73,6 +73,7 @@ hw.akantoto.com/cx
 hw.akantoto.com/ge
 hw.akantoto.com/hj
 p.au338.org/y
+s4.afktogel.org/ig/gate
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -107,6 +108,7 @@ en9rg9th.avako.store
 events.mirthfield.cc
 farenaw.cc
 fm.afktogel.org
+hgtankkv.worknernorgram.rest
 hjazfioe.surf
 ikhsanjauhari.com
 j0uxrx2g.paars.poker
@@ -115,16 +117,27 @@ l.bb69.org
 lahvidovre.dk
 mail.holzbrenzii.com
 melo.rs
+mns6fyl1.bossbey69.click
 mydiaperisfull.baby
 newhomebuildingservice.co.uk
+oceancoastshipping.ph
+originalotranto.it
 pawpawrath.org
+poollessons.net
 poopflavored.beer
+portfolio.prismscale.com
+pos-marine.com
+prairiedesk.cfd
+prairierailingregina.ca
+priceisrightjewelry.com
+qdxc52sq.bixk.store
 s4.afktogel.org
 sometimes-i-fuck-a.baby
 va9ucaqk.bossbey13.click
 vazsilvaconstruction.com
 vt0potv8.bossbey1.click
 y6auq3j5.forgestudios.co
+yjhxyhjj.bossbey15.click
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
