@@ -30,3 +30,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-10-27 | #4 | 50 | Vidar, AMOS, VShell | [CSV](2026/10/2026-10-27-drop-4.csv) | [summary](2026/10/2026-10-27-drop-4.png) · [list](2026/10/2026-10-27-drop-4-list.png) |
 | 2026-10-28 | #5 | 50 | AMOS, Vidar, ClearFake | [CSV](2026/10/2026-10-28-drop-5.csv) | [summary](2026/10/2026-10-28-drop-5.png) · [list](2026/10/2026-10-28-drop-5-list.png) |
 | 2026-10-29 | #6 | 50 | AMOS, XMRIG, Vidar | [CSV](2026/10/2026-10-29-drop-6.csv) | [summary](2026/10/2026-10-29-drop-6.png) · [list](2026/10/2026-10-29-drop-6-list.png) |
+| 2026-10-30 | #7 | 50 | AMOS, Vidar, ClearFake | [CSV](2026/10/2026-10-30-drop-7.csv) | [summary](2026/10/2026-10-30-drop-7.png) · [list](2026/10/2026-10-30-drop-7-list.png) |
