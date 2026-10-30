@@ -1,42 +1,42 @@
 ###############################################################################
 #                       THREAT-INTEL-FEED SURICATA RULES                      #
 #                         Top network IOCs (IPs, DNS)                         #
-#  Updated: 2026-10-30 14:07 UTC   Count: 26   TLP:CLEAR                      #
+#  Updated: 2026-10-30 16:57 UTC   Count: 26   TLP:CLEAR                      #
 ###############################################################################
 
 # Auto-Fetch-ThreatIntel
 # Top network IOCs / TLP:CLEAR
 # 2026-10-30
 
-alert ip $HOME_NET any -> 46.151.182.70 any (msg:"XIOC CECbot C2 46.151.182.70"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100001; rev:1;)
-alert ip $HOME_NET any -> 108.61.247.185 any (msg:"XIOC Sliver C2 108.61.247.185"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100002; rev:1;)
-alert ip $HOME_NET any -> 154.91.48.166 any (msg:"XIOC VShell C2 154.91.48.166"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100003; rev:1;)
-alert ip $HOME_NET any -> 154.91.48.167 any (msg:"XIOC VShell C2 154.91.48.167"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100004; rev:1;)
-alert ip $HOME_NET any -> 154.91.48.168 any (msg:"XIOC VShell C2 154.91.48.168"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100005; rev:1;)
-alert ip $HOME_NET any -> 154.91.48.169 any (msg:"XIOC VShell C2 154.91.48.169"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100006; rev:1;)
-alert ip $HOME_NET any -> 154.91.48.170 any (msg:"XIOC VShell C2 154.91.48.170"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100007; rev:1;)
-alert ip $HOME_NET any -> 154.91.48.171 any (msg:"XIOC VShell C2 154.91.48.171"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100008; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"2rzkuxmn.verticalrewards.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100009; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"avisee.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100010; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"b0silg64.bossbey12.click"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100011; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"blog.anjobi.at"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100012; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"catalinaconsultant.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100013; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"cvbmynpm.bittu.store"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100014; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC ACR Stealer domain"; dns.query; content:"events.mirthfield.cc"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100015; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC Vidar domain"; dns.query; content:"fm.afktogel.org"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100016; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC Vidar domain"; dns.query; content:"l.bb69.org"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100017; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC Agent Tesla domain"; dns.query; content:"mail.holzbrenzii.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100018; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"melo.rs"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100019; rev:1;)
-alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"newhomebuildingservice.co.uk"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100020; rev:1;)
+alert ip $HOME_NET any -> 118.107.44.67 any (msg:"XIOC Unknown RAT C2 118.107.44.67"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100001; rev:1;)
+alert ip $HOME_NET any -> 141.98.10.168 any (msg:"XIOC Unknown malware C2 141.98.10.168"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100002; rev:1;)
+alert ip $HOME_NET any -> 46.151.182.70 any (msg:"XIOC CECbot C2 46.151.182.70"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100003; rev:1;)
+alert ip $HOME_NET any -> 151.243.137.99 any (msg:"XIOC Unknown malware C2 151.243.137.99"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100004; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.162 any (msg:"XIOC VShell C2 154.91.48.162"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100005; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.163 any (msg:"XIOC VShell C2 154.91.48.163"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100006; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.182 any (msg:"XIOC VShell C2 154.91.48.182"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100007; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.183 any (msg:"XIOC VShell C2 154.91.48.183"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100008; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.184 any (msg:"XIOC VShell C2 154.91.48.184"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100009; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.185 any (msg:"XIOC VShell C2 154.91.48.185"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100010; rev:1;)
+alert ip $HOME_NET any -> 154.91.48.186 any (msg:"XIOC VShell C2 154.91.48.186"; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100011; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC AMOS domain"; dns.query; content:"balladquartz.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100012; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"ikhsanjauhari.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100013; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC SmartApeSG domain"; dns.query; content:"pawpawrath.org"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100014; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC Vidar domain"; dns.query; content:"s4.afktogel.org"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100015; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"va9ucaqk.bossbey13.click"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100016; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC Unknown malware domain"; dns.query; content:"vazsilvaconstruction.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100017; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"y6auq3j5.forgestudios.co"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100018; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"2rzkuxmn.verticalrewards.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100019; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"avisee.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100020; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC ClearFake domain"; dns.query; content:"b0silg64.bossbey12.click"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100021; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"blog.anjobi.at"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100022; rev:1;)
+alert dns $HOME_NET any -> any any (msg:"XIOC StrelaStealer domain"; dns.query; content:"catalinaconsultant.com"; nocase; endswith; classtype:trojan-activity; metadata:created_at 2026_10_30, updated_at 2026_10_30; sid:9100023; rev:1;)
 
 # Auto-Fetch-ThreatIntel
 # Top network IOCs / TLP:CLEAR
 # 2026-10-29
 
-alert ip $HOME_NET any -> 216.9.224.44 any (msg:"XIOC Unknown malware C2 216.9.224.44"; classtype:trojan-activity; metadata:created_at 2026_10_29, updated_at 2026_10_30; sid:9100021; rev:1;)
-alert ip $HOME_NET any -> 31.56.209.8 any (msg:"XIOC Unknown malware C2 31.56.209.8"; classtype:trojan-activity; metadata:created_at 2026_10_29, updated_at 2026_10_30; sid:9100022; rev:1;)
-alert ip $HOME_NET any -> 85.11.167.6 any (msg:"XIOC Unknown malware C2 85.11.167.6"; classtype:trojan-activity; metadata:created_at 2026_10_29, updated_at 2026_10_30; sid:9100023; rev:1;)
-alert ip $HOME_NET any -> 62.60.226.22 any (msg:"XIOC Stealc C2 62.60.226.22"; classtype:trojan-activity; metadata:created_at 2026_10_29, updated_at 2026_10_30; sid:9100024; rev:1;)
+alert ip $HOME_NET any -> 216.9.224.44 any (msg:"XIOC Unknown malware C2 216.9.224.44"; classtype:trojan-activity; metadata:created_at 2026_10_29, updated_at 2026_10_30; sid:9100024; rev:1;)
 
 # Auto-Fetch-ThreatIntel
 # Top network IOCs / TLP:CLEAR

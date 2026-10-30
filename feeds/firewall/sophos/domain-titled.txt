@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-30 14:07 UTC   Count: 335   Expiry: 30 days               #
+#  Updated: 2026-10-30 16:57 UTC   Count: 342   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -21,6 +21,7 @@
 9e9tjipz.bossbeyavrupa.store
 avisee.com
 b0silg64.bossbey12.click
+balladquartz.com
 blog.anjobi.at
 bossbeyalpha.click
 bossbeyanadolu.store
@@ -43,6 +44,7 @@ events.mirthfield.cc
 farenaw.cc
 fm.afktogel.org
 hjazfioe.surf
+ikhsanjauhari.com
 j0uxrx2g.paars.poker
 jaymarsh.4masgrooming.com
 l.bb69.org
@@ -51,9 +53,14 @@ mail.holzbrenzii.com
 melo.rs
 mydiaperisfull.baby
 newhomebuildingservice.co.uk
+pawpawrath.org
 poopflavored.beer
+s4.afktogel.org
 sometimes-i-fuck-a.baby
+va9ucaqk.bossbey13.click
+vazsilvaconstruction.com
 vt0potv8.bossbey1.click
+y6auq3j5.forgestudios.co
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

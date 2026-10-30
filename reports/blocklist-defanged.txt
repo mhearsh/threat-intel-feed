@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-30 14:07 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-30 16:57 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,50 +15,53 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-30
 
-0cbf4af34b0b5fefdcb6b9eea0e595496ab7342b01b603d7506c58925e1b4c1d
-0e58ef52e95389d9918bafb00c312f9e945bb769a2dfc47aac9e3fb25a0d8424
-108[.]61[.]247[.]185
-14943b84845ee7af54b992c317e01aacd2e5f1a589ffcd12f6ae9cba71c5c263
-14f4f308bca458f79a4cf4b7cebcdf61ff76339adf03aef6ddd65ef710b54f34
-154[.]91[.]48[.]166
-154[.]91[.]48[.]167
-154[.]91[.]48[.]168
-154[.]91[.]48[.]169
-154[.]91[.]48[.]170
-154[.]91[.]48[.]171
-164b90bcb0681c394698a50efdf2bebd6dc2cc03c8c5e9116cba7642934a039e
-1c00f07412c5098955a94d2c34819f79b086e0e7091d19c71a99278de83756e5
-23e85be99e989543019471a3edb2c1618a7b37806762c68f81df428ede23c6f2
-26c08d8b1311c5921d31499c3122547a688fe0a0b98026e2e7a54552b222243e
+08db17ec528ab3df75dc3b13198483b227ff8fc983300b607aa7dfe36cbbb5af
+0add574c05111fb828e3287bfebb642ae332b41d982b1e574cc407b529b4d618
+118[.]107[.]44[.]67
+141[.]98[.]10[.]168
+151[.]243[.]137[.]99
+154[.]91[.]48[.]162
+154[.]91[.]48[.]163
+154[.]91[.]48[.]182
+154[.]91[.]48[.]183
+154[.]91[.]48[.]184
+154[.]91[.]48[.]185
+154[.]91[.]48[.]186
+17888a80a9f18bce05043565ed27096dc0fc3213079947b080fb8c5752833bbf
+1c4b8a1f8ebcdb091ee8dba7d0186cb371aca6e46387a6eae23eb289add2f0fd
+1e6aca75d546c2dac80bf2c580851782a3022d0d4f421019bbe22f03ddd8aefe
+20e322c11bc8dca83f0c68ec49b568c1f0aedcd4e9dbafb5cd5f0babb9032304
+2815f2e94ce9747946a4af466389479b389f74ec353ce04bcd1cb596588ba007
+2b7f7bd4a80b05d292f0261f2bc0b0112db5b48d3f91dbedaf400758f304c84d
+2f9fc2556a8e87d5b47cb7cacd5be934f4fa0ccd717c9b75ef9a49dfb6a19237
 2rzkuxmn[.]verticalrewards[.]com
-339b27daeb628288fdf3b0cf5011ee2e924c8395c72fc5c2f5d8d5fae013ac55
-3487ace51ca3ef8b8c1536227c45aeef5dd2d65726189c48d5869f4d1515b759
-362ceea6959c0bd9b5d6e4db14f5584c2a572721f0839780b371b033bdab0094
-39571290dbeed2c6fcbc7fc2b6dd80457db262a8bb53ae5ff95fb245b704888e
+332061f42a4c2687d9f9b40f491bed370f6777b3286acfad88e2338f9e9f53e1
 46[.]151[.]182[.]70
+4ba6845b7a8e9fd09b2c2b69674a11a8b4d52c189b48c68e73c93c32753044e6
+53faa757cc446ad5334c0430ca51554dbbfc2ba60fbb6666627cabd3bc6a534f
 avisee[.]com
 b0silg64[.]bossbey12[.]click
+balladquartz[.]com
 blog[.]anjobi[.]at
 catalinaconsultant[.]com
-cvbmynpm[.]bittu[.]store
-events[.]mirthfield[.]cc
-fm[.]afktogel[.]org
-hxxps://ai[.]akantoto[.]com/f3/
-hxxps://ai[.]akantoto[.]com/gn/
-hxxps://ai[.]akantoto[.]com/hw/
-hxxps://ai[.]akantoto[.]com/ir/
-hxxps://ai[.]akantoto[.]com/nj/
-hxxps://ai[.]akantoto[.]com/no/
-hxxps://ai[.]akantoto[.]com/ny/
-hxxps://ai[.]akantoto[.]com/p2/
-hxxps://ai[.]akantoto[.]com/sy/
-hxxps://ai[.]akantoto[.]com/ta/
-hxxps://ai[.]akantoto[.]com/xc/
-hxxps://ai[.]akantoto[.]com/yh/
-l[.]bb69[.]org
-mail[.]holzbrenzii[.]com
-melo[.]rs
-newhomebuildingservice[.]co[.]uk
+hxxps://b6[.]akasia988[.]net/b0/
+hxxps://b6[.]akasia988[.]net/bq4/
+hxxps://b6[.]akasia988[.]net/bz/
+hxxps://b6[.]akasia988[.]net/chb/
+hxxps://b6[.]akasia988[.]net/cv/
+hxxps://b6[.]akasia988[.]net/k/
+hxxps://b6[.]akasia988[.]net/lke/
+hxxps://b6[.]akasia988[.]net/nj/
+hxxps://b6[.]akasia988[.]net/wy/
+hxxps://b6[.]akasia988[.]net/yb/
+hxxps://balladquartz[.]com/curl/ajb6hflv17/7z625q0ah02v5qzgs17eri[.]dat
+hxxps://p[.]au338[.]org/y/
+ikhsanjauhari[.]com
+pawpawrath[.]org
+s4[.]afktogel[.]org
+va9ucaqk[.]bossbey13[.]click
+vazsilvaconstruction[.]com
+y6auq3j5[.]forgestudios[.]co
 
 
 # Auto-Fetch-ThreatIntel
@@ -66,9 +69,6 @@ newhomebuildingservice[.]co[.]uk
 # 2026-10-29
 
 216[.]9[.]224[.]44
-31[.]56[.]209[.]8
-62[.]60[.]226[.]22
-85[.]11[.]167[.]6
 
 
 # Auto-Fetch-ThreatIntel

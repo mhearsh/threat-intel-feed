@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-30 14:07 UTC   Count: 685   Expiry: 30 days               #
+#  Updated: 2026-10-30 16:57 UTC   Count: 704   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -32,6 +32,17 @@ ai.akantoto.com/ta
 ai.akantoto.com/xc
 ai.akantoto.com/yh
 api.telegram.org/bot8320911571:AAGWRwP6H6w41Ujb6F7lh6rccpqEx9KV51g/sendDocument
+b6.akasia988.net/b0
+b6.akasia988.net/bq4
+b6.akasia988.net/bz
+b6.akasia988.net/chb
+b6.akasia988.net/cv
+b6.akasia988.net/k
+b6.akasia988.net/lke
+b6.akasia988.net/nj
+b6.akasia988.net/wy
+b6.akasia988.net/yb
+balladquartz.com/curl/ajb6hflv17/7z625q0ah02v5qzgs17eri.dat
 c.bb69.org/d
 c.bb69.org/f
 c.bb69.org/m
@@ -61,6 +72,7 @@ farenaw.cc/gate/chunk
 hw.akantoto.com/cx
 hw.akantoto.com/ge
 hw.akantoto.com/hj
+p.au338.org/y
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -73,6 +85,7 @@ hw.akantoto.com/hj
 9e9tjipz.bossbeyavrupa.store
 avisee.com
 b0silg64.bossbey12.click
+balladquartz.com
 blog.anjobi.at
 bossbeyalpha.click
 bossbeyanadolu.store
@@ -95,6 +108,7 @@ events.mirthfield.cc
 farenaw.cc
 fm.afktogel.org
 hjazfioe.surf
+ikhsanjauhari.com
 j0uxrx2g.paars.poker
 jaymarsh.4masgrooming.com
 l.bb69.org
@@ -103,9 +117,14 @@ mail.holzbrenzii.com
 melo.rs
 mydiaperisfull.baby
 newhomebuildingservice.co.uk
+pawpawrath.org
 poopflavored.beer
+s4.afktogel.org
 sometimes-i-fuck-a.baby
+va9ucaqk.bossbey13.click
+vazsilvaconstruction.com
 vt0potv8.bossbey1.click
+y6auq3j5.forgestudios.co
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
