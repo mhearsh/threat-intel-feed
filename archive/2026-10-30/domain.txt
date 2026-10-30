@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-30 05:20 UTC   Count: 308   Expiry: 30 days               #
+#  Updated: 2026-10-30 07:21 UTC   Count: 311   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -22,11 +22,14 @@ bossbeyanadolu.store
 bossbeyavrupa.store
 branthtech.com.br
 chiru.upper.jp
+cm.afktogel.org
 cognituslifesciences.com
 coloradomarketingresources.com
 coursepulse.sitasys.in
 curseddark.co.uk
 cvya.com
+farenaw.cc
+vt0potv8.bossbey1.click
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

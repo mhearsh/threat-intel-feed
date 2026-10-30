@@ -4,11 +4,11 @@
 85.11.167.6:Unknown malware added 2026-10-29
 217.60.102.45:Remcos added 2026-10-29
 62.60.226.22:Stealc added 2026-10-29
-154.91.50.165:VShell added 2026-10-30
-154.91.50.170:VShell added 2026-10-30
-154.91.50.176:VShell added 2026-10-30
-154.91.50.177:VShell added 2026-10-30
-154.91.50.178:VShell added 2026-10-30
-154.91.50.179:VShell added 2026-10-30
+104.168.7.227:Remcos added 2026-10-30
+104.248.16.36:Jackskid added 2026-10-30
+106.12.47.232:VShell added 2026-10-30
+154.91.49.165:VShell added 2026-10-30
+154.91.49.166:VShell added 2026-10-30
+154.91.49.167:VShell added 2026-10-30
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

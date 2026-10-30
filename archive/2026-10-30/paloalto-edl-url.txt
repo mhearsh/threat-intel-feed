@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-30 05:20 UTC   Count: 624   Expiry: 30 days               #
+#  Updated: 2026-10-30 07:21 UTC   Count: 638   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,7 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-30
 
+85.11.161.54/data
 c.bb69.org/d
 c.bb69.org/f
 c.bb69.org/m
@@ -27,6 +28,16 @@ d5.ajuna88.org/bv
 d5.ajuna88.org/ek
 d5.ajuna88.org/m
 d5.ajuna88.org/nv
+dk.ajuna88.org/b
+dk.ajuna88.org/ct
+dk.ajuna88.org/cz
+dk.ajuna88.org/lc
+dk.ajuna88.org/lf
+dk.ajuna88.org/o1
+dk.ajuna88.org/uq
+dk.ajuna88.org/wy
+dk.ajuna88.org/zq
+farenaw.cc/gate/chunk
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -40,11 +51,14 @@ bossbeyanadolu.store
 bossbeyavrupa.store
 branthtech.com.br
 chiru.upper.jp
+cm.afktogel.org
 cognituslifesciences.com
 coloradomarketingresources.com
 coursepulse.sitasys.in
 curseddark.co.uk
 cvya.com
+farenaw.cc
+vt0potv8.bossbey1.click
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

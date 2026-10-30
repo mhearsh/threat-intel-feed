@@ -1,17 +1,20 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-30 05:20 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-30 07:21 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "104.168.7.227", "ip", "Remcos", datetime(2026-10-30T07:21:03Z),
+    "104.248.16.36", "ip", "Jackskid", datetime(2026-10-30T07:21:03Z),
+    "106.12.47.232", "ip", "VShell", datetime(2026-10-30T07:21:03Z),
+    "154.91.49.165", "ip", "VShell", datetime(2026-10-30T07:21:03Z),
+    "154.91.49.166", "ip", "VShell", datetime(2026-10-30T07:21:03Z),
+    "154.91.49.167", "ip", "VShell", datetime(2026-10-30T07:21:03Z),
+    "cm.afktogel.org", "domain", "Vidar", datetime(2026-10-30T07:21:03Z),
+    "farenaw.cc", "domain", "Unknown Stealer", datetime(2026-10-30T07:21:03Z),
+    "vt0potv8.bossbey1.click", "domain", "ClearFake", datetime(2026-10-30T07:21:03Z),
     "46.151.182.70", "ip", "CECbot", datetime(2026-10-30T05:20:54Z),
-    "154.91.50.165", "ip", "VShell", datetime(2026-10-30T05:20:54Z),
-    "154.91.50.170", "ip", "VShell", datetime(2026-10-30T05:20:54Z),
-    "154.91.50.176", "ip", "VShell", datetime(2026-10-30T05:20:54Z),
-    "154.91.50.177", "ip", "VShell", datetime(2026-10-30T05:20:54Z),
-    "154.91.50.178", "ip", "VShell", datetime(2026-10-30T05:20:54Z),
-    "154.91.50.179", "ip", "VShell", datetime(2026-10-30T05:20:54Z),
     "22ed84bl.georgelounge.bar", "domain", "ClearFake", datetime(2026-10-30T05:20:54Z),
     "9e9tjipz.bossbeyavrupa.store", "domain", "ClearFake", datetime(2026-10-30T05:20:54Z),
     "bossbeyalpha.click", "domain", "ClearFake", datetime(2026-10-30T05:20:54Z),
@@ -21,9 +24,6 @@ let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublishe
     "chiru.upper.jp", "domain", "StrelaStealer", datetime(2026-10-30T05:20:54Z),
     "cognituslifesciences.com", "domain", "StrelaStealer", datetime(2026-10-30T05:20:54Z),
     "coloradomarketingresources.com", "domain", "StrelaStealer", datetime(2026-10-30T05:20:54Z),
-    "coursepulse.sitasys.in", "domain", "StrelaStealer", datetime(2026-10-30T05:20:54Z),
-    "curseddark.co.uk", "domain", "StrelaStealer", datetime(2026-10-30T05:20:54Z),
-    "cvya.com", "domain", "StrelaStealer", datetime(2026-10-30T05:20:54Z),
     "216.9.224.44", "ip", "Unknown malware", datetime(2026-10-29T20:17:52Z),
     "31.56.209.8", "ip", "Unknown malware", datetime(2026-10-29T16:54:03Z),
     "85.11.167.6", "ip", "Unknown malware", datetime(2026-10-29T16:54:03Z),

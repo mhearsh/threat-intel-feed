@@ -5,24 +5,39 @@ Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 85.11.167.6,ip,Unknown malware,77,high,"T1071, T1105",2026-10-29T16:54:03Z
 217.60.102.45,ip,Remcos,77,high,"T1071, T1105",2026-10-29T14:14:57Z
 62.60.226.22,ip,Stealc,77,high,"T1071, T1105",2026-10-29T14:14:57Z
-03a7917bdf72020adfe51950679cd2fb141b4f0c3776ced382cbaf6e647dc1ca,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-043dd3381cda35e5570b684d667e679660761049f37ea9a98c596d937a483c8f,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-0527f4d58e301239cf8f432363fbabd444d7d0eca1d1d85a675aee4823751023,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-053fcb1999e16ebaaca10347a4a996c671e82e77515c787d29d6695ba607d856,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-0740105c4c2cdad52b675f8bddfe2fc935468fa52c86d21aff878d65ae6ff037,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-08d8be68a7bf1e73f01a5b7aaf8dae8b9f8a771cc7469fd7a8f5f72d901d0d7d,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-09bea18497117288a119cf0da9fbbdc1e5802782c7c7ff6cfa6da8be5aba208f,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-0c6dc7c70dd1f121245c5eb743c18fc8a9532024e137535070d6c8479e7ccd9a,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-0f2ea4c972c7828e01ad90902dc88a9b0943a0ce5a918a070acab8e0b7ea0830,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-14abc0840a57a2e81577e60c0a239396f3ab63218243ef2aee3041624bd785ab,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-14f4ff195c3d6719d0fe07d329e673dd99e7fc1354d05def2a95a7691997fc10,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-154.91.50.165,ip,VShell,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-154.91.50.170,ip,VShell,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-154.91.50.176,ip,VShell,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-154.91.50.177,ip,VShell,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-154.91.50.178,ip,VShell,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-154.91.50.179,ip,VShell,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-1548dd2185d99e5c385b3cf33f95977f0eaa6c8a2377dfb0e43e3fb744328f47,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
+0337db6ec34f1160c5c80f7da4877283ddfc19128ccd08bb7c58238bbfb38728,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+08d6d24d5977b10af0f1ba4e978290756ac78a616763fcba2e1db64afd913309,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+08e616b2c9c93634fb2adf6850012c00abd5fe6dcdf72ab5dd66e27843d11065,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+0b86508095980aa07e11f4accc189e679274884f2ee229021ac42780c84b9963,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+0cd66f0ec208d3c86120f40c150482c4668b95f1ad0bd99132d415b0514246de,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+104.168.7.227,ip,Remcos,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+104.248.16.36,ip,Jackskid,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+106.12.47.232,ip,VShell,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+154.91.49.165,ip,VShell,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+154.91.49.166,ip,VShell,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+154.91.49.167,ip,VShell,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+282a0fef58670759e8aa838d87698af9f843227c968af588af4b66f213665573,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+2883ede4cf3c998d9a0ef8f35f7a17a425b37891cbfcea9f3c5ff17fb54c653e,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+295debeb9672c844e0bf64895c1761f7ce2d65e47c249301df333d305c88101a,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+34fc1803f5ae3f100f41d47a7487dfbd6c1c477af512fb2bf6cca51dc79ec34c,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+48f3883fa0233f8cfd05c253ea930287422cde7913811e13b8e0eff6cef7a187,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+5bc1255a3c70c3aa10a898a3bddd8f02093ed006f4b1e17becfcd3591d12f8d4,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+5c8ac1a69de316b3a97dee3731d59590e5a500f9e42bb2a645788769f487bd07,sha256,AMOS,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+cm.afktogel.org,domain,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+farenaw.cc,domain,Unknown Stealer,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://85.11.161.54/data,url,Unknown malware,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://cm.afktogel.org/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/b/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/ct/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/cz/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/lc/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/lf/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/o1/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/uq/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/wy/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://dk.ajuna88.org/zq/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+https://farenaw.cc/gate/chunk,url,Unknown Stealer,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
+vt0potv8.bossbey1.click,domain,ClearFake,74,medium,"T1071, T1105",2026-10-30T07:21:03Z
 22ed84bl.georgelounge.bar,domain,ClearFake,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
 9e9tjipz.bossbeyavrupa.store,domain,ClearFake,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
 bossbeyalpha.click,domain,ClearFake,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
@@ -32,20 +47,5 @@ branthtech.com.br,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20
 chiru.upper.jp,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
 cognituslifesciences.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
 coloradomarketingresources.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-coursepulse.sitasys.in,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-curseddark.co.uk,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-cvya.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://c.bb69.org/d/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://c.bb69.org/f/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://c.bb69.org/m/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://c.bb69.org/o/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://c.bb69.org/q/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://c.bb69.org/y/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://d5.ajuna88.org/b1/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://d5.ajuna88.org/bp/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://d5.ajuna88.org/bv/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://d5.ajuna88.org/ek/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://d5.ajuna88.org/m/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
-https://d5.ajuna88.org/nv/,url,Vidar,74,medium,"T1071, T1105",2026-10-30T05:20:54Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
