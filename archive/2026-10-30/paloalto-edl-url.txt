@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-30 07:21 UTC   Count: 638   Expiry: 30 days               #
+#  Updated: 2026-10-30 10:01 UTC   Count: 661   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,13 +15,21 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-30
 
+134.209.82.225:8099/beacon
+134.209.89.212/r
+134.209.89.212/x86_64
 85.11.161.54/data
+api.telegram.org/bot8320911571:AAGWRwP6H6w41Ujb6F7lh6rccpqEx9KV51g/sendDocument
 c.bb69.org/d
 c.bb69.org/f
 c.bb69.org/m
 c.bb69.org/o
 c.bb69.org/q
 c.bb69.org/y
+d.bb69.org/b
+d.bb69.org/c
+d.bb69.org/q
+d.bb69.org/u
 d5.ajuna88.org/b1
 d5.ajuna88.org/bp
 d5.ajuna88.org/bv
@@ -38,6 +46,9 @@ dk.ajuna88.org/uq
 dk.ajuna88.org/wy
 dk.ajuna88.org/zq
 farenaw.cc/gate/chunk
+hw.akantoto.com/cx
+hw.akantoto.com/ge
+hw.akantoto.com/hj
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -45,19 +56,31 @@ farenaw.cc/gate/chunk
 # 2026-10-30
 
 22ed84bl.georgelounge.bar
+34234342342rerr.beer
 9e9tjipz.bossbeyavrupa.store
 bossbeyalpha.click
 bossbeyanadolu.store
 bossbeyavrupa.store
 branthtech.com.br
 chiru.upper.jp
+clarorecargas.online
 cm.afktogel.org
 cognituslifesciences.com
 coloradomarketingresources.com
+concretehomesaruba.lat
 coursepulse.sitasys.in
 curseddark.co.uk
 cvya.com
+d.bb69.org
+en9rg9th.avako.store
 farenaw.cc
+hjazfioe.surf
+j0uxrx2g.paars.poker
+jaymarsh.4masgrooming.com
+lahvidovre.dk
+mydiaperisfull.baby
+poopflavored.beer
+sometimes-i-fuck-a.baby
 vt0potv8.bossbey1.click
 
 

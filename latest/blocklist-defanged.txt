@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-30 07:21 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-30 10:01 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,49 +15,49 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-30
 
-0337db6ec34f1160c5c80f7da4877283ddfc19128ccd08bb7c58238bbfb38728
-08d6d24d5977b10af0f1ba4e978290756ac78a616763fcba2e1db64afd913309
-08e616b2c9c93634fb2adf6850012c00abd5fe6dcdf72ab5dd66e27843d11065
-0b86508095980aa07e11f4accc189e679274884f2ee229021ac42780c84b9963
-0cd66f0ec208d3c86120f40c150482c4668b95f1ad0bd99132d415b0514246de
-104[.]168[.]7[.]227
-104[.]248[.]16[.]36
-106[.]12[.]47[.]232
-154[.]91[.]49[.]165
-154[.]91[.]49[.]166
-154[.]91[.]49[.]167
-22ed84bl[.]georgelounge[.]bar
-282a0fef58670759e8aa838d87698af9f843227c968af588af4b66f213665573
-2883ede4cf3c998d9a0ef8f35f7a17a425b37891cbfcea9f3c5ff17fb54c653e
-295debeb9672c844e0bf64895c1761f7ce2d65e47c249301df333d305c88101a
-34fc1803f5ae3f100f41d47a7487dfbd6c1c477af512fb2bf6cca51dc79ec34c
+03239558d000bd000d800c4d5e6e978325c6e3d44e3d907a6801ded2eccbf213
+04a2226fa10344330178e0710009097c3042cf404e85ed744beffee2a6b3a4ba
+06699c7542243673d88c1b352e188b323a9d29da3b8c556203c8268b3c9a4f6f
+0e3fc2fb43a82f7963ac539b2ff1ef064e0d2c0d59e54b3f07fb67973836eed0
+108619cda483784f4ad433ecd5d38730cc351667ed577a91bca3859e02cf13e1
+10ffda89d06d75ea0f94d548645e0dd51ca30a0ff2f9134acb8e47f0f48f0c81
+14a1428e2fcb07b9938a68dac0762c63363f735d254027e826b285c52283f51f
+154[.]91[.]52[.]183
+154[.]91[.]52[.]188
+154[.]91[.]53[.]167
+154[.]91[.]53[.]168
+154[.]91[.]54[.]175
+154[.]91[.]54[.]176
+1812c75db34cf437f4ccdd8e900de0787f20d8f3b828c294b18e93f11061c70f
+18756b75afedee74bbf49832a1b1dada4961672c41d595be5c1bbe75709de927
+2c93e318cf542d9b755f6ad2d7a68e3f721bf15932657937a3527874edc77db7
+2cdcc67367775b351818b7f076fb40ac55dd7aef4db21e7d220138fc506395db
+34234342342rerr[.]beer
+358d0a370e690af564602b308910ba9a7a0ed68357854de9972d5e4ad5ab09fb
 46[.]151[.]182[.]70
-48f3883fa0233f8cfd05c253ea930287422cde7913811e13b8e0eff6cef7a187
-5bc1255a3c70c3aa10a898a3bddd8f02093ed006f4b1e17becfcd3591d12f8d4
-5c8ac1a69de316b3a97dee3731d59590e5a500f9e42bb2a645788769f487bd07
-9e9tjipz[.]bossbeyavrupa[.]store
-bossbeyalpha[.]click
-bossbeyanadolu[.]store
-bossbeyavrupa[.]store
-branthtech[.]com[.]br
-chiru[.]upper[.]jp
-cm[.]afktogel[.]org
-cognituslifesciences[.]com
-coloradomarketingresources[.]com
-farenaw[.]cc
-hxxps://85[.]11[.]161[.]54/data
-hxxps://cm[.]afktogel[.]org/
-hxxps://dk[.]ajuna88[.]org/b/
-hxxps://dk[.]ajuna88[.]org/ct/
-hxxps://dk[.]ajuna88[.]org/cz/
-hxxps://dk[.]ajuna88[.]org/lc/
-hxxps://dk[.]ajuna88[.]org/lf/
-hxxps://dk[.]ajuna88[.]org/o1/
-hxxps://dk[.]ajuna88[.]org/uq/
-hxxps://dk[.]ajuna88[.]org/wy/
-hxxps://dk[.]ajuna88[.]org/zq/
-hxxps://farenaw[.]cc/gate/chunk
-vt0potv8[.]bossbey1[.]click
+clarorecargas[.]online
+concretehomesaruba[.]lat
+d[.]bb69[.]org
+en9rg9th[.]avako[.]store
+hjazfioe[.]surf
+hxxp://134[.]209[.]82[.]225:8099/beacon
+hxxp://134[.]209[.]89[.]212/r
+hxxp://134[.]209[.]89[.]212/x86_64
+hxxps://api[.]telegram[.]org/bot8320911571:AAGWRwP6H6w41Ujb6F7lh6rccpqEx9KV51g/sendDocument
+hxxps://d[.]bb69[.]org/
+hxxps://d[.]bb69[.]org/b/
+hxxps://d[.]bb69[.]org/c/
+hxxps://d[.]bb69[.]org/q/
+hxxps://d[.]bb69[.]org/u/
+hxxps://hw[.]akantoto[.]com/cx/
+hxxps://hw[.]akantoto[.]com/ge/
+hxxps://hw[.]akantoto[.]com/hj/
+j0uxrx2g[.]paars[.]poker
+jaymarsh[.]4masgrooming[.]com
+lahvidovre[.]dk
+mydiaperisfull[.]baby
+poopflavored[.]beer
+sometimes-i-fuck-a[.]baby
 
 
 # Auto-Fetch-ThreatIntel

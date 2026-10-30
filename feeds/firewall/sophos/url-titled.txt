@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-30 07:21 UTC   Count: 327   Expiry: 30 days               #
+#  Updated: 2026-10-30 10:01 UTC   Count: 338   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,13 +15,21 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-30
 
+134.209.82.225:8099/beacon
+134.209.89.212/r
+134.209.89.212/x86_64
 85.11.161.54/data
+api.telegram.org/bot8320911571:AAGWRwP6H6w41Ujb6F7lh6rccpqEx9KV51g/sendDocument
 c.bb69.org/d
 c.bb69.org/f
 c.bb69.org/m
 c.bb69.org/o
 c.bb69.org/q
 c.bb69.org/y
+d.bb69.org/b
+d.bb69.org/c
+d.bb69.org/q
+d.bb69.org/u
 d5.ajuna88.org/b1
 d5.ajuna88.org/bp
 d5.ajuna88.org/bv
@@ -38,6 +46,9 @@ dk.ajuna88.org/uq
 dk.ajuna88.org/wy
 dk.ajuna88.org/zq
 farenaw.cc/gate/chunk
+hw.akantoto.com/cx
+hw.akantoto.com/ge
+hw.akantoto.com/hj
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
