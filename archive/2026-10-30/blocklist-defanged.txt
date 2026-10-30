@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-30 19:25 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-30 23:13 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,54 +15,54 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-30
 
-021bd23bce03a89ec835bc3e82bc85e482638827c08f3342d386aeb5a94abd61
-100[.]53[.]240[.]26
+022a4295f5d6316e2f4189ddda98b97dc7326c58b927fa687d1f76b4b84cb8d3
 118[.]107[.]44[.]67
-13[.]49[.]66[.]51
+13e7afa5046f958e976fae677286a6b56bb2526db72d10f3ada9dac0d585fd85
+1418b2cf9db1233eaa52f7b5b974da685d248a1599c187f08dbc8ecff79b92bf
 141[.]98[.]10[.]168
-154[.]91[.]48[.]187
-154[.]91[.]49[.]163
-154[.]91[.]49[.]164
-154[.]91[.]49[.]185
-154[.]91[.]49[.]186
-154[.]91[.]49[.]190
-154[.]91[.]50[.]163
-30829a4dbab99cd5b3e04bf144b77a736e9889abd4d3faa3391a9765cfac520c
-3b048be745247b6471a80e7189cac025cd0f7d33256e9e9ed271f968037f5b78
+154[.]91[.]48[.]188
+154[.]91[.]48[.]189
+154[.]91[.]48[.]190
+154[.]91[.]49[.]162
+154[.]91[.]49[.]168
+154[.]91[.]49[.]170
+154[.]91[.]50[.]164
+154[.]91[.]50[.]166
+154[.]91[.]50[.]167
+18e5c46fe37fb19f9e45a5addd95be97a919272bb2df4b2385575f9bb144c005
+1bb63fb4c1d6cf39a6c95dd743f5bac47618328efd185b3c7a57073a2183a4a1
+1eb39dbd8ca631431e37f173fa80b00fbac4a6c3a26effe6dacbe5b3eb4d8ecd
+22fd3b205e02ed7b64274cd43e7623c2ec96c8240740dbd778f89fb113d6d335
+260be97921b48c2cc70896c88ab03ccd89a54de8d7156534fb99ae5ac05ee85e
+2a3120638ce2a5a54e317cb1c3e0b6066aa703dab665de13eacd4e38a46b4fb6
+3bn9xbsj[.]bodes[.]store
 46[.]151[.]182[.]70
-470a88a549083652757a03bc83d515da1e726dea1918314e0142bc4c8f0ea679
-49309c0962ef78584ccbdbf1948aefd7f3d1f72d91052802bf8fd1581814ec43
-507048930c735947942aa7e12265c73aaadc7ef7fe9e10c5a6a7f6c4b66aa8fd
-52ef7f4f8d5211dc55a7e008c66f906f3ba810da661fb5351532e8f90236467d
-6d58497d5dbcd0a65f2ab9c757acc3e2c330417ee4c00f996f77aa8d6820bf83
-6f4b1b13ba965b0a5226102a9bc50a2645728a90a6b42ae42c4d9434b0b30ffb
-77ebd7914f9d645ecc34c8c4c622c9ed1828a7d0a797652f842651e75b3319dc
-883787ece1e69fd21732004b371d36db27b767e529325c0651ce2454c045b2f5
-a6b25564ce4cf762d2034488e1221396a816d7e8a0a16cb01778d872736d6927
-hgtankkv[.]worknernorgram[.]rest
-hxxps://b6[.]akasia988[.]net/b0/
-hxxps://b6[.]akasia988[.]net/bq4/
-hxxps://b6[.]akasia988[.]net/bz/
-hxxps://b6[.]akasia988[.]net/chb/
-hxxps://b6[.]akasia988[.]net/cv/
-hxxps://b6[.]akasia988[.]net/k/
-hxxps://b6[.]akasia988[.]net/lke/
-hxxps://b6[.]akasia988[.]net/nj/
-hxxps://b6[.]akasia988[.]net/wy/
-hxxps://b6[.]akasia988[.]net/yb/
-hxxps://balladquartz[.]com/curl/ajb6hflv17/7z625q0ah02v5qzgs17eri[.]dat
+49d5591c9266e66bc2e1a154edb9458ec7fe2eb1d2cbe2aba5411f2058c4d58e
+4bb7bb216a23776f9bd0bfa0d346e70b303eb2f683490c85f35d2733778f12d7
+4c53559dd754b6dc1dcda06b9001cde10a27f0339ba30f495bd4d841df60ae18
+5obvjtqm[.]bossbey20[.]click
+9bumokde[.]yellohotelsharmoni[.]com
+abmarketingstudio[.]co[.]uk
+gjuqlcwh[.]bossbey71[.]click
+hxxps://alkausarpharma[.]com/
+hxxps://amati[.]org[.]uk/
+hxxps://ashwinbk[.]com/
+hxxps://atozservies[.]com/
+hxxps://ava88t[.]work/
+hxxps://barbarabonomiromagnoli[.]com/
+hxxps://benu[.]com[.]br/
+hxxps://blackmusic[.]com[.]br/
+hxxps://camelinksolutions[.]com/
+hxxps://cnit[.]com[.]br/
+hxxps://concretecuttingae[.]com/
 hxxps://s4[.]afktogel[.]org/ig/gate
-mns6fyl1[.]bossbey69[.]click
-oceancoastshipping[.]ph
-originalotranto[.]it
-poollessons[.]net
-portfolio[.]prismscale[.]com
-pos-marine[.]com
-prairiedesk[.]cfd
-prairierailingregina[.]ca
-priceisrightjewelry[.]com
-qdxc52sq[.]bixk[.]store
-yjhxyhjj[.]bossbey15[.]click
+iqv[.]sonicretroworld[.]cfd
+psihologlife[.]ru
+puertodeobligado[.]com[.]ar
+quaseartistas[.]com[.]br
+rafastandfurious[.]es
+raybake[.]com
+realestate[.]financialhouse[.]gr
 
 
 # Auto-Fetch-ThreatIntel
