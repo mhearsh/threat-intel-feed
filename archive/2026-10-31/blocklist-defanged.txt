@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-31 13:22 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-31 17:04 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,60 +15,54 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-31
 
-000a91a83873720a2461e35fd60738637f090d7e6f94435187055d61cda8ecb7
-013a02608d15ff1a904d004c24f204b1089ed435fd5582719212cdd96b726a57
-0372ce06f153b337b106558d5ac3956688317b646f02a5577f717fe6b09c0349
-104488c5f0ec2e42f6d87d5f294843b945db2f2cfef9738f2e2539b1fcf9938d
+05c5d5b026e976b85bef06be507c1d39cfc737a2539d6a085892ac4f8b92cf9d
+0ab06d6cc852ceaf5f7dbf18596fd41b8589f0a417ef13051d9819c3038e8d27
+0b48c4623e235493a4c9d504e85db52f2e2d52bcb57dbda69bc9d235619aa0ed
+0bc406bd0c6f8e91dba9b1aff49e85c622b05f93ab15ffca19b4d7c56db5b213
+108[.]187[.]43[.]110
+12b1348cba1874f45147201f3e291a7476766fac4a7d4776c287e6bbc2fda1d3
+140e3a9aa0afa8d087550aa853f532226848d4b200834fa430f6f9d3c887a11f
 141[.]98[.]10[.]157
 141[.]98[.]10[.]160
 141[.]98[.]10[.]172
-154[.]91[.]52[.]179
-154[.]91[.]52[.]180
-154[.]91[.]54[.]164
-154[.]91[.]54[.]166
-154[.]91[.]54[.]167
+154[.]91[.]54[.]177
+154[.]91[.]54[.]184
+154[.]91[.]54[.]185
+156[.]247[.]40[.]170
+170c25a17bc7b7d0819939ec595e95b5c3e49cdbec5e6621fd2a0cb2686a7261
 176[.]65[.]149[.]174
-18500b4840816988d127bf2069af26043b9e6d230b0ca2746535c06280b43c1d
+196[.]251[.]122[.]91
 2021308de500344f418587206ad03cd3cc1d667a7a356df9c4f3af653765e05a
-278bd6ea4a998a126fc59102a339d2f2ad879de6c99addcc532465a11cce67bf
-30416c98689396c6ec57f5f4453ebba54309c119141abef9eaacc6c9db4ce079
+202[.]61[.]160[.]233
+3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44785a
 414e138f6d5ee5b863029e29ad0405bd2fa10a4f5f4401b9a06ac134873158c7
-6e20b1859bf3072a5e6fbdd81d3e03279becbf1dee8503207b4ea1d86e569d3a
-763a76c9d818a6706ebda12b09d57f5596a564debaa7bcade80d4db409b89473
+49crrg0d[.]bossbeynova[.]click
 91[.]188[.]254[.]62
-ac251[.]club
-b7228ee93b7b40f62b74049e065e0b0a2f8ef1b47715ffc581e9a5736eb2e8da
-boardmantra[.]in
-cd[.]afktogel[.]org
-dagatructiep[.]digital
-hxxp://85[.]11[.]167[.]7:11941/carrier[.]mp4
-hxxp://85[.]11[.]167[.]7:11973/carrier[.]mp4
-hxxp://85[.]11[.]167[.]7:11973/item[.]xml
-hxxp://apollocapitalp[.]com/ify/Panel/fre[.]php
+ab56b618f4f9606d4dcf53f157547010128d70b003d7ad5671de36598f3abedb
+c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb088f2
+dimatrust[.]com
+f[.]au338[.]org
+fj8yfdpr[.]bossbey12[.]click
+gol1111[.]store
+hxxp://45[.]91[.]226[.]119/getinstall64
 hxxps://cd[.]afktogel[.]org/
-hxxps://demo[.]d9scznkep[.]in[.]net/AutoIt3[.]exe
-hxxps://demo[.]d9scznkep[.]in[.]net/installer_prefs[.]json
-hxxps://dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com/2026huss/RuneLite[.]exe
-hxxps://dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com/2026huss/client[.]jar
-hxxps://p[.]au338[.]org/x/
+hxxps://devicelogin[.]neuidmsso[.]com/
+hxxps://f[.]au338[.]org/
+hxxps://gopotatomusic[.]com/
+hxxps://incubateurdelafranchise[.]co/
+hxxps://login[.]neuidmsso[.]com/a8eec281-aaa3-4dae-ac9b-9a398b9215e7/saml2?SAMLRequest=fVJNT%2BMwFPwrke%2BJY4c0idUUdalWVIKlImEPXJDjvFJLjl38HNj99xv6gdhLb5Y8b%2BbNzJtf%2FxlM9A4etbM1YUlKIrDK9dq%2B1uSp%2FRmX5HoxRzkYvhfLMezsI7yNgCGaBi2K409NRm%2BFk6hRWDkAiqBEs7y%2FEzxJxd674JQzJFoigg%2BT1I2zOA7gG%2FDvWsHT411NdiHsUVBqYdT9gOiS6ZVAP1Ld7%2BlEstUG6GEH%2BsnN6eahaWnTPJBoNW2krQwHF2ci4161TQatvEO3Dc4abSFRbqCyBFC8ZLGUMouvegmxVFUXVzKryq7iLIeCHqyRaL2qycus2PZZOUsZY7xQcpvmqs%2BKfiYznpc8lxMMcYS1xSBtqAlP%2BSxmaZyxll2JvBBpkVS8eCbR5hTGD22PIV9KrjuCUNy27Sb%2BtEui3%2BeyJgA5VSMO6v57J5eJ5bkIsrgcO%2B501zkDYTen36W%2BbuLXxL1ebZzR6m%2B0NMZ93HiQAWoS%2FAiELk5z%2F1%2FP4h8%3D&RelayState=e1s2&sso_reload=true
+hxxps://login[.]northeastern-auth[.]com/a8eec281-aaa3-4dae-ac9b-9a398b9215e7/saml2?SAMLRequest=fVLLbtswEPwVgXeJIhW9CMuBG6OogbQxIqWHXAKKWscEKNLlUmn791X8CNKLbwQ4O7Mzs4vbP6OJ3sCjdrYhLElJBFa5QdvXhjx1X%2BOK3C4XKEfDD2I1hb19hF8TYIjmQYvi9NOQyVvhJGoUVo6AIijRrr7fC56k4uBdcMoZEq0QwYdZ6s5ZnEbwLfg3reDp8b4h%2BxAOKCi1MOlhRHTJ%2FEpgmKgeDnQm2WkD9LgDfefmdPvQdrRtH0i0njfSVoajiwuRca%2FaJqNW3qHbBWeNtpAoN1JZAShesVhKmcU3g4RYqrqPa5nVVV9zlkNJj9ZItFk35IWVBWSMZRXL6yItb7gqd6pIWZbvIK8zmGGIE2wsBmlDQ3jKi5ilccY6xkVeipQlRcWfSbQ9h%2FFF21PI15LrTyAU37puG7%2FbJdHPS1kzgJyrEUd1%2F7mT68TyUgRZXo8d97rvnYGwX9DPUh838WPm3qy3zmj1N1oZ437feZABGhL8BIQuz3P%2FX8%2FyHw%3D%3D&RelayState=e1s2&sso_reload=true
+hxxps://pk69slot[.]vip/
 hxxps://r[.]au338[.]org/
-hxxps://redjaxfire[.]com/nfront[.]php
-inmemoriam[.]in
-kordramas[.]co
-mu88a2[.]com
-mu88vuive[.]com
-r[.]au338[.]org
-slotslotbentley[.]cc
-soicaurongbachkimmb[.]com
-www[.]jancorinnecross[.]com
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-30
-
-118[.]107[.]44[.]67
-141[.]98[.]10[.]168
+hxxps://royalkiss[.]store/
+hxxps://z4[.]afktogel[.]org/
+iantfoto[.]com
+kdtvl3x7[.]enfejar[.]casino
+l83i8m5k[.]bossbeyhouse[.]click
+ws[.]designband[.]org
+wwc[.]co[.]za
+www[.]iceal[.]com[.]br
+www[.]keatscollege[.]com
 
 
 # Auto-Fetch-ThreatIntel

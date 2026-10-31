@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-31 13:22 UTC   Count: 792   Expiry: 30 days               #
+#  Updated: 2026-10-31 17:04 UTC   Count: 813   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,7 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-31
 
+45.91.226.119/getinstall64
 77.239.124.141/b/armv4l
 77.239.124.141/b/armv5l
 85.11.167.7:11941/carrier.mp4
@@ -25,6 +26,8 @@ demo.d9scznkep.in.net/AutoIt3.exe
 demo.d9scznkep.in.net/installer_prefs.json
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/RuneLite.exe
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/client.jar
+login.neuidmsso.com/a8eec281-aaa3-4dae-ac9b-9a398b9215e7/saml2?SAMLRequest=fVJNT%2BMwFPwrke%2BJY4c0idUUdalWVIKlImEPXJDjvFJLjl38HNj99xv6gdhLb5Y8b%2BbNzJtf%2FxlM9A4etbM1YUlKIrDK9dq%2B1uSp%2FRmX5HoxRzkYvhfLMezsI7yNgCGaBi2K409NRm%2BFk6hRWDkAiqBEs7y%2FEzxJxd674JQzJFoigg%2BT1I2zOA7gG%2FDvWsHT411NdiHsUVBqYdT9gOiS6ZVAP1Ld7%2BlEstUG6GEH%2BsnN6eahaWnTPJBoNW2krQwHF2ci4161TQatvEO3Dc4abSFRbqCyBFC8ZLGUMouvegmxVFUXVzKryq7iLIeCHqyRaL2qycus2PZZOUsZY7xQcpvmqs%2BKfiYznpc8lxMMcYS1xSBtqAlP%2BSxmaZyxll2JvBBpkVS8eCbR5hTGD22PIV9KrjuCUNy27Sb%2BtEui3%2BeyJgA5VSMO6v57J5eJ5bkIsrgcO%2B501zkDYTen36W%2BbuLXxL1ebZzR6m%2B0NMZ93HiQAWoS%2FAiELk5z%2F1%2FP4h8%3D&RelayState=e1s2&sso_reload=true
+login.northeastern-auth.com/a8eec281-aaa3-4dae-ac9b-9a398b9215e7/saml2?SAMLRequest=fVLLbtswEPwVgXeJIhW9CMuBG6OogbQxIqWHXAKKWscEKNLlUmn791X8CNKLbwQ4O7Mzs4vbP6OJ3sCjdrYhLElJBFa5QdvXhjx1X%2BOK3C4XKEfDD2I1hb19hF8TYIjmQYvi9NOQyVvhJGoUVo6AIijRrr7fC56k4uBdcMoZEq0QwYdZ6s5ZnEbwLfg3reDp8b4h%2BxAOKCi1MOlhRHTJ%2FEpgmKgeDnQm2WkD9LgDfefmdPvQdrRtH0i0njfSVoajiwuRca%2FaJqNW3qHbBWeNtpAoN1JZAShesVhKmcU3g4RYqrqPa5nVVV9zlkNJj9ZItFk35IWVBWSMZRXL6yItb7gqd6pIWZbvIK8zmGGIE2wsBmlDQ3jKi5ilccY6xkVeipQlRcWfSbQ9h%2FFF21PI15LrTyAU37puG7%2FbJdHPS1kzgJyrEUd1%2F7mT68TyUgRZXo8d97rvnYGwX9DPUh838WPm3qy3zmj1N1oZ437feZABGhL8BIQuz3P%2FX8%2FyHw%3D%3D&RelayState=e1s2&sso_reload=true
 p.au338.org/x
 redjaxfire.com/nfront.php
 
@@ -33,6 +36,7 @@ redjaxfire.com/nfront.php
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-31
 
+49crrg0d.bossbeynova.click
 49vcy2na.verticalrewards.com
 ac251.club
 boardmantra.in
@@ -47,32 +51,49 @@ clothes4work.co.uk
 compassagreement.cfd
 cxjtcyym.bossbeyagency.click
 dagatructiep.digital
+devicelogin.neuidmsso.com
 devicelogin.utoronnto.ca
+dimatrust.com
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com
 environmentchallenge.org
+f.au338.org
 fastcrimescenecleanupchicago.com
+fj8yfdpr.bossbey12.click
+gol1111.store
+gopotatomusic.com
 growingtogether.club
 gulfcoastgardenclub.org
 h7iarqsz.bossbeycrown.click
 hazelmoss.cc
+iantfoto.com
 ikikk2j7.sleavepiker.com
 imap.hazelmoss.cc
+incubateurdelafranchise.co
 inmemoriam.in
 irzl46yh.bossbaba.store
 j1uz3zee.bonolo.store
+kdtvl3x7.enfejar.casino
 kordramas.co
+l83i8m5k.bossbeyhouse.click
 login.sorrelglen.cc
 mu88a2.com
 mu88vuive.com
+pk69slot.vip
 r.au338.org
+royalkiss.store
 securetds.beer
 slotslotbentley.cc
 soicaurongbachkimmb.com
 sorrelglen.cc
 tuby27nu.paars.poker
+ws.designband.org
+wwc.co.za
 www.coralpalmprojects.com
 www.huzungozlum.com
+www.iceal.com.br
 www.jancorinnecross.com
+www.keatscollege.com
+z4.afktogel.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

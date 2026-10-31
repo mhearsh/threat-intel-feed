@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-31 13:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 5747 SHA-256 · 479 SHA-1 · 481 MD5._
+_Last update: 2026-10-31 17:04 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 43 first seen under 6h ago. File-hash feed: 5857 SHA-256 · 479 SHA-1 · 481 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `141[.]98[.]10[.]157` | ip | Aisuru | 83 | high | T1071, T1105 |
-| 2 | `141[.]98[.]10[.]160` | ip | Aisuru | 83 | high | T1071, T1105 |
-| 3 | `141[.]98[.]10[.]172` | ip | Aisuru | 83 | high | T1071, T1105 |
-| 4 | `176[.]65[.]149[.]174` | ip | XMRIG | 83 | high | T1071, T1105 |
-| 5 | `91[.]188[.]254[.]62` | ip | XMRIG | 83 | high | T1071, T1105 |
-| 6 | `118[.]107[.]44[.]67` | ip | Unknown RAT | 77 | high | T1071, T1105 |
-| 7 | `141[.]98[.]10[.]168` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 8 | `154[.]91[.]52[.]179` | ip | VShell | 74 | medium | T1071, T1105 |
-| 9 | `154[.]91[.]52[.]180` | ip | VShell | 74 | medium | T1071, T1105 |
-| 10 | `154[.]91[.]54[.]164` | ip | VShell | 74 | medium | T1071, T1105 |
-| 11 | `154[.]91[.]54[.]166` | ip | VShell | 74 | medium | T1071, T1105 |
-| 12 | `154[.]91[.]54[.]167` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `2021308de500344f418587206ad03cd3cc1d667a7a356df9c4f3af653765` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 14 | `414e138f6d5ee5b863029e29ad0405bd2fa10a4f5f4401b9a06ac1348731` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 15 | `ac251[.]club` | domain | Unknown malware | 74 | medium | T1071, T1105 |
+| 1 | `156[.]247[.]40[.]170` | ip | ValleyRAT | 83 | high | T1071, T1105 |
+| 2 | `196[.]251[.]122[.]91` | ip | Remcos | 83 | high | T1071, T1105 |
+| 3 | `202[.]61[.]160[.]233` | ip | ValleyRAT | 83 | high | T1071, T1105 |
+| 4 | `141[.]98[.]10[.]157` | ip | Aisuru | 77 | high | T1071, T1105 |
+| 5 | `141[.]98[.]10[.]160` | ip | Aisuru | 77 | high | T1071, T1105 |
+| 6 | `141[.]98[.]10[.]172` | ip | Aisuru | 77 | high | T1071, T1105 |
+| 7 | `176[.]65[.]149[.]174` | ip | XMRIG | 77 | high | T1071, T1105 |
+| 8 | `91[.]188[.]254[.]62` | ip | XMRIG | 77 | high | T1071, T1105 |
+| 9 | `108[.]187[.]43[.]110` | ip | ValleyRAT | 74 | medium | T1071, T1105 |
+| 10 | `154[.]91[.]54[.]177` | ip | VShell | 74 | medium | T1071, T1105 |
+| 11 | `154[.]91[.]54[.]184` | ip | VShell | 74 | medium | T1071, T1105 |
+| 12 | `154[.]91[.]54[.]185` | ip | VShell | 74 | medium | T1071, T1105 |
+| 13 | `3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `49crrg0d[.]bossbeynova[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 15 | `c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

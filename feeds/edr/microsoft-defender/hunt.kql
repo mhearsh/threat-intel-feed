@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-31 13:22 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-31 17:04 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "154.91.52.179", "ip", "VShell", datetime(2026-10-31T13:22:20Z),
-    "154.91.52.180", "ip", "VShell", datetime(2026-10-31T13:22:20Z),
-    "154.91.54.164", "ip", "VShell", datetime(2026-10-31T13:22:20Z),
-    "154.91.54.166", "ip", "VShell", datetime(2026-10-31T13:22:20Z),
-    "154.91.54.167", "ip", "VShell", datetime(2026-10-31T13:22:20Z),
-    "ac251.club", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "boardmantra.in", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "cd.afktogel.org", "domain", "Vidar", datetime(2026-10-31T13:22:20Z),
-    "dagatructiep.digital", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "inmemoriam.in", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "kordramas.co", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "mu88a2.com", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "mu88vuive.com", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "r.au338.org", "domain", "Vidar", datetime(2026-10-31T13:22:20Z),
-    "slotslotbentley.cc", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "soicaurongbachkimmb.com", "domain", "Unknown malware", datetime(2026-10-31T13:22:20Z),
-    "www.jancorinnecross.com", "domain", "StrelaStealer", datetime(2026-10-31T13:22:20Z),
+    "156.247.40.170", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
+    "196.251.122.91", "ip", "Remcos", datetime(2026-10-31T17:04:13Z),
+    "202.61.160.233", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
+    "108.187.43.110", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
+    "154.91.54.177", "ip", "VShell", datetime(2026-10-31T17:04:13Z),
+    "154.91.54.184", "ip", "VShell", datetime(2026-10-31T17:04:13Z),
+    "154.91.54.185", "ip", "VShell", datetime(2026-10-31T17:04:13Z),
+    "49crrg0d.bossbeynova.click", "domain", "ClearFake", datetime(2026-10-31T17:04:13Z),
+    "dimatrust.com", "domain", "StrelaStealer", datetime(2026-10-31T17:04:13Z),
+    "f.au338.org", "domain", "Vidar", datetime(2026-10-31T17:04:13Z),
+    "fj8yfdpr.bossbey12.click", "domain", "ClearFake", datetime(2026-10-31T17:04:13Z),
+    "gol1111.store", "domain", "Unknown malware", datetime(2026-10-31T17:04:13Z),
+    "iantfoto.com", "domain", "StrelaStealer", datetime(2026-10-31T17:04:13Z),
+    "kdtvl3x7.enfejar.casino", "domain", "ClearFake", datetime(2026-10-31T17:04:13Z),
+    "l83i8m5k.bossbeyhouse.click", "domain", "ClearFake", datetime(2026-10-31T17:04:13Z),
+    "ws.designband.org", "domain", "StrelaStealer", datetime(2026-10-31T17:04:13Z),
+    "wwc.co.za", "domain", "StrelaStealer", datetime(2026-10-31T17:04:13Z),
+    "www.iceal.com.br", "domain", "StrelaStealer", datetime(2026-10-31T17:04:13Z),
+    "www.keatscollege.com", "domain", "StrelaStealer", datetime(2026-10-31T17:04:13Z),
     "141.98.10.157", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
     "141.98.10.160", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
     "141.98.10.172", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
     "176.65.149.174", "ip", "XMRIG", datetime(2026-10-31T08:01:37Z),
     "91.188.254.62", "ip", "XMRIG", datetime(2026-10-31T08:01:37Z),
-    "118.107.44.67", "ip", "Unknown RAT", datetime(2026-10-30T16:57:03Z),
-    "141.98.10.168", "ip", "Unknown malware", datetime(2026-10-30T16:57:03Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];
