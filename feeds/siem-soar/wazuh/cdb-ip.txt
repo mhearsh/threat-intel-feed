@@ -1,3 +1,4 @@
+102.134.35.205:Cobalt Strike added 2026-10-31
 156.247.40.170:ValleyRAT added 2026-10-31
 196.251.122.91:Remcos added 2026-10-31
 202.61.160.233:ValleyRAT added 2026-10-31
@@ -6,9 +7,8 @@
 141.98.10.172:Aisuru added 2026-10-31
 176.65.149.174:XMRIG added 2026-10-31
 91.188.254.62:XMRIG added 2026-10-31
-108.187.43.110:ValleyRAT added 2026-10-31
-154.91.54.177:VShell added 2026-10-31
-154.91.54.184:VShell added 2026-10-31
-154.91.54.185:VShell added 2026-10-31
+106.54.41.209:Unknown malware added 2026-10-31
+154.91.48.164:VShell added 2026-10-31
+154.91.48.165:VShell added 2026-10-31
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-31 17:04 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 43 first seen under 6h ago. File-hash feed: 5857 SHA-256 · 479 SHA-1 · 481 MD5._
+_Last update: 2026-10-31 21:12 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256: 6, md5: 3, sha1: 3); 43 first seen under 6h ago. File-hash feed: 5923 SHA-256 · 556 SHA-1 · 558 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `156[.]247[.]40[.]170` | ip | ValleyRAT | 83 | high | T1071, T1105 |
-| 2 | `196[.]251[.]122[.]91` | ip | Remcos | 83 | high | T1071, T1105 |
-| 3 | `202[.]61[.]160[.]233` | ip | ValleyRAT | 83 | high | T1071, T1105 |
-| 4 | `141[.]98[.]10[.]157` | ip | Aisuru | 77 | high | T1071, T1105 |
-| 5 | `141[.]98[.]10[.]160` | ip | Aisuru | 77 | high | T1071, T1105 |
-| 6 | `141[.]98[.]10[.]172` | ip | Aisuru | 77 | high | T1071, T1105 |
-| 7 | `176[.]65[.]149[.]174` | ip | XMRIG | 77 | high | T1071, T1105 |
-| 8 | `91[.]188[.]254[.]62` | ip | XMRIG | 77 | high | T1071, T1105 |
-| 9 | `108[.]187[.]43[.]110` | ip | ValleyRAT | 74 | medium | T1071, T1105 |
-| 10 | `154[.]91[.]54[.]177` | ip | VShell | 74 | medium | T1071, T1105 |
-| 11 | `154[.]91[.]54[.]184` | ip | VShell | 74 | medium | T1071, T1105 |
-| 12 | `154[.]91[.]54[.]185` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `49crrg0d[.]bossbeynova[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 15 | `c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb0` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `102[.]134[.]35[.]205` | ip | Cobalt Strike | 83 | high | T1071.001, T1105, T1059 |
+| 2 | `156[.]247[.]40[.]170` | ip | ValleyRAT | 83 | high | T1071, T1105 |
+| 3 | `196[.]251[.]122[.]91` | ip | Remcos | 83 | high | T1071, T1105 |
+| 4 | `202[.]61[.]160[.]233` | ip | ValleyRAT | 83 | high | T1071, T1105 |
+| 5 | `141[.]98[.]10[.]157` | ip | Aisuru | 77 | high | T1071, T1105 |
+| 6 | `141[.]98[.]10[.]160` | ip | Aisuru | 77 | high | T1071, T1105 |
+| 7 | `141[.]98[.]10[.]172` | ip | Aisuru | 77 | high | T1071, T1105 |
+| 8 | `176[.]65[.]149[.]174` | ip | XMRIG | 77 | high | T1071, T1105 |
+| 9 | `91[.]188[.]254[.]62` | ip | XMRIG | 77 | high | T1071, T1105 |
+| 10 | `106[.]54[.]41[.]209` | ip | Unknown malware | 74 | medium | T1071, T1105 |
+| 11 | `154[.]91[.]48[.]164` | ip | VShell | 74 | medium | T1071, T1105 |
+| 12 | `154[.]91[.]48[.]165` | ip | VShell | 74 | medium | T1071, T1105 |
+| 13 | `ad-bear[.]net` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
+| 14 | `anarivasfisioterapia[.]com` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
+| 15 | `d2jlyc6m[.]bossbeyhouse[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
