@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-31 08:01 UTC   Count: 393   Expiry: 30 days               #
+#  Updated: 2026-10-31 10:53 UTC   Count: 405   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -20,17 +20,29 @@ bookalookalike.co.uk
 bossbeybrk.store
 bossbeycenter.click
 bossbeycity.click
+bossbeycrown.click
 closestnum20.com
 clothes4work.co.uk
+compassagreement.cfd
+cxjtcyym.bossbeyagency.click
 devicelogin.utoronnto.ca
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com
 environmentchallenge.org
 fastcrimescenecleanupchicago.com
 growingtogether.club
 gulfcoastgardenclub.org
+h7iarqsz.bossbeycrown.click
+hazelmoss.cc
 ikikk2j7.sleavepiker.com
+imap.hazelmoss.cc
 irzl46yh.bossbaba.store
 j1uz3zee.bonolo.store
+login.sorrelglen.cc
+securetds.beer
+sorrelglen.cc
+tuby27nu.paars.poker
+www.coralpalmprojects.com
+www.huzungozlum.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-31 08:01 UTC   Count: 764   Expiry: 30 days               #
+#  Updated: 2026-10-31 10:53 UTC   Count: 780   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,8 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-31
 
+77.239.124.141/b/armv4l
+77.239.124.141/b/armv5l
 85.11.167.7:11941/carrier.mp4
 85.11.167.7:11973/carrier.mp4
 85.11.167.7:11973/item.xml
@@ -23,6 +25,8 @@ demo.d9scznkep.in.net/AutoIt3.exe
 demo.d9scznkep.in.net/installer_prefs.json
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/RuneLite.exe
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/client.jar
+p.au338.org/x
+redjaxfire.com/nfront.php
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -34,17 +38,29 @@ bookalookalike.co.uk
 bossbeybrk.store
 bossbeycenter.click
 bossbeycity.click
+bossbeycrown.click
 closestnum20.com
 clothes4work.co.uk
+compassagreement.cfd
+cxjtcyym.bossbeyagency.click
 devicelogin.utoronnto.ca
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com
 environmentchallenge.org
 fastcrimescenecleanupchicago.com
 growingtogether.club
 gulfcoastgardenclub.org
+h7iarqsz.bossbeycrown.click
+hazelmoss.cc
 ikikk2j7.sleavepiker.com
+imap.hazelmoss.cc
 irzl46yh.bossbaba.store
 j1uz3zee.bonolo.store
+login.sorrelglen.cc
+securetds.beer
+sorrelglen.cc
+tuby27nu.paars.poker
+www.coralpalmprojects.com
+www.huzungozlum.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

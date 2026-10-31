@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-31 08:01 UTC   Count: 371   Expiry: 30 days               #
+#  Updated: 2026-10-31 10:53 UTC   Count: 375   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,8 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-31
 
+77.239.124.141/b/armv4l
+77.239.124.141/b/armv5l
 85.11.167.7:11941/carrier.mp4
 85.11.167.7:11973/carrier.mp4
 85.11.167.7:11973/item.xml
@@ -23,6 +25,8 @@ demo.d9scznkep.in.net/AutoIt3.exe
 demo.d9scznkep.in.net/installer_prefs.json
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/RuneLite.exe
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/client.jar
+p.au338.org/x
+redjaxfire.com/nfront.php
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

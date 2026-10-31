@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-31 08:01 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 5693 SHA-256 · 479 SHA-1 · 481 MD5._
+_Last update: 2026-10-31 10:53 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 5717 SHA-256 · 479 SHA-1 · 481 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -122,14 +122,14 @@ _Last update: 2026-10-31 08:01 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 | 5 | `91[.]188[.]254[.]62` | ip | XMRIG | 83 | high | T1071, T1105 |
 | 6 | `118[.]107[.]44[.]67` | ip | Unknown RAT | 77 | high | T1071, T1105 |
 | 7 | `141[.]98[.]10[.]168` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 8 | `000a91a83873720a2461e35fd60738637f090d7e6f94435187055d61cda8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `013a02608d15ff1a904d004c24f204b1089ed435fd5582719212cdd96b72` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `0372ce06f153b337b106558d5ac3956688317b646f02a5577f717fe6b09c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `03a680cd8b8c2323d4f78bf578220aec930188a98143b3878160f0d9b833` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 12 | `071802a6a9191c2e47f19a29030c81683f730b8cd8cc6eb3f23aeed63b64` | sha256 | SmartLoader | 74 | medium | T1071, T1105 |
-| 13 | `0824fec1351e5a2d2e540da57d31eac50fce8863b0b2a94a267ec0e2d76a` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `0c4dc0feaef7b03657769a6740917c1a05be274d8247cdbfdb92b4f30ed2` | sha256 | SmartLoader | 74 | medium | T1071, T1105 |
-| 15 | `1010739d843525a71b02d9e452af3eb8d9ad2c975291f0afaf7b02b3672f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `104[.]64[.]43[.]105` | ip | Jackskid | 74 | medium | T1071, T1105 |
+| 9 | `104488c5f0ec2e42f6d87d5f294843b945db2f2cfef9738f2e2539b1fcf9` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 10 | `154[.]91[.]52[.]171` | ip | VShell | 74 | medium | T1071, T1105 |
+| 11 | `154[.]91[.]52[.]172` | ip | VShell | 74 | medium | T1071, T1105 |
+| 12 | `154[.]91[.]52[.]173` | ip | VShell | 74 | medium | T1071, T1105 |
+| 13 | `154[.]91[.]52[.]174` | ip | VShell | 74 | medium | T1071, T1105 |
+| 14 | `18500b4840816988d127bf2069af26043b9e6d230b0ca2746535c06280b4` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 15 | `278bd6ea4a998a126fc59102a339d2f2ad879de6c99addcc532465a11cce` | sha256 | Mirai | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

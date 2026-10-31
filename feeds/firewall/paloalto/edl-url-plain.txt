@@ -1,3 +1,5 @@
+77.239.124.141/b/armv4l
+77.239.124.141/b/armv5l
 85.11.167.7:11941/carrier.mp4
 85.11.167.7:11973/carrier.mp4
 85.11.167.7:11973/item.xml
@@ -6,6 +8,8 @@ demo.d9scznkep.in.net/AutoIt3.exe
 demo.d9scznkep.in.net/installer_prefs.json
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/RuneLite.exe
 dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/client.jar
+p.au338.org/x
+redjaxfire.com/nfront.php
 134.209.82.225:8099/beacon
 134.209.89.212/r
 134.209.89.212/x86_64
