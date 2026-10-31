@@ -1,0 +1,80 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-10-31 08:01 UTC   Count: 50   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-31
+
+000a91a83873720a2461e35fd60738637f090d7e6f94435187055d61cda8ecb7
+013a02608d15ff1a904d004c24f204b1089ed435fd5582719212cdd96b726a57
+0372ce06f153b337b106558d5ac3956688317b646f02a5577f717fe6b09c0349
+03a680cd8b8c2323d4f78bf578220aec930188a98143b3878160f0d9b8335b40
+071802a6a9191c2e47f19a29030c81683f730b8cd8cc6eb3f23aeed63b649542
+0824fec1351e5a2d2e540da57d31eac50fce8863b0b2a94a267ec0e2d76a837f
+0c4dc0feaef7b03657769a6740917c1a05be274d8247cdbfdb92b4f30ed2f307
+1010739d843525a71b02d9e452af3eb8d9ad2c975291f0afaf7b02b3672f50d1
+141[.]98[.]10[.]157
+141[.]98[.]10[.]160
+141[.]98[.]10[.]172
+14aaa132289790d5ea952e77da65ca7a16621c94bd53db7763c1960c7486e0ca
+14c2594caebd59572aaf0410e92b06f112dc3b2b9640c66aa820b87d5b898689
+154[.]91[.]49[.]171
+154[.]91[.]49[.]172
+154[.]91[.]49[.]174
+154[.]91[.]49[.]176
+154[.]91[.]49[.]177
+1589043c3092d916414efefec4de9ae15215a85983b13fc02f5e687994f3fd1c
+16f9d8874ecdec3a674c410173789bcfe5ca87f939e06dc3de7484ca33eeb8ef
+176[.]65[.]149[.]174
+49vcy2na[.]verticalrewards[.]com
+91[.]188[.]254[.]62
+bossbeybrk[.]store
+bossbeycenter[.]click
+bossbeycity[.]click
+dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com
+environmentchallenge[.]org
+fastcrimescenecleanupchicago[.]com
+growingtogether[.]club
+gulfcoastgardenclub[.]org
+hxxp://85[.]11[.]167[.]7:11941/carrier[.]mp4
+hxxp://85[.]11[.]167[.]7:11973/carrier[.]mp4
+hxxp://85[.]11[.]167[.]7:11973/item[.]xml
+hxxp://apollocapitalp[.]com/ify/Panel/fre[.]php
+hxxps://bookalookalike[.]co[.]uk/
+hxxps://closestnum20[.]com/
+hxxps://clothes4work[.]co[.]uk/
+hxxps://demo[.]d9scznkep[.]in[.]net/AutoIt3[.]exe
+hxxps://demo[.]d9scznkep[.]in[.]net/installer_prefs[.]json
+hxxps://devicelogin[.]utoronnto[.]ca/
+hxxps://dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com/2026huss/RuneLite[.]exe
+hxxps://dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com/2026huss/client[.]jar
+ikikk2j7[.]sleavepiker[.]com
+irzl46yh[.]bossbaba[.]store
+j1uz3zee[.]bonolo[.]store
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-30
+
+118[.]107[.]44[.]67
+141[.]98[.]10[.]168
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

@@ -6,9 +6,23 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-10-30 23:13 UTC   Count: 363   Expiry: 30 days               #
+#  Updated: 2026-10-31 08:01 UTC   Count: 371   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-10-31
+
+85.11.167.7:11941/carrier.mp4
+85.11.167.7:11973/carrier.mp4
+85.11.167.7:11973/item.xml
+apollocapitalp.com/ify/Panel/fre.php
+demo.d9scznkep.in.net/AutoIt3.exe
+demo.d9scznkep.in.net/installer_prefs.json
+dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/RuneLite.exe
+dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com/2026huss/client.jar
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

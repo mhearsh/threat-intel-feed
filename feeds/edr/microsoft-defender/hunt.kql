@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-10-30 23:13 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-10-31 08:01 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "154.91.48.188", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.48.189", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.48.190", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.49.162", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.49.168", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.49.170", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.50.164", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.50.166", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "154.91.50.167", "ip", "VShell", datetime(2026-10-30T23:13:40Z),
-    "3bn9xbsj.bodes.store", "domain", "ClearFake", datetime(2026-10-30T23:13:40Z),
-    "5obvjtqm.bossbey20.click", "domain", "ClearFake", datetime(2026-10-30T23:13:40Z),
-    "9bumokde.yellohotelsharmoni.com", "domain", "ClearFake", datetime(2026-10-30T23:13:40Z),
-    "abmarketingstudio.co.uk", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
-    "gjuqlcwh.bossbey71.click", "domain", "ClearFake", datetime(2026-10-30T23:13:40Z),
-    "iqv.sonicretroworld.cfd", "domain", "Unknown Stealer", datetime(2026-10-30T23:13:40Z),
-    "psihologlife.ru", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
-    "puertodeobligado.com.ar", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
-    "quaseartistas.com.br", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
-    "rafastandfurious.es", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
-    "raybake.com", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
-    "realestate.financialhouse.gr", "domain", "StrelaStealer", datetime(2026-10-30T23:13:40Z),
+    "141.98.10.157", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
+    "141.98.10.160", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
+    "141.98.10.172", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
+    "176.65.149.174", "ip", "XMRIG", datetime(2026-10-31T08:01:37Z),
+    "91.188.254.62", "ip", "XMRIG", datetime(2026-10-31T08:01:37Z),
+    "154.91.49.171", "ip", "VShell", datetime(2026-10-31T08:01:37Z),
+    "154.91.49.172", "ip", "VShell", datetime(2026-10-31T08:01:37Z),
+    "154.91.49.174", "ip", "VShell", datetime(2026-10-31T08:01:37Z),
+    "154.91.49.176", "ip", "VShell", datetime(2026-10-31T08:01:37Z),
+    "154.91.49.177", "ip", "VShell", datetime(2026-10-31T08:01:37Z),
+    "49vcy2na.verticalrewards.com", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
+    "bossbeybrk.store", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
+    "bossbeycenter.click", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
+    "bossbeycity.click", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
+    "dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo.com", "domain", "Unknown Stealer", datetime(2026-10-31T08:01:37Z),
+    "environmentchallenge.org", "domain", "StrelaStealer", datetime(2026-10-31T08:01:37Z),
+    "fastcrimescenecleanupchicago.com", "domain", "StrelaStealer", datetime(2026-10-31T08:01:37Z),
+    "growingtogether.club", "domain", "StrelaStealer", datetime(2026-10-31T08:01:37Z),
+    "gulfcoastgardenclub.org", "domain", "StrelaStealer", datetime(2026-10-31T08:01:37Z),
+    "ikikk2j7.sleavepiker.com", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
+    "irzl46yh.bossbaba.store", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
+    "j1uz3zee.bonolo.store", "domain", "ClearFake", datetime(2026-10-31T08:01:37Z),
     "118.107.44.67", "ip", "Unknown RAT", datetime(2026-10-30T16:57:03Z),
     "141.98.10.168", "ip", "Unknown malware", datetime(2026-10-30T16:57:03Z),
-    "46.151.182.70", "ip", "CECbot", datetime(2026-10-30T05:20:54Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];
