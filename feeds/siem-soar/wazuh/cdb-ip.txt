@@ -5,10 +5,10 @@
 91.188.254.62:XMRIG added 2026-10-31
 118.107.44.67:Unknown RAT added 2026-10-30
 141.98.10.168:Unknown malware added 2026-10-30
-104.64.43.105:Jackskid added 2026-10-31
-154.91.52.171:VShell added 2026-10-31
-154.91.52.172:VShell added 2026-10-31
-154.91.52.173:VShell added 2026-10-31
-154.91.52.174:VShell added 2026-10-31
+154.91.52.179:VShell added 2026-10-31
+154.91.52.180:VShell added 2026-10-31
+154.91.54.164:VShell added 2026-10-31
+154.91.54.166:VShell added 2026-10-31
+154.91.54.167:VShell added 2026-10-31
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-31 10:53 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-10-31 13:22 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -18,49 +18,49 @@
 000a91a83873720a2461e35fd60738637f090d7e6f94435187055d61cda8ecb7
 013a02608d15ff1a904d004c24f204b1089ed435fd5582719212cdd96b726a57
 0372ce06f153b337b106558d5ac3956688317b646f02a5577f717fe6b09c0349
-03a680cd8b8c2323d4f78bf578220aec930188a98143b3878160f0d9b8335b40
-071802a6a9191c2e47f19a29030c81683f730b8cd8cc6eb3f23aeed63b649542
 104488c5f0ec2e42f6d87d5f294843b945db2f2cfef9738f2e2539b1fcf9938d
-104[.]64[.]43[.]105
 141[.]98[.]10[.]157
 141[.]98[.]10[.]160
 141[.]98[.]10[.]172
-154[.]91[.]52[.]171
-154[.]91[.]52[.]172
-154[.]91[.]52[.]173
-154[.]91[.]52[.]174
+154[.]91[.]52[.]179
+154[.]91[.]52[.]180
+154[.]91[.]54[.]164
+154[.]91[.]54[.]166
+154[.]91[.]54[.]167
 176[.]65[.]149[.]174
 18500b4840816988d127bf2069af26043b9e6d230b0ca2746535c06280b43c1d
+2021308de500344f418587206ad03cd3cc1d667a7a356df9c4f3af653765e05a
 278bd6ea4a998a126fc59102a339d2f2ad879de6c99addcc532465a11cce67bf
 30416c98689396c6ec57f5f4453ebba54309c119141abef9eaacc6c9db4ce079
+414e138f6d5ee5b863029e29ad0405bd2fa10a4f5f4401b9a06ac134873158c7
 6e20b1859bf3072a5e6fbdd81d3e03279becbf1dee8503207b4ea1d86e569d3a
 763a76c9d818a6706ebda12b09d57f5596a564debaa7bcade80d4db409b89473
 91[.]188[.]254[.]62
+ac251[.]club
 b7228ee93b7b40f62b74049e065e0b0a2f8ef1b47715ffc581e9a5736eb2e8da
-bossbeycrown[.]click
-compassagreement[.]cfd
-cxjtcyym[.]bossbeyagency[.]click
-h7iarqsz[.]bossbeycrown[.]click
-hazelmoss[.]cc
-hxxp://77[.]239[.]124[.]141/b/armv4l
-hxxp://77[.]239[.]124[.]141/b/armv5l
+boardmantra[.]in
+cd[.]afktogel[.]org
+dagatructiep[.]digital
 hxxp://85[.]11[.]167[.]7:11941/carrier[.]mp4
 hxxp://85[.]11[.]167[.]7:11973/carrier[.]mp4
 hxxp://85[.]11[.]167[.]7:11973/item[.]xml
 hxxp://apollocapitalp[.]com/ify/Panel/fre[.]php
+hxxps://cd[.]afktogel[.]org/
 hxxps://demo[.]d9scznkep[.]in[.]net/AutoIt3[.]exe
 hxxps://demo[.]d9scznkep[.]in[.]net/installer_prefs[.]json
 hxxps://dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com/2026huss/RuneLite[.]exe
 hxxps://dsfojsofsdofijdsofjisdofjisdofijsdfijsdiojsdo[.]com/2026huss/client[.]jar
 hxxps://p[.]au338[.]org/x/
+hxxps://r[.]au338[.]org/
 hxxps://redjaxfire[.]com/nfront[.]php
-imap[.]hazelmoss[.]cc
-login[.]sorrelglen[.]cc
-securetds[.]beer
-sorrelglen[.]cc
-tuby27nu[.]paars[.]poker
-www[.]coralpalmprojects[.]com
-www[.]huzungozlum[.]com
+inmemoriam[.]in
+kordramas[.]co
+mu88a2[.]com
+mu88vuive[.]com
+r[.]au338[.]org
+slotslotbentley[.]cc
+soicaurongbachkimmb[.]com
+www[.]jancorinnecross[.]com
 
 
 # Auto-Fetch-ThreatIntel

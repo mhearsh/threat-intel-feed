@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-31 10:53 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 5717 SHA-256 · 479 SHA-1 · 481 MD5._
+_Last update: 2026-10-31 13:22 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 46 first seen under 6h ago. File-hash feed: 5747 SHA-256 · 479 SHA-1 · 481 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -122,14 +122,14 @@ _Last update: 2026-10-31 10:53 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 | 5 | `91[.]188[.]254[.]62` | ip | XMRIG | 83 | high | T1071, T1105 |
 | 6 | `118[.]107[.]44[.]67` | ip | Unknown RAT | 77 | high | T1071, T1105 |
 | 7 | `141[.]98[.]10[.]168` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 8 | `104[.]64[.]43[.]105` | ip | Jackskid | 74 | medium | T1071, T1105 |
-| 9 | `104488c5f0ec2e42f6d87d5f294843b945db2f2cfef9738f2e2539b1fcf9` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 10 | `154[.]91[.]52[.]171` | ip | VShell | 74 | medium | T1071, T1105 |
-| 11 | `154[.]91[.]52[.]172` | ip | VShell | 74 | medium | T1071, T1105 |
-| 12 | `154[.]91[.]52[.]173` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `154[.]91[.]52[.]174` | ip | VShell | 74 | medium | T1071, T1105 |
-| 14 | `18500b4840816988d127bf2069af26043b9e6d230b0ca2746535c06280b4` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 15 | `278bd6ea4a998a126fc59102a339d2f2ad879de6c99addcc532465a11cce` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 8 | `154[.]91[.]52[.]179` | ip | VShell | 74 | medium | T1071, T1105 |
+| 9 | `154[.]91[.]52[.]180` | ip | VShell | 74 | medium | T1071, T1105 |
+| 10 | `154[.]91[.]54[.]164` | ip | VShell | 74 | medium | T1071, T1105 |
+| 11 | `154[.]91[.]54[.]166` | ip | VShell | 74 | medium | T1071, T1105 |
+| 12 | `154[.]91[.]54[.]167` | ip | VShell | 74 | medium | T1071, T1105 |
+| 13 | `2021308de500344f418587206ad03cd3cc1d667a7a356df9c4f3af653765` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 14 | `414e138f6d5ee5b863029e29ad0405bd2fa10a4f5f4401b9a06ac1348731` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 15 | `ac251[.]club` | domain | Unknown malware | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
