@@ -6,9 +6,25 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-10-31 21:12 UTC   Count: 833   Expiry: 30 days               #
+#  Updated: 2026-11-01 00:11 UTC   Count: 839   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-01
+
+h.au338.org/a
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-01
+
+association.woman-boushin.com
+kh.afktogel.org
+www.freemanding.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -97,6 +113,8 @@ securetds.beer
 slotslotbentley.cc
 soicaurongbachkimmb.com
 sorrelglen.cc
+talentidea-sa.com
+thestephotel.com
 tuby27nu.paars.poker
 walshtimberflooring.com
 ws.designband.org

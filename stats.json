@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 21:12 UTC",
+ "updated": "2026-11-01 00:11 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -7,7 +7,7 @@
   "high": 9,
   "medium": 39
  },
- "fresh_6h": 43,
+ "fresh_6h": 40,
  "hashes": {
   "sha256": 5923,
   "sha1": 556,
@@ -18,21 +18,21 @@
   "ip": 14,
   "domain": 12,
   "url": 12,
-  "sha256": 6,
-  "md5": 3,
+  "sha256": 5,
+  "md5": 4,
   "sha1": 3
  },
  "families": {
-  "StrelaStealer": 10,
-  "Vidar": 7,
+  "StrelaStealer": 9,
+  "Vidar": 8,
   "ValleyRAT": 5,
   "Aisuru": 3,
-  "Unknown malware": 3,
+  "VShell": 3,
   "Hermes (Stealer)": 3,
+  "stealler": 3,
   "SalatStealer": 3,
-  "XMRIG": 2,
-  "VShell": 2,
-  "AMOS": 2
+  "Unknown malware": 3,
+  "XMRIG": 2
  },
  "sources": {
   "Spamhaus-DROP": 9,

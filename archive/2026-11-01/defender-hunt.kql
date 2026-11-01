@@ -1,0 +1,39 @@
+// ============================================================================
+//  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
+//  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
+//  Updated: 2026-11-01 00:11 UTC   Count: 26   TLP:CLEAR
+//  FirstPublished = date the IOC first entered the feed (newest first)
+// ============================================================================
+let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "121.43.158.195", "ip", "VShell", datetime(2026-11-01T00:11:13Z),
+    "124.222.141.204", "ip", "VShell", datetime(2026-11-01T00:11:13Z),
+    "154.91.49.187", "ip", "VShell", datetime(2026-11-01T00:11:13Z),
+    "association.woman-boushin.com", "domain", "StrelaStealer", datetime(2026-11-01T00:11:13Z),
+    "kh.afktogel.org", "domain", "Vidar", datetime(2026-11-01T00:11:13Z),
+    "www.freemanding.com", "domain", "StrelaStealer", datetime(2026-11-01T00:11:13Z),
+    "102.134.35.205", "ip", "Cobalt Strike", datetime(2026-10-31T21:12:41Z),
+    "ad-bear.net", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "anarivasfisioterapia.com", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "d2jlyc6m.bossbeyhouse.click", "domain", "ClearFake", datetime(2026-10-31T21:12:41Z),
+    "lagogo.net", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "rp.afktogel.org", "domain", "Vidar", datetime(2026-10-31T21:12:41Z),
+    "walshtimberflooring.com", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "www.jasarootsurabaya.com", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "www.jenniferaron.com", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "www.lastronauta.it", "domain", "StrelaStealer", datetime(2026-10-31T21:12:41Z),
+    "156.247.40.170", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
+    "196.251.122.91", "ip", "Remcos", datetime(2026-10-31T17:04:13Z),
+    "202.61.160.233", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
+    "141.98.10.157", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
+    "141.98.10.160", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
+    "141.98.10.172", "ip", "Aisuru", datetime(2026-10-31T08:01:37Z),
+    "176.65.149.174", "ip", "XMRIG", datetime(2026-10-31T08:01:37Z),
+    "91.188.254.62", "ip", "XMRIG", datetime(2026-10-31T08:01:37Z),
+    "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
+    "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
+];
+let ips = iocs | where Type == "ip" | project Indicator;
+let doms = iocs | where Type == "domain" | project Indicator;
+DeviceNetworkEvents | where Timestamp > ago(7d)
+| where RemoteIP in (ips) or RemoteUrl has_any (doms)
+| project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

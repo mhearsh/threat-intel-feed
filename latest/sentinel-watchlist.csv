@@ -1,16 +1,21 @@
 Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 102.134.35.205,ip,Cobalt Strike,83,high,"T1071.001, T1105, T1059",2026-10-31T21:12:41Z
-156.247.40.170,ip,ValleyRAT,83,high,"T1071, T1105",2026-10-31T17:04:13Z
-196.251.122.91,ip,Remcos,83,high,"T1071, T1105",2026-10-31T17:04:13Z
-202.61.160.233,ip,ValleyRAT,83,high,"T1071, T1105",2026-10-31T17:04:13Z
+156.247.40.170,ip,ValleyRAT,77,high,"T1071, T1105",2026-10-31T17:04:13Z
+196.251.122.91,ip,Remcos,77,high,"T1071, T1105",2026-10-31T17:04:13Z
+202.61.160.233,ip,ValleyRAT,77,high,"T1071, T1105",2026-10-31T17:04:13Z
 141.98.10.157,ip,Aisuru,77,high,"T1071, T1105",2026-10-31T08:01:37Z
 141.98.10.160,ip,Aisuru,77,high,"T1071, T1105",2026-10-31T08:01:37Z
 141.98.10.172,ip,Aisuru,77,high,"T1071, T1105",2026-10-31T08:01:37Z
 176.65.149.174,ip,XMRIG,77,high,"T1071, T1105",2026-10-31T08:01:37Z
 91.188.254.62,ip,XMRIG,77,high,"T1071, T1105",2026-10-31T08:01:37Z
-106.54.41.209,ip,Unknown malware,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
-154.91.48.164,ip,VShell,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
-154.91.48.165,ip,VShell,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
+121.43.158.195,ip,VShell,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+124.222.141.204,ip,VShell,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+154.91.49.187,ip,VShell,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+association.woman-boushin.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+https://h.au338.org/a/,url,Vidar,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+https://kh.afktogel.org/,url,Vidar,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+kh.afktogel.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
+www.freemanding.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-01T00:11:13Z
 ad-bear.net,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
 anarivasfisioterapia.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
 d2jlyc6m.bossbeyhouse.click,domain,ClearFake,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
@@ -27,14 +32,6 @@ walshtimberflooring.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31
 www.jasarootsurabaya.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
 www.jenniferaron.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
 www.lastronauta.it,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
-www.new-age-bookstore.amanamission.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
-www.ntokozoyingwana.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
-www.phuthotech.vn,domain,StrelaStealer,74,medium,"T1071, T1105",2026-10-31T21:12:41Z
-3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44785a,sha256,AMOS,74,medium,"T1071, T1105",2026-10-31T17:04:13Z
-c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb088f2,sha256,AMOS,74,medium,"T1071, T1105",2026-10-31T17:04:13Z
-http://45.91.226.119/getinstall64,url,ValleyRAT,74,medium,"T1071, T1105",2026-10-31T17:04:13Z
-https://f.au338.org/,url,Vidar,74,medium,"T1071, T1105",2026-10-31T17:04:13Z
-https://z4.afktogel.org/,url,Vidar,74,medium,"T1071, T1105",2026-10-31T17:04:13Z
 0280901c2740795149dee80475e7819b8ac93a95d87413f15dd944eaad17a03b,sha256,stealler,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
 03575d5232dd841c5c94238c6666ea30272e0826c466dba22a4c2445188dba58,sha256,ValleyRAT,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
 036b2abed755d1925a16d2c9b613f0aa,md5,Coinminer,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
@@ -45,7 +42,10 @@ https://z4.afktogel.org/,url,Vidar,74,medium,"T1071, T1105",2026-10-31T17:04:13Z
 0ac49697759d9453ad21fd1ac6d70bf3b9baa05ee4b38c528d1cb65d155a6c99,sha256,Raven Stealer,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
 0b2f897e1e53c1e76045604d3f8e6e42,md5,SalatStealer,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
 0bb5729f5c75889d712db2dc1626733f,md5,ValleyRAT,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
+0c3abc6ddaa4169fca933bcecb52ec09c949276c47efb7384080cddc69e167b3,sha256,ValleyRAT,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
+0eb81cfd49f3db8a884ec42f9180f701,md5,stealler,71,medium,"T1071, T1105",2026-10-31T21:12:41Z
+https://talentidea-sa.com/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-01T00:11:13Z
+https://thestephotel.com/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-01T00:11:13Z
 https://9win.world/,url,Unknown malware,69,medium,"T1071, T1105",2026-10-31T21:12:41Z
-https://adnanpersiankitten.in/,url,Unknown malware,69,medium,"T1071, T1105",2026-10-31T21:12:41Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

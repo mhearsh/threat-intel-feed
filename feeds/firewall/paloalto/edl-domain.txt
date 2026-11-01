@@ -6,9 +6,18 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-10-31 21:12 UTC   Count: 451   Expiry: 30 days               #
+#  Updated: 2026-11-01 00:11 UTC   Count: 456   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-01
+
+association.woman-boushin.com
+kh.afktogel.org
+www.freemanding.com
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -72,6 +81,8 @@ securetds.beer
 slotslotbentley.cc
 soicaurongbachkimmb.com
 sorrelglen.cc
+talentidea-sa.com
+thestephotel.com
 tuby27nu.paars.poker
 walshtimberflooring.com
 ws.designband.org

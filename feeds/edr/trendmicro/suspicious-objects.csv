@@ -1,16 +1,21 @@
 Type,Object,Description
 IP,102.134.35.205,Cobalt Strike score 83 (high) added 2026-10-31
-IP,156.247.40.170,ValleyRAT score 83 (high) added 2026-10-31
-IP,196.251.122.91,Remcos score 83 (high) added 2026-10-31
-IP,202.61.160.233,ValleyRAT score 83 (high) added 2026-10-31
+IP,156.247.40.170,ValleyRAT score 77 (high) added 2026-10-31
+IP,196.251.122.91,Remcos score 77 (high) added 2026-10-31
+IP,202.61.160.233,ValleyRAT score 77 (high) added 2026-10-31
 IP,141.98.10.157,Aisuru score 77 (high) added 2026-10-31
 IP,141.98.10.160,Aisuru score 77 (high) added 2026-10-31
 IP,141.98.10.172,Aisuru score 77 (high) added 2026-10-31
 IP,176.65.149.174,XMRIG score 77 (high) added 2026-10-31
 IP,91.188.254.62,XMRIG score 77 (high) added 2026-10-31
-IP,106.54.41.209,Unknown malware score 74 (medium) added 2026-10-31
-IP,154.91.48.164,VShell score 74 (medium) added 2026-10-31
-IP,154.91.48.165,VShell score 74 (medium) added 2026-10-31
+IP,121.43.158.195,VShell score 74 (medium) added 2026-11-01
+IP,124.222.141.204,VShell score 74 (medium) added 2026-11-01
+IP,154.91.49.187,VShell score 74 (medium) added 2026-11-01
+Domain,association.woman-boushin.com,StrelaStealer score 74 (medium) added 2026-11-01
+URL,h.au338.org/a,Vidar score 74 (medium) added 2026-11-01
+URL,kh.afktogel.org,Vidar score 74 (medium) added 2026-11-01
+Domain,kh.afktogel.org,Vidar score 74 (medium) added 2026-11-01
+Domain,www.freemanding.com,StrelaStealer score 74 (medium) added 2026-11-01
 Domain,ad-bear.net,StrelaStealer score 74 (medium) added 2026-10-31
 Domain,anarivasfisioterapia.com,StrelaStealer score 74 (medium) added 2026-10-31
 Domain,d2jlyc6m.bossbeyhouse.click,ClearFake score 74 (medium) added 2026-10-31
@@ -27,18 +32,11 @@ Domain,walshtimberflooring.com,StrelaStealer score 74 (medium) added 2026-10-31
 Domain,www.jasarootsurabaya.com,StrelaStealer score 74 (medium) added 2026-10-31
 Domain,www.jenniferaron.com,StrelaStealer score 74 (medium) added 2026-10-31
 Domain,www.lastronauta.it,StrelaStealer score 74 (medium) added 2026-10-31
-Domain,www.new-age-bookstore.amanamission.com,StrelaStealer score 74 (medium) added 2026-10-31
-Domain,www.ntokozoyingwana.com,StrelaStealer score 74 (medium) added 2026-10-31
-Domain,www.phuthotech.vn,StrelaStealer score 74 (medium) added 2026-10-31
-URL,45.91.226.119/getinstall64,ValleyRAT score 74 (medium) added 2026-10-31
-URL,f.au338.org,Vidar score 74 (medium) added 2026-10-31
-URL,z4.afktogel.org,Vidar score 74 (medium) added 2026-10-31
+URL,talentidea-sa.com,Unknown malware score 69 (medium) added 2026-11-01
+URL,thestephotel.com,Unknown malware score 69 (medium) added 2026-11-01
 URL,9win.world,Unknown malware score 69 (medium) added 2026-10-31
-URL,adnanpersiankitten.in,Unknown malware score 69 (medium) added 2026-10-31
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
-File SHA-256,3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44785a,AMOS score 74 (medium) added 2026-10-31
-File SHA-256,c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb088f2,AMOS score 74 (medium) added 2026-10-31
 File SHA-256,0280901c2740795149dee80475e7819b8ac93a95d87413f15dd944eaad17a03b,stealler score 71 (medium) added 2026-10-31
 File SHA-256,03575d5232dd841c5c94238c6666ea30272e0826c466dba22a4c2445188dba58,ValleyRAT score 71 (medium) added 2026-10-31
 File SHA-1,0516029f7bc1791a7fad5ad6bda2eb7f069af0b5,stealler score 71 (medium) added 2026-10-31
@@ -176,104 +174,8 @@ File SHA-256,4ea4f6dd439a54cd36d8194c14c1673c6e935b1a493f27bf4df83a2b96ceedb6,Mi
 File SHA-256,578cc6d26bf7c5536d2c0ea0df5a788155e15d09e49054303915b535f4012791,Hermes (Stealer) score 69 (medium) added 2026-10-31
 File SHA-256,82ea0074e950a589422046178545acaa950b5f0b61760630af27546741a02dfc,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,fa647a4d12cc887bd96cb2eb126f161cbcf47e84312094bb0dcc2429e7c8e296,Hermes (Stealer) score 69 (medium) added 2026-10-31
-File SHA-256,05c5d5b026e976b85bef06be507c1d39cfc737a2539d6a085892ac4f8b92cf9d,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,0ab06d6cc852ceaf5f7dbf18596fd41b8589f0a417ef13051d9819c3038e8d27,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,0b48c4623e235493a4c9d504e85db52f2e2d52bcb57dbda69bc9d235619aa0ed,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,0bc406bd0c6f8e91dba9b1aff49e85c622b05f93ab15ffca19b4d7c56db5b213,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,12b1348cba1874f45147201f3e291a7476766fac4a7d4776c287e6bbc2fda1d3,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,140e3a9aa0afa8d087550aa853f532226848d4b200834fa430f6f9d3c887a11f,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,170c25a17bc7b7d0819939ec595e95b5c3e49cdbec5e6621fd2a0cb2686a7261,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,1c6b1fb46834368ae879088f776a625f7808e8800955bde0e60e45870cb9ade8,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,1db14fa5af1b38bc72154c5ee61aed75303d2cc566bdd8aca06354bf998c5e67,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,21f464f4c72c3a424b62c71632360f209d4eb72be5bccc3d15918cf4146d81ad,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,26016fb720577c52f9eeb118d8ae24b9e2909381b5b9f2e07f642acb1309a1c1,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,262f6d7f61ee990d2daecc81f061a685954ae137a49f78a809a1f11aa489328b,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,280f784648e1bf3435368f889edcb44379ee29a111b633eb0a4f73dae7dd6081,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,2a293c0cfe9873eb082f1ecbe9a533338694ea4876950755403a54a2717c7dfc,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,2f384a8492a297abdb09ee7855d6b07c9c70eb554562fb9550b91d5f3f6721f2,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,3186faa8fe7ec26d90a161b8b4213c33d108297677c524ed4571a739a02acfce,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,31913dce1cdc69c6b0ca2e963f91b0d24977d865882d009d1bc32309b3a778f8,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,32bd1f693d713d24e374e2e33bc8314db740c1e7b2af8e2cd38f7ea1e545d51e,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,3514e1e822861bed66beb04bdf0c3c59e671be85aaa0a7f99cf78691986eb5e6,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,3841688a8c1044321b3cf4c25331dcbce5d57817437c78b283d6828b6715976a,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,39074a2f23186db7ff3cfea783fb6944cce771de9605c3e3411ffd52bcf4386b,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,3a78f93413c17abfc38e2359cf69fe491586ea4b626ecc844d19902a60177fd3,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,3e8de9edafa71f4399820fb5ea8785041807b9300ab0a9739d0bb49cca03dd01,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,3eaf78d4e79ecc54b1b2012942505a821f8198698752f8c7d6b8fde14eb89cb8,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,48dee25a48201f5fb08e7ed80976de33b3074bd84e0bf012c00a849dcba0f7c5,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,4acfa19a38727b7a2b549ee97365694cd4c3ef1b4aa765e0e46551c6dbe04a7a,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,4b0d6457b837f31be491735b4ad42ea895f8e117bfcb66e3ec8091fc779730a1,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,4d4656dbdc37d070ca57df8264b2f1a5ce3d593347242c4d338126f212d46557,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,4d9f8f57fc448178b38575682d16731eccbbf1cd2aae51b774345aef34b605ef,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,4f4abfe2db64294c67144a47ccd28ba63e37602e48d9a241978612d4ffa1d9b9,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,52986df8124319d91eca8d6472c8efbec5959d5786035620ac6ba5b360513fd7,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,56041dce594f4d0626b4be3ce92e3050e24347dd7fadf20ceeaa4c01c76322ec,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,57c7f70788ec92362c7c58c703654355469567f3bccc951928792e2a26fa8d7e,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,58a53f9972066938d9c2e8ca813fc96be526d43b3b3da77c9340986111a7c552,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,59b43ae5f69387bb6727a5e62eaa5d6585d7c9d18683179bc5b6672e94978d22,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,5b6194d38e58ce7f0a33374179835cad54ae36d1442a9496286e0595fe127845,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,5bbbdba8894b519da567efc0f89fcf964b40caffb570cf5b9cc299993ecd4f5d,Unknown Loader score 69 (medium) added 2026-10-31
-File SHA-256,64213a0230cf7840dbcd770b5c52a8587a101139e22c918360cff053638bacc4,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,64d56650dc95b934206fc404efab54c7a1c20faac2d46f8f8385d1706ecc8497,Unknown Loader score 69 (medium) added 2026-10-31
-File SHA-256,67bfd5edbb72b49209e5712e23d71371b1a0452564f61eb2732097c8b92970c7,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,6a753c1d0daaf28d23778ad5afaff6301e7738c11448abfc1e862738fcdc368b,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,6e151f23645a5e577837c92748d7bf25fe4e0b20cb84654f54416fd60dec1f51,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,7016acc8c5c6fc52dad29a871da1031a0c66093e327b14281b512e819689b513,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,70c12b87a8641821ddee7b1112f3be9159262113fa65e60c33154514d1e061fb,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,72330a67c9143a27137affec17bc01dc863b692660c1574f42cd036108dc5fa2,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,73aa2f75999e1ad0986a69632478949e8235ea7ca676c8505e54364cd6235471,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,7506c5e0a128ca3d04fc4a4e347df6963fb9a141cd371bc1ec06c63bf42fe1ff,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,7579b9734ff6c0cf05d055f70d0eede6c5428831703519daa1ef6fac4100b78b,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,7630774c42181cd889be2ce0bb8e65dead75d49da0a0d035e47e35f5b30a92d1,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,7d69847913caffba37f7dd67192e4df1f220f12f1dd691cd44dcbf61803ad717,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,82724333d8ef6f8f603a2f0fa6d1d557a53f3c296d2115974075144df575274d,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,836dc93d6401eee070aa8957494fdb6d1f5bbae0f75a6a22b075bb6bc3bbab7a,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,869ff212e880ab32a9e4b461a6d3dcdac1f3874078536096801f0b784a51461a,ClipBanker score 69 (medium) added 2026-10-31
-File SHA-256,882920074b638c93a1adb7152093fa10801fda14e3bf5abd707b9013832d3d8b,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,88efb10529c0f455df479e7f5e9fbe56438e71760a7e93faf6601659e9af5136,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,893fabf272ad39bd431f23023a75b700052e339342ef51b35582a8e672618663,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,8a4596f9fa2f1a79f7f1b14370bdfd432cf56859cf05bc0a8f28b73093e4c72d,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,8bd2ba21d2cc13916e0d15ac0d0208795926e45ff0977e7bb11553e117014119,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,8c09923ae803c9485525353c83437293f44bda9ea8c7f3ff7c4da97f783a594f,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,8ec046c49c76d5039bbaec62b9349e86c7f9d215ef3f4f5a0dcc35ddae3139e2,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,8eed5df0824a7f5b37f067cec1a7b892e617cbe16ac8e15fb8c85bcbcc65c0a0,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,930026ff2f7859f18e05b00e7b10fabf65284ef4ab8abd30609178b69326be65,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,93341a7cd1c8996306f7ed452eeb7deffe97058f7354e1412427ef2ba27c8abb,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,96993663c86547a74137f80e32f98be4b01d51d9126b24a720cf04d0f98d5c2f,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,9740bdbd19b284078e285ffbce8112ab6b5b9142ad9e59f761cc47a43070b34d,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,9b151f4ffa47622d8b0823c33dfb2471af4b619f1ef6296fbdb9089c076d5abf,Quasar RAT score 69 (medium) added 2026-10-31
-File SHA-256,a17285a971539569296fb1af9624adfac6f38fed8c67d66ee8c8ecd01c347d40,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,a35003ae5a44da7d727f6c0ab6eb1454d4bea21c22e98ba64dae7af3136582c5,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,a38e01fb77059eb4032fabd7acd8c35872a3dcde1ba04c7ceb0bfc11e63d4d9a,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,a5e7a367e9bf394d7c66b102fe42220ffb6f2a2acce4e229e533e8b3160a97c4,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,a76aa85d4473800ebbd1c18bef0ed5e199effa73a16db1bc8e2638916285ac4f,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,ab5a6c4406a9be6a8fa951e16c72f1de87dac27d19261dd8cc12da60dff19052,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,ad7a0a8acbed27edba4f3c43794902ffd95d036cda7b253aeaeca3d4fbbe3553,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,aebd70c075a638d58e9764d24fc38b12dc252931c0c915fd4ff1cfaac8c25048,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,b04600dcbc6341015d8c9369ae9e09da773d99b4210aacd21cead00c680c18d7,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,b847d0d6692e53a48c6e05929c3b258ba1ef92c3d0308a44bcca26095a177d9f,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,bc0a876f7ef7fd867f84517e11cc04391e7c6a9d8a7d7e74a5710100d5a26ac4,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,bdbae1d6ac01f16be318231a9d0e673155c00ae0355586569501d011eef80bb7,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,c68ef1d51fd204380ad5feb0dbc149e12f053efa2ae2a5c9d38f022f31b1eff7,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,c76255dcc74030edc6ea7713d743c66e3ca1afbb2b202b13c81deeed9edb491a,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,c76961c0bbf4502645eb3ba505dd704669f98ee21411144504141e791c87951a,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,cbf44117551e527b05480133bbe41dad80b1fd389ec996feef3c0a83ba185071,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,ce5003696151d6721a5e8ede0ef0c107e1f6fbec632333351f954b66bcbd15f3,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,d79dbaff000282a19aa0bf53a284df2b11ae3251cdc0b8f0a6c3568e484cdb74,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,d7fcc1e66df22dfb3118da132676e9e1b86c74a4f05acf49ead051dd611d632c,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,d9c52734e371cb3457be89df7ffe90e19c4d853f9ee965e5849954d2a1387cf4,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,db6f98241a3146331863e99ad89be9d1315d079a6afb8b8ebeca9742626a1559,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,e6963b7973952ad9cfaeb3385c637f6e24f44f3b354b6faf004ce26f43f1200f,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,ef7eba7aeedb72b9378c5e5a3272aa32fc16f21c7a03e315cffe7bac01f8c8c7,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,f06a45f3657fad4b9cb52ac1e3f101c5ef720642a63b5400bc653f4248e0477c,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,f14e36617223817a1eeda085fe7f04acf3fa15f6258c876f30c7b1ee05d9a024,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,f62303d96800f42e9c6ae118774cf5f8f67ed644e0f423f2c75ee89f7931b5fa,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,fa29f995c25887375b95c4fdbb750fce1ade56795c8557bff99557ed0148d0f6,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,fa4a4195abf22d6b256dc05828e6c97bdd06c1840b47d7e9c2367071be14a5b1,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,fd9b86c1466e2ac93dc5f5dde51b1c7a6e4d0c04967635a953ccab1e2c89da11,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,fd9bdeb588910db24baf6f7f79e75b45b9b14f4702aee2c3bb636f7b986c8eeb,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,fdd4f087497b049f01262a7b8b092359db17184b35a5164a8d0dd989d54af0a6,Mirai score 69 (medium) added 2026-10-31
-File SHA-256,feb79fa2a9cb1f4ae63cd40dcb9bf07af8c5d9c4b2846527ce2bad2c690b8ec1,Mirai score 69 (medium) added 2026-10-31
+File SHA-256,3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44785a,AMOS score 69 (medium) added 2026-10-31
+File SHA-256,c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb088f2,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,2021308de500344f418587206ad03cd3cc1d667a7a356df9c4f3af653765e05a,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,414e138f6d5ee5b863029e29ad0405bd2fa10a4f5f4401b9a06ac134873158c7,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,104488c5f0ec2e42f6d87d5f294843b945db2f2cfef9738f2e2539b1fcf9938d,Mirai score 69 (medium) added 2026-10-31
@@ -284,8 +186,6 @@ File SHA-256,6e20b1859bf3072a5e6fbdd81d3e03279becbf1dee8503207b4ea1d86e569d3a,Mi
 File SHA-256,763a76c9d818a6706ebda12b09d57f5596a564debaa7bcade80d4db409b89473,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,b7228ee93b7b40f62b74049e065e0b0a2f8ef1b47715ffc581e9a5736eb2e8da,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,000a91a83873720a2461e35fd60738637f090d7e6f94435187055d61cda8ecb7,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,013a02608d15ff1a904d004c24f204b1089ed435fd5582719212cdd96b726a57,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,0372ce06f153b337b106558d5ac3956688317b646f02a5577f717fe6b09c0349,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,03a680cd8b8c2323d4f78bf578220aec930188a98143b3878160f0d9b8335b40,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,071802a6a9191c2e47f19a29030c81683f730b8cd8cc6eb3f23aeed63b649542,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,0824fec1351e5a2d2e540da57d31eac50fce8863b0b2a94a267ec0e2d76a837f,AMOS score 69 (medium) added 2026-10-31
@@ -302,7 +202,6 @@ File SHA-256,1ef53dfcb1d0ceee43b692157143e91299d456da01e92bc16b9f3c3bdf6082ff,Sm
 File SHA-256,21b49dee39292ce7f66ebc10f58f8624f05408cf7aa389307f1ab38b108810a5,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,2a27f51042137809d60f3e2a30c779a81c37c68dd1eaf692c04314db1ebb3bfe,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,2b2d09fd9fcf70d5f0dafe9e4d791be5d7a828fd653229010f86f3701cf6625d,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,2b6b3ce17b61e388ca4033ac2494c93b9be7d674008483b576e762a7739c2fd9,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,2ba0452156231cb01af750df9c9b50ae891b001355fb92ee231eca67a2abcead,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,2c0a0698874eb6051075c26013eb65fd0af9a1f67c31c9c0db0743164dcf75ea,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,2d35abee973dc2308d21a0e0684f755a3437760b73d2f332c92bc19030ee71ac,SmartLoader score 69 (medium) added 2026-10-31
@@ -314,19 +213,16 @@ File SHA-256,3845da970d589569c17fecab29358b61ec4e67d39a5915905c2803cc6404061d,To
 File SHA-256,38d02cb2cafdfd525d8dfe1cefc24e55e2a62991f9b14a94e5c11b13dede2c9c,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,392c9a8527f5a867bbc542479b91ecee64c9b70ee253ae7dd1a1280a27ec6fb3,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,3f84244dcab460b6fba60510836251c5999611c7f440d6bdad5c63121909a9f9,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,411d92ab54d0bc4b3166d3256856e114bb9e456d79edf310a289e456f18d0a16,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,41420d580a030415631d806226d62da719bf6533a0ce5ea8ede3893128154980,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,425130c66ed1fcd8b9394eb5c54e316faf42d901c33a3b9c0d3a77b43f460f38,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,45a896a10de4b002dfd05875beede91fc8f35a6e131f267b9d622df3236f4fe3,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,4632c511b239471f0b4d4779195c7727bcbc1f97ed5e6826173eebd34d743037,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,47bfb009abf55062f4102bad81bf98b01ee8788ed1e41e4dd164829afa01d9ad,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,4c27f2d2222e3c64de014504657147375e67f0d789fce299275b741efcd2ac31,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,4d67f60c04e326df14f3c45ed52658e62cd7c94f6d897c294ce3269bce369fe7,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,4f8c49acec463678837c9d3179cf38e0758e4e7b53a81461eb204c288b222dcd,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,4faf3f0b974ffba34c21ed85a13102264627373dde90ce0793055b721f22de51,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,521ab948adfe8e8f64bfd95034ff4ad0d178ba68c07fffdec693d5f74622f1c5,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,52449e437267a463e44f044559f73909716d8c0c13a15c195f6332d51bfc51d0,RedLine Stealer score 69 (medium) added 2026-10-31
-File SHA-256,530024c0dbde2c52c2bfce3417db028a469adb47f68d91749ca772022fce2daa,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,5522a4881eecdf2af1fd859c1c8b5db0c825f675359c40c0e6f836841183f5a2,Mirai score 69 (medium) added 2026-10-31
 File SHA-256,55ed0708283449b4a42bd0b413b74aed3c8d66008faee7a99bb10b5cbaac8523,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,57df281639cfd3245818757cd30887b1128153b8d3d2e013166a362acd0ec72a,SmartLoader score 69 (medium) added 2026-10-31
@@ -346,9 +242,7 @@ File SHA-256,6dc0c1ad1688123833100989f478e19dd9f4ceaa9a42f6bb85063332da3a5aed,Mi
 File SHA-256,6ec06ed33dcdac63138e63e26667d9cb73d6854c8bf527cac8eaf04cbba3a2ec,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,6f4295f573e41f2e2df631b929b99523bb3b9ac2c2dd7818f1519f5e67dff449,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,6f6121ded31eded2a7d9b1200f0367ad618c6f1f2b472865fa665846e49aef7b,SmartLoader score 69 (medium) added 2026-10-31
-File SHA-256,6f946a9ba0869b6048c309dde3982f28938dff8c0966fb92b46ee2d2371ed350,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,71855d914405529525344e613f0aae30de04411db6c824e9573f6f40f8bb1e86,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,7429a0555d38f0f76589007179be9ea9890947482276717022f99a09c3c6a066,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,74595f1f2d6cb7a6439264ffa4bfae352665535886eabb371b69235907890b3e,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,747ae1b6626bd476e0d01ca5862d73d789393ec17481ca652669351d43a6bd3a,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,75c078d0a54514ac66b4a43a35fe7ab8c936d7550b103be2314d606c19cb960e,AMOS score 69 (medium) added 2026-10-31
@@ -367,7 +261,6 @@ File SHA-256,98349582e8e15c8bff5c96489bb15bdb580d5ceb4b45297dd4f342338754d8a8,Sm
 File SHA-256,99ec22bed70db1293ac55f87019f49d4ce04e2deacb503f498b072b72979d524,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,9b6b191e2c5dab79bb143b12c2c8e18299a0d2930f241490f7a47a5b83b936e2,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,9f2184a8312c987f06a966a3915d73080e033f7dff7ddcc2d17aa899b23b0ec9,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,9f3b6078ba09473aac7d3f39c03d579c7ed708b2284dbd917ca25530e3c23582,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,a15f44d60a01747589f088941b8f6e82f2d563e591695f9f09eb398a07b08193,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,a2858b70f41d7c776347dc528a8cfc2a42103e27b8a76e49f08b2592883d29f6,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,a2f5a3425d9fc87db8cedf67b6158d68de4d3432e747e1317f3548b903c5279e,AMOS score 69 (medium) added 2026-10-31
@@ -392,7 +285,6 @@ File SHA-256,b950ce3f46408db157da4453e392e169976d6ec4af8650774ffffc36a98900d6,AM
 File SHA-256,b9f3a08ab04e81e13f4d3571fc9700c56cb1bb45106cc28bbb6109408120e986,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,bcb58d1ebd9853618b537785f4ee5a4953ef4dea0f722b4ccdac5aaf9e3223dc,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,bf3ca4215ad1ca3f748f98fab72c5bfe18e6eebe3182a90484b26e4d767d365d,AMOS score 69 (medium) added 2026-10-31
-File SHA-256,bf941058665cc2d807e93c0ad067adfaa3eafff6fea09fe389dad1a63f0c74f8,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,bff661c290456430436cb22cf83826e9e63b2959764fe27cdb725cb975b8f416,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,c36b903ad954dbaafd0e99542811120079217f65b71bfc560d8fbd9e2e00aecc,RedLine Stealer score 69 (medium) added 2026-10-31
 File SHA-256,c38e3b17d828b3c26e636d412148b9da10fcde03c81208906bf913c7c42bcfff,SmartLoader score 69 (medium) added 2026-10-31
@@ -428,39 +320,11 @@ File SHA-256,f88af3a5b0360170e3f388ee430c0d2c79e76862b8e0325b260c8d2a85ed2950,AM
 File SHA-256,fa7a20ad378ad536bd2731a30cbd5471389252bb3dcdcac35823d9312939e730,AMOS score 69 (medium) added 2026-10-31
 File SHA-256,fa8e53ceacae798416f218def94b22e96aeb86dfc7f7b1e35d4ed98dc13e2411,SmartLoader score 69 (medium) added 2026-10-31
 File SHA-256,ffc3da9b3b6875861eab31bbb4649a23b2a853154ba0ac872075e4358ec29307,SmartLoader score 69 (medium) added 2026-10-31
-File SHA-256,13e7afa5046f958e976fae677286a6b56bb2526db72d10f3ada9dac0d585fd85,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,18e5c46fe37fb19f9e45a5addd95be97a919272bb2df4b2385575f9bb144c005,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,1bb63fb4c1d6cf39a6c95dd743f5bac47618328efd185b3c7a57073a2183a4a1,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,2a3120638ce2a5a54e317cb1c3e0b6066aa703dab665de13eacd4e38a46b4fb6,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,4bb7bb216a23776f9bd0bfa0d346e70b303eb2f683490c85f35d2733778f12d7,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,4edef9721da469e4e23e6c56b6f94a48ff1f6512ae493d970569e2b952db52dd,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,66e1afcc6a692ff15f623e12ca746520e965ee82c080367a3eb291aa4552eeb1,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,736fe439dcea04308faf29bb0744e9b1564e082615a4f74b38cba0da776ab4ce,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,74dcae8c90d88b402305bc1a2a9228714e0957a6db7cdf7008d7987cd6c073ef,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,760076649beba294d25a3d06d1aad6fd378b0ca5f2ffba119a8f8108cd6f7210,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,95612c2247a3631b47771a0992b8a36f5a38b72522936cf52b0008ec02c98b7c,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,a549be648cce736f1bfa90e81ea64fcc1dd4bb49d50f99b4fda30e6dd8aff1b5,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,a5c0060af1311b21e1d3d442f3ad0cec351434c49f1dfe7436e99446ab0cee42,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,aae936d3084b5a4dc45ecbb45c6e8ec7f6503530659d7b94468b42e25bb52968,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,be68fd4a430264fefc61e355ce05c69ca8c31513af699aa021a8a3f2ab62a7fb,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,c3a510c92b6b87bb8a3ff74393a7adffeee892749bf7f4c46cb4a8d5e278811f,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,d04fd1021673bbf1462dd8048d4a773c6216238ad08a336978d0052a7559e2d2,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,d6b75b3f2e1ec2462fdd8b05eeaaeb5c0ccdd710f0a7361d5ca012943e60d392,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,dcdcb6534b39da718a4f01623db19cda12833253709702034c4dff1113a5105a,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,e4dab4caa3a677115bb6b5573c7ecc6225ae37bad8ad56465f76eaabb241f659,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,eb638ecf53bfbe8a0885a54ada621a0a54e5fa3cf479d620a23bab6bad9b5712,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,f4d5c49588a5f5c37122dfe5e63fbfb7c31250a3f72b16c0349f37cca1ac55bd,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,f942bc508c3c5411eb5d03a4d8617f6e5248f4d900ee2a09bd07c4fdfd9b7d57,AMOS score 69 (medium) added 2026-10-30
-File SHA-256,fa1daa38d123cd6950d8b021bf98b486e86f12ecc4d4677a997e0f2ddae2e6ac,AMOS score 69 (medium) added 2026-10-30
 File SHA-256,067ec3b602489fd3d7b57cbbe3f9e24d986b476f072ba12777d0b447cb6226c7,SmartLoader score 66 (medium) added 2026-10-31
 File SHA-256,33c3e3ebf8122a98abd703abc5b3530ca555c2d6b8dd8fec6bb16ded1d2dd1e7,Unknown Loader score 66 (medium) added 2026-10-31
 File SHA-256,726cae684af35571a565bbac17e09cd79beaa07afc036721635372b79b934b87,Unknown Loader score 66 (medium) added 2026-10-31
 File SHA-256,a3aab95c1115b6c31ffd0e2bd6280ebd04654c1ca067d953e42e5b49770c9480,Unknown Loader score 66 (medium) added 2026-10-31
 File SHA-256,a60093db824e3163010227d58f0a6687556c3546a7b5a2910a134876adfb9ab8,Unknown Loader score 66 (medium) added 2026-10-31
-File SHA-256,3a1c3dc6fde100194213d9d53ce663f81ed1695b910227a578d4d760d035615d,Unknown Loader score 66 (medium) added 2026-10-31
-File SHA-256,4562ecf0362c2c0c4ce299b14a02d901406320a3e4c8c609058b19095ed72217,Unknown Loader score 66 (medium) added 2026-10-31
-File SHA-256,491b3c90fcde895c6b06705bbec66d05fe7e1a90c255f8075c26607755ae6851,Unknown Loader score 66 (medium) added 2026-10-31
-File SHA-256,ab438044da5e00af5f17173a886e70789f209a4c04f922188ef4d12907a6ba00,Unknown Loader score 66 (medium) added 2026-10-31
 File SHA-256,ab56b618f4f9606d4dcf53f157547010128d70b003d7ad5671de36598f3abedb,AsyncRAT score 66 (medium) added 2026-10-31
 File SHA-256,034f7817fab44a5d72f428170f8be4a2faa07e20ede49a4a0908ab05c422a1c1,SalatStealer score 66 (medium) added 2026-10-31
 File SHA-256,04256374f18eab92bd40e60b340d509606b768322e080d485e766f402a7efae1,Mirai score 66 (medium) added 2026-10-31
@@ -498,8 +362,104 @@ File SHA-256,e2bf8008346736558634e828703c2134f88965aa703376105d58493daae2b2ec,Sa
 File SHA-256,e4bf9df905dca0ed8c23744d55c12b6c7c696c5ba56f512faca5999579756a42,Ave Maria score 66 (medium) added 2026-10-31
 File SHA-256,fae3e46b36cd58f331d18847a22729927228de587eed7d7a7c7a6f30a52f5d8c,SalatStealer score 66 (medium) added 2026-10-31
 File SHA-256,9701ae7249aa394624bf33096e3f5dd2be0bb778debba3364f5277a50874cc31,Tsunami score 63 (medium) added 2026-10-31
-File SHA-256,1541b17cf4b7cf252dd9790522f72d1c413422c0320fb24e09280228c2e5b17e,Unknown Loader score 63 (medium) added 2026-10-31
-File SHA-256,9cf51d59ec0742588a9400ef1b756a9f07ed65e98f825f689baf5cfda0ec4ac7,Unknown Loader score 63 (medium) added 2026-10-31
+File SHA-256,05c5d5b026e976b85bef06be507c1d39cfc737a2539d6a085892ac4f8b92cf9d,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,0ab06d6cc852ceaf5f7dbf18596fd41b8589f0a417ef13051d9819c3038e8d27,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,0b48c4623e235493a4c9d504e85db52f2e2d52bcb57dbda69bc9d235619aa0ed,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,0bc406bd0c6f8e91dba9b1aff49e85c622b05f93ab15ffca19b4d7c56db5b213,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,12b1348cba1874f45147201f3e291a7476766fac4a7d4776c287e6bbc2fda1d3,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,140e3a9aa0afa8d087550aa853f532226848d4b200834fa430f6f9d3c887a11f,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,170c25a17bc7b7d0819939ec595e95b5c3e49cdbec5e6621fd2a0cb2686a7261,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,1c6b1fb46834368ae879088f776a625f7808e8800955bde0e60e45870cb9ade8,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,1db14fa5af1b38bc72154c5ee61aed75303d2cc566bdd8aca06354bf998c5e67,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,21f464f4c72c3a424b62c71632360f209d4eb72be5bccc3d15918cf4146d81ad,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,26016fb720577c52f9eeb118d8ae24b9e2909381b5b9f2e07f642acb1309a1c1,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,262f6d7f61ee990d2daecc81f061a685954ae137a49f78a809a1f11aa489328b,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,280f784648e1bf3435368f889edcb44379ee29a111b633eb0a4f73dae7dd6081,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,2a293c0cfe9873eb082f1ecbe9a533338694ea4876950755403a54a2717c7dfc,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,2f384a8492a297abdb09ee7855d6b07c9c70eb554562fb9550b91d5f3f6721f2,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,3186faa8fe7ec26d90a161b8b4213c33d108297677c524ed4571a739a02acfce,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,31913dce1cdc69c6b0ca2e963f91b0d24977d865882d009d1bc32309b3a778f8,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,32bd1f693d713d24e374e2e33bc8314db740c1e7b2af8e2cd38f7ea1e545d51e,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,3514e1e822861bed66beb04bdf0c3c59e671be85aaa0a7f99cf78691986eb5e6,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,3841688a8c1044321b3cf4c25331dcbce5d57817437c78b283d6828b6715976a,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,39074a2f23186db7ff3cfea783fb6944cce771de9605c3e3411ffd52bcf4386b,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,3a78f93413c17abfc38e2359cf69fe491586ea4b626ecc844d19902a60177fd3,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,3e8de9edafa71f4399820fb5ea8785041807b9300ab0a9739d0bb49cca03dd01,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,3eaf78d4e79ecc54b1b2012942505a821f8198698752f8c7d6b8fde14eb89cb8,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,48dee25a48201f5fb08e7ed80976de33b3074bd84e0bf012c00a849dcba0f7c5,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,4acfa19a38727b7a2b549ee97365694cd4c3ef1b4aa765e0e46551c6dbe04a7a,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,4b0d6457b837f31be491735b4ad42ea895f8e117bfcb66e3ec8091fc779730a1,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,4d4656dbdc37d070ca57df8264b2f1a5ce3d593347242c4d338126f212d46557,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,4d9f8f57fc448178b38575682d16731eccbbf1cd2aae51b774345aef34b605ef,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,4f4abfe2db64294c67144a47ccd28ba63e37602e48d9a241978612d4ffa1d9b9,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,52986df8124319d91eca8d6472c8efbec5959d5786035620ac6ba5b360513fd7,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,56041dce594f4d0626b4be3ce92e3050e24347dd7fadf20ceeaa4c01c76322ec,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,57c7f70788ec92362c7c58c703654355469567f3bccc951928792e2a26fa8d7e,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,58a53f9972066938d9c2e8ca813fc96be526d43b3b3da77c9340986111a7c552,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,59b43ae5f69387bb6727a5e62eaa5d6585d7c9d18683179bc5b6672e94978d22,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,5b6194d38e58ce7f0a33374179835cad54ae36d1442a9496286e0595fe127845,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,5bbbdba8894b519da567efc0f89fcf964b40caffb570cf5b9cc299993ecd4f5d,Unknown Loader score 63 (medium) added 2026-10-31
+File SHA-256,64213a0230cf7840dbcd770b5c52a8587a101139e22c918360cff053638bacc4,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,64d56650dc95b934206fc404efab54c7a1c20faac2d46f8f8385d1706ecc8497,Unknown Loader score 63 (medium) added 2026-10-31
+File SHA-256,67bfd5edbb72b49209e5712e23d71371b1a0452564f61eb2732097c8b92970c7,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,6a753c1d0daaf28d23778ad5afaff6301e7738c11448abfc1e862738fcdc368b,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,6e151f23645a5e577837c92748d7bf25fe4e0b20cb84654f54416fd60dec1f51,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,7016acc8c5c6fc52dad29a871da1031a0c66093e327b14281b512e819689b513,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,70c12b87a8641821ddee7b1112f3be9159262113fa65e60c33154514d1e061fb,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,72330a67c9143a27137affec17bc01dc863b692660c1574f42cd036108dc5fa2,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,73aa2f75999e1ad0986a69632478949e8235ea7ca676c8505e54364cd6235471,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,7506c5e0a128ca3d04fc4a4e347df6963fb9a141cd371bc1ec06c63bf42fe1ff,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,7579b9734ff6c0cf05d055f70d0eede6c5428831703519daa1ef6fac4100b78b,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,7630774c42181cd889be2ce0bb8e65dead75d49da0a0d035e47e35f5b30a92d1,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,7d69847913caffba37f7dd67192e4df1f220f12f1dd691cd44dcbf61803ad717,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,82724333d8ef6f8f603a2f0fa6d1d557a53f3c296d2115974075144df575274d,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,836dc93d6401eee070aa8957494fdb6d1f5bbae0f75a6a22b075bb6bc3bbab7a,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,869ff212e880ab32a9e4b461a6d3dcdac1f3874078536096801f0b784a51461a,ClipBanker score 63 (medium) added 2026-10-31
+File SHA-256,882920074b638c93a1adb7152093fa10801fda14e3bf5abd707b9013832d3d8b,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,88efb10529c0f455df479e7f5e9fbe56438e71760a7e93faf6601659e9af5136,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,893fabf272ad39bd431f23023a75b700052e339342ef51b35582a8e672618663,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,8a4596f9fa2f1a79f7f1b14370bdfd432cf56859cf05bc0a8f28b73093e4c72d,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,8bd2ba21d2cc13916e0d15ac0d0208795926e45ff0977e7bb11553e117014119,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,8c09923ae803c9485525353c83437293f44bda9ea8c7f3ff7c4da97f783a594f,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,8ec046c49c76d5039bbaec62b9349e86c7f9d215ef3f4f5a0dcc35ddae3139e2,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,8eed5df0824a7f5b37f067cec1a7b892e617cbe16ac8e15fb8c85bcbcc65c0a0,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,930026ff2f7859f18e05b00e7b10fabf65284ef4ab8abd30609178b69326be65,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,93341a7cd1c8996306f7ed452eeb7deffe97058f7354e1412427ef2ba27c8abb,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,96993663c86547a74137f80e32f98be4b01d51d9126b24a720cf04d0f98d5c2f,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,9740bdbd19b284078e285ffbce8112ab6b5b9142ad9e59f761cc47a43070b34d,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,9b151f4ffa47622d8b0823c33dfb2471af4b619f1ef6296fbdb9089c076d5abf,Quasar RAT score 63 (medium) added 2026-10-31
+File SHA-256,a17285a971539569296fb1af9624adfac6f38fed8c67d66ee8c8ecd01c347d40,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,a35003ae5a44da7d727f6c0ab6eb1454d4bea21c22e98ba64dae7af3136582c5,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,a38e01fb77059eb4032fabd7acd8c35872a3dcde1ba04c7ceb0bfc11e63d4d9a,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,a5e7a367e9bf394d7c66b102fe42220ffb6f2a2acce4e229e533e8b3160a97c4,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,a76aa85d4473800ebbd1c18bef0ed5e199effa73a16db1bc8e2638916285ac4f,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,ab5a6c4406a9be6a8fa951e16c72f1de87dac27d19261dd8cc12da60dff19052,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,ad7a0a8acbed27edba4f3c43794902ffd95d036cda7b253aeaeca3d4fbbe3553,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,aebd70c075a638d58e9764d24fc38b12dc252931c0c915fd4ff1cfaac8c25048,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,b04600dcbc6341015d8c9369ae9e09da773d99b4210aacd21cead00c680c18d7,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,b847d0d6692e53a48c6e05929c3b258ba1ef92c3d0308a44bcca26095a177d9f,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,bc0a876f7ef7fd867f84517e11cc04391e7c6a9d8a7d7e74a5710100d5a26ac4,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,bdbae1d6ac01f16be318231a9d0e673155c00ae0355586569501d011eef80bb7,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,c68ef1d51fd204380ad5feb0dbc149e12f053efa2ae2a5c9d38f022f31b1eff7,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,c76255dcc74030edc6ea7713d743c66e3ca1afbb2b202b13c81deeed9edb491a,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,c76961c0bbf4502645eb3ba505dd704669f98ee21411144504141e791c87951a,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,cbf44117551e527b05480133bbe41dad80b1fd389ec996feef3c0a83ba185071,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,ce5003696151d6721a5e8ede0ef0c107e1f6fbec632333351f954b66bcbd15f3,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,d79dbaff000282a19aa0bf53a284df2b11ae3251cdc0b8f0a6c3568e484cdb74,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,d7fcc1e66df22dfb3118da132676e9e1b86c74a4f05acf49ead051dd611d632c,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,d9c52734e371cb3457be89df7ffe90e19c4d853f9ee965e5849954d2a1387cf4,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,db6f98241a3146331863e99ad89be9d1315d079a6afb8b8ebeca9742626a1559,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,e6963b7973952ad9cfaeb3385c637f6e24f44f3b354b6faf004ce26f43f1200f,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,ef7eba7aeedb72b9378c5e5a3272aa32fc16f21c7a03e315cffe7bac01f8c8c7,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,f06a45f3657fad4b9cb52ac1e3f101c5ef720642a63b5400bc653f4248e0477c,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,f14e36617223817a1eeda085fe7f04acf3fa15f6258c876f30c7b1ee05d9a024,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,f62303d96800f42e9c6ae118774cf5f8f67ed644e0f423f2c75ee89f7931b5fa,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,fa29f995c25887375b95c4fdbb750fce1ade56795c8557bff99557ed0148d0f6,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,fa4a4195abf22d6b256dc05828e6c97bdd06c1840b47d7e9c2367071be14a5b1,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,fd9b86c1466e2ac93dc5f5dde51b1c7a6e4d0c04967635a953ccab1e2c89da11,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,fd9bdeb588910db24baf6f7f79e75b45b9b14f4702aee2c3bb636f7b986c8eeb,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,fdd4f087497b049f01262a7b8b092359db17184b35a5164a8d0dd989d54af0a6,Mirai score 63 (medium) added 2026-10-31
+File SHA-256,feb79fa2a9cb1f4ae63cd40dcb9bf07af8c5d9c4b2846527ce2bad2c690b8ec1,Mirai score 63 (medium) added 2026-10-31
 File SHA-256,547678aa61b3872455ce4cd5b5ee93acffb94d463829e172376b0fe49827e316,Mirai score 63 (medium) added 2026-10-31
 File SHA-256,6082ca015d5e60abc472045acd556a1ea645935b133762047b82f0571c31cb0a,Mirai score 63 (medium) added 2026-10-31
 File SHA-256,633a92715aaa4f95cce2c0ce9874ce200dafcda41cc23098e8209419c9951edb,Mirai score 63 (medium) added 2026-10-31
@@ -537,22 +497,28 @@ File SHA-256,efbdf3619a847c923265961d143c80bd14e1bcb05418c3fc03cf64242b547aec,Mi
 File SHA-256,f577f7525e7c9e94543bb3ce2bfb830cb381c9c0d26326d63342fb414e7d3311,Mirai score 63 (medium) added 2026-10-31
 File SHA-256,1e7fbf29ea90aa72a54a96b3d40e99ec238c6d2e36ceaf67401d7c35d7bf3903,Zeus score 63 (medium) added 2026-10-31
 File SHA-256,f85299205e1596ab621b06343f49a58606ae480ea3a7460d9db11de62fdc97bc,Mirai score 63 (medium) added 2026-10-31
-File SHA-256,3f3ef079a0f71fd6f0c7dab254bdbb4186e3748d2fd2295d1ce0e1ea1c00beea,Unknown Loader score 60 (medium) added 2026-10-31
-File SHA-256,59e9d072d019317e32082b6183e2e095142a8b3c66f387e8fc4a81b4b9aba123,Unknown Loader score 60 (medium) added 2026-10-31
-File SHA-256,991590b79faeed8474a74019d48a0de7981f1bacebcc4c9c45eb9fa869dbaff0,Unknown Loader score 60 (medium) added 2026-10-31
-File SHA-256,e5249ecf65404d24a294e170f37fbac95e5f49c7b5f1b4df95c9d8fcb8b5910a,Unknown Loader score 60 (medium) added 2026-10-31
+File SHA-256,3a1c3dc6fde100194213d9d53ce663f81ed1695b910227a578d4d760d035615d,Unknown Loader score 60 (medium) added 2026-10-31
+File SHA-256,4562ecf0362c2c0c4ce299b14a02d901406320a3e4c8c609058b19095ed72217,Unknown Loader score 60 (medium) added 2026-10-31
+File SHA-256,491b3c90fcde895c6b06705bbec66d05fe7e1a90c255f8075c26607755ae6851,Unknown Loader score 60 (medium) added 2026-10-31
+File SHA-256,ab438044da5e00af5f17173a886e70789f209a4c04f922188ef4d12907a6ba00,Unknown Loader score 60 (medium) added 2026-10-31
 File SHA-256,74091f5ffd3dd7ab389661d1879a58b8681aca001a53ac3ab51e431eae5e2f48,Unknown Loader score 60 (medium) added 2026-10-31
 File SHA-256,e9b106745a31d7ad4095dd87cf8f915cf600f929b6930b9ff3534826c649f803,Coruna score 60 (medium) added 2026-10-31
 File SHA-256,5e6344e847341634933353ce78815fd570bf4f6a9f4f9fc5e12a02be98503bc9,Unknown Loader score 60 (medium) added 2026-10-31
 File SHA-256,e9ac43e5ec345d4bad16b84ff4026a822655974e7e4b73a895887c6350328ad5,SalatStealer score 60 (medium) added 2026-10-31
-File SHA-256,58bb8158541bdc37c1722eef74868c6c10359c07ea862d58ba1815350acb9fd2,Unknown Loader score 60 (medium) added 2026-10-30
-File SHA-256,6605a659f7fe32f673fac7b33cc570e88779f82045f3708d194b2f00f4c178cb,Unknown malware score 60 (medium) added 2026-10-30
+File SHA-256,1541b17cf4b7cf252dd9790522f72d1c413422c0320fb24e09280228c2e5b17e,Unknown Loader score 57 (medium) added 2026-10-31
+File SHA-256,9cf51d59ec0742588a9400ef1b756a9f07ed65e98f825f689baf5cfda0ec4ac7,Unknown Loader score 57 (medium) added 2026-10-31
 File SHA-256,0b02693ce59fbdcf0aefb9c9d4b49f2384e1eaad8fa960f101bb32afce489488,Mirai score 57 (medium) added 2026-10-31
 File SHA-256,73edea9aca1725fedee33ecc21c70a1ed2ee94745aabac13c75fe7d2e0576b18,Mirai score 57 (medium) added 2026-10-31
 File SHA-256,d2d641dfcfe6893ec86978d7830bcf82f639006170c7247bca6258e21d52a091,Mirai score 57 (medium) added 2026-10-31
 File SHA-256,024c7dce1273e6465e5ca49a25204cf2c550185f0150cfcae37e06934fb0d60f,Unknown Loader score 57 (medium) added 2026-10-31
 File SHA-256,df4aee0ac675673d094c54c0c526f2ccd788d3cd520af01f91c9f3381ed6f086,Mozi score 57 (medium) added 2026-10-31
+File SHA-256,3f3ef079a0f71fd6f0c7dab254bdbb4186e3748d2fd2295d1ce0e1ea1c00beea,Unknown Loader score 54 (medium) added 2026-10-31
+File SHA-256,59e9d072d019317e32082b6183e2e095142a8b3c66f387e8fc4a81b4b9aba123,Unknown Loader score 54 (medium) added 2026-10-31
+File SHA-256,991590b79faeed8474a74019d48a0de7981f1bacebcc4c9c45eb9fa869dbaff0,Unknown Loader score 54 (medium) added 2026-10-31
+File SHA-256,e5249ecf65404d24a294e170f37fbac95e5f49c7b5f1b4df95c9d8fcb8b5910a,Unknown Loader score 54 (medium) added 2026-10-31
 File SHA-256,2970c87e980e5bd963231770f371dbdcb004e82b5e904300a8e3c6eb9b1dbb7c,Unknown Loader score 54 (medium) added 2026-10-31
 File SHA-256,29e67c7654de59f76a27a5bb1c7800bcf35fa8d50c8d7041b55fa0f54dba7186,Unknown Loader score 54 (medium) added 2026-10-31
 File SHA-256,68be87935af1904952c47dd072335a05a9bffc86bfd5eb4636d4f34714077079,Unknown Loader score 54 (medium) added 2026-10-31
 File SHA-256,eee655f63b350b39178794a4f8d6093ba124f4fe95563396c9da163e0b349f96,Unknown Loader score 54 (medium) added 2026-10-31
+File SHA-256,58bb8158541bdc37c1722eef74868c6c10359c07ea862d58ba1815350acb9fd2,Unknown Loader score 54 (medium) added 2026-10-30
+File SHA-256,6605a659f7fe32f673fac7b33cc570e88779f82045f3708d194b2f00f4c178cb,Unknown malware score 54 (medium) added 2026-10-30

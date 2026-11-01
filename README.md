@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-10-31 21:12 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256: 6, md5: 3, sha1: 3); 43 first seen under 6h ago. File-hash feed: 5923 SHA-256 · 556 SHA-1 · 558 MD5._
+_Last update: 2026-11-01 00:11 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256: 5, md5: 4, sha1: 3); 40 first seen under 6h ago. File-hash feed: 5923 SHA-256 · 556 SHA-1 · 558 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
 | 1 | `102[.]134[.]35[.]205` | ip | Cobalt Strike | 83 | high | T1071.001, T1105, T1059 |
-| 2 | `156[.]247[.]40[.]170` | ip | ValleyRAT | 83 | high | T1071, T1105 |
-| 3 | `196[.]251[.]122[.]91` | ip | Remcos | 83 | high | T1071, T1105 |
-| 4 | `202[.]61[.]160[.]233` | ip | ValleyRAT | 83 | high | T1071, T1105 |
+| 2 | `156[.]247[.]40[.]170` | ip | ValleyRAT | 77 | high | T1071, T1105 |
+| 3 | `196[.]251[.]122[.]91` | ip | Remcos | 77 | high | T1071, T1105 |
+| 4 | `202[.]61[.]160[.]233` | ip | ValleyRAT | 77 | high | T1071, T1105 |
 | 5 | `141[.]98[.]10[.]157` | ip | Aisuru | 77 | high | T1071, T1105 |
 | 6 | `141[.]98[.]10[.]160` | ip | Aisuru | 77 | high | T1071, T1105 |
 | 7 | `141[.]98[.]10[.]172` | ip | Aisuru | 77 | high | T1071, T1105 |
 | 8 | `176[.]65[.]149[.]174` | ip | XMRIG | 77 | high | T1071, T1105 |
 | 9 | `91[.]188[.]254[.]62` | ip | XMRIG | 77 | high | T1071, T1105 |
-| 10 | `106[.]54[.]41[.]209` | ip | Unknown malware | 74 | medium | T1071, T1105 |
-| 11 | `154[.]91[.]48[.]164` | ip | VShell | 74 | medium | T1071, T1105 |
-| 12 | `154[.]91[.]48[.]165` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `ad-bear[.]net` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
-| 14 | `anarivasfisioterapia[.]com` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
-| 15 | `d2jlyc6m[.]bossbeyhouse[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 10 | `121[.]43[.]158[.]195` | ip | VShell | 74 | medium | T1071, T1105 |
+| 11 | `124[.]222[.]141[.]204` | ip | VShell | 74 | medium | T1071, T1105 |
+| 12 | `154[.]91[.]49[.]187` | ip | VShell | 74 | medium | T1071, T1105 |
+| 13 | `association[.]woman-boushin[.]com` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
+| 14 | `hxxps://h[.]au338[.]org/a/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 15 | `hxxps://kh[.]afktogel[.]org/` | url | Vidar | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

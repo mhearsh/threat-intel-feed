@@ -6,9 +6,30 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-10-31 21:12 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-01 00:11 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+121[.]43[.]158[.]195
+124[.]222[.]141[.]204
+154[.]91[.]49[.]187
+association[.]woman-boushin[.]com
+hxxp://193[.]148[.]56[.]77:8093/files/hb/
+hxxps://9win[.]world/
+hxxps://h[.]au338[.]org/a/
+hxxps://kh[.]afktogel[.]org/
+hxxps://r1[.]akasia988[.]net/
+hxxps://rp[.]afktogel[.]org/
+hxxps://talentidea-sa[.]com/
+hxxps://thestephotel[.]com/
+hxxps://z[.]bet688[.]co/
+kh[.]afktogel[.]org
+www[.]freemanding[.]com
 
 
 # Auto-Fetch-ThreatIntel
@@ -25,44 +46,29 @@
 0ac49697759d9453ad21fd1ac6d70bf3b9baa05ee4b38c528d1cb65d155a6c99
 0b2f897e1e53c1e76045604d3f8e6e42
 0bb5729f5c75889d712db2dc1626733f
+0c3abc6ddaa4169fca933bcecb52ec09c949276c47efb7384080cddc69e167b3
+0eb81cfd49f3db8a884ec42f9180f701
 102[.]134[.]35[.]205
-106[.]54[.]41[.]209
 141[.]98[.]10[.]157
 141[.]98[.]10[.]160
 141[.]98[.]10[.]172
-154[.]91[.]48[.]164
-154[.]91[.]48[.]165
 156[.]247[.]40[.]170
 176[.]65[.]149[.]174
 196[.]251[.]122[.]91
 202[.]61[.]160[.]233
-3bba0dd56b220041d6a7080fa8f53d8563bf2ced7796e88c9dc1b7beba44785a
 91[.]188[.]254[.]62
 ad-bear[.]net
 anarivasfisioterapia[.]com
-c3fa08c79e4a45bbb3897109cf5fcb19ebab38a0c7fcc1350f17e77ecbb088f2
 d2jlyc6m[.]bossbeyhouse[.]click
 hxxp://193[.]148[.]56[.]77:8093/chunks/p_230c267932c77a53/manifest[.]json
 hxxp://193[.]148[.]56[.]77:8093/files/bld_4Aj52lBKdt6aPc06eCeFHbos[.]exe
-hxxp://193[.]148[.]56[.]77:8093/files/hb/
-hxxp://45[.]91[.]226[.]119/getinstall64
-hxxps://9win[.]world/
-hxxps://adnanpersiankitten[.]in/
-hxxps://f[.]au338[.]org/
-hxxps://r1[.]akasia988[.]net/
 hxxps://r1[.]akasia988[.]net/m4/gate
-hxxps://rp[.]afktogel[.]org/
-hxxps://z4[.]afktogel[.]org/
-hxxps://z[.]bet688[.]co/
 lagogo[.]net
 rp[.]afktogel[.]org
 walshtimberflooring[.]com
 www[.]jasarootsurabaya[.]com
 www[.]jenniferaron[.]com
 www[.]lastronauta[.]it
-www[.]new-age-bookstore[.]amanamission[.]com
-www[.]ntokozoyingwana[.]com
-www[.]phuthotech[.]vn
 
 
 # Auto-Fetch-ThreatIntel

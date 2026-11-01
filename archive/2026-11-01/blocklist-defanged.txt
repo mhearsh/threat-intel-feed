@@ -1,0 +1,80 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-01 00:11 UTC   Count: 50   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+121[.]43[.]158[.]195
+124[.]222[.]141[.]204
+154[.]91[.]49[.]187
+association[.]woman-boushin[.]com
+hxxp://193[.]148[.]56[.]77:8093/files/hb/
+hxxps://9win[.]world/
+hxxps://h[.]au338[.]org/a/
+hxxps://kh[.]afktogel[.]org/
+hxxps://r1[.]akasia988[.]net/
+hxxps://rp[.]afktogel[.]org/
+hxxps://talentidea-sa[.]com/
+hxxps://thestephotel[.]com/
+hxxps://z[.]bet688[.]co/
+kh[.]afktogel[.]org
+www[.]freemanding[.]com
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-31
+
+0280901c2740795149dee80475e7819b8ac93a95d87413f15dd944eaad17a03b
+03575d5232dd841c5c94238c6666ea30272e0826c466dba22a4c2445188dba58
+036b2abed755d1925a16d2c9b613f0aa
+0516029f7bc1791a7fad5ad6bda2eb7f069af0b5
+07f27ceed791f56d73d3019572d4f59aecde9f32bb203d8b4d9c5cea2abb18c5
+08abd88a5ee20e7c037eba4f62db3b9f24a28e5b
+08ca7949817ca3254975490df52db653bfd82932
+0ac49697759d9453ad21fd1ac6d70bf3b9baa05ee4b38c528d1cb65d155a6c99
+0b2f897e1e53c1e76045604d3f8e6e42
+0bb5729f5c75889d712db2dc1626733f
+0c3abc6ddaa4169fca933bcecb52ec09c949276c47efb7384080cddc69e167b3
+0eb81cfd49f3db8a884ec42f9180f701
+102[.]134[.]35[.]205
+141[.]98[.]10[.]157
+141[.]98[.]10[.]160
+141[.]98[.]10[.]172
+156[.]247[.]40[.]170
+176[.]65[.]149[.]174
+196[.]251[.]122[.]91
+202[.]61[.]160[.]233
+91[.]188[.]254[.]62
+ad-bear[.]net
+anarivasfisioterapia[.]com
+d2jlyc6m[.]bossbeyhouse[.]click
+hxxp://193[.]148[.]56[.]77:8093/chunks/p_230c267932c77a53/manifest[.]json
+hxxp://193[.]148[.]56[.]77:8093/files/bld_4Aj52lBKdt6aPc06eCeFHbos[.]exe
+hxxps://r1[.]akasia988[.]net/m4/gate
+lagogo[.]net
+rp[.]afktogel[.]org
+walshtimberflooring[.]com
+www[.]jasarootsurabaya[.]com
+www[.]jenniferaron[.]com
+www[.]lastronauta[.]it
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

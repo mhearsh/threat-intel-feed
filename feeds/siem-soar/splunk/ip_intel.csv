@@ -1,15 +1,15 @@
 description,ip,weight,first_published
 Cobalt Strike score 83 (high) added 2026-10-31,102.134.35.205,2,2026-10-31
-ValleyRAT score 83 (high) added 2026-10-31,156.247.40.170,2,2026-10-31
-Remcos score 83 (high) added 2026-10-31,196.251.122.91,2,2026-10-31
-ValleyRAT score 83 (high) added 2026-10-31,202.61.160.233,2,2026-10-31
+ValleyRAT score 77 (high) added 2026-10-31,156.247.40.170,2,2026-10-31
+Remcos score 77 (high) added 2026-10-31,196.251.122.91,2,2026-10-31
+ValleyRAT score 77 (high) added 2026-10-31,202.61.160.233,2,2026-10-31
 Aisuru score 77 (high) added 2026-10-31,141.98.10.157,2,2026-10-31
 Aisuru score 77 (high) added 2026-10-31,141.98.10.160,2,2026-10-31
 Aisuru score 77 (high) added 2026-10-31,141.98.10.172,2,2026-10-31
 XMRIG score 77 (high) added 2026-10-31,176.65.149.174,2,2026-10-31
 XMRIG score 77 (high) added 2026-10-31,91.188.254.62,2,2026-10-31
-Unknown malware score 74 (medium) added 2026-10-31,106.54.41.209,1,2026-10-31
-VShell score 74 (medium) added 2026-10-31,154.91.48.164,1,2026-10-31
-VShell score 74 (medium) added 2026-10-31,154.91.48.165,1,2026-10-31
+VShell score 74 (medium) added 2026-11-01,121.43.158.195,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,124.222.141.204,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,154.91.49.187,1,2026-11-01
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22
