@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-01 18:21 UTC   Count: 507   Expiry: 30 days               #
+#  Updated: 2026-11-01 20:55 UTC   Count: 525   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -18,25 +18,40 @@
 1marsh.com
 333propertiesofthesmokies.com
 45x6vzup.bossbeyplace.click
+592ee2j0.forgestudios.co
 5jtq1o90.bossbeylegend.click
 a.bok13.org
+aerrecens.lol
+aerrecens.online
+ajkerkagojbd.com
+aksara44d.org
+aksara87.org
 alfathermals.com
 allayyinah.sch.id
 allinsidernews.com
 alphacornerstakehq.com
 alsananmarketing.com
+altrevon.com
 amsgutters.com
 analisislibre.org
 andalusimusic.com
 antava.store
+apapg.com
 association.woman-boushin.com
 auk1vbv8.slavyera.com
+auth-confirm-seven.vercel.app
+auth-rho-dun.vercel.app
 bh.majobeautyclub.com.br
 birch-nuiis-d9q37.xyz
+bnn69.org
 bostaxservice.com
+brickfi.vip
+bs-production.up.railway.app
+c.afterbet88.org
 c.bok13.org
 carritosnutri.in
 data.wickenhollow.cc
+dev-vic.vercel.app
 developer.office365api.com
 ev.afterbet88.org
 f2.afterbet88.org
@@ -53,11 +68,13 @@ joiningtrade.com
 jujupuluz.icu
 kh.afktogel.org
 kroezenbv.nl
+m.bnn69.org
 mysterygaming.de
 nerdsofcomedy.com
 nova88max.online
 nzrah.com
 op.afterbet88.org
+pu.aksara87.org
 quinzel.com.sg
 s6mdlbay.antava.store
 sharkmba.in
@@ -69,6 +86,7 @@ vanessaauge.com
 wickenhollow.cc
 wiro88.it.com
 www.freemanding.com
+x.aksara44d.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

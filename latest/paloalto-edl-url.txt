@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-01 18:21 UTC   Count: 900   Expiry: 30 days               #
+#  Updated: 2026-11-01 20:55 UTC   Count: 923   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -19,13 +19,18 @@
 144.31.53.142:8093/chunks/p_cd2f8d7fd6dbd230/v3/manifest.json
 144.31.53.142:8093/files/bld_C6h67XDjY-FEeNPOAEDhElF9.exe
 144.31.53.142:8787/api/client/report
+158.94.209.8/data
 158.94.211.124:8093/chunks/p_269a7a0a541c348d/v3/manifest.json
 158.94.211.124:8093/files/bld_dDXGepIlKOZeWWMcNkG2aVIk.exe
 216.158.95.183:8093/chunks/p_3e3b1bbfab33ca78/v3/manifest.json
 216.158.95.183:8093/files/bld_WrhPmSV4V4TJSTXsDdtCrIh2.exe
 74.0.48.128/api/ingest/error
 74.0.48.128/api/ingest/session
+78.159.131.254/281
+78.159.131.254/yrjrs/ver.pa
 h.au338.org/a
+pu.aksara87.org/zm/gate
+x.aksara44d.org/km/gate
 
 
 # Auto-Fetch-ThreatIntel: C2IntelFeeds + ThreatFox
@@ -35,25 +40,40 @@ h.au338.org/a
 1marsh.com
 333propertiesofthesmokies.com
 45x6vzup.bossbeyplace.click
+592ee2j0.forgestudios.co
 5jtq1o90.bossbeylegend.click
 a.bok13.org
+aerrecens.lol
+aerrecens.online
+ajkerkagojbd.com
+aksara44d.org
+aksara87.org
 alfathermals.com
 allayyinah.sch.id
 allinsidernews.com
 alphacornerstakehq.com
 alsananmarketing.com
+altrevon.com
 amsgutters.com
 analisislibre.org
 andalusimusic.com
 antava.store
+apapg.com
 association.woman-boushin.com
 auk1vbv8.slavyera.com
+auth-confirm-seven.vercel.app
+auth-rho-dun.vercel.app
 bh.majobeautyclub.com.br
 birch-nuiis-d9q37.xyz
+bnn69.org
 bostaxservice.com
+brickfi.vip
+bs-production.up.railway.app
+c.afterbet88.org
 c.bok13.org
 carritosnutri.in
 data.wickenhollow.cc
+dev-vic.vercel.app
 developer.office365api.com
 ev.afterbet88.org
 f2.afterbet88.org
@@ -70,11 +90,13 @@ joiningtrade.com
 jujupuluz.icu
 kh.afktogel.org
 kroezenbv.nl
+m.bnn69.org
 mysterygaming.de
 nerdsofcomedy.com
 nova88max.online
 nzrah.com
 op.afterbet88.org
+pu.aksara87.org
 quinzel.com.sg
 s6mdlbay.antava.store
 sharkmba.in
@@ -86,6 +108,7 @@ vanessaauge.com
 wickenhollow.cc
 wiro88.it.com
 www.freemanding.com
+x.aksara44d.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
