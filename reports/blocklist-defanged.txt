@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-01 02:11 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-01 07:40 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,60 +15,60 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-01
 
-107[.]149[.]104[.]215
-124[.]222[.]232[.]67
-43[.]133[.]248[.]198
-4f64901c53e903309136e13892c4c8a5c4c57550b08acd1ae53757ca43c7d8e5
-586cddc7b67e1c2072b39cc6d0669b3031ab66c0075e91f8a81b8bd92b2e5c8e
-931195a7237f8213f80a0a76c76a9663061793e5b74ece9975d489c0eb971e2b
-9d248e41c44dc04235c3fa71f09bbc620e1e4cd4a488436effdfa0de47a092b7
-a0432d0a7ca04b53e130a54710338385de639fe9a9cc0b858bd1649d539630e5
-association[.]woman-boushin[.]com
-b054dff887f2fde959f25b42dc49d6dc0dd504f863d0a896a143fc01b21a2de6
-d51568526eb146d673f4864629f21b40d70b35f5e25b88074a8bc63719cd67a8
-hxxp://193[.]148[.]56[.]77:8093/files/hb/
-hxxps://h[.]au338[.]org/a/
-hxxps://kh[.]afktogel[.]org/
-hxxps://r1[.]akasia988[.]net/
-hxxps://rp[.]afktogel[.]org/
-hxxps://softify[.]space/
-hxxps://talentidea-sa[.]com/
-hxxps://thestephotel[.]com/
-hxxps://z[.]bet688[.]co/
-kh[.]afktogel[.]org
+154[.]91[.]51[.]175
+154[.]91[.]52[.]186
+154[.]91[.]52[.]187
+154[.]91[.]52[.]189
+154[.]91[.]52[.]190
+154[.]91[.]53[.]162
+154[.]91[.]53[.]163
+154[.]91[.]53[.]164
+1ec9297709a225f912fc7145f43654bc1a6b61e56c9684bf22c6aaf0fad98289
+333propertiesofthesmokies[.]com
+42949634a09db058449c1c51a80ebfbad074ea1a6b6f14a583604a138a9f561b
+6a7befb131816e28518049a05ac4b7055b6f5b389a819115d0a36ac3a6f093a5
+6ee52429a22ee09c723794eaa590cd4f08a4109d5e3bd9bb7e71f94de3e3851a
+8aa9c73475a64d9d5ef62124ff91f6de00eac4ccf9258152bd795a808a17eecb
+912c1e7819bf778450390f4cbc48e63c8540a96d62c50c491709c271a6f0e696
+95b3a52bad5da0468d6af8a8c56e0ca7e307c2c0151f2531903e27c49458d308
+981ff25c886308d5350b4446184f14406be6cc01186bb19ebf0de8cf843e392f
+a679f3d64920ef8737cc35d176dc609298e92a18ea2a6cce8be8317ec89a2a23
+a80db01f9d80275cf85543c9ed0dbd70963b8e373a6806a99edbdb2b429a2b24
+a[.]bok13[.]org
+b9385376001e8f6f56c3ea19612092a8bbc9a50ec9d6992c77959c87f129d8ca
+bh[.]majobeautyclub[.]com[.]br
+developer[.]office365api[.]com
+ecdeec80905fdb2b9c0bc43419f50bf8e6f2edf42a319e66a23686faaa506026
+filqexo[.]com
+g9[.]afterbet88[.]org
+hxxps://a[.]bok13[.]org/
+hxxps://alfathermals[.]com/
+hxxps://allayyinah[.]sch[.]id/
+hxxps://allinsidernews[.]com/
+hxxps://alphacornerstakehq[.]com/
+hxxps://alsananmarketing[.]com/
+hxxps://amsgutters[.]com/
+hxxps://analisislibre[.]org/
+hxxps://andalusimusic[.]com/
+hxxps://g9[.]afterbet88[.]org/
+hxxps://op[.]afterbet88[.]org/
+hxxps://u[.]bok13[.]org/
+joiningtrade[.]com
+nerdsofcomedy[.]com
+nova88max[.]online
+op[.]afterbet88[.]org
 quinzel[.]com[.]sg
-www[.]freemanding[.]com
+u[.]bok13[.]org
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-31
 
-0280901c2740795149dee80475e7819b8ac93a95d87413f15dd944eaad17a03b
-03575d5232dd841c5c94238c6666ea30272e0826c466dba22a4c2445188dba58
-036b2abed755d1925a16d2c9b613f0aa
-0516029f7bc1791a7fad5ad6bda2eb7f069af0b5
-07f27ceed791f56d73d3019572d4f59aecde9f32bb203d8b4d9c5cea2abb18c5
 102[.]134[.]35[.]205
-141[.]98[.]10[.]157
-141[.]98[.]10[.]160
-141[.]98[.]10[.]172
 156[.]247[.]40[.]170
-176[.]65[.]149[.]174
 196[.]251[.]122[.]91
 202[.]61[.]160[.]233
-91[.]188[.]254[.]62
-ad-bear[.]net
-anarivasfisioterapia[.]com
-d2jlyc6m[.]bossbeyhouse[.]click
-hxxp://193[.]148[.]56[.]77:8093/chunks/p_230c267932c77a53/manifest[.]json
-hxxp://193[.]148[.]56[.]77:8093/files/bld_4Aj52lBKdt6aPc06eCeFHbos[.]exe
-hxxps://r1[.]akasia988[.]net/m4/gate
-lagogo[.]net
-rp[.]afktogel[.]org
-walshtimberflooring[.]com
-www[.]jasarootsurabaya[.]com
-www[.]jenniferaron[.]com
 
 
 # Auto-Fetch-ThreatIntel
