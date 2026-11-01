@@ -1,33 +1,33 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-01 15:19 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-01 18:21 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "141.98.10.112", "ip", "Aisuru", datetime(2026-11-01T18:20:57Z),
+    "141.98.10.213", "ip", "Aisuru", datetime(2026-11-01T18:20:57Z),
+    "106.75.249.202", "ip", "VShell", datetime(2026-11-01T18:20:57Z),
+    "1marsh.com", "domain", "StrelaStealer", datetime(2026-11-01T18:20:57Z),
+    "206.188.197.53", "ip", "VShell", datetime(2026-11-01T18:20:57Z),
+    "23.227.203.239", "ip", "Cobalt Strike", datetime(2026-11-01T18:20:57Z),
+    "43.139.187.59", "ip", "Unknown malware", datetime(2026-11-01T18:20:57Z),
+    "5jtq1o90.bossbeylegend.click", "domain", "ClearFake", datetime(2026-11-01T18:20:57Z),
+    "8.220.246.195", "ip", "VShell", datetime(2026-11-01T18:20:57Z),
+    "fuja2ejs.bossbeyplus.click", "domain", "ClearFake", datetime(2026-11-01T18:20:57Z),
+    "itlu.xyz", "domain", "StrelaStealer", datetime(2026-11-01T18:20:57Z),
+    "sharkmba.in", "domain", "StrelaStealer", datetime(2026-11-01T18:20:57Z),
+    "wiro88.it.com", "domain", "ClearFake", datetime(2026-11-01T18:20:57Z),
     "196.251.102.55", "ip", "Unknown RAT", datetime(2026-11-01T15:19:50Z),
     "31.56.19.73", "ip", "Potassium", datetime(2026-11-01T15:19:50Z),
     "31.56.209.35", "ip", "Unknown RAT", datetime(2026-11-01T15:19:50Z),
     "167.148.201.186", "ip", "AsyncRAT", datetime(2026-11-01T15:19:50Z),
-    "142.4.38.191", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
-    "144.31.53.142", "ip", "Hermes (Stealer)", datetime(2026-11-01T15:19:50Z),
-    "210.87.110.249", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
-    "38.55.193.25", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
-    "42.193.138.26", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
-    "43.167.223.40", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
     "45x6vzup.bossbeyplace.click", "domain", "ClearFake", datetime(2026-11-01T15:19:50Z),
-    "51.20.118.197", "ip", "AsyncRAT", datetime(2026-11-01T15:19:50Z),
     "auk1vbv8.slavyera.com", "domain", "ClearFake", datetime(2026-11-01T15:19:50Z),
     "birch-nuiis-d9q37.xyz", "domain", "IClickFix", datetime(2026-11-01T15:19:50Z),
     "bostaxservice.com", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
     "c.bok13.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
     "carritosnutri.in", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
-    "ev.afterbet88.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
-    "f2.afterbet88.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
-    "hiddentreasurelodge.co.ke", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
-    "j.bok13.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
-    "jujupuluz.icu", "domain", "Unknown malware", datetime(2026-11-01T15:19:50Z),
-    "kroezenbv.nl", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
     "102.134.35.205", "ip", "Cobalt Strike", datetime(2026-10-31T21:12:41Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)

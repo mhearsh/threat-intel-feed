@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-01 15:19 UTC   Count: 501   Expiry: 30 days               #
+#  Updated: 2026-11-01 18:21 UTC   Count: 507   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,8 +15,10 @@
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-01
 
+1marsh.com
 333propertiesofthesmokies.com
 45x6vzup.bossbeyplace.click
+5jtq1o90.bossbeylegend.click
 a.bok13.org
 alfathermals.com
 allayyinah.sch.id
@@ -39,11 +41,13 @@ developer.office365api.com
 ev.afterbet88.org
 f2.afterbet88.org
 filqexo.com
+fuja2ejs.bossbeyplus.click
 g9.afterbet88.org
 h9aj92v3.bossbeyonline.click
 hdwirguz.bossbeyhub.click
 hiddentreasurelodge.co.ke
 img.tallowfetch.cc
+itlu.xyz
 j.bok13.org
 joiningtrade.com
 jujupuluz.icu
@@ -56,12 +60,14 @@ nzrah.com
 op.afterbet88.org
 quinzel.com.sg
 s6mdlbay.antava.store
+sharkmba.in
 shinohara-shinichi.com
 softify.space
 tallowfetch.cc
 u.bok13.org
 vanessaauge.com
 wickenhollow.cc
+wiro88.it.com
 www.freemanding.com
 
 

@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-01 15:19 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-01 18:21 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,38 +15,38 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-01
 
-0226bc8a7c13aa125d635fb09486dd90d55a71f1bffe2134f945638053335f5a
-05b69e9452d3eaef1a1380e45c725ff1b7117328e11af8b41c514b5df04060bc
-0721c92ef2fb59a3cbfca4552009a3ce6e622b2a836c26d0640f5a6d05a32ed4
-0764f18aba9a376088f7fd02ef3e7e2ccdee5ba36cddb93a9a474d68213d3908
-1098413eea7b938c50fc3cbce15b9a1acabc26c5a0763c2b9633719ff38ff32b
-122a30727902c83055a61fb220adf2be023d01c11d9fcbe8928742b6d0a2dcfc
-12ce81c57301263c590420c36d851b93436a676af58f795a6cfed6e17f022afa
-13c9fb2cbb577adc3e1a3113809b9df708bc6d58761ef62641e2a94a732d98d4
-142[.]4[.]38[.]191
-144[.]31[.]53[.]142
+047e19c093603a909101735c634fbe920ffa44f068ec7d449eede9b2b51daa60
+0f24d71ff6cd797d75dae384439c4da9ea95ba1ace1552ceeedec0a735242044
+0f26377a2ff287513cd5f997d2b6c7c75de7326af1b1fd1e107f9b26540c18e7
+1061d3badbcd4bf206ced766858e528f77edd174e4d6a3bcf9e392f88de885d0
+106[.]75[.]249[.]202
+13e33eb18722080953ab188d941b569698e919b2882383ce23e4d59b6351052f
+141[.]98[.]10[.]112
+141[.]98[.]10[.]213
 167[.]148[.]201[.]186
 196[.]251[.]102[.]55
-1e9534b6328478ef1d07e47e5ba5c7e621f71e8bdfa9950406e7c073a8bf1995
-20354e81f97d98c6796888169dfc104629e953aee38671f3b10b849e21a111ef
-20dfa4852da9ab77e19cfe0f2516d3dca167110053503ff552587b99bf9bee80
-210[.]87[.]110[.]249
-24c6d765c551844d3963f8ea8267e52b6bb8a9ffcb5b7bffbb56f5386cc90f3a
+1fb0e4ea206d10446ff99a812c44e713aaea004efa55cfb1166259ddc7b2b16b
+1marsh[.]com
+206[.]188[.]197[.]53
+23[.]227[.]203[.]239
+2afd5cb35437581509ea96f12d9a55c0b283bcc12bb0a6e7e20937f0fa410519
+30d1d5d97788c76417611bc0b5464eaba3dd0f50124640fe89b63704841b2ce1
 31[.]56[.]19[.]73
 31[.]56[.]209[.]35
-38[.]55[.]193[.]25
-42[.]193[.]138[.]26
-43[.]167[.]223[.]40
+40d819bf235b8998be4d1c1f0b4bfabe165610378494ebc4df37b337145c83e5
+43[.]139[.]187[.]59
 45x6vzup[.]bossbeyplace[.]click
-51[.]20[.]118[.]197
+491ac9eb08b2a729538ddd3416b2181d0f2ac20b4727496e7dd6c959f3bfdd20
+4f3d40654b50606d66b80a16941a04742a41d45734f291760a40be76ac92e601
+5jtq1o90[.]bossbeylegend[.]click
+689daeaa8c47ef945de824f18d918a4e6792310879f3e3c8179bf87f6c589b37
+8[.]220[.]246[.]195
 auk1vbv8[.]slavyera[.]com
 birch-nuiis-d9q37[.]xyz
 bostaxservice[.]com
 c[.]bok13[.]org
 carritosnutri[.]in
-ev[.]afterbet88[.]org
-f2[.]afterbet88[.]org
-hiddentreasurelodge[.]co[.]ke
+fuja2ejs[.]bossbeyplus[.]click
 hxxp://144[.]31[.]53[.]142:8080/ws/publisher
 hxxp://144[.]31[.]53[.]142:8093/chunks/p_cd2f8d7fd6dbd230/v3/manifest[.]json
 hxxp://144[.]31[.]53[.]142:8093/files/bld_C6h67XDjY-FEeNPOAEDhElF9[.]exe
@@ -59,9 +59,9 @@ hxxps://74[.]0[.]48[.]128/api/ingest/error
 hxxps://74[.]0[.]48[.]128/api/ingest/session
 hxxps://c[.]bok13[.]org/
 hxxps://ev[.]afterbet88[.]org/
-j[.]bok13[.]org
-jujupuluz[.]icu
-kroezenbv[.]nl
+itlu[.]xyz
+sharkmba[.]in
+wiro88[.]it[.]com
 
 
 # Auto-Fetch-ThreatIntel
