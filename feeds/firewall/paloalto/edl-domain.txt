@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-01 07:40 UTC   Count: 477   Expiry: 30 days               #
+#  Updated: 2026-11-01 10:28 UTC   Count: 489   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -25,19 +25,31 @@ alsananmarketing.com
 amsgutters.com
 analisislibre.org
 andalusimusic.com
+antava.store
 association.woman-boushin.com
 bh.majobeautyclub.com.br
+data.wickenhollow.cc
 developer.office365api.com
 filqexo.com
 g9.afterbet88.org
+h9aj92v3.bossbeyonline.click
+hdwirguz.bossbeyhub.click
+img.tallowfetch.cc
 joiningtrade.com
 kh.afktogel.org
+mysterygaming.de
 nerdsofcomedy.com
 nova88max.online
+nzrah.com
 op.afterbet88.org
 quinzel.com.sg
+s6mdlbay.antava.store
+shinohara-shinichi.com
 softify.space
+tallowfetch.cc
 u.bok13.org
+vanessaauge.com
+wickenhollow.cc
 www.freemanding.com
 
 
