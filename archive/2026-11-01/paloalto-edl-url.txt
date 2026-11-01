@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-01 00:11 UTC   Count: 839   Expiry: 30 days               #
+#  Updated: 2026-11-01 02:11 UTC   Count: 841   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -24,6 +24,8 @@ h.au338.org/a
 
 association.woman-boushin.com
 kh.afktogel.org
+quinzel.com.sg
+softify.space
 www.freemanding.com
 
 

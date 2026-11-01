@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-01 00:11 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256: 5, md5: 4, sha1: 3); 40 first seen under 6h ago. File-hash feed: 5923 SHA-256 · 556 SHA-1 · 558 MD5._
+_Last update: 2026-11-01 02:11 UTC. 50 IOCs (ip: 14, sha256: 10, domain: 12, url: 12, md5: 1, sha1: 1); 40 first seen under 6h ago. File-hash feed: 5934 SHA-256 · 556 SHA-1 · 558 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -124,12 +124,12 @@ _Last update: 2026-11-01 00:11 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256
 | 7 | `141[.]98[.]10[.]172` | ip | Aisuru | 77 | high | T1071, T1105 |
 | 8 | `176[.]65[.]149[.]174` | ip | XMRIG | 77 | high | T1071, T1105 |
 | 9 | `91[.]188[.]254[.]62` | ip | XMRIG | 77 | high | T1071, T1105 |
-| 10 | `121[.]43[.]158[.]195` | ip | VShell | 74 | medium | T1071, T1105 |
-| 11 | `124[.]222[.]141[.]204` | ip | VShell | 74 | medium | T1071, T1105 |
-| 12 | `154[.]91[.]49[.]187` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `association[.]woman-boushin[.]com` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
-| 14 | `hxxps://h[.]au338[.]org/a/` | url | Vidar | 74 | medium | T1071, T1105 |
-| 15 | `hxxps://kh[.]afktogel[.]org/` | url | Vidar | 74 | medium | T1071, T1105 |
+| 10 | `107[.]149[.]104[.]215` | ip | VShell | 74 | medium | T1071, T1105 |
+| 11 | `124[.]222[.]232[.]67` | ip | VShell | 74 | medium | T1071, T1105 |
+| 12 | `43[.]133[.]248[.]198` | ip | Unknown malware | 74 | medium | T1071, T1105 |
+| 13 | `4f64901c53e903309136e13892c4c8a5c4c57550b08acd1ae53757ca43c7` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 14 | `9d248e41c44dc04235c3fa71f09bbc620e1e4cd4a488436effdfa0de47a0` | sha256 | Mirai | 74 | medium | T1071, T1105 |
+| 15 | `b054dff887f2fde959f25b42dc49d6dc0dd504f863d0a896a143fc01b21a` | sha256 | Mirai | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

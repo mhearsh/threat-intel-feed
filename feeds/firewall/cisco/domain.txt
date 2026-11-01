@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-01 00:11 UTC   Count: 456   Expiry: 30 days               #
+#  Updated: 2026-11-01 02:11 UTC   Count: 458   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -17,6 +17,8 @@
 
 association.woman-boushin.com
 kh.afktogel.org
+quinzel.com.sg
+softify.space
 www.freemanding.com
 
 

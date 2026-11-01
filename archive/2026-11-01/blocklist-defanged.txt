@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-01 00:11 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-01 02:11 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,20 +15,28 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-01
 
-121[.]43[.]158[.]195
-124[.]222[.]141[.]204
-154[.]91[.]49[.]187
+107[.]149[.]104[.]215
+124[.]222[.]232[.]67
+43[.]133[.]248[.]198
+4f64901c53e903309136e13892c4c8a5c4c57550b08acd1ae53757ca43c7d8e5
+586cddc7b67e1c2072b39cc6d0669b3031ab66c0075e91f8a81b8bd92b2e5c8e
+931195a7237f8213f80a0a76c76a9663061793e5b74ece9975d489c0eb971e2b
+9d248e41c44dc04235c3fa71f09bbc620e1e4cd4a488436effdfa0de47a092b7
+a0432d0a7ca04b53e130a54710338385de639fe9a9cc0b858bd1649d539630e5
 association[.]woman-boushin[.]com
+b054dff887f2fde959f25b42dc49d6dc0dd504f863d0a896a143fc01b21a2de6
+d51568526eb146d673f4864629f21b40d70b35f5e25b88074a8bc63719cd67a8
 hxxp://193[.]148[.]56[.]77:8093/files/hb/
-hxxps://9win[.]world/
 hxxps://h[.]au338[.]org/a/
 hxxps://kh[.]afktogel[.]org/
 hxxps://r1[.]akasia988[.]net/
 hxxps://rp[.]afktogel[.]org/
+hxxps://softify[.]space/
 hxxps://talentidea-sa[.]com/
 hxxps://thestephotel[.]com/
 hxxps://z[.]bet688[.]co/
 kh[.]afktogel[.]org
+quinzel[.]com[.]sg
 www[.]freemanding[.]com
 
 
@@ -41,13 +49,6 @@ www[.]freemanding[.]com
 036b2abed755d1925a16d2c9b613f0aa
 0516029f7bc1791a7fad5ad6bda2eb7f069af0b5
 07f27ceed791f56d73d3019572d4f59aecde9f32bb203d8b4d9c5cea2abb18c5
-08abd88a5ee20e7c037eba4f62db3b9f24a28e5b
-08ca7949817ca3254975490df52db653bfd82932
-0ac49697759d9453ad21fd1ac6d70bf3b9baa05ee4b38c528d1cb65d155a6c99
-0b2f897e1e53c1e76045604d3f8e6e42
-0bb5729f5c75889d712db2dc1626733f
-0c3abc6ddaa4169fca933bcecb52ec09c949276c47efb7384080cddc69e167b3
-0eb81cfd49f3db8a884ec42f9180f701
 102[.]134[.]35[.]205
 141[.]98[.]10[.]157
 141[.]98[.]10[.]160
@@ -68,7 +69,6 @@ rp[.]afktogel[.]org
 walshtimberflooring[.]com
 www[.]jasarootsurabaya[.]com
 www[.]jenniferaron[.]com
-www[.]lastronauta[.]it
 
 
 # Auto-Fetch-ThreatIntel
