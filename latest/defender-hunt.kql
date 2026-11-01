@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-01 10:28 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-01 15:19 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "101.33.228.98", "ip", "VShell", datetime(2026-11-01T10:28:41Z),
-    "106.54.10.214", "ip", "Quasar RAT", datetime(2026-11-01T10:28:41Z),
-    "115.175.24.19", "ip", "Cobalt Strike", datetime(2026-11-01T10:28:41Z),
-    "154.91.52.182", "ip", "VShell", datetime(2026-11-01T10:28:41Z),
-    "154.91.52.184", "ip", "VShell", datetime(2026-11-01T10:28:41Z),
-    "154.91.52.185", "ip", "VShell", datetime(2026-11-01T10:28:41Z),
-    "154.91.53.166", "ip", "VShell", datetime(2026-11-01T10:28:41Z),
-    "154.91.53.169", "ip", "VShell", datetime(2026-11-01T10:28:41Z),
-    "antava.store", "domain", "ClearFake", datetime(2026-11-01T10:28:41Z),
-    "data.wickenhollow.cc", "domain", "ACR Stealer", datetime(2026-11-01T10:28:41Z),
-    "h9aj92v3.bossbeyonline.click", "domain", "ClearFake", datetime(2026-11-01T10:28:41Z),
-    "hdwirguz.bossbeyhub.click", "domain", "ClearFake", datetime(2026-11-01T10:28:41Z),
-    "img.tallowfetch.cc", "domain", "ACR Stealer", datetime(2026-11-01T10:28:41Z),
-    "mysterygaming.de", "domain", "StrelaStealer", datetime(2026-11-01T10:28:41Z),
-    "nzrah.com", "domain", "StrelaStealer", datetime(2026-11-01T10:28:41Z),
-    "s6mdlbay.antava.store", "domain", "ClearFake", datetime(2026-11-01T10:28:41Z),
-    "shinohara-shinichi.com", "domain", "StrelaStealer", datetime(2026-11-01T10:28:41Z),
-    "tallowfetch.cc", "domain", "ACR Stealer", datetime(2026-11-01T10:28:41Z),
-    "wickenhollow.cc", "domain", "ACR Stealer", datetime(2026-11-01T10:28:41Z),
-    "a.bok13.org", "domain", "Vidar", datetime(2026-11-01T07:40:38Z),
+    "196.251.102.55", "ip", "Unknown RAT", datetime(2026-11-01T15:19:50Z),
+    "31.56.19.73", "ip", "Potassium", datetime(2026-11-01T15:19:50Z),
+    "31.56.209.35", "ip", "Unknown RAT", datetime(2026-11-01T15:19:50Z),
+    "167.148.201.186", "ip", "AsyncRAT", datetime(2026-11-01T15:19:50Z),
+    "142.4.38.191", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
+    "144.31.53.142", "ip", "Hermes (Stealer)", datetime(2026-11-01T15:19:50Z),
+    "210.87.110.249", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
+    "38.55.193.25", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
+    "42.193.138.26", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
+    "43.167.223.40", "ip", "VShell", datetime(2026-11-01T15:19:50Z),
+    "45x6vzup.bossbeyplace.click", "domain", "ClearFake", datetime(2026-11-01T15:19:50Z),
+    "51.20.118.197", "ip", "AsyncRAT", datetime(2026-11-01T15:19:50Z),
+    "auk1vbv8.slavyera.com", "domain", "ClearFake", datetime(2026-11-01T15:19:50Z),
+    "birch-nuiis-d9q37.xyz", "domain", "IClickFix", datetime(2026-11-01T15:19:50Z),
+    "bostaxservice.com", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
+    "c.bok13.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
+    "carritosnutri.in", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
+    "ev.afterbet88.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
+    "f2.afterbet88.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
+    "hiddentreasurelodge.co.ke", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
+    "j.bok13.org", "domain", "Vidar", datetime(2026-11-01T15:19:50Z),
+    "jujupuluz.icu", "domain", "Unknown malware", datetime(2026-11-01T15:19:50Z),
+    "kroezenbv.nl", "domain", "StrelaStealer", datetime(2026-11-01T15:19:50Z),
     "102.134.35.205", "ip", "Cobalt Strike", datetime(2026-10-31T21:12:41Z),
-    "156.247.40.170", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
-    "196.251.122.91", "ip", "Remcos", datetime(2026-10-31T17:04:13Z),
-    "202.61.160.233", "ip", "ValleyRAT", datetime(2026-10-31T17:04:13Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-01 10:28 UTC   Count: 383   Expiry: 30 days               #
+#  Updated: 2026-11-01 15:19 UTC   Count: 393   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,16 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-01
 
+144.31.53.142:8080/ws/publisher
+144.31.53.142:8093/chunks/p_cd2f8d7fd6dbd230/v3/manifest.json
+144.31.53.142:8093/files/bld_C6h67XDjY-FEeNPOAEDhElF9.exe
+144.31.53.142:8787/api/client/report
+158.94.211.124:8093/chunks/p_269a7a0a541c348d/v3/manifest.json
+158.94.211.124:8093/files/bld_dDXGepIlKOZeWWMcNkG2aVIk.exe
+216.158.95.183:8093/chunks/p_3e3b1bbfab33ca78/v3/manifest.json
+216.158.95.183:8093/files/bld_WrhPmSV4V4TJSTXsDdtCrIh2.exe
+74.0.48.128/api/ingest/error
+74.0.48.128/api/ingest/session
 h.au338.org/a
 
 

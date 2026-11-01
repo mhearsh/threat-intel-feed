@@ -6,13 +6,13 @@
 #  Purpose: IOC - Malicious IPv4 collection (score >= 50)                     #
 #  Format:  one IPv4 per line, not defanged; '#' = comment                    #
 #  Usage:   Firewall EDL (Palo Alto / FortiGate), SIEM                        #
-#  Updated: 2026-11-01 10:28 UTC   Count: 285   Expiry: 30 days               #
+#  Updated: 2026-11-01 15:19 UTC   Count: 298   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
 
-# Auto-Fetch-ThreatIntel: ThreatFox
-# C2 & malware infrastructure / TLP:CLEAR - Threat Level: Medium
+# Auto-Fetch-ThreatIntel: Spamhaus-DROP + ThreatFox
+# C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
 # 2026-11-01
 
 101.33.228.98
@@ -22,6 +22,8 @@
 121.43.158.195
 124.222.141.204
 124.222.232.67
+142.4.38.191
+144.31.53.142
 154.91.49.187
 154.91.51.175
 154.91.52.182
@@ -36,7 +38,18 @@
 154.91.53.164
 154.91.53.166
 154.91.53.169
+158.94.211.124
+167.148.201.186
+196.251.102.55
+210.87.110.249
+31.56.19.73
+31.56.209.35
+38.55.193.25
+42.193.138.26
 43.133.248.198
+43.167.223.40
+51.20.118.197
+74.0.48.128
 
 
 # Auto-Fetch-ThreatIntel: Spamhaus-DROP + ThreatFox

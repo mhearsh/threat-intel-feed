@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-01 10:28 UTC   Count: 489   Expiry: 30 days               #
+#  Updated: 2026-11-01 15:19 UTC   Count: 501   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,7 @@
 # 2026-11-01
 
 333propertiesofthesmokies.com
+45x6vzup.bossbeyplace.click
 a.bok13.org
 alfathermals.com
 allayyinah.sch.id
@@ -27,16 +28,27 @@ analisislibre.org
 andalusimusic.com
 antava.store
 association.woman-boushin.com
+auk1vbv8.slavyera.com
 bh.majobeautyclub.com.br
+birch-nuiis-d9q37.xyz
+bostaxservice.com
+c.bok13.org
+carritosnutri.in
 data.wickenhollow.cc
 developer.office365api.com
+ev.afterbet88.org
+f2.afterbet88.org
 filqexo.com
 g9.afterbet88.org
 h9aj92v3.bossbeyonline.click
 hdwirguz.bossbeyhub.click
+hiddentreasurelodge.co.ke
 img.tallowfetch.cc
+j.bok13.org
 joiningtrade.com
+jujupuluz.icu
 kh.afktogel.org
+kroezenbv.nl
 mysterygaming.de
 nerdsofcomedy.com
 nova88max.online

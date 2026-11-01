@@ -1,15 +1,15 @@
 description,ip,weight,first_published
+Unknown RAT score 83 (high) added 2026-11-01,196.251.102.55,2,2026-11-01
+Potassium score 83 (high) added 2026-11-01,31.56.19.73,2,2026-11-01
+Unknown RAT score 83 (high) added 2026-11-01,31.56.209.35,2,2026-11-01
+AsyncRAT score 77 (high) added 2026-11-01,167.148.201.186,2,2026-11-01
 Cobalt Strike score 77 (high) added 2026-10-31,102.134.35.205,2,2026-10-31
-ValleyRAT score 77 (high) added 2026-10-31,156.247.40.170,2,2026-10-31
-Remcos score 77 (high) added 2026-10-31,196.251.122.91,2,2026-10-31
-ValleyRAT score 77 (high) added 2026-10-31,202.61.160.233,2,2026-10-31
-VShell score 74 (medium) added 2026-11-01,101.33.228.98,1,2026-11-01
-Quasar RAT score 74 (medium) added 2026-11-01,106.54.10.214,1,2026-11-01
-Cobalt Strike score 74 (medium) added 2026-11-01,115.175.24.19,1,2026-11-01
-VShell score 74 (medium) added 2026-11-01,154.91.52.182,1,2026-11-01
-VShell score 74 (medium) added 2026-11-01,154.91.52.184,1,2026-11-01
-VShell score 74 (medium) added 2026-11-01,154.91.52.185,1,2026-11-01
-VShell score 74 (medium) added 2026-11-01,154.91.53.166,1,2026-11-01
-VShell score 74 (medium) added 2026-11-01,154.91.53.169,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,142.4.38.191,1,2026-11-01
+Hermes (Stealer) score 74 (medium) added 2026-11-01,144.31.53.142,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,210.87.110.249,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,38.55.193.25,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,42.193.138.26,1,2026-11-01
+VShell score 74 (medium) added 2026-11-01,43.167.223.40,1,2026-11-01
+AsyncRAT score 74 (medium) added 2026-11-01,51.20.118.197,1,2026-11-01
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

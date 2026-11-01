@@ -1,14 +1,14 @@
+196.251.102.55:Unknown RAT added 2026-11-01
+31.56.19.73:Potassium added 2026-11-01
+31.56.209.35:Unknown RAT added 2026-11-01
+167.148.201.186:AsyncRAT added 2026-11-01
 102.134.35.205:Cobalt Strike added 2026-10-31
-156.247.40.170:ValleyRAT added 2026-10-31
-196.251.122.91:Remcos added 2026-10-31
-202.61.160.233:ValleyRAT added 2026-10-31
-101.33.228.98:VShell added 2026-11-01
-106.54.10.214:Quasar RAT added 2026-11-01
-115.175.24.19:Cobalt Strike added 2026-11-01
-154.91.52.182:VShell added 2026-11-01
-154.91.52.184:VShell added 2026-11-01
-154.91.52.185:VShell added 2026-11-01
-154.91.53.166:VShell added 2026-11-01
-154.91.53.169:VShell added 2026-11-01
+142.4.38.191:VShell added 2026-11-01
+144.31.53.142:Hermes (Stealer) added 2026-11-01
+210.87.110.249:VShell added 2026-11-01
+38.55.193.25:VShell added 2026-11-01
+42.193.138.26:VShell added 2026-11-01
+43.167.223.40:VShell added 2026-11-01
+51.20.118.197:AsyncRAT added 2026-11-01
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
