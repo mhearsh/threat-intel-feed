@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-01 20:55 UTC   Count: 923   Expiry: 30 days               #
+#  Updated: 2026-11-01 22:55 UTC   Count: 927   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -45,6 +45,7 @@ x.aksara44d.org/km/gate
 a.bok13.org
 aerrecens.lol
 aerrecens.online
+affordalift.com.au
 ajkerkagojbd.com
 aksara44d.org
 aksara87.org
@@ -59,6 +60,7 @@ analisislibre.org
 andalusimusic.com
 antava.store
 apapg.com
+aq04chzm.bossbeyline.click
 association.woman-boushin.com
 auk1vbv8.slavyera.com
 auth-confirm-seven.vercel.app
@@ -96,6 +98,7 @@ nerdsofcomedy.com
 nova88max.online
 nzrah.com
 op.afterbet88.org
+oq9ed7lg.exploreargentina.tours
 pu.aksara87.org
 quinzel.com.sg
 s6mdlbay.antava.store
@@ -104,6 +107,7 @@ shinohara-shinichi.com
 softify.space
 tallowfetch.cc
 u.bok13.org
+u40jfumq.bossbeypoint.click
 vanessaauge.com
 wickenhollow.cc
 wiro88.it.com

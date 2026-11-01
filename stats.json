@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-01 20:55 UTC",
+ "updated": "2026-11-01 22:55 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
   "critical": 2,
-  "high": 7,
-  "medium": 41
+  "high": 5,
+  "medium": 43
  },
- "fresh_6h": 47,
+ "fresh_6h": 45,
  "hashes": {
-  "sha256": 6453,
+  "sha256": 6489,
   "sha1": 639,
   "md5": 641
  },
- "hash_count": 7733,
+ "hash_count": 7769,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -21,19 +21,19 @@
   "url": 12
  },
  "families": {
-  "Unknown malware": 19,
-  "Vidar": 10,
-  "Satacom": 7,
+  "AMOS": 12,
+  "Unknown malware": 12,
+  "Vidar": 9,
+  "ClearFake": 4,
+  "Satacom": 3,
   "Aisuru": 2,
   "Unknown RAT": 2,
-  "AMOS": 2,
+  "StrelaStealer": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
-  "Potassium": 1,
-  "AsyncRAT": 1,
-  "Cobalt Strike": 1
+  "Potassium": 1
  },
  "sources": {
-  "Spamhaus-DROP": 7,
+  "Spamhaus-DROP": 5,
   "ThreatFox": 48,
   "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199": 2
  }

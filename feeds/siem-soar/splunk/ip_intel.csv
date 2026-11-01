@@ -1,15 +1,15 @@
 description,ip,weight,first_published
 Aisuru score 83 (high) added 2026-11-01,141.98.10.112,2,2026-11-01
 Aisuru score 83 (high) added 2026-11-01,141.98.10.213,2,2026-11-01
-Unknown RAT score 83 (high) added 2026-11-01,196.251.102.55,2,2026-11-01
-Potassium score 83 (high) added 2026-11-01,31.56.19.73,2,2026-11-01
-Unknown RAT score 83 (high) added 2026-11-01,31.56.209.35,2,2026-11-01
-AsyncRAT score 77 (high) added 2026-11-01,167.148.201.186,2,2026-11-01
-Cobalt Strike score 77 (high) added 2026-10-31,102.134.35.205,2,2026-10-31
+Unknown RAT score 77 (high) added 2026-11-01,196.251.102.55,2,2026-11-01
+Potassium score 77 (high) added 2026-11-01,31.56.19.73,2,2026-11-01
+Unknown RAT score 77 (high) added 2026-11-01,31.56.209.35,2,2026-11-01
 Unknown malware score 74 (medium) added 2026-11-01,144.172.107.191,1,2026-11-01
 Unknown malware score 74 (medium) added 2026-11-01,144.172.110.228,1,2026-11-01
 Unknown malware score 74 (medium) added 2026-11-01,144.172.118.166,1,2026-11-01
 Unknown malware score 74 (medium) added 2026-11-01,144.172.85.176,1,2026-11-01
 Unknown malware score 74 (medium) added 2026-11-01,144.172.86.31,1,2026-11-01
+Unknown malware score 74 (medium) added 2026-11-01,144.172.93.169,1,2026-11-01
+Unknown malware score 74 (medium) added 2026-11-01,144.172.94.202,1,2026-11-01
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22
