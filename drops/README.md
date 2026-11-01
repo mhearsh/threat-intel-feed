@@ -1,6 +1,6 @@
 # Daily Drops
 
-Each post in the **Daily Threat Intel Drop** series on X ([@EmunaEliran](https://x.com/EmunaEliran)) ships with a full CSV and two cards.
+Each post in the **Daily Threat Intel Drop** series on X ships with a full CSV and two cards.
 
 ## Layout
 `drops/YYYY/MM/YYYY-MM-DD-drop-N.csv` · `...-drop-N.png` (summary card) · `...-drop-N-list.png` (full list card)
@@ -32,3 +32,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-10-29 | #6 | 50 | AMOS, XMRIG, Vidar | [CSV](2026/10/2026-10-29-drop-6.csv) | [summary](2026/10/2026-10-29-drop-6.png) · [list](2026/10/2026-10-29-drop-6-list.png) |
 | 2026-10-30 | #7 | 50 | AMOS, Vidar, ClearFake | [CSV](2026/10/2026-10-30-drop-7.csv) | [summary](2026/10/2026-10-30-drop-7.png) · [list](2026/10/2026-10-30-drop-7-list.png) |
 | 2026-10-31 | #8 | 50 | Unknown malware, AMOS, VShell | [CSV](2026/10/2026-10-31-drop-8.csv) | [summary](2026/10/2026-10-31-drop-8.png) · [list](2026/10/2026-10-31-drop-8-list.png) |
+| 2026-11-01 | #9 | 50 | Unknown malware, AMOS, VShell | [CSV](2026/11/2026-11-01-drop-9.csv) | [summary](2026/11/2026-11-01-drop-9.png) · [list](2026/11/2026-11-01-drop-9-list.png) |

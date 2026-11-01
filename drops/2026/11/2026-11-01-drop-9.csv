@@ -1,0 +1,51 @@
+indicator,indicator_defanged,type,family,confidence,first_seen,tags,first_published
+102.134.35.205,102[.]134[.]35[.]205,ip,Cobalt Strike,77,2026-10-31T21:26Z,cobalt-strike;ip;T1071.001;T1105;T1059,2026-10-31T21:12:41Z
+156.247.40.170,156[.]247[.]40[.]170,ip,ValleyRAT,77,2026-10-31T17:20Z,valleyrat;ip;T1071;T1105,2026-10-31T17:04:13Z
+196.251.122.91,196[.]251[.]122[.]91,ip,Remcos,77,2026-10-31T17:20Z,remcos;ip;T1071;T1105,2026-10-31T17:04:13Z
+202.61.160.233,202[.]61[.]160[.]233,ip,ValleyRAT,77,2026-10-31T17:20Z,valleyrat;ip;T1071;T1105,2026-10-31T17:04:13Z
+154.91.51.175,154[.]91[.]51[.]175,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.52.186,154[.]91[.]52[.]186,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.52.187,154[.]91[.]52[.]187,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.52.189,154[.]91[.]52[.]189,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.52.190,154[.]91[.]52[.]190,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.53.162,154[.]91[.]53[.]162,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.53.163,154[.]91[.]53[.]163,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+154.91.53.164,154[.]91[.]53[.]164,ip,VShell,74,2026-11-01T07:56Z,vshell;ip;T1071;T1105,2026-11-01T07:40:38Z
+1ec9297709a225f912fc7145f43654bc1a6b61e56c9684bf22c6aaf0fad98289,1ec9297709a225f912fc7145f43654bc1a6b61e56c9684bf22c6aaf0fad98289,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+42949634a09db058449c1c51a80ebfbad074ea1a6b6f14a583604a138a9f561b,42949634a09db058449c1c51a80ebfbad074ea1a6b6f14a583604a138a9f561b,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+6a7befb131816e28518049a05ac4b7055b6f5b389a819115d0a36ac3a6f093a5,6a7befb131816e28518049a05ac4b7055b6f5b389a819115d0a36ac3a6f093a5,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+6ee52429a22ee09c723794eaa590cd4f08a4109d5e3bd9bb7e71f94de3e3851a,6ee52429a22ee09c723794eaa590cd4f08a4109d5e3bd9bb7e71f94de3e3851a,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+8aa9c73475a64d9d5ef62124ff91f6de00eac4ccf9258152bd795a808a17eecb,8aa9c73475a64d9d5ef62124ff91f6de00eac4ccf9258152bd795a808a17eecb,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+912c1e7819bf778450390f4cbc48e63c8540a96d62c50c491709c271a6f0e696,912c1e7819bf778450390f4cbc48e63c8540a96d62c50c491709c271a6f0e696,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+95b3a52bad5da0468d6af8a8c56e0ca7e307c2c0151f2531903e27c49458d308,95b3a52bad5da0468d6af8a8c56e0ca7e307c2c0151f2531903e27c49458d308,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+981ff25c886308d5350b4446184f14406be6cc01186bb19ebf0de8cf843e392f,981ff25c886308d5350b4446184f14406be6cc01186bb19ebf0de8cf843e392f,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+a.bok13.org,a[.]bok13[.]org,domain,Vidar,74,2026-11-01T07:56Z,vidar;domain;T1071;T1105,2026-11-01T07:40:38Z
+a679f3d64920ef8737cc35d176dc609298e92a18ea2a6cce8be8317ec89a2a23,a679f3d64920ef8737cc35d176dc609298e92a18ea2a6cce8be8317ec89a2a23,sha256,Unknown Stealer,74,2026-11-01T07:56Z,unknown-stealer;sha256;T1071;T1105,2026-11-01T07:40:38Z
+a80db01f9d80275cf85543c9ed0dbd70963b8e373a6806a99edbdb2b429a2b24,a80db01f9d80275cf85543c9ed0dbd70963b8e373a6806a99edbdb2b429a2b24,sha256,AMOS,74,2026-11-01T07:56Z,amos;sha256;T1071;T1105,2026-11-01T07:40:38Z
+b9385376001e8f6f56c3ea19612092a8bbc9a50ec9d6992c77959c87f129d8ca,b9385376001e8f6f56c3ea19612092a8bbc9a50ec9d6992c77959c87f129d8ca,sha256,Unknown Stealer,74,2026-11-01T07:56Z,unknown-stealer;sha256;T1071;T1105,2026-11-01T07:40:38Z
+ecdeec80905fdb2b9c0bc43419f50bf8e6f2edf42a319e66a23686faaa506026,ecdeec80905fdb2b9c0bc43419f50bf8e6f2edf42a319e66a23686faaa506026,sha256,Unknown malware,74,2026-11-01T07:56Z,unknown-malware;sha256;T1071;T1105,2026-11-01T07:40:38Z
+g9.afterbet88.org,g9[.]afterbet88[.]org,domain,Vidar,74,2026-11-01T07:56Z,vidar;domain;T1071;T1105,2026-11-01T07:40:38Z
+https://a.bok13.org/,hxxps://a[.]bok13[.]org/,url,Vidar,74,2026-11-01T07:56Z,vidar;url;T1071;T1105,2026-11-01T07:40:38Z
+https://g9.afterbet88.org/,hxxps://g9[.]afterbet88[.]org/,url,Vidar,74,2026-11-01T07:56Z,vidar;url;T1071;T1105,2026-11-01T07:40:38Z
+https://op.afterbet88.org/,hxxps://op[.]afterbet88[.]org/,url,Vidar,74,2026-11-01T07:56Z,vidar;url;T1071;T1105,2026-11-01T07:40:38Z
+https://u.bok13.org/,hxxps://u[.]bok13[.]org/,url,Vidar,74,2026-11-01T07:56Z,vidar;url;T1071;T1105,2026-11-01T07:40:38Z
+op.afterbet88.org,op[.]afterbet88[.]org,domain,Vidar,74,2026-11-01T07:56Z,vidar;domain;T1071;T1105,2026-11-01T07:40:38Z
+u.bok13.org,u[.]bok13[.]org,domain,Vidar,74,2026-11-01T07:56Z,vidar;domain;T1071;T1105,2026-11-01T07:40:38Z
+quinzel.com.sg,quinzel[.]com[.]sg,domain,StrelaStealer,74,2026-11-01T02:26Z,strelastealer;domain;T1071;T1105,2026-11-01T02:11:21Z
+333propertiesofthesmokies.com,333propertiesofthesmokies[.]com,domain,ClearFake,69,2026-11-01T07:56Z,clearfake;domain;T1071;T1105,2026-11-01T07:40:38Z
+bh.majobeautyclub.com.br,bh[.]majobeautyclub[.]com[.]br,domain,ClearFake,69,2026-11-01T07:56Z,clearfake;domain;T1071;T1105,2026-11-01T07:40:38Z
+developer.office365api.com,developer[.]office365api[.]com,domain,Cobalt Strike,69,2026-11-01T07:56Z,cobalt-strike;domain;T1071.001;T1105;T1059,2026-11-01T07:40:38Z
+filqexo.com,filqexo[.]com,domain,WARDENStealer,69,2026-11-01T07:56Z,wardenstealer;domain;T1071;T1105,2026-11-01T07:40:38Z
+https://alfathermals.com/,hxxps://alfathermals[.]com/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://allayyinah.sch.id/,hxxps://allayyinah[.]sch[.]id/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://allinsidernews.com/,hxxps://allinsidernews[.]com/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://alphacornerstakehq.com/,hxxps://alphacornerstakehq[.]com/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://alsananmarketing.com/,hxxps://alsananmarketing[.]com/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://amsgutters.com/,hxxps://amsgutters[.]com/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://analisislibre.org/,hxxps://analisislibre[.]org/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+https://andalusimusic.com/,hxxps://andalusimusic[.]com/,url,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;url;T1071;T1105,2026-11-01T07:40:38Z
+joiningtrade.com,joiningtrade[.]com,domain,ClearFake,69,2026-11-01T07:56Z,clearfake;domain;T1071;T1105,2026-11-01T07:40:38Z
+nerdsofcomedy.com,nerdsofcomedy[.]com,domain,ClearFake,69,2026-11-01T07:56Z,clearfake;domain;T1071;T1105,2026-11-01T07:40:38Z
+nova88max.online,nova88max[.]online,domain,Unknown malware,69,2026-11-01T07:56Z,unknown-malware;domain;T1071;T1105,2026-11-01T07:40:38Z
+74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:14Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
+38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:14Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
