@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-02 07:26 UTC   Count: 952   Expiry: 30 days               #
+#  Updated: 2026-11-02 10:38 UTC   Count: 964   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -18,6 +18,7 @@
 65.21.182.74/gate
 www.runeliteplus.net/downloads/RuneLite.jar
 www.runeliteplus.net/downloads/RuneLitePlus.exe
+x.bok13.org/d
 z59ux9.he2o9t.com:30003/jeYeB3
 
 
@@ -39,13 +40,24 @@ cryptobettingbrazil.com
 demo.dakwin-tech.com
 designjaya.com
 dev.armx.com.au
+dg058uew.epexecutivecoaching.com
 dxnoft.homes
 eredmenyek.vise.hu
+foodiebunked.com
+henhouseandco.com
+hetlogopedischcentrum.be
 hi.afterbet88.org
+huy-bridge.be
+internet-freedom-in-south-korea.lol
+jutabhjba45.shop
 lb.birchcore.cc
+my-baby-days.testua.xyz
 s.bok13.org
+spamhaus.help
 wvw.akuatoto.net
+xoq1wp6c.bossbeynova.click
 yau.aksara87.org
+yg26btqm.bodes.store
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

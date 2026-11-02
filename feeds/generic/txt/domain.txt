@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-02 07:26 UTC   Count: 550   Expiry: 30 days               #
+#  Updated: 2026-11-02 10:38 UTC   Count: 561   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -29,13 +29,24 @@ cryptobettingbrazil.com
 demo.dakwin-tech.com
 designjaya.com
 dev.armx.com.au
+dg058uew.epexecutivecoaching.com
 dxnoft.homes
 eredmenyek.vise.hu
+foodiebunked.com
+henhouseandco.com
+hetlogopedischcentrum.be
 hi.afterbet88.org
+huy-bridge.be
+internet-freedom-in-south-korea.lol
+jutabhjba45.shop
 lb.birchcore.cc
+my-baby-days.testua.xyz
 s.bok13.org
+spamhaus.help
 wvw.akuatoto.net
+xoq1wp6c.bossbeynova.click
 yau.aksara87.org
+yg26btqm.bodes.store
 
 
 # Auto-Fetch-ThreatIntel: C2IntelFeeds + ThreatFox

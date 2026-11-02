@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-02 07:26 UTC   Count: 402   Expiry: 30 days               #
+#  Updated: 2026-11-02 10:38 UTC   Count: 403   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -18,6 +18,7 @@
 65.21.182.74/gate
 www.runeliteplus.net/downloads/RuneLite.jar
 www.runeliteplus.net/downloads/RuneLitePlus.exe
+x.bok13.org/d
 z59ux9.he2o9t.com:30003/jeYeB3
 
 
