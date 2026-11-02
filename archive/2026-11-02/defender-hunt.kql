@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-02 17:15 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-02 21:11 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "2atl6z0g.bossbeylord.click", "domain", "ClearFake", datetime(2026-11-02T17:15:07Z),
-    "45b54h98.bossbeyonline.click", "domain", "ClearFake", datetime(2026-11-02T17:15:07Z),
+    "147.78.243.196", "ip", "AsyncRAT", datetime(2026-11-02T21:10:57Z),
+    "52.51.21.68", "ip", "Sliver", datetime(2026-11-02T21:10:57Z),
+    "61.220.133.191", "ip", "Sliver", datetime(2026-11-02T21:10:57Z),
+    "9tsv6sqb.bossbeyhub.click", "domain", "ClearFake", datetime(2026-11-02T21:10:57Z),
+    "bossbeylux.click", "domain", "ClearFake", datetime(2026-11-02T21:10:57Z),
+    "coihstats.com", "domain", "IClickFix", datetime(2026-11-02T21:10:57Z),
+    "fox.chloemullaney.com", "domain", "IClickFix", datetime(2026-11-02T21:10:57Z),
+    "hchjcc.bumbleshrimp.com", "domain", "AsyncRAT", datetime(2026-11-02T21:10:57Z),
+    "lamp.chloemullaney.com", "domain", "IClickFix", datetime(2026-11-02T21:10:57Z),
+    "milk.chloemullaney.com", "domain", "IClickFix", datetime(2026-11-02T21:10:57Z),
+    "n.akuatoto.net", "domain", "Vidar", datetime(2026-11-02T21:10:57Z),
+    "n.bola7.net", "domain", "Vidar", datetime(2026-11-02T21:10:57Z),
+    "raquelasensi.com", "domain", "StrelaStealer", datetime(2026-11-02T21:10:57Z),
+    "raquellecorazza.com", "domain", "StrelaStealer", datetime(2026-11-02T21:10:57Z),
+    "rock.chloemullaney.com", "domain", "IClickFix", datetime(2026-11-02T21:10:57Z),
     "64.227.0.146", "ip", "XMRIG", datetime(2026-11-02T17:15:07Z),
     "8.148.212.170", "ip", "Sliver", datetime(2026-11-02T17:15:07Z),
-    "atl-ut.cannabisrootshub.com", "domain", "FAKEUPDATES", datetime(2026-11-02T17:15:07Z),
-    "bossbeylord.click", "domain", "ClearFake", datetime(2026-11-02T17:15:07Z),
-    "customdnaconstructs.com", "domain", "StrelaStealer", datetime(2026-11-02T17:15:07Z),
-    "djbandcamp.com", "domain", "StrelaStealer", datetime(2026-11-02T17:15:07Z),
-    "earthelectric.net", "domain", "StrelaStealer", datetime(2026-11-02T17:15:07Z),
-    "freiaag.lol", "domain", "KongTuke", datetime(2026-11-02T17:15:07Z),
-    "gneisskeep.info", "domain", "SmartApeSG", datetime(2026-11-02T17:15:07Z),
-    "nourescu.ro", "domain", "StrelaStealer", datetime(2026-11-02T17:15:07Z),
-    "o.bola7.net", "domain", "Vidar", datetime(2026-11-02T17:15:07Z),
-    "tifa984a.antava.store", "domain", "ClearFake", datetime(2026-11-02T17:15:07Z),
-    "101.47.12.74", "ip", "Unknown malware", datetime(2026-11-02T14:05:41Z),
-    "101.47.12.86", "ip", "Unknown malware", datetime(2026-11-02T14:05:41Z),
-    "101.47.13.115", "ip", "Unknown malware", datetime(2026-11-02T14:05:41Z),
-    "101.47.13.87", "ip", "Unknown malware", datetime(2026-11-02T14:05:41Z),
     "137.220.136.165", "ip", "ValleyRAT", datetime(2026-11-02T10:43:25Z),
     "202.61.140.195", "ip", "ValleyRAT", datetime(2026-11-02T10:43:25Z),
     "217.60.102.209", "ip", "Remcos", datetime(2026-11-02T10:43:25Z),
     "45.153.34.71", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
-    "141.98.10.112", "ip", "Aisuru", datetime(2026-11-01T18:20:57Z),
     "141.98.10.213", "ip", "Aisuru", datetime(2026-11-01T18:20:57Z),
+    "101.42.49.202", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
+    "177.5.76.21", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-02 17:15 UTC   Count: 587   Expiry: 30 days               #
+#  Updated: 2026-11-02 21:11 UTC   Count: 600   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -21,16 +21,19 @@
 79kcr3vf.verticalrewards.com
 99gzswfk.bossbeylink.click
 9hh8nsbn.bittu.store
+9tsv6sqb.bossbeyhub.click
 ai.akuatoto.net
 atl-ut.cannabisrootshub.com
 birchcore.cc
 boekenpapier.nl
 bossbeylink.click
 bossbeylord.click
+bossbeylux.click
 byjalexander.com
 c4938afg.urgentblue.com
 ci.fidexconseil.net
 cmstq.com
+coihstats.com
 collectif-mobilites-hdf.fr
 creator.cutehair.com
 cryptobettingbrazil.com
@@ -46,8 +49,10 @@ dxnoft.homes
 earthelectric.net
 eredmenyek.vise.hu
 foodiebunked.com
+fox.chloemullaney.com
 freiaag.lol
 gneisskeep.info
+hchjcc.bumbleshrimp.com
 henhouseandco.com
 hetlogopedischcentrum.be
 hi.afterbet88.org
@@ -55,14 +60,22 @@ huy-bridge.be
 internet-freedom-in-south-korea.lol
 jutabhjba45.shop
 l.bola7.net
+lamp.chloemullaney.com
 lb.birchcore.cc
+livingspaze.com
 love.district7pho.com
+milk.chloemullaney.com
 monk.chloemullaney.com
 my-baby-days.testua.xyz
+n.akuatoto.net
+n.bola7.net
 nourescu.ro
 nvbaeuyzskimpgqxhjdt.is-a-rockstar.com
 o.bola7.net
 onebox63.vip
+raquelasensi.com
+raquellecorazza.com
+rock.chloemullaney.com
 s.bok13.org
 spamhaus.help
 thegrowthifyagency.com

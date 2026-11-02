@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-02 17:15 UTC   Count: 994   Expiry: 30 days               #
+#  Updated: 2026-11-02 21:11 UTC   Count: 1010   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,9 @@
 # 2026-11-02
 
 2.27.154.146/bins/kla.sh
+45.207.196.67:8443/api/v1/collect/screenshot
+45.207.196.67:8443/api/v1/heartbeat
+45.207.196.67:8443/api/v1/register
 65.21.182.74/gate
 gneisskeep.info/trace/middleware-pipeline
 gneisskeep.info/trace/session-script.js
@@ -36,16 +39,19 @@ z59ux9.he2o9t.com:30003/jeYeB3
 79kcr3vf.verticalrewards.com
 99gzswfk.bossbeylink.click
 9hh8nsbn.bittu.store
+9tsv6sqb.bossbeyhub.click
 ai.akuatoto.net
 atl-ut.cannabisrootshub.com
 birchcore.cc
 boekenpapier.nl
 bossbeylink.click
 bossbeylord.click
+bossbeylux.click
 byjalexander.com
 c4938afg.urgentblue.com
 ci.fidexconseil.net
 cmstq.com
+coihstats.com
 collectif-mobilites-hdf.fr
 creator.cutehair.com
 cryptobettingbrazil.com
@@ -61,8 +67,10 @@ dxnoft.homes
 earthelectric.net
 eredmenyek.vise.hu
 foodiebunked.com
+fox.chloemullaney.com
 freiaag.lol
 gneisskeep.info
+hchjcc.bumbleshrimp.com
 henhouseandco.com
 hetlogopedischcentrum.be
 hi.afterbet88.org
@@ -70,14 +78,22 @@ huy-bridge.be
 internet-freedom-in-south-korea.lol
 jutabhjba45.shop
 l.bola7.net
+lamp.chloemullaney.com
 lb.birchcore.cc
+livingspaze.com
 love.district7pho.com
+milk.chloemullaney.com
 monk.chloemullaney.com
 my-baby-days.testua.xyz
+n.akuatoto.net
+n.bola7.net
 nourescu.ro
 nvbaeuyzskimpgqxhjdt.is-a-rockstar.com
 o.bola7.net
 onebox63.vip
+raquelasensi.com
+raquellecorazza.com
+rock.chloemullaney.com
 s.bok13.org
 spamhaus.help
 thegrowthifyagency.com

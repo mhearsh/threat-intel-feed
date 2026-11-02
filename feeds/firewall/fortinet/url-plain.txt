@@ -1,4 +1,7 @@
 2.27.154.146/bins/kla.sh
+45.207.196.67:8443/api/v1/collect/screenshot
+45.207.196.67:8443/api/v1/heartbeat
+45.207.196.67:8443/api/v1/register
 65.21.182.74/gate
 gneisskeep.info/trace/middleware-pipeline
 gneisskeep.info/trace/session-script.js
