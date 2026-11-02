@@ -4,11 +4,11 @@
 45.153.34.71:VShell added 2026-11-02
 141.98.10.112:Aisuru added 2026-11-01
 141.98.10.213:Aisuru added 2026-11-01
-196.251.102.55:Unknown RAT added 2026-11-01
-31.56.19.73:Potassium added 2026-11-01
-31.56.209.35:Unknown RAT added 2026-11-01
-139.196.74.76:DCRat added 2026-11-02
-151.239.25.102:Cobalt Strike added 2026-11-02
-194.29.187.168:Unknown malware added 2026-11-02
+101.47.12.74:Unknown malware added 2026-11-02
+101.47.12.86:Unknown malware added 2026-11-02
+101.47.13.115:Unknown malware added 2026-11-02
+101.47.13.87:Unknown malware added 2026-11-02
+101.47.14.42:Unknown malware added 2026-11-02
+101.47.15.110:Unknown malware added 2026-11-02
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-02 10:43 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-02 14:05 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,49 +15,52 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-02
 
-003e50b9f066ebe4b0bf23eb096b03014a122245ef379595827789b400385666
-03a58ad6e90c23c5eaf9870ce301bbc137b375ddccc02673a49c6e34192c6bb8
-054106ac1fc9228f450e08c300bde97a2a4131c3730ce6bc346c41a22a0a5c57
-06b6ecb873babde32499dd323e88a33b7a0cb7a5afb7cb92819dcf2cd56dac54
-089688db8500d0776501de520205209535bf0e5104d0a728f484dde75c1ed9c2
-09adc23b56b36f98f2a97f34dad6276d9ebf2b1ce4dbf412db6e76b8fe62f549
-0f9b7540fc0161c7b96b03dce7d0b2b17c1af2d0e608dcca8dfc070ea2f97869
-10faf71391417ef627b6bb4b47f00387f720434a8bd1b2e302312b6d093f1803
-1132c9caa79ea0d1bfcf9241ed9e8d6945731b2d87766ff5fd67068a73934afc
+03113f6fea30c651dc63b60fc9897857c14faa8938eede2821b39f8faca086cf
+0b7e7b1072db9c1ad627f36e4b9972c4fd09c098f9bdded0b002d4485cf87314
+101[.]47[.]12[.]74
+101[.]47[.]12[.]86
+101[.]47[.]13[.]115
+101[.]47[.]13[.]87
+101[.]47[.]14[.]42
+101[.]47[.]15[.]110
 137[.]220[.]136[.]165
-139[.]196[.]74[.]76
-151[.]239[.]25[.]102
-194[.]29[.]187[.]168
+13e1955aae0f1a310a2ef4edcdc29482092295516566e25215968f8d344e0579
+1536303b98382e05cbf1d4926963377070194220188eb18e6a3f3331572287cd
+15dd27040840bcd09f121d19ae766bb7a8af558f1130baab49e8eb6b66558db0
 202[.]61[.]140[.]195
+202d5f582a2e389233cc47983b3577d0b1cc288072fbc181d8e8d7f3a937b699
+216253daf5cd5395eff752d116f72395d92d4768a60a8590f00ed4776259536a
 217[.]60[.]102[.]209
-22237d58b51aa43257ffe2525322e121ff849da83bdb2e419aa08b508e1eeeb8
-287097701c985d66a8d5e56286fced4581783b7efa0980e721cf07868d33e125
-2d4e5a6d6ecfd1bf94cd5e3cb7dc1b2592b5b8af0d6470e21f7a3a0472c4a75d
+282eb81739671b90236311870fcccf7f8a8d1082c5073417c9271d7e42761f59
+2d8452cb310b364596ae44fb43cdeafbccfcdaa0488bcd6aefd586bef8ed1818
+310c4df9d9734d2ac2110c22dbf075f2a5a31c8edc604d4d0813cb3aaf06ccce
+3c731fc86cb40fb16339b387d15d06a6f4b9d9ae8bbfff3d0d4085b965fb4263
+41eefee84c70249fb1c7638884606ab156c8f1218302ab341820df138354fba5
 45[.]153[.]34[.]71
-79kcr3vf[.]verticalrewards[.]com
-9hh8nsbn[.]bittu[.]store
+99gzswfk[.]bossbeylink[.]click
+boekenpapier[.]nl
+bossbeylink[.]click
+byjalexander[.]com
+daydu-monheim[.]com
 dg058uew[.]epexecutivecoaching[.]com
-foodiebunked[.]com
-henhouseandco[.]com
-hetlogopedischcentrum[.]be
-huy-bridge[.]be
+dog[.]decarbonisesa[.]com
+hxxp://138[.]226[.]237[.]113
+hxxp://162[.]35[.]243[.]151
+hxxp://2[.]27[.]154[.]146/bins/kla[.]sh
+hxxp://5[.]149[.]250[.]44
 hxxp://65[.]21[.]182[.]74/
-hxxp://65[.]21[.]182[.]74/gate
-hxxp://z59ux9[.]he2o9t[.]com:30003/jeYeB3/
-hxxps://ai[.]akuatoto[.]net/
-hxxps://hi[.]afterbet88[.]org/
+hxxps://l[.]bola7[.]net/
 hxxps://my-baby-days[.]testua[.]xyz/
-hxxps://s[.]bok13[.]org/
-hxxps://wvw[.]akuatoto[.]net/
-hxxps://www[.]runeliteplus[.]net/downloads/RuneLitePlus[.]exe
-hxxps://www[.]runeliteplus[.]net/downloads/RuneLite[.]jar
+hxxps://nurf[.]io/vi-vn/
+hxxps://onebox63[.]vip/
+hxxps://thegrowthifyagency[.]com/
+hxxps://v[.]akuatoto[.]net/
 hxxps://x[.]bok13[.]org/d/
-hxxps://yau[.]aksara87[.]org/
-internet-freedom-in-south-korea[.]lol
-jutabhjba45[.]shop
-spamhaus[.]help
-xoq1wp6c[.]bossbeynova[.]click
-yg26btqm[.]bodes[.]store
+l[.]bola7[.]net
+love[.]district7pho[.]com
+monk[.]chloemullaney[.]com
+nvbaeuyzskimpgqxhjdt[.]is-a-rockstar[.]com
+v[.]akuatoto[.]net
 
 
 # Auto-Fetch-ThreatIntel
@@ -66,9 +69,6 @@ yg26btqm[.]bodes[.]store
 
 141[.]98[.]10[.]112
 141[.]98[.]10[.]213
-196[.]251[.]102[.]55
-31[.]56[.]19[.]73
-31[.]56[.]209[.]35
 
 
 # Auto-Fetch-ThreatIntel

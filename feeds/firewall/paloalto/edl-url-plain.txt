@@ -1,4 +1,6 @@
+2.27.154.146/bins/kla.sh
 65.21.182.74/gate
+nurf.io/vi-vn
 www.runeliteplus.net/downloads/RuneLite.jar
 www.runeliteplus.net/downloads/RuneLitePlus.exe
 x.bok13.org/d
