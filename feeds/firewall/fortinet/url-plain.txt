@@ -1,3 +1,6 @@
+www.runeliteplus.net/downloads/RuneLite.jar
+www.runeliteplus.net/downloads/RuneLitePlus.exe
+z59ux9.he2o9t.com:30003/jeYeB3
 144.31.53.142:8080/ws/publisher
 144.31.53.142:8093/chunks/p_cd2f8d7fd6dbd230/v3/manifest.json
 144.31.53.142:8093/files/bld_C6h67XDjY-FEeNPOAEDhElF9.exe

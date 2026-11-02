@@ -1,0 +1,80 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-02 05:22 UTC   Count: 50   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+03f9d45bd2b591ba2d7b357e5ede5957b1ffc01d69da9b60bb31a2374c855724
+077c77c85d14a9b58db70ed0db16819afc28ef5b52ece9da3ccc8c8a0275087d
+0ddba3b9014b2cb4b2d271eefb0965ab703b132d08fe6570c054bfbaa04ac9f5
+106[.]13[.]42[.]133
+118[.]31[.]45[.]229
+119e1c2e64f0d314599d3ccc1ace47b311007afd11c009a80887c83523b96101
+124[.]222[.]254[.]87
+138e8f2c3c26dae14e34bd88d7197cb880e5696ded5c91ac88b908e5de4a37c0
+172[.]82[.]74[.]44
+1745740d5ae7c332802ad8d97a5d2246fcf389517d45435f4e69f44faeeb4e2d
+185[.]228[.]138[.]115
+197596c12388be1a4e07197e5b98535472a672ceab2db16c8c3737a025ffbb0d
+19f15719ab1871e2a9361255fdfe6c039a2601e99a11daa9d98212e08f1db1d9
+1lleaftq[.]warmwaffles[.]com
+217012f8c8ac71dc3712946eebdb66906c8ef8d795b8b03763abdc31ad8ef8bd
+2443549392616a32d138ad9c1fe3ae75f30c7c8d251afb00125e53ad3ec6b653
+2760a83300ecd395ddee95d725e4b76aaeb450144ce281110c6647dd05d01d31
+2822ef91dbb3647f7268d8d370e3f5eba7a7bf70cfe594c12bdd96f37f9291a1
+45[.]153[.]34[.]71
+ai[.]akuatoto[.]net
+c4938afg[.]urgentblue[.]com
+ci[.]fidexconseil[.]net
+cmstq[.]com
+collectif-mobilites-hdf[.]fr
+creator[.]cutehair[.]com
+cryptobettingbrazil[.]com
+demo[.]dakwin-tech[.]com
+designjaya[.]com
+dev[.]armx[.]com[.]au
+dxnoft[.]homes
+hxxp://z59ux9[.]he2o9t[.]com:30003/jeYeB3/
+hxxps://ai[.]akuatoto[.]net/
+hxxps://aksara44d[.]org/
+hxxps://aksara87[.]org/
+hxxps://bnn69[.]org/
+hxxps://hi[.]afterbet88[.]org/
+hxxps://s[.]bok13[.]org/
+hxxps://www[.]runeliteplus[.]net/downloads/RuneLitePlus[.]exe
+hxxps://www[.]runeliteplus[.]net/downloads/RuneLite[.]jar
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+141[.]98[.]10[.]112
+141[.]98[.]10[.]213
+196[.]251[.]102[.]55
+31[.]56[.]19[.]73
+31[.]56[.]209[.]35
+hxxp://158[.]94[.]209[.]8/data
+hxxp://78[.]159[.]131[.]254/281
+hxxp://78[.]159[.]131[.]254/yrjrs/ver[.]pa
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-Aisuru score 83 (high) added 2026-11-01,141.98.10.112,2,2026-11-01
-Aisuru score 83 (high) added 2026-11-01,141.98.10.213,2,2026-11-01
+VShell score 83 (high) added 2026-11-02,45.153.34.71,2,2026-11-02
+Aisuru score 77 (high) added 2026-11-01,141.98.10.112,2,2026-11-01
+Aisuru score 77 (high) added 2026-11-01,141.98.10.213,2,2026-11-01
 Unknown RAT score 77 (high) added 2026-11-01,196.251.102.55,2,2026-11-01
 Potassium score 77 (high) added 2026-11-01,31.56.19.73,2,2026-11-01
 Unknown RAT score 77 (high) added 2026-11-01,31.56.209.35,2,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.107.191,1,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.110.228,1,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.118.166,1,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.85.176,1,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.86.31,1,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.93.169,1,2026-11-01
-Unknown malware score 74 (medium) added 2026-11-01,144.172.94.202,1,2026-11-01
+Cobaltstrike score 77 (high) added 2026-11-01,101.42.49.202,2,2026-11-01
+VShell score 74 (medium) added 2026-11-02,106.13.42.133,1,2026-11-02
+VShell score 74 (medium) added 2026-11-02,118.31.45.229,1,2026-11-02
+VShell score 74 (medium) added 2026-11-02,124.222.254.87,1,2026-11-02
+DCRat score 74 (medium) added 2026-11-02,172.82.74.44,1,2026-11-02
+VShell score 74 (medium) added 2026-11-02,185.228.138.115,1,2026-11-02
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

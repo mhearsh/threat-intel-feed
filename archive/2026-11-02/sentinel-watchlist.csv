@@ -1,0 +1,51 @@
+Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+45.153.34.71,ip,VShell,83,high,"T1071, T1105",2026-11-02T05:22:13Z
+141.98.10.112,ip,Aisuru,77,high,"T1071, T1105",2026-11-01T18:20:57Z
+141.98.10.213,ip,Aisuru,77,high,"T1071, T1105",2026-11-01T18:20:57Z
+196.251.102.55,ip,Unknown RAT,77,high,"T1071, T1105",2026-11-01T15:19:50Z
+31.56.19.73,ip,Potassium,77,high,"T1071, T1105",2026-11-01T15:19:50Z
+31.56.209.35,ip,Unknown RAT,77,high,"T1071, T1105",2026-11-01T15:19:50Z
+101.42.49.202,ip,Cobaltstrike,77,high,"T1071, T1105",2026-11-01T07:40:38Z
+03f9d45bd2b591ba2d7b357e5ede5957b1ffc01d69da9b60bb31a2374c855724,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+077c77c85d14a9b58db70ed0db16819afc28ef5b52ece9da3ccc8c8a0275087d,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+0ddba3b9014b2cb4b2d271eefb0965ab703b132d08fe6570c054bfbaa04ac9f5,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+106.13.42.133,ip,VShell,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+118.31.45.229,ip,VShell,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+119e1c2e64f0d314599d3ccc1ace47b311007afd11c009a80887c83523b96101,sha256,Mirai,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+124.222.254.87,ip,VShell,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+138e8f2c3c26dae14e34bd88d7197cb880e5696ded5c91ac88b908e5de4a37c0,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+172.82.74.44,ip,DCRat,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+1745740d5ae7c332802ad8d97a5d2246fcf389517d45435f4e69f44faeeb4e2d,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+185.228.138.115,ip,VShell,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+197596c12388be1a4e07197e5b98535472a672ceab2db16c8c3737a025ffbb0d,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+19f15719ab1871e2a9361255fdfe6c039a2601e99a11daa9d98212e08f1db1d9,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+1lleaftq.warmwaffles.com,domain,ClearFake,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+217012f8c8ac71dc3712946eebdb66906c8ef8d795b8b03763abdc31ad8ef8bd,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+2443549392616a32d138ad9c1fe3ae75f30c7c8d251afb00125e53ad3ec6b653,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+2760a83300ecd395ddee95d725e4b76aaeb450144ce281110c6647dd05d01d31,sha256,AMOS,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+2822ef91dbb3647f7268d8d370e3f5eba7a7bf70cfe594c12bdd96f37f9291a1,sha256,Mirai,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+ai.akuatoto.net,domain,Vidar,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+c4938afg.urgentblue.com,domain,ClearFake,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+ci.fidexconseil.net,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+cmstq.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+collectif-mobilites-hdf.fr,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+creator.cutehair.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+cryptobettingbrazil.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+demo.dakwin-tech.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+designjaya.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+dev.armx.com.au,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+dxnoft.homes,domain,WARDENStealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+http://z59ux9.he2o9t.com:30003/jeYeB3/,url,Triada,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+https://ai.akuatoto.net/,url,Vidar,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+https://hi.afterbet88.org/,url,Vidar,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+https://s.bok13.org/,url,Vidar,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+https://www.runeliteplus.net/downloads/RuneLite.jar,url,Unknown Stealer,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+https://www.runeliteplus.net/downloads/RuneLitePlus.exe,url,Unknown Loader,74,medium,"T1071, T1105",2026-11-02T05:22:13Z
+http://158.94.209.8/data,url,Unknown Stealer,69,medium,"T1071, T1105",2026-11-01T20:54:57Z
+http://78.159.131.254/281,url,Satacom,69,medium,"T1071, T1105",2026-11-01T20:54:57Z
+http://78.159.131.254/yrjrs/ver.pa,url,Satacom,69,medium,"T1071, T1105",2026-11-01T20:54:57Z
+https://aksara44d.org/,url,Vidar,69,medium,"T1071, T1105",2026-11-01T20:54:57Z
+https://aksara87.org/,url,Vidar,69,medium,"T1071, T1105",2026-11-01T20:54:57Z
+https://bnn69.org/,url,Vidar,69,medium,"T1071, T1105",2026-11-01T20:54:57Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
