@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-02 05:22 UTC   Count: 543   Expiry: 30 days               #
+#  Updated: 2026-11-02 07:26 UTC   Count: 550   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,7 +16,10 @@
 # 2026-11-02
 
 1lleaftq.warmwaffles.com
+79kcr3vf.verticalrewards.com
+9hh8nsbn.bittu.store
 ai.akuatoto.net
+birchcore.cc
 c4938afg.urgentblue.com
 ci.fidexconseil.net
 cmstq.com
@@ -27,8 +30,12 @@ demo.dakwin-tech.com
 designjaya.com
 dev.armx.com.au
 dxnoft.homes
+eredmenyek.vise.hu
 hi.afterbet88.org
+lb.birchcore.cc
 s.bok13.org
+wvw.akuatoto.net
+yau.aksara87.org
 
 
 # Auto-Fetch-ThreatIntel: C2IntelFeeds + ThreatFox

@@ -1,28 +1,28 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-02 05:22 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-02 07:26 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "45.76.99.126", "ip", "VShell", datetime(2026-11-02T07:26:06Z),
+    "65.21.182.74", "ip", "Vidar", datetime(2026-11-02T07:26:06Z),
+    "79kcr3vf.verticalrewards.com", "domain", "ClearFake", datetime(2026-11-02T07:26:06Z),
+    "9hh8nsbn.bittu.store", "domain", "ClearFake", datetime(2026-11-02T07:26:06Z),
+    "birchcore.cc", "domain", "ACR Stealer", datetime(2026-11-02T07:26:06Z),
+    "eredmenyek.vise.hu", "domain", "StrelaStealer", datetime(2026-11-02T07:26:06Z),
+    "lb.birchcore.cc", "domain", "ACR Stealer", datetime(2026-11-02T07:26:06Z),
+    "wvw.akuatoto.net", "domain", "Vidar", datetime(2026-11-02T07:26:06Z),
     "45.153.34.71", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
     "106.13.42.133", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
     "118.31.45.229", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
     "124.222.254.87", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
-    "172.82.74.44", "ip", "DCRat", datetime(2026-11-02T05:22:13Z),
-    "185.228.138.115", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
     "1lleaftq.warmwaffles.com", "domain", "ClearFake", datetime(2026-11-02T05:22:13Z),
     "ai.akuatoto.net", "domain", "Vidar", datetime(2026-11-02T05:22:13Z),
     "c4938afg.urgentblue.com", "domain", "ClearFake", datetime(2026-11-02T05:22:13Z),
     "ci.fidexconseil.net", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
     "cmstq.com", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "collectif-mobilites-hdf.fr", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "creator.cutehair.com", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "cryptobettingbrazil.com", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "demo.dakwin-tech.com", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "designjaya.com", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "dev.armx.com.au", "domain", "StrelaStealer", datetime(2026-11-02T05:22:13Z),
-    "dxnoft.homes", "domain", "WARDENStealer", datetime(2026-11-02T05:22:13Z),
+    "aksara87.org", "domain", "Vidar", datetime(2026-11-01T20:55:01Z),
     "141.98.10.112", "ip", "Aisuru", datetime(2026-11-01T18:20:57Z),
     "141.98.10.213", "ip", "Aisuru", datetime(2026-11-01T18:20:57Z),
     "196.251.102.55", "ip", "Unknown RAT", datetime(2026-11-01T15:19:50Z),

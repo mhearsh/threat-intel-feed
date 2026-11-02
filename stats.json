@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02 05:22 UTC",
+ "updated": "2026-11-02 07:26 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -7,13 +7,13 @@
   "high": 7,
   "medium": 41
  },
- "fresh_6h": 36,
+ "fresh_6h": 40,
  "hashes": {
-  "sha256": 6603,
+  "sha256": 6638,
   "sha1": 639,
   "md5": 641
  },
- "hash_count": 7883,
+ "hash_count": 7918,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -21,16 +21,16 @@
   "url": 12
  },
  "families": {
-  "AMOS": 10,
-  "StrelaStealer": 8,
-  "Vidar": 7,
+  "AMOS": 12,
+  "Vidar": 11,
   "VShell": 5,
+  "ClearFake": 4,
+  "StrelaStealer": 3,
   "Aisuru": 2,
   "Unknown RAT": 2,
-  "Mirai": 2,
-  "ClearFake": 2,
+  "ACR Stealer": 2,
   "Unknown Stealer": 2,
-  "Satacom": 2
+  "Arista VCO exploitation CVE-2026-114625": 2
  },
  "sources": {
   "Spamhaus-DROP": 6,

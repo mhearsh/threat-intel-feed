@@ -5,10 +5,10 @@
 31.56.19.73:Potassium added 2026-11-01
 31.56.209.35:Unknown RAT added 2026-11-01
 101.42.49.202:Cobaltstrike added 2026-11-01
+45.76.99.126:VShell added 2026-11-02
+65.21.182.74:Vidar added 2026-11-02
 106.13.42.133:VShell added 2026-11-02
 118.31.45.229:VShell added 2026-11-02
 124.222.254.87:VShell added 2026-11-02
-172.82.74.44:DCRat added 2026-11-02
-185.228.138.115:VShell added 2026-11-02
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
