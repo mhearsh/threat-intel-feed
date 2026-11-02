@@ -1,26 +1,26 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-02 10:38 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-02 10:43 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "137.220.136.165", "ip", "ValleyRAT", datetime(2026-11-02T10:38:26Z),
-    "202.61.140.195", "ip", "ValleyRAT", datetime(2026-11-02T10:38:26Z),
-    "217.60.102.209", "ip", "Remcos", datetime(2026-11-02T10:38:26Z),
-    "139.196.74.76", "ip", "DCRat", datetime(2026-11-02T10:38:26Z),
-    "151.239.25.102", "ip", "Cobalt Strike", datetime(2026-11-02T10:38:26Z),
-    "194.29.187.168", "ip", "Unknown malware", datetime(2026-11-02T10:38:26Z),
-    "dg058uew.epexecutivecoaching.com", "domain", "ClearFake", datetime(2026-11-02T10:38:26Z),
-    "foodiebunked.com", "domain", "StrelaStealer", datetime(2026-11-02T10:38:26Z),
-    "henhouseandco.com", "domain", "StrelaStealer", datetime(2026-11-02T10:38:26Z),
-    "hetlogopedischcentrum.be", "domain", "StrelaStealer", datetime(2026-11-02T10:38:26Z),
-    "huy-bridge.be", "domain", "StrelaStealer", datetime(2026-11-02T10:38:26Z),
-    "internet-freedom-in-south-korea.lol", "domain", "Unknown malware", datetime(2026-11-02T10:38:26Z),
-    "jutabhjba45.shop", "domain", "TonRAT", datetime(2026-11-02T10:38:26Z),
-    "spamhaus.help", "domain", "Unknown malware", datetime(2026-11-02T10:38:26Z),
-    "xoq1wp6c.bossbeynova.click", "domain", "ClearFake", datetime(2026-11-02T10:38:26Z),
-    "yg26btqm.bodes.store", "domain", "ClearFake", datetime(2026-11-02T10:38:26Z),
+    "137.220.136.165", "ip", "ValleyRAT", datetime(2026-11-02T10:43:25Z),
+    "202.61.140.195", "ip", "ValleyRAT", datetime(2026-11-02T10:43:25Z),
+    "217.60.102.209", "ip", "Remcos", datetime(2026-11-02T10:43:25Z),
+    "139.196.74.76", "ip", "DCRat", datetime(2026-11-02T10:43:25Z),
+    "151.239.25.102", "ip", "Cobalt Strike", datetime(2026-11-02T10:43:25Z),
+    "194.29.187.168", "ip", "Unknown malware", datetime(2026-11-02T10:43:25Z),
+    "dg058uew.epexecutivecoaching.com", "domain", "ClearFake", datetime(2026-11-02T10:43:25Z),
+    "foodiebunked.com", "domain", "StrelaStealer", datetime(2026-11-02T10:43:25Z),
+    "henhouseandco.com", "domain", "StrelaStealer", datetime(2026-11-02T10:43:25Z),
+    "hetlogopedischcentrum.be", "domain", "StrelaStealer", datetime(2026-11-02T10:43:25Z),
+    "huy-bridge.be", "domain", "StrelaStealer", datetime(2026-11-02T10:43:25Z),
+    "internet-freedom-in-south-korea.lol", "domain", "Unknown malware", datetime(2026-11-02T10:43:25Z),
+    "jutabhjba45.shop", "domain", "TonRAT", datetime(2026-11-02T10:43:25Z),
+    "spamhaus.help", "domain", "Unknown malware", datetime(2026-11-02T10:43:25Z),
+    "xoq1wp6c.bossbeynova.click", "domain", "ClearFake", datetime(2026-11-02T10:43:25Z),
+    "yg26btqm.bodes.store", "domain", "ClearFake", datetime(2026-11-02T10:43:25Z),
     "79kcr3vf.verticalrewards.com", "domain", "ClearFake", datetime(2026-11-02T07:26:06Z),
     "9hh8nsbn.bittu.store", "domain", "ClearFake", datetime(2026-11-02T07:26:06Z),
     "45.153.34.71", "ip", "VShell", datetime(2026-11-02T05:22:13Z),
