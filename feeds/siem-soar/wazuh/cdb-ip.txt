@@ -4,11 +4,11 @@
 45.153.34.71:VShell added 2026-11-02
 141.98.10.112:Aisuru added 2026-11-01
 141.98.10.213:Aisuru added 2026-11-01
+64.227.0.146:XMRIG added 2026-11-02
+8.148.212.170:Sliver added 2026-11-02
 101.47.12.74:Unknown malware added 2026-11-02
 101.47.12.86:Unknown malware added 2026-11-02
 101.47.13.115:Unknown malware added 2026-11-02
 101.47.13.87:Unknown malware added 2026-11-02
-101.47.14.42:Unknown malware added 2026-11-02
-101.47.15.110:Unknown malware added 2026-11-02
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

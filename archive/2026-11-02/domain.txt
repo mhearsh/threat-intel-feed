@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-02 14:05 UTC   Count: 574   Expiry: 30 days               #
+#  Updated: 2026-11-02 17:15 UTC   Count: 587   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,13 +16,17 @@
 # 2026-11-02
 
 1lleaftq.warmwaffles.com
+2atl6z0g.bossbeylord.click
+45b54h98.bossbeyonline.click
 79kcr3vf.verticalrewards.com
 99gzswfk.bossbeylink.click
 9hh8nsbn.bittu.store
 ai.akuatoto.net
+atl-ut.cannabisrootshub.com
 birchcore.cc
 boekenpapier.nl
 bossbeylink.click
+bossbeylord.click
 byjalexander.com
 c4938afg.urgentblue.com
 ci.fidexconseil.net
@@ -30,15 +34,20 @@ cmstq.com
 collectif-mobilites-hdf.fr
 creator.cutehair.com
 cryptobettingbrazil.com
+customdnaconstructs.com
 daydu-monheim.com
 demo.dakwin-tech.com
 designjaya.com
 dev.armx.com.au
 dg058uew.epexecutivecoaching.com
+djbandcamp.com
 dog.decarbonisesa.com
 dxnoft.homes
+earthelectric.net
 eredmenyek.vise.hu
 foodiebunked.com
+freiaag.lol
+gneisskeep.info
 henhouseandco.com
 hetlogopedischcentrum.be
 hi.afterbet88.org
@@ -50,11 +59,15 @@ lb.birchcore.cc
 love.district7pho.com
 monk.chloemullaney.com
 my-baby-days.testua.xyz
+nourescu.ro
 nvbaeuyzskimpgqxhjdt.is-a-rockstar.com
+o.bola7.net
 onebox63.vip
 s.bok13.org
 spamhaus.help
 thegrowthifyagency.com
+tifa984a.antava.store
+ui.akuatoto.net
 v.akuatoto.net
 wvw.akuatoto.net
 xoq1wp6c.bossbeynova.click
