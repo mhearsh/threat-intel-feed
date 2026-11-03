@@ -6,9 +6,43 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-02 21:11 UTC   Count: 1010   Expiry: 30 days              #
+#  Updated: 2026-11-03 00:00 UTC   Count: 1032   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-03
+
+gneisskeep.info/trace/logout-bundle.js
+l1.albino77.org/gq/gate
+pawpawrath.org/policy/signup-ajax.js
+pumicebarrow.info/proxy/acl-parser.js
+redbudliss.org/trace/logout-bundle.js
+travertinekurgans.info/signin/reset-thread.js
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-03
+
+123blueslot.co
+3mm.ma
+3room.co.uk
+88win.store
+a1insulationdfw.com
+albino77.org
+alfabettradycji.pl
+bo787.com
+bossbeymarket.click
+breakcutter.com
+brismanlaw.com
+britmagazine.co.uk
+hm.akuatoto.net
+k.bo787.com
+l1.albino77.org
+m.bola7.net
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

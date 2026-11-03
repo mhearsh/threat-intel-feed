@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-02 21:11 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 39 first seen under 6h ago. File-hash feed: 6834 SHA-256 · 639 SHA-1 · 641 MD5._
+_Last update: 2026-11-03 00:00 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 41 first seen under 6h ago. File-hash feed: 6931 SHA-256 · 706 SHA-1 · 708 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -119,17 +119,17 @@ _Last update: 2026-11-02 21:11 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 | 2 | `202[.]61[.]140[.]195` | ip | ValleyRAT | 77 | high | T1071, T1105 |
 | 3 | `217[.]60[.]102[.]209` | ip | Remcos | 77 | high | T1071, T1105 |
 | 4 | `45[.]153[.]34[.]71` | ip | VShell | 77 | high | T1071, T1105 |
-| 5 | `07312aa1bf217b3dbb9b5da2efc099e1700dec0355b9561d65bbcafa9895` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `10cde92caaa832cc0a5434c2894227bed137c88fa270bdb03176818c7830` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `1417cc92877b9987f7c9c3ad8af429771a27839fdc94c2f374c21cbc2f05` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `147[.]78[.]243[.]196` | ip | AsyncRAT | 74 | medium | T1071, T1105 |
-| 9 | `1f13257990f40c6e05db8d67ae8007fa65074ea0de4a5df267f5663a86d2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `20e107155547d889b465beea05a4c7ba351fedcfa71e8d894c2bf321a3dc` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `21b1d9aa6cdb6fb412648c29d595a695aaece1d41408dd1a30b9df160265` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `262c4fa997e69e65a23191f2bdbda828d4fc6a97b3797e7a7dce34b941ee` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `27e9d9f403655e65bf3afed862644e3e1ccac0fec6dcf29d4ff4c2c15670` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `29092dbb310d46e2cf4a7e8aeabbf4cfd816e222c60965d50e7639286ac1` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `2dcfe616f55dea976f620a2489c6c5ee01cb5f53c4e5ed2d392a755cc8a3` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 5 | `0bfa9736be3ffd146af8b581ac6a7e80380773e76647e5d7d51a509d9472` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `123blueslot[.]co` | domain | IClickFix | 74 | medium | T1071, T1105 |
+| 7 | `17fb034e278c0c0e73b43dcf129ea6e0467ea929143e3fee50280dabbd4e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `18effc9e73373ada31e668e351b59bdce478adbe37c56f5b7b796454923b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `208e4395c93ce8d0ee4489a3b0fe54a982ca3e778a2452af7d968dc4478f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `2a5a459908cc44594d71a94b7591880380b06fd3c3ede9ba0e750049c2c2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `2c4ba9760146a1722b13de6b6b80e39373695549b7233dd057be884fef79` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `2d119485288448f7773eca9f7af04f4ef34659c72f3c72d9231ded8c1325` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `34b8b1140c6f7870f25637006fe18c06cb5db350c6b380af38ca3e4a9920` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `3mm[.]ma` | domain | IClickFix | 74 | medium | T1071, T1105 |
+| 15 | `3room[.]co[.]uk` | domain | IClickFix | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

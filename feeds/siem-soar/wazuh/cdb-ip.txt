@@ -5,10 +5,10 @@
 147.78.243.196:AsyncRAT added 2026-11-02
 52.51.21.68:Sliver added 2026-11-02
 61.220.133.191:Sliver added 2026-11-02
-64.227.0.146:XMRIG added 2026-11-02
-8.148.212.170:Sliver added 2026-11-02
 141.98.10.213:Aisuru added 2026-11-01
 101.42.49.202:Cobaltstrike added 2026-11-01
 177.5.76.21:Cobaltstrike added 2026-11-01
+66.245.217.135:XMRIG added 2026-11-03
+124.198.132.162:PureRAT added 2026-11-02
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
