@@ -34,3 +34,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-10-31 | #8 | 50 | Unknown malware, AMOS, VShell | [CSV](2026/10/2026-10-31-drop-8.csv) | [summary](2026/10/2026-10-31-drop-8.png) · [list](2026/10/2026-10-31-drop-8-list.png) |
 | 2026-11-01 | #9 | 50 | Unknown malware, AMOS, VShell | [CSV](2026/11/2026-11-01-drop-9.csv) | [summary](2026/11/2026-11-01-drop-9.png) · [list](2026/11/2026-11-01-drop-9-list.png) |
 | 2026-11-02 | #10 | 50 | AMOS, Vidar, VShell | [CSV](2026/11/2026-11-02-drop-10.csv) | [summary](2026/11/2026-11-02-drop-10.png) · [list](2026/11/2026-11-02-drop-10-list.png) |
+| 2026-11-03 | #11 | 50 | Vidar, AMOS, ClearFake | [CSV](2026/11/2026-11-03-drop-11.csv) | [summary](2026/11/2026-11-03-drop-11.png) · [list](2026/11/2026-11-03-drop-11-list.png) |
