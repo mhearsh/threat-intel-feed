@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-03 00:00 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-03 08:57 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,66 +15,54 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-03
 
-0bfa9736be3ffd146af8b581ac6a7e80380773e76647e5d7d51a509d94727860
-123blueslot[.]co
-17fb034e278c0c0e73b43dcf129ea6e0467ea929143e3fee50280dabbd4e91dc
-18effc9e73373ada31e668e351b59bdce478adbe37c56f5b7b796454923bc370
-208e4395c93ce8d0ee4489a3b0fe54a982ca3e778a2452af7d968dc4478f04f7
-2a5a459908cc44594d71a94b7591880380b06fd3c3ede9ba0e750049c2c2c2ab
-2c4ba9760146a1722b13de6b6b80e39373695549b7233dd057be884fef79f2e7
-2d119485288448f7773eca9f7af04f4ef34659c72f3c72d9231ded8c13257179
-34b8b1140c6f7870f25637006fe18c06cb5db350c6b380af38ca3e4a9920593d
-3mm[.]ma
-3room[.]co[.]uk
-58e8e04e7164c35a8afe6cfde897c91c49648b89e4ac6f5ad6bf03b63e382ebb
-59045f4af0e641c98a15031eac3fd4ae688da911914c0e86d1c9ba0ada014817
-5aa03615ad6cce502e84e8462474b2bc8965baf933f957c731c90ee21443c331
-5e50c41bd00eb2ec00b1ba50e81091786a9be258e95cc76cb5b7137a91207854
-66[.]245[.]217[.]135
-88win[.]store
-a1insulationdfw[.]com
-albino77[.]org
-alfabettradycji[.]pl
-bo787[.]com
-bossbeymarket[.]click
-breakcutter[.]com
-brismanlaw[.]com
-britmagazine[.]co[.]uk
-hxxps://albino77[.]org/
-hxxps://bo787[.]com/
-hxxps://gneisskeep[.]info/trace/logout-bundle[.]js
-hxxps://hm[.]akuatoto[.]net/
-hxxps://k[.]bo787[.]com/
-hxxps://l1[.]albino77[.]org/
-hxxps://l1[.]albino77[.]org/gq/gate
-hxxps://m[.]bola7[.]net/
-hxxps://pawpawrath[.]org/policy/signup-ajax[.]js
-hxxps://pumicebarrow[.]info/proxy/acl-parser[.]js
-hxxps://redbudliss[.]org/trace/logout-bundle[.]js
-hxxps://travertinekurgans[.]info/signin/reset-thread[.]js
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-02
-
-124[.]198[.]132[.]162
-137[.]220[.]136[.]165
-147[.]78[.]243[.]196
-202[.]61[.]140[.]195
-217[.]60[.]102[.]209
-45[.]153[.]34[.]71
-52[.]51[.]21[.]68
-61[.]220[.]133[.]191
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-01
-
-101[.]42[.]49[.]202
-141[.]98[.]10[.]213
-177[.]5[.]76[.]21
+08a5355940f391f82b95b87e76fabe60bb10ba4ca8627748917becfcd457a404
+0a2ha8e6[.]bossbeymega[.]click
+122ccf948fd2ce4ad9a343a842a734e5e30f0b6c7f3f3c5e5118eac537c159bc
+124[.]221[.]123[.]110
+1314ef5a63baa2301326db2c10d8a90dc3b2968b4c50ec5d10996e32d121957b
+13945839067fd2f2ff3f28484ce6ecfa7744be8077dcf48dce6d0352f577239f
+154[.]37[.]219[.]102
+157[.]180[.]23[.]24
+159[.]69[.]114[.]60
+159[.]69[.]116[.]56
+159[.]69[.]126[.]28
+172[.]104[.]203[.]148
+196[.]251[.]102[.]89
+1d946a5b937bb77fdc18c09028b0705aa0e1d51167d61fa68dcf4d951a9e67bf
+1dffdfbda8c09dd397b1d65ef019202c1dd12c1b172a6f90e1f45918f3a9a4b7
+1f26e063ff396a043c0b94e86019b7911fab3d803e3e1112a486d27f4a46f7d3
+202bac43e059f4b3222c4e73ddeb456c6951889c6a84e698f54ea46e70706c8d
+2471cd9ff436e4171598d9b38b2e41fb1ecaecc7c0c91ae95c7f3aa8c8a924a0
+26c7219a464756cb4f104a5a0449fabdd2888ecd527cc4da8dfc8e0ca0ef9468
+2db4b60672c3fdf63d70c51e793bc1fc
+32191cbf0cc1be57a64f2e18d4f6a3ab257797aa8c728690ef23499a3b2ec935
+3c73acf00a70530b45f0cc30ca9f60e54b608671c3a62efb4292cf2ae2dfa03d
+45[.]61[.]182[.]54
+4jw9mmho[.]bossbeyvip4[.]xyz
+4z51u17u[.]bossbeyprimeclub[.]click
+59[.]110[.]172[.]210
+62[.]60[.]226[.]30
+68[.]183[.]236[.]229
+811c7d8bebf21aa257b881c539414f99
+898cb4ce16fa74f2750b95207306d4e7
+8e183523fc21ce8affec7e618908fa98
+bossbeymega[.]click
+caveat[.]com[.]br
+checkogosdfg33[.]cc
+conxu[.]eu
+daffe2[.]xyz
+hxxps://an[.]aldoku77[.]org/b/
+hxxps://an[.]aldoku77[.]org/g0/
+hxxps://an[.]aldoku77[.]org/g41/
+hxxps://an[.]aldoku77[.]org/h4/
+hxxps://an[.]aldoku77[.]org/hz/
+hxxps://an[.]aldoku77[.]org/mg/
+hxxps://an[.]aldoku77[.]org/n/
+hxxps://an[.]aldoku77[.]org/nl/
+hxxps://an[.]aldoku77[.]org/o0/
+hxxps://an[.]aldoku77[.]org/ou/
+hxxps://an[.]aldoku77[.]org/td/
+hxxps://o[.]bob78[.]org/b/
 
 
 # Auto-Fetch-ThreatIntel

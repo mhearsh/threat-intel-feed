@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-03 00:00 UTC   Count: 616   Expiry: 30 days               #
+#  Updated: 2026-11-03 08:57 UTC   Count: 636   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,18 +15,38 @@
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-03
 
+0a2ha8e6.bossbeymega.click
 123blueslot.co
+2sa10whu.bossbeymaster.click
 3mm.ma
 3room.co.uk
+4jw9mmho.bossbeyvip4.xyz
+4z51u17u.bossbeyprimeclub.click
 88win.store
 a1insulationdfw.com
 albino77.org
 alfabettradycji.pl
+ataoipat.bossbeymax.click
+azvvedo.lol
+b5.aksara87.org
+b6.akasia988.net
+banlathai.com
 bo787.com
 bossbeymarket.click
+bossbeymaster.click
+bossbeymax.click
+bossbeymega.click
 breakcutter.com
 brismanlaw.com
 britmagazine.co.uk
+caveat.com.br
+checkogosdfg33.cc
+conxu.eu
+cx.albino77.org
+cyseeswhy.jakegyoung.com
+d.bob78.org
+daffe2.xyz
+do.akurat80.org
 hm.akuatoto.net
 k.bo787.com
 l1.albino77.org

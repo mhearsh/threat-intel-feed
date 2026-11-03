@@ -1,14 +1,14 @@
-137.220.136.165:ValleyRAT added 2026-11-02
-202.61.140.195:ValleyRAT added 2026-11-02
-217.60.102.209:Remcos added 2026-11-02
-45.153.34.71:VShell added 2026-11-02
-147.78.243.196:AsyncRAT added 2026-11-02
-52.51.21.68:Sliver added 2026-11-02
-61.220.133.191:Sliver added 2026-11-02
-141.98.10.213:Aisuru added 2026-11-01
-101.42.49.202:Cobaltstrike added 2026-11-01
-177.5.76.21:Cobaltstrike added 2026-11-01
-66.245.217.135:XMRIG added 2026-11-03
-124.198.132.162:PureRAT added 2026-11-02
+196.251.102.89:CECbot added 2026-11-03
+62.60.226.30:CECbot added 2026-11-03
+45.61.182.54:DataExfiltrator added 2026-11-03
+59.110.172.210:VShell added 2026-11-03
+68.183.236.229:Cobalt Strike added 2026-11-03
+124.221.123.110:VShell added 2026-11-03
+154.37.219.102:VShell added 2026-11-03
+157.180.23.24:Vidar added 2026-11-03
+159.69.114.60:Vidar added 2026-11-03
+159.69.116.56:Vidar added 2026-11-03
+159.69.126.28:Vidar added 2026-11-03
+172.104.203.148:Vidar added 2026-11-03
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

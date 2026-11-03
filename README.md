@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-03 00:00 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 41 first seen under 6h ago. File-hash feed: 6931 SHA-256 · 706 SHA-1 · 708 MD5._
+_Last update: 2026-11-03 08:57 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256: 12); 48 first seen under 6h ago. File-hash feed: 7040 SHA-256 · 706 SHA-1 · 708 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `137[.]220[.]136[.]165` | ip | ValleyRAT | 77 | high | T1071, T1105 |
-| 2 | `202[.]61[.]140[.]195` | ip | ValleyRAT | 77 | high | T1071, T1105 |
-| 3 | `217[.]60[.]102[.]209` | ip | Remcos | 77 | high | T1071, T1105 |
-| 4 | `45[.]153[.]34[.]71` | ip | VShell | 77 | high | T1071, T1105 |
-| 5 | `0bfa9736be3ffd146af8b581ac6a7e80380773e76647e5d7d51a509d9472` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `123blueslot[.]co` | domain | IClickFix | 74 | medium | T1071, T1105 |
-| 7 | `17fb034e278c0c0e73b43dcf129ea6e0467ea929143e3fee50280dabbd4e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `18effc9e73373ada31e668e351b59bdce478adbe37c56f5b7b796454923b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `208e4395c93ce8d0ee4489a3b0fe54a982ca3e778a2452af7d968dc4478f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `2a5a459908cc44594d71a94b7591880380b06fd3c3ede9ba0e750049c2c2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 11 | `2c4ba9760146a1722b13de6b6b80e39373695549b7233dd057be884fef79` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `2d119485288448f7773eca9f7af04f4ef34659c72f3c72d9231ded8c1325` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `34b8b1140c6f7870f25637006fe18c06cb5db350c6b380af38ca3e4a9920` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `3mm[.]ma` | domain | IClickFix | 74 | medium | T1071, T1105 |
-| 15 | `3room[.]co[.]uk` | domain | IClickFix | 74 | medium | T1071, T1105 |
+| 1 | `196[.]251[.]102[.]89` | ip | CECbot | 83 | high | T1071, T1105 |
+| 2 | `62[.]60[.]226[.]30` | ip | CECbot | 83 | high | T1071, T1105 |
+| 3 | `0a2ha8e6[.]bossbeymega[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 4 | `2db4b60672c3fdf63d70c51e793bc1fc` | domain | Remus | 74 | medium | T1071, T1105 |
+| 5 | `45[.]61[.]182[.]54` | ip | DataExfiltrator | 74 | medium | T1071, T1105 |
+| 6 | `4jw9mmho[.]bossbeyvip4[.]xyz` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 7 | `4z51u17u[.]bossbeyprimeclub[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 8 | `59[.]110[.]172[.]210` | ip | VShell | 74 | medium | T1071, T1105 |
+| 9 | `68[.]183[.]236[.]229` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
+| 10 | `811c7d8bebf21aa257b881c539414f99` | domain | Remus | 74 | medium | T1071, T1105 |
+| 11 | `898cb4ce16fa74f2750b95207306d4e7` | domain | Remus | 74 | medium | T1071, T1105 |
+| 12 | `8e183523fc21ce8affec7e618908fa98` | domain | Remus | 74 | medium | T1071, T1105 |
+| 13 | `bossbeymega[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 14 | `caveat[.]com[.]br` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
+| 15 | `checkogosdfg33[.]cc` | domain | IClickFix | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
