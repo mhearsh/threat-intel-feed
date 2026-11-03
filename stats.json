@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 21:06 UTC",
+ "updated": "2026-11-03 23:07 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -9,11 +9,11 @@
  },
  "fresh_6h": 44,
  "hashes": {
-  "sha256": 7329,
+  "sha256": 7357,
   "sha1": 785,
   "md5": 787
  },
- "hash_count": 8901,
+ "hash_count": 8929,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -22,10 +22,10 @@
  },
  "families": {
   "Vidar": 13,
-  "AMOS": 10,
-  "ClearFake": 7,
-  "Unknown malware": 6,
+  "AMOS": 12,
+  "ClearFake": 11,
   "Remcos": 4,
+  "Unknown malware": 3,
   "CECbot": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
   "XWorm": 1,

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-03 21:06 UTC   Count: 452   Expiry: 30 days               #
+#  Updated: 2026-11-03 23:07 UTC   Count: 464   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -51,7 +51,19 @@ an.aldoku77.org/o0
 an.aldoku77.org/ou
 an.aldoku77.org/td
 gneisskeep.info/trace/logout-bundle.js
+gx.alien203.org/u1
 l1.albino77.org/gq/gate
+n.alexsi4d.org/an
+n.alexsi4d.org/av
+n.alexsi4d.org/ba
+n.alexsi4d.org/c
+n.alexsi4d.org/c6j
+n.alexsi4d.org/eb
+n.alexsi4d.org/fk
+n.alexsi4d.org/ln
+n.alexsi4d.org/m
+n.alexsi4d.org/m1
+n.alexsi4d.org/m8
 o.bob78.org/b
 pawpawrath.org/policy/signup-ajax.js
 pumicebarrow.info/proxy/acl-parser.js

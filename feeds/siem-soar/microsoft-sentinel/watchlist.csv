@@ -9,19 +9,37 @@ Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 31.56.209.226,ip,Remcos,77,high,"T1071, T1105",2026-11-03T11:03:43Z
 196.251.102.89,ip,CECbot,77,high,"T1071, T1105",2026-11-03T06:54:04Z
 62.60.226.30,ip,CECbot,77,high,"T1071, T1105",2026-11-03T06:54:04Z
-00960b738da4cf1351e5b12fe9cfe017ca8fbd36951ac1452fcbd2f948881f12,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-02fce1003e998f4311d03c223a62e0c821cc3e6fa2d769c02e7573d91692628c,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-035ea874e012e03f8d6a200b7b19923ce1cad3e6ec859e4e7c172ea83660b148,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-04006bf9f9fc23b9907e2ac07767eaa526e4cb76f86df94424bafc88a2c8c1ed,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-04e7af38dd8bfc92c2e6ff09942e9fb2177807506a9f1ca621bb9059531cee22,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-06182b3cf46dba763ac53028e4ca9e57ad4db3205cfb3b3b61ab7e21c0ccc806,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-07b1601f26b23d6e3700d8021cf238a213576769b336cb05a16e764bf1dd867c,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-0885e41e9d322309e22bbc28913798f4bc69b185c4a19ae393e82f4cc224e5fc,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-0980b29bdac6b74fb3a4875a3215373c4ea392bc4a60a7bf931ad888ba063741,sha256,Unknown malware,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
+116bfcedf6ecfa5c2a870f7a70a08fa0c190e63a4b6e9f7c0746ae9ad0b6064c,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+173ye7va.bossbeyprimezone.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+1b71579cb8326cb33f0cdca9da93278867a2dd5d50e595c402992752209d0b8f,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+2d163041e9702289defe89d497c49ea06b2caaa9357f9c912001485568de1a78,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+385d9a71be7c37e51f0c97e5398474b15a285dfed7d474442bdc2f92249e74d7,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+4a35dc30640bec0c53291ba68e1f18989c817d098fe1506f2697e06a3020e658,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+4dbc3d8043e6e3e6d286ec9297f1f74385bc4830fb47be53f1a30b326588cbc3,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+53d5b096fc02108a2d31cbf9a8939a72433ba522ba50a9d8d00c7b4d7149eabc,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+546a85c60d459abbae429932d0591a1ce4993f371cbf77a352a6fc6e7a21b399,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+5652e3f16f84d7b945b96f5ea1b2f48e9110c73659c576127658337a87a454f3,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+5ad3747a46c82e80a80f65fb494537fd72e605bfd1f8d0a8eaf3f04ae4ccbd3e,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+5d26501b823fd7cb3dbd6c364e135709643960997c66efed4808ae0c028ec2a3,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+6466cb98f4ad6058dc348c38ae5612d25aac286ae1afc315005cfa5bce88d092,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+8katifmu.bossbeyprimenetwork.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+bossbeyprimezone.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+gq5pyt40.bossbeyvipclub.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://gx.alien203.org/u1/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/an/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/av/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/ba/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/c/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/c6j/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/eb/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/fk/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/ln/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/m/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/m1/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+https://n.alexsi4d.org/m8/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+kul2gqhg.bossbeyprimeworld.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+ve.akun258.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
 103.164.81.65,ip,ValleyRAT,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-105d1b6e16c69641d8f5e2d38ed98950223d5e6528b8e122a99268820d6e56ea,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-134823c73b8ddb571ea2c2887292ec8fa5d830a9f91ad2a8c33ac2c4cd3796c1,sha256,Unknown malware,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-135aeed3be47c0b99162a1f9c16990dbe0022c4ee05eefd2da0fffbac339fa90,sha256,AMOS,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
 149.56.95.138,ip,AsyncRAT,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
 151dmnyj.bossbeyprimehub.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
 8qja8038.bossbeyprimegroup.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
@@ -29,23 +47,5 @@ bada9b8l.bossbeyvip.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T2
 bossbeynetwork.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
 bossbeyprimeplace.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
 bossbeyprimeteam.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-bossbeyprimeworld.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-cr1ymiykt1zwu345wf.pages.dev,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-evu.akun258.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-gabbrobarbican.info,domain,SmartApeSG,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-gate-air.com,domain,IClickFix,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-hotel.wildhorsehotnet.net,domain,Unknown malware,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/aj/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/d/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/fe/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/i6/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/jj/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/kk/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/lc/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/lsf/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/pi/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/t8/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/ws/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
-https://a2.aldoku77.org/y/,url,Vidar,74,medium,"T1071, T1105",2026-11-03T21:06:11Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

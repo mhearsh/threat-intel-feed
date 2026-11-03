@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-03 21:06 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 44 first seen under 6h ago. File-hash feed: 7329 SHA-256 · 785 SHA-1 · 787 MD5._
+_Last update: 2026-11-03 23:07 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 44 first seen under 6h ago. File-hash feed: 7357 SHA-256 · 785 SHA-1 · 787 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -125,11 +125,11 @@ _Last update: 2026-11-03 21:06 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url
 | 8 | `31[.]56[.]209[.]226` | ip | Remcos | 77 | high | T1071, T1105 |
 | 9 | `196[.]251[.]102[.]89` | ip | CECbot | 77 | high | T1071, T1105 |
 | 10 | `62[.]60[.]226[.]30` | ip | CECbot | 77 | high | T1071, T1105 |
-| 11 | `00960b738da4cf1351e5b12fe9cfe017ca8fbd36951ac1452fcbd2f94888` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `02fce1003e998f4311d03c223a62e0c821cc3e6fa2d769c02e7573d91692` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `035ea874e012e03f8d6a200b7b19923ce1cad3e6ec859e4e7c172ea83660` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `04006bf9f9fc23b9907e2ac07767eaa526e4cb76f86df94424bafc88a2c8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 15 | `04e7af38dd8bfc92c2e6ff09942e9fb2177807506a9f1ca621bb9059531c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 11 | `116bfcedf6ecfa5c2a870f7a70a08fa0c190e63a4b6e9f7c0746ae9ad0b6` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `173ye7va[.]bossbeyprimezone[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
+| 13 | `1b71579cb8326cb33f0cdca9da93278867a2dd5d50e595c402992752209d` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `2d163041e9702289defe89d497c49ea06b2caaa9357f9c912001485568de` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `385d9a71be7c37e51f0c97e5398474b15a285dfed7d474442bdc2f92249e` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
