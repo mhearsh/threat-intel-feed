@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-03 08:57 UTC   Count: 1064   Expiry: 30 days              #
+#  Updated: 2026-11-03 11:03 UTC   Count: 1083   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,18 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-03
 
+a4.aldoku77.org/dg
+a4.aldoku77.org/en
+a4.aldoku77.org/f8
+a4.aldoku77.org/ht
+a4.aldoku77.org/it
+a4.aldoku77.org/md
+a4.aldoku77.org/oo
+a4.aldoku77.org/p04
+a4.aldoku77.org/qa
+a4.aldoku77.org/rs
+a4.aldoku77.org/u
+a4.aldoku77.org/u7
 an.aldoku77.org/b
 an.aldoku77.org/g0
 an.aldoku77.org/g41
@@ -72,9 +84,16 @@ d.bob78.org
 daffe2.xyz
 do.akurat80.org
 hm.akuatoto.net
+hoppeebrouwer.lol
 k.bo787.com
 l1.albino77.org
+lord.ducks-food.com
 m.bola7.net
+raft.ducks-food.com
+serf.ducks-food.com
+susanne-scholz.com
+trinacria.hr
+www.cinzek.hr
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-03 08:57 UTC   Count: 636   Expiry: 30 days               #
+#  Updated: 2026-11-03 11:03 UTC   Count: 643   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -48,9 +48,16 @@ d.bob78.org
 daffe2.xyz
 do.akurat80.org
 hm.akuatoto.net
+hoppeebrouwer.lol
 k.bo787.com
 l1.albino77.org
+lord.ducks-food.com
 m.bola7.net
+raft.ducks-food.com
+serf.ducks-food.com
+susanne-scholz.com
+trinacria.hr
+www.cinzek.hr
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

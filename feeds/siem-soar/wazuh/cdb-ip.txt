@@ -1,14 +1,14 @@
+198.206.152.4:Remcos added 2026-11-03
+31.56.209.226:Remcos added 2026-11-03
 196.251.102.89:CECbot added 2026-11-03
 62.60.226.30:CECbot added 2026-11-03
-45.61.182.54:DataExfiltrator added 2026-11-03
-59.110.172.210:VShell added 2026-11-03
-68.183.236.229:Cobalt Strike added 2026-11-03
-124.221.123.110:VShell added 2026-11-03
-154.37.219.102:VShell added 2026-11-03
-157.180.23.24:Vidar added 2026-11-03
-159.69.114.60:Vidar added 2026-11-03
-159.69.116.56:Vidar added 2026-11-03
-159.69.126.28:Vidar added 2026-11-03
-172.104.203.148:Vidar added 2026-11-03
+103.26.77.17:NjRAT added 2026-11-03
+104.251.122.121:Cobalt Strike added 2026-11-03
+106.75.209.40:VShell added 2026-11-03
+165.154.205.34:VShell added 2026-11-03
+23.95.242.55:VShell added 2026-11-03
+43.251.102.131:ValleyRAT added 2026-11-03
+43.255.159.93:ValleyRAT added 2026-11-03
+45.192.213.11:VShell added 2026-11-03
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

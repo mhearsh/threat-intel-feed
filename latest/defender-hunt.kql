@@ -1,34 +1,34 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-03 08:57 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-03 11:03 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "198.206.152.4", "ip", "Remcos", datetime(2026-11-03T11:03:43Z),
+    "31.56.209.226", "ip", "Remcos", datetime(2026-11-03T11:03:43Z),
+    "103.26.77.17", "ip", "NjRAT", datetime(2026-11-03T11:03:43Z),
+    "104.251.122.121", "ip", "Cobalt Strike", datetime(2026-11-03T11:03:43Z),
+    "106.75.209.40", "ip", "VShell", datetime(2026-11-03T11:03:43Z),
+    "165.154.205.34", "ip", "VShell", datetime(2026-11-03T11:03:43Z),
+    "23.95.242.55", "ip", "VShell", datetime(2026-11-03T11:03:43Z),
+    "43.251.102.131", "ip", "ValleyRAT", datetime(2026-11-03T11:03:43Z),
+    "43.255.159.93", "ip", "ValleyRAT", datetime(2026-11-03T11:03:43Z),
+    "45.192.213.11", "ip", "VShell", datetime(2026-11-03T11:03:43Z),
+    "hoppeebrouwer.lol", "domain", "KongTuke", datetime(2026-11-03T11:03:43Z),
+    "lord.ducks-food.com", "domain", "IClickFix", datetime(2026-11-03T11:03:43Z),
+    "raft.ducks-food.com", "domain", "IClickFix", datetime(2026-11-03T11:03:43Z),
+    "serf.ducks-food.com", "domain", "IClickFix", datetime(2026-11-03T11:03:43Z),
+    "susanne-scholz.com", "domain", "StrelaStealer", datetime(2026-11-03T11:03:43Z),
+    "trinacria.hr", "domain", "StrelaStealer", datetime(2026-11-03T11:03:43Z),
+    "www.cinzek.hr", "domain", "StrelaStealer", datetime(2026-11-03T11:03:43Z),
     "0a2ha8e6.bossbeymega.click", "domain", "ClearFake", datetime(2026-11-03T08:57:32Z),
     "2db4b60672c3fdf63d70c51e793bc1fc", "domain", "Remus", datetime(2026-11-03T08:57:32Z),
-    "45.61.182.54", "ip", "DataExfiltrator", datetime(2026-11-03T08:57:32Z),
     "4jw9mmho.bossbeyvip4.xyz", "domain", "ClearFake", datetime(2026-11-03T08:57:32Z),
     "4z51u17u.bossbeyprimeclub.click", "domain", "ClearFake", datetime(2026-11-03T08:57:32Z),
-    "59.110.172.210", "ip", "VShell", datetime(2026-11-03T08:57:32Z),
-    "68.183.236.229", "ip", "Cobalt Strike", datetime(2026-11-03T08:57:32Z),
     "811c7d8bebf21aa257b881c539414f99", "domain", "Remus", datetime(2026-11-03T08:57:32Z),
-    "898cb4ce16fa74f2750b95207306d4e7", "domain", "Remus", datetime(2026-11-03T08:57:32Z),
-    "8e183523fc21ce8affec7e618908fa98", "domain", "Remus", datetime(2026-11-03T08:57:32Z),
-    "bossbeymega.click", "domain", "ClearFake", datetime(2026-11-03T08:57:32Z),
-    "caveat.com.br", "domain", "StrelaStealer", datetime(2026-11-03T08:57:32Z),
-    "checkogosdfg33.cc", "domain", "IClickFix", datetime(2026-11-03T08:57:32Z),
-    "conxu.eu", "domain", "StrelaStealer", datetime(2026-11-03T08:57:32Z),
-    "daffe2.xyz", "domain", "Remus", datetime(2026-11-03T08:57:32Z),
     "196.251.102.89", "ip", "CECbot", datetime(2026-11-03T06:54:04Z),
     "62.60.226.30", "ip", "CECbot", datetime(2026-11-03T06:54:04Z),
-    "124.221.123.110", "ip", "VShell", datetime(2026-11-03T06:54:04Z),
-    "154.37.219.102", "ip", "VShell", datetime(2026-11-03T06:54:04Z),
-    "157.180.23.24", "ip", "Vidar", datetime(2026-11-03T06:54:04Z),
-    "159.69.114.60", "ip", "Vidar", datetime(2026-11-03T06:54:04Z),
-    "159.69.116.56", "ip", "Vidar", datetime(2026-11-03T06:54:04Z),
-    "159.69.126.28", "ip", "Vidar", datetime(2026-11-03T06:54:04Z),
-    "172.104.203.148", "ip", "Vidar", datetime(2026-11-03T06:54:04Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

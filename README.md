@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-03 08:57 UTC. 50 IOCs (ip: 14, domain: 12, url: 12, sha256: 12); 48 first seen under 6h ago. File-hash feed: 7040 SHA-256 · 706 SHA-1 · 708 MD5._
+_Last update: 2026-11-03 11:03 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 7112 SHA-256 · 706 SHA-1 · 708 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `196[.]251[.]102[.]89` | ip | CECbot | 83 | high | T1071, T1105 |
-| 2 | `62[.]60[.]226[.]30` | ip | CECbot | 83 | high | T1071, T1105 |
-| 3 | `0a2ha8e6[.]bossbeymega[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 4 | `2db4b60672c3fdf63d70c51e793bc1fc` | domain | Remus | 74 | medium | T1071, T1105 |
-| 5 | `45[.]61[.]182[.]54` | ip | DataExfiltrator | 74 | medium | T1071, T1105 |
-| 6 | `4jw9mmho[.]bossbeyvip4[.]xyz` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 7 | `4z51u17u[.]bossbeyprimeclub[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 8 | `59[.]110[.]172[.]210` | ip | VShell | 74 | medium | T1071, T1105 |
-| 9 | `68[.]183[.]236[.]229` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
-| 10 | `811c7d8bebf21aa257b881c539414f99` | domain | Remus | 74 | medium | T1071, T1105 |
-| 11 | `898cb4ce16fa74f2750b95207306d4e7` | domain | Remus | 74 | medium | T1071, T1105 |
-| 12 | `8e183523fc21ce8affec7e618908fa98` | domain | Remus | 74 | medium | T1071, T1105 |
-| 13 | `bossbeymega[.]click` | domain | ClearFake | 74 | medium | T1071, T1105 |
-| 14 | `caveat[.]com[.]br` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
-| 15 | `checkogosdfg33[.]cc` | domain | IClickFix | 74 | medium | T1071, T1105 |
+| 1 | `198[.]206[.]152[.]4` | ip | Remcos | 83 | high | T1071, T1105 |
+| 2 | `31[.]56[.]209[.]226` | ip | Remcos | 83 | high | T1071, T1105 |
+| 3 | `196[.]251[.]102[.]89` | ip | CECbot | 83 | high | T1071, T1105 |
+| 4 | `62[.]60[.]226[.]30` | ip | CECbot | 83 | high | T1071, T1105 |
+| 5 | `01c7bf747ad04cf84023a82fe5db7490d8edc63488b585814bb8813ec67b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 6 | `0323bfecc4aac5084601f764fae7f65bcbc06eaa66951039ff9f460b9212` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 7 | `0661e3fce4615ccbb6b73a0b0994488f5909cdaede18c29dfe33eec19fe2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 8 | `0ae1d5fd9127244f7f7c01d4e171d2059b35bbe325b66041e5cb2c707e57` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 9 | `0d67ec075b68d8479a8f391d6275215e224e7f233614d3850b4f4f241e4f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 10 | `103[.]26[.]77[.]17` | ip | NjRAT | 74 | medium | T1071, T1105 |
+| 11 | `104[.]251[.]122[.]121` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
+| 12 | `106[.]75[.]209[.]40` | ip | VShell | 74 | medium | T1071, T1105 |
+| 13 | `118b387ab99036c4657827d74c8eb585c2aa2d8c56aa5227c65d34249a28` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `165[.]154[.]205[.]34` | ip | VShell | 74 | medium | T1071, T1105 |
+| 15 | `19b8aced294ec6ee524d5ed852be8f37a096fb341ff0655926baba50f256` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
