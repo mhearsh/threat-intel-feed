@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-03 11:03 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 48 first seen under 6h ago. File-hash feed: 7112 SHA-256 · 706 SHA-1 · 708 MD5._
+_Last update: 2026-11-03 21:06 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 44 first seen under 6h ago. File-hash feed: 7329 SHA-256 · 785 SHA-1 · 787 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `198[.]206[.]152[.]4` | ip | Remcos | 83 | high | T1071, T1105 |
-| 2 | `31[.]56[.]209[.]226` | ip | Remcos | 83 | high | T1071, T1105 |
-| 3 | `196[.]251[.]102[.]89` | ip | CECbot | 83 | high | T1071, T1105 |
-| 4 | `62[.]60[.]226[.]30` | ip | CECbot | 83 | high | T1071, T1105 |
-| 5 | `01c7bf747ad04cf84023a82fe5db7490d8edc63488b585814bb8813ec67b` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 6 | `0323bfecc4aac5084601f764fae7f65bcbc06eaa66951039ff9f460b9212` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 7 | `0661e3fce4615ccbb6b73a0b0994488f5909cdaede18c29dfe33eec19fe2` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 8 | `0ae1d5fd9127244f7f7c01d4e171d2059b35bbe325b66041e5cb2c707e57` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 9 | `0d67ec075b68d8479a8f391d6275215e224e7f233614d3850b4f4f241e4f` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `103[.]26[.]77[.]17` | ip | NjRAT | 74 | medium | T1071, T1105 |
-| 11 | `104[.]251[.]122[.]121` | ip | Cobalt Strike | 74 | medium | T1071.001, T1105, T1059 |
-| 12 | `106[.]75[.]209[.]40` | ip | VShell | 74 | medium | T1071, T1105 |
-| 13 | `118b387ab99036c4657827d74c8eb585c2aa2d8c56aa5227c65d34249a28` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `165[.]154[.]205[.]34` | ip | VShell | 74 | medium | T1071, T1105 |
-| 15 | `19b8aced294ec6ee524d5ed852be8f37a096fb341ff0655926baba50f256` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `217[.]60[.]102[.]231` | ip | Remcos | 83 | high | T1071, T1105 |
+| 2 | `45[.]154[.]98[.]118` | ip | Remcos | 83 | high | T1071, T1105 |
+| 3 | `45[.]83[.]31[.]203` | ip | XWorm | 83 | high | T1071, T1105 |
+| 4 | `85[.]11[.]167[.]41` | ip | Unknown malware | 83 | high | T1071, T1105 |
+| 5 | `91[.]92[.]42[.]84` | ip | Unknown malware | 83 | high | T1071, T1105 |
+| 6 | `91[.]92[.]47[.]220` | ip | Unknown malware | 83 | high | T1071, T1105 |
+| 7 | `198[.]206[.]152[.]4` | ip | Remcos | 77 | high | T1071, T1105 |
+| 8 | `31[.]56[.]209[.]226` | ip | Remcos | 77 | high | T1071, T1105 |
+| 9 | `196[.]251[.]102[.]89` | ip | CECbot | 77 | high | T1071, T1105 |
+| 10 | `62[.]60[.]226[.]30` | ip | CECbot | 77 | high | T1071, T1105 |
+| 11 | `00960b738da4cf1351e5b12fe9cfe017ca8fbd36951ac1452fcbd2f94888` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `02fce1003e998f4311d03c223a62e0c821cc3e6fa2d769c02e7573d91692` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `035ea874e012e03f8d6a200b7b19923ce1cad3e6ec859e4e7c172ea83660` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `04006bf9f9fc23b9907e2ac07767eaa526e4cb76f86df94424bafc88a2c8` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `04e7af38dd8bfc92c2e6ff09942e9fb2177807506a9f1ca621bb9059531c` | sha256 | AMOS | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

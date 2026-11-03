@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-03 11:03 UTC   Count: 1083   Expiry: 30 days              #
+#  Updated: 2026-11-03 21:06 UTC   Count: 1107   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,18 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-03
 
+a2.aldoku77.org/aj
+a2.aldoku77.org/d
+a2.aldoku77.org/fe
+a2.aldoku77.org/i6
+a2.aldoku77.org/jj
+a2.aldoku77.org/kk
+a2.aldoku77.org/lc
+a2.aldoku77.org/lsf
+a2.aldoku77.org/pi
+a2.aldoku77.org/t8
+a2.aldoku77.org/ws
+a2.aldoku77.org/y
 a4.aldoku77.org/dg
 a4.aldoku77.org/en
 a4.aldoku77.org/f8
@@ -53,12 +65,14 @@ travertinekurgans.info/signin/reset-thread.js
 
 0a2ha8e6.bossbeymega.click
 123blueslot.co
+151dmnyj.bossbeyprimehub.click
 2sa10whu.bossbeymaster.click
 3mm.ma
 3room.co.uk
 4jw9mmho.bossbeyvip4.xyz
 4z51u17u.bossbeyprimeclub.click
 88win.store
+8qja8038.bossbeyprimegroup.click
 a1insulationdfw.com
 albino77.org
 alfabettradycji.pl
@@ -66,25 +80,35 @@ ataoipat.bossbeymax.click
 azvvedo.lol
 b5.aksara87.org
 b6.akasia988.net
+bada9b8l.bossbeyvip.click
 banlathai.com
 bo787.com
 bossbeymarket.click
 bossbeymaster.click
 bossbeymax.click
 bossbeymega.click
+bossbeynetwork.click
+bossbeyprimeplace.click
+bossbeyprimeteam.click
+bossbeyprimeworld.click
 breakcutter.com
 brismanlaw.com
 britmagazine.co.uk
 caveat.com.br
 checkogosdfg33.cc
 conxu.eu
+cr1ymiykt1zwu345wf.pages.dev
 cx.albino77.org
 cyseeswhy.jakegyoung.com
 d.bob78.org
 daffe2.xyz
 do.akurat80.org
+evu.akun258.org
+gabbrobarbican.info
+gate-air.com
 hm.akuatoto.net
 hoppeebrouwer.lol
+hotel.wildhorsehotnet.net
 k.bo787.com
 l1.albino77.org
 lord.ducks-food.com

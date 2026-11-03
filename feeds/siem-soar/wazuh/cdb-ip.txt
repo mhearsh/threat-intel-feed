@@ -1,14 +1,14 @@
+217.60.102.231:Remcos added 2026-11-03
+45.154.98.118:Remcos added 2026-11-03
+45.83.31.203:XWorm added 2026-11-03
+85.11.167.41:Unknown malware added 2026-11-03
+91.92.42.84:Unknown malware added 2026-11-03
+91.92.47.220:Unknown malware added 2026-11-03
 198.206.152.4:Remcos added 2026-11-03
 31.56.209.226:Remcos added 2026-11-03
 196.251.102.89:CECbot added 2026-11-03
 62.60.226.30:CECbot added 2026-11-03
-103.26.77.17:NjRAT added 2026-11-03
-104.251.122.121:Cobalt Strike added 2026-11-03
-106.75.209.40:VShell added 2026-11-03
-165.154.205.34:VShell added 2026-11-03
-23.95.242.55:VShell added 2026-11-03
-43.251.102.131:ValleyRAT added 2026-11-03
-43.255.159.93:ValleyRAT added 2026-11-03
-45.192.213.11:VShell added 2026-11-03
+103.164.81.65:ValleyRAT added 2026-11-03
+149.56.95.138:AsyncRAT added 2026-11-03
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

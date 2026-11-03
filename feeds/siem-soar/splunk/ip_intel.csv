@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-Remcos score 83 (high) added 2026-11-03,198.206.152.4,2,2026-11-03
-Remcos score 83 (high) added 2026-11-03,31.56.209.226,2,2026-11-03
-CECbot score 83 (high) added 2026-11-03,196.251.102.89,2,2026-11-03
-CECbot score 83 (high) added 2026-11-03,62.60.226.30,2,2026-11-03
-NjRAT score 74 (medium) added 2026-11-03,103.26.77.17,1,2026-11-03
-Cobalt Strike score 74 (medium) added 2026-11-03,104.251.122.121,1,2026-11-03
-VShell score 74 (medium) added 2026-11-03,106.75.209.40,1,2026-11-03
-VShell score 74 (medium) added 2026-11-03,165.154.205.34,1,2026-11-03
-VShell score 74 (medium) added 2026-11-03,23.95.242.55,1,2026-11-03
-ValleyRAT score 74 (medium) added 2026-11-03,43.251.102.131,1,2026-11-03
-ValleyRAT score 74 (medium) added 2026-11-03,43.255.159.93,1,2026-11-03
-VShell score 74 (medium) added 2026-11-03,45.192.213.11,1,2026-11-03
+Remcos score 83 (high) added 2026-11-03,217.60.102.231,2,2026-11-03
+Remcos score 83 (high) added 2026-11-03,45.154.98.118,2,2026-11-03
+XWorm score 83 (high) added 2026-11-03,45.83.31.203,2,2026-11-03
+Unknown malware score 83 (high) added 2026-11-03,85.11.167.41,2,2026-11-03
+Unknown malware score 83 (high) added 2026-11-03,91.92.42.84,2,2026-11-03
+Unknown malware score 83 (high) added 2026-11-03,91.92.47.220,2,2026-11-03
+Remcos score 77 (high) added 2026-11-03,198.206.152.4,2,2026-11-03
+Remcos score 77 (high) added 2026-11-03,31.56.209.226,2,2026-11-03
+CECbot score 77 (high) added 2026-11-03,196.251.102.89,2,2026-11-03
+CECbot score 77 (high) added 2026-11-03,62.60.226.30,2,2026-11-03
+ValleyRAT score 74 (medium) added 2026-11-03,103.164.81.65,1,2026-11-03
+AsyncRAT score 74 (medium) added 2026-11-03,149.56.95.138,1,2026-11-03
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

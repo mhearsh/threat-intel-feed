@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-03 11:03 UTC   Count: 440   Expiry: 30 days               #
+#  Updated: 2026-11-03 21:06 UTC   Count: 452   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,18 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-03
 
+a2.aldoku77.org/aj
+a2.aldoku77.org/d
+a2.aldoku77.org/fe
+a2.aldoku77.org/i6
+a2.aldoku77.org/jj
+a2.aldoku77.org/kk
+a2.aldoku77.org/lc
+a2.aldoku77.org/lsf
+a2.aldoku77.org/pi
+a2.aldoku77.org/t8
+a2.aldoku77.org/ws
+a2.aldoku77.org/y
 a4.aldoku77.org/dg
 a4.aldoku77.org/en
 a4.aldoku77.org/f8

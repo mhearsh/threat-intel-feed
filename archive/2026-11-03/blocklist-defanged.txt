@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-03 11:03 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-03 21:06 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,54 +15,54 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-03
 
-01c7bf747ad04cf84023a82fe5db7490d8edc63488b585814bb8813ec67bfb83
-0323bfecc4aac5084601f764fae7f65bcbc06eaa66951039ff9f460b92126583
-0661e3fce4615ccbb6b73a0b0994488f5909cdaede18c29dfe33eec19fe281ed
-0a2ha8e6[.]bossbeymega[.]click
-0ae1d5fd9127244f7f7c01d4e171d2059b35bbe325b66041e5cb2c707e576107
-0d67ec075b68d8479a8f391d6275215e224e7f233614d3850b4f4f241e4f86dc
-103[.]26[.]77[.]17
-104[.]251[.]122[.]121
-106[.]75[.]209[.]40
-118b387ab99036c4657827d74c8eb585c2aa2d8c56aa5227c65d34249a286003
-165[.]154[.]205[.]34
+00960b738da4cf1351e5b12fe9cfe017ca8fbd36951ac1452fcbd2f948881f12
+02fce1003e998f4311d03c223a62e0c821cc3e6fa2d769c02e7573d91692628c
+035ea874e012e03f8d6a200b7b19923ce1cad3e6ec859e4e7c172ea83660b148
+04006bf9f9fc23b9907e2ac07767eaa526e4cb76f86df94424bafc88a2c8c1ed
+04e7af38dd8bfc92c2e6ff09942e9fb2177807506a9f1ca621bb9059531cee22
+06182b3cf46dba763ac53028e4ca9e57ad4db3205cfb3b3b61ab7e21c0ccc806
+07b1601f26b23d6e3700d8021cf238a213576769b336cb05a16e764bf1dd867c
+0885e41e9d322309e22bbc28913798f4bc69b185c4a19ae393e82f4cc224e5fc
+0980b29bdac6b74fb3a4875a3215373c4ea392bc4a60a7bf931ad888ba063741
+103[.]164[.]81[.]65
+105d1b6e16c69641d8f5e2d38ed98950223d5e6528b8e122a99268820d6e56ea
+134823c73b8ddb571ea2c2887292ec8fa5d830a9f91ad2a8c33ac2c4cd3796c1
+135aeed3be47c0b99162a1f9c16990dbe0022c4ee05eefd2da0fffbac339fa90
+149[.]56[.]95[.]138
+151dmnyj[.]bossbeyprimehub[.]click
 196[.]251[.]102[.]89
 198[.]206[.]152[.]4
-19b8aced294ec6ee524d5ed852be8f37a096fb341ff0655926baba50f256bb27
-1a270ecc97720b45c58f4284a0f2986ecb004912336236c289ab792179ac66f6
-2081e52d80c25a72b1ef21eff2c02ed42a51da2ed4457b812264b8c2179e748f
-22b84077da72fa09eab5375468cdab35c6827ea204733801c863f6885aa9da0b
-23[.]95[.]242[.]55
-25c58c6b5448b6f6143b91e8d08052212225fc2fb84e446b1d90f5103a02c768
-2724670cbef0c85097e5f6caf73b6fd69651e5f6d02c6fd6123ab02224d10292
-2db4b60672c3fdf63d70c51e793bc1fc
+217[.]60[.]102[.]231
 31[.]56[.]209[.]226
-43[.]251[.]102[.]131
-43[.]255[.]159[.]93
-45[.]192[.]213[.]11
-4jw9mmho[.]bossbeyvip4[.]xyz
-4z51u17u[.]bossbeyprimeclub[.]click
+45[.]154[.]98[.]118
+45[.]83[.]31[.]203
 62[.]60[.]226[.]30
-811c7d8bebf21aa257b881c539414f99
-hoppeebrouwer[.]lol
-hxxps://a4[.]aldoku77[.]org/dg/
-hxxps://a4[.]aldoku77[.]org/en/
-hxxps://a4[.]aldoku77[.]org/f8/
-hxxps://a4[.]aldoku77[.]org/ht/
-hxxps://a4[.]aldoku77[.]org/it/
-hxxps://a4[.]aldoku77[.]org/md/
-hxxps://a4[.]aldoku77[.]org/oo/
-hxxps://a4[.]aldoku77[.]org/p04/
-hxxps://a4[.]aldoku77[.]org/qa/
-hxxps://a4[.]aldoku77[.]org/rs/
-hxxps://a4[.]aldoku77[.]org/u/
-hxxps://a4[.]aldoku77[.]org/u7/
-lord[.]ducks-food[.]com
-raft[.]ducks-food[.]com
-serf[.]ducks-food[.]com
-susanne-scholz[.]com
-trinacria[.]hr
-www[.]cinzek[.]hr
+85[.]11[.]167[.]41
+8qja8038[.]bossbeyprimegroup[.]click
+91[.]92[.]42[.]84
+91[.]92[.]47[.]220
+bada9b8l[.]bossbeyvip[.]click
+bossbeynetwork[.]click
+bossbeyprimeplace[.]click
+bossbeyprimeteam[.]click
+bossbeyprimeworld[.]click
+cr1ymiykt1zwu345wf[.]pages[.]dev
+evu[.]akun258[.]org
+gabbrobarbican[.]info
+gate-air[.]com
+hotel[.]wildhorsehotnet[.]net
+hxxps://a2[.]aldoku77[.]org/aj/
+hxxps://a2[.]aldoku77[.]org/d/
+hxxps://a2[.]aldoku77[.]org/fe/
+hxxps://a2[.]aldoku77[.]org/i6/
+hxxps://a2[.]aldoku77[.]org/jj/
+hxxps://a2[.]aldoku77[.]org/kk/
+hxxps://a2[.]aldoku77[.]org/lc/
+hxxps://a2[.]aldoku77[.]org/lsf/
+hxxps://a2[.]aldoku77[.]org/pi/
+hxxps://a2[.]aldoku77[.]org/t8/
+hxxps://a2[.]aldoku77[.]org/ws/
+hxxps://a2[.]aldoku77[.]org/y/
 
 
 # Auto-Fetch-ThreatIntel
