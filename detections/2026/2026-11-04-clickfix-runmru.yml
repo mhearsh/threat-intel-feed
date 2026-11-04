@@ -1,0 +1,72 @@
+title: ClickFix - Suspicious LOLBin Command Pasted Into the Windows Run Dialog (RunMRU)
+id: 8f2c6a41-3d7e-4b9a-a5c1-6e0d2b7f4c93
+status: experimental
+description: |
+  Detects ClickFix-style user execution: a fake CAPTCHA / "verify you are human" page copies a command to the
+  clipboard and tells the user to paste it into Win+R. Run dialog input is recorded by explorer.exe under the
+  RunMRU registry key. Microsoft Threat Intelligence recommends hunting RunMRU entries that reference LOLBins
+  (powershell, mshta, rundll32, wscript, curl, msiexec...), download/execute cmdlets (iwr, irm, iex) and fake
+  verification strings ("I am not a robot", "Verification ID", a checkmark).
+  IClickFix and ClearFake were the two largest malware families in this repo's IOC feed (mhearsh/threat-intel-feed) this week (ThreatFox).
+references:
+  - https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/
+  - https://attack.mitre.org/techniques/T1204/004/
+author: threat-intel-feed
+date: 2026-11-04
+tags:
+  - attack.execution
+  - attack.t1204.004
+  - attack.t1059.001
+  - attack.t1218.005
+  - detection.emerging-threats
+logsource:
+  category: registry_set
+  product: windows
+detection:
+  selection_key:
+    TargetObject|contains: '\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU\'
+  filter_mrulist:
+    TargetObject|endswith: '\MRUList'
+  selection_lolbin:
+    Details|contains:
+      - 'powershell'
+      - 'pwsh'
+      - 'mshta'
+      - 'rundll32'
+      - 'wscript'
+      - 'cscript'
+      - 'msiexec'
+      - 'curl'
+      - 'bitsadmin'
+      - 'forfiles'
+      - 'conhost'
+  selection_payload:
+    Details|contains:
+      - 'iex'
+      - 'iwr'
+      - 'irm '
+      - 'Invoke-Expression'
+      - 'Invoke-WebRequest'
+      - 'Invoke-RestMethod'
+      - 'DownloadString'
+      - 'FromBase64String'
+      - '-enc'
+      - ' -e '
+      - '-w h'
+      - 'hidden'
+      - 'http'
+      - '^'
+  selection_lure:
+    Details|contains:
+      - 'not a robot'
+      - 'Verification ID'
+      - 'Verification UID'
+      - 'reCAPTCHA'
+      - 'CAPTCHA'
+      - 'Cloud identificator'
+      - '✅'
+      - '✔'
+  condition: selection_key and not filter_mrulist and ((selection_lolbin and selection_payload) or selection_lure)
+falsepositives:
+  - Administrators who launch PowerShell one-liners from Win+R (baseline per user/host)
+level: high

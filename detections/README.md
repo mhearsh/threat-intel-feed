@@ -9,3 +9,4 @@ Rules marked `experimental` should be tested in your own environment before you 
 | Date | Topic | CVE | Sigma | Sentinel | FortiGate |
 |---|---|---|---|---|---|
 | 2026-10-28 | Arista VeloCloud Orchestrator (Arista SA 0199, CISA KEV) | CVE-2026-114625 | [yml](2026/2026-10-28-arista-vco-cve-2026-114625.yml) | [kql](2026/2026-10-28-arista-vco-cve-2026-114625.kql) | [conf](2026/2026-10-28-arista-vco-cve-2026-114625.fortigate.conf) |
+| 2026-11-04 | ClickFix: LOLBin command pasted into the Windows Run dialog (RunMRU) | — | [yml](2026/2026-11-04-clickfix-runmru.yml) | [kql](2026/2026-11-04-clickfix-runmru.kql) | — |

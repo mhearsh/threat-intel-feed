@@ -1,0 +1,24 @@
+// Detection of the Week 2026-11-04: ClickFix (fake CAPTCHA -> Win+R paste)
+// MITRE ATT&CK: T1204.004 (Malicious Copy and Paste), T1059.001 (PowerShell), T1218.005 (Mshta)
+// Source: Microsoft Threat Intelligence, "Think before you Click(Fix)" (2025-08-21)
+
+// 1) Run dialog history (RunMRU) written by explorer.exe with LOLBin + download/exec, or a fake-CAPTCHA string
+DeviceRegistryEvents
+| where Timestamp > ago(7d)
+| where ActionType =~ "RegistryValueSet"
+| where InitiatingProcessFileName =~ "explorer.exe"
+| where RegistryKey has @"\CurrentVersion\Explorer\RunMRU"
+| where RegistryValueName !~ "MRUList"
+| where RegistryValueData has_any ("not a robot", "Verification ID", "Verification UID", "CAPTCHA", "Cloud identificator", "✅")
+    or (RegistryValueData has_any ("powershell", "pwsh", "mshta", "rundll32", "wscript", "msiexec", "curl", "bitsadmin", "forfiles")
+        and RegistryValueData has_any ("iex", "iwr", "irm", "Invoke-Expression", "Invoke-WebRequest", "Invoke-RestMethod",
+                                       "DownloadString", "FromBase64String", "-enc", "-w h", "hidden", "http", "^"))
+| project Timestamp, DeviceName, InitiatingProcessAccountName, RegistryValueName, RegistryValueData
+
+// 2) Same chain from process telemetry: explorer.exe directly spawning a script host that reaches out
+DeviceProcessEvents
+| where Timestamp > ago(7d)
+| where InitiatingProcessFileName =~ "explorer.exe"
+| where FileName in~ ("powershell.exe", "pwsh.exe", "mshta.exe", "cmd.exe", "rundll32.exe", "wscript.exe", "msiexec.exe", "curl.exe")
+| where ProcessCommandLine has_any ("http", "iex", "iwr", "irm", "Invoke-Expression", "DownloadString", "FromBase64String", "-enc", "-w h", "hidden", "not a robot", "CAPTCHA")
+| project Timestamp, DeviceName, AccountName, FileName, ProcessCommandLine
