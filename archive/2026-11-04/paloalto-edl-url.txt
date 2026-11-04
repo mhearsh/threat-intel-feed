@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-04 06:25 UTC   Count: 1171   Expiry: 30 days              #
+#  Updated: 2026-11-04 08:33 UTC   Count: 1186   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -29,6 +29,9 @@ bio.alien203.org/p
 bio.alien203.org/sm
 bio.alien203.org/tz
 bio.alien203.org/vd
+ci797165.tw1.ru/L1nc0In.php
+fern46.com/curl/1to6141b0p/lgk1rfayfis7z0qtqtrp.json
+fern46.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj
 gw.alien203.org/c2
 gw.alien203.org/e
 gw.alien203.org/f
@@ -45,25 +48,37 @@ gw.alien203.org/pd
 
 12dim-xanth.xan.sch.gr
 15f54so2.bossbeyroyal.click
+a8.coy9.com
 afktogel.org
 akun258.org
 alien203.org
+allbaslot.org
 b.coy9.com
 bosmj.org
 bossbeypro.click
 bossbeyroyal.click
+bossbeyservice.click
 coy9.com
 d.bosmj.org
 dpjju.in
+esyscozo.bossbeyservice.click
 expovirtual2020.upsa.edu.bo
 f015oa9h.kunci.store
+fern46.com
 fz.afktogel.org
+it0sxerr.hasir.store
 k.bob78.org
 k9.alien203.org
 krerger.lol
 lamborshop.com
 ln.akun258.org
 m1woevi7.haon.store
+nimbus-58.com
+r.bosmj.org
+robsnson.lol
+s8.akun258.org
+t1.allbaslot.org
+v8lvhz7y.lecar.store
 w.bosmj.org
 www.mwanainchi.co.ke
 z4d0x58u.bossbeypro.click

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-04 06:25 UTC   Count: 486   Expiry: 30 days               #
+#  Updated: 2026-11-04 08:33 UTC   Count: 489   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -29,6 +29,9 @@ bio.alien203.org/p
 bio.alien203.org/sm
 bio.alien203.org/tz
 bio.alien203.org/vd
+ci797165.tw1.ru/L1nc0In.php
+fern46.com/curl/1to6141b0p/lgk1rfayfis7z0qtqtrp.json
+fern46.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj
 gw.alien203.org/c2
 gw.alien203.org/e
 gw.alien203.org/f
