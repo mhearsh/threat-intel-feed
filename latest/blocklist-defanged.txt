@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-04 14:46 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-04 17:14 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,49 +15,52 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-04
 
-07146ac13dd4c25fb2d348a02f1e4c0a329e9e0e96f7f5e9bad1527265d437f4
-0bc3b0703ead79c62f60f71d001cb13a37305a34aa24e5990b906d2e7bf863e5
-0d360ffd95a35ee0f863029980171adbf38e780ca8759e9dc81bbf4266fd07d5
-0faee90ad07cfea9941352f8c043878caae6b9a0a5aa1e141ec80c648a171f76
-106[.]13[.]176[.]233
+022253ea5c0b234947b20d5185ee414b7ff12057c0c2d90d58beda200b22e5d9
+028db1ac18e573115706bec3925886fee870d7ee289f2ab2560647e5a119fbec
+0c9ce18125ecc200f17834e53e118993c68aee3dffd057721039c4228183c46d
+103[.]167[.]65[.]157
 112[.]213[.]110[.]225
-145bfa4d3d89a8bc000e5f57df942c51d72fd1826ad1b1382b55fe8fd767765e
-172[.]233[.]14[.]200
-172[.]233[.]1[.]13
-172[.]233[.]47[.]155
-1804d73cc15fd09a3e4f522a6cb6142d035bf5d7e6f0b965e072acda2c4d5992
-1bf393abcf30512df655b49499d60e84db21270e4709ea59bb8af964de9edbcb
+1277020c175433bdadc2f56cfd75c38bfa83a529e9cfed07a4e6dafbe32dbdfe
+174838f3c09e0fa0059443b85af774578ec364a802877bc9bcd353f9546c6998
+188[.]42[.]122[.]12
+188[.]42[.]122[.]68
+188[.]42[.]94[.]132
+188[.]42[.]94[.]28
 202[.]95[.]13[.]142
-20ec9b252e4d9e80e0b9c0cdea0c4d3ca6833f681fdb5f4eb3a3983c51ab5b06
+212[.]74[.]20[.]102
+212[.]74[.]20[.]97
 217[.]60[.]102[.]78
-220470a40fab80d36430f65d414ef80f29340ce230a6c13da8b5a85d7ceda7f6
-249f1ea7648ee9c4ab58d3ae32225821b4d01d1c6266ef5c2692b51391d4b70a
-26885040c7e3d86dca4e92bda2ba88f30df38ee2e793de0b4a956621e939208d
-26bde7fd53732754445143c430ac5bc35141e96b7ea055024dcc7c38c78d7f41
-alloha4d[.]org
-bigriemp[.]com
-bossbeyspace[.]click
-bossbeyspot[.]click
-c[.]bosmj[.]org
-funrat[.]top
-g7[.]akun258[.]org
-hn[.]coy9[.]com
-ho[.]allbaslot[.]org
-hxxps://atttowing[.]com[.]au/
-hxxps://bsoozasyoudao[.]top/
-hxxps://cshsus[.]top/
-hxxps://cube-60[.]com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271[.]json
-hxxps://cube-60[.]com/f/3ouaaio6tobacvyfqoejza/sul9ec1i
-hxxps://daraleilm[.]com/
-hxxps://mceahn[.]top/
-hxxps://microsofttelemetryservices[.]st/api/bundle
+2faf8c89973752e91b83cd9467b6f45b766cd829d5c7c8918790a0c7fecb8939
+3a2c20687ad5d297e31f7274185e7cc91929960243f8dc236cd16af5161f8c13
+4c51b551360d5deb358e6a24348fa43ecee750a3493d85345165b18c2e26624f
+547ee43bac840204abb3cd81924ae8ed233b16670de1f1b2987581fbe2345b40
+6097b33ec534a0d32d975bc644402972ea737cea356ce85af165e5069af45e29
+618f77d0f281973cfc42fad9e0a97fd3b9f3ef7465f0446d92a54a08fb70eb58
+6da2301ad24a28865c715dc070f0270a51d0b23b64ec66cb0d0f61fc69d7806f
+ali-logtrace[.]net
+bb001[.]bd-devmetrics[.]net
+bb001[.]tx-devmetrics[.]net
+dy-adstats[.]net
+dy-applog[.]net
+e5a1y56u[.]leyka[.]store
+f6[.]alloha4d[.]org
+hh002[.]tx-logtrace[.]net
+hxxps://154[.]222[.]16[.]220/
+hxxps://156[.]238[.]245[.]115/
+hxxps://191[.]217[.]250[.]228/
+hxxps://45[.]195[.]76[.]159/
+hxxps://jdaram[.]com/
+hxxps://medlarportcullis[.]org/proxy/beta-schema
+hxxps://medlarportcullis[.]org/proxy/token-response[.]js
 hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/api/hlam/files/4001
 hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/config
 hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/report
 hxxps://relay-mirror[.]kartohaantoha36-6a9[.]workers[.]dev/api/hlam/files/4001
-i1l77lh7[.]bossbeyspot[.]click
-kingdomcaster[.]com
-mm[.]allbaslot[.]org
+hxxps://support[.]grovecityelectrician[.]com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb
+img3[.]centovinipolska[.]com
+medlarportcullis[.]org
+onchaindocfile[.]com
+pnsjbb2f[.]idaf[.]store
 
 
 # Auto-Fetch-ThreatIntel
@@ -66,9 +69,6 @@ mm[.]allbaslot[.]org
 
 45[.]154[.]98[.]118
 45[.]83[.]31[.]203
-85[.]11[.]167[.]41
-91[.]92[.]42[.]84
-91[.]92[.]47[.]220
 
 
 # Auto-Fetch-ThreatIntel

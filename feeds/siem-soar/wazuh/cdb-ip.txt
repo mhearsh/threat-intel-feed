@@ -3,12 +3,12 @@
 202.95.13.142:ValleyRAT added 2026-11-04
 45.154.98.118:Remcos added 2026-11-03
 45.83.31.203:XWorm added 2026-11-03
-85.11.167.41:Unknown malware added 2026-11-03
-91.92.42.84:Unknown malware added 2026-11-03
-91.92.47.220:Unknown malware added 2026-11-03
-106.13.176.233:Unknown malware added 2026-11-04
-172.233.1.13:Jackskid added 2026-11-04
-172.233.14.200:Jackskid added 2026-11-04
-172.233.47.155:Jackskid added 2026-11-04
+103.167.65.157:Unknown malware added 2026-11-04
+188.42.122.12:Unknown malware added 2026-11-04
+188.42.122.68:Unknown malware added 2026-11-04
+188.42.94.132:Unknown malware added 2026-11-04
+188.42.94.28:Unknown malware added 2026-11-04
+212.74.20.102:Unknown malware added 2026-11-04
+212.74.20.97:Unknown malware added 2026-11-04
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

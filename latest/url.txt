@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-04 14:46 UTC   Count: 496   Expiry: 30 days               #
+#  Updated: 2026-11-04 17:14 UTC   Count: 499   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -42,11 +42,14 @@ gw.alien203.org/kx
 gw.alien203.org/nj
 gw.alien203.org/ow
 gw.alien203.org/pd
+medlarportcullis.org/proxy/beta-schema
+medlarportcullis.org/proxy/token-response.js
 microsofttelemetryservices.st/api/bundle
 relay-3f9c71.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001
 relay-3f9c71.kartohaantoha36-6a9.workers.dev/config
 relay-3f9c71.kartohaantoha36-6a9.workers.dev/report
 relay-mirror.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001
+support.grovecityelectrician.com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

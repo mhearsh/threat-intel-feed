@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-04 14:46 UTC   Count: 726   Expiry: 30 days               #
+#  Updated: 2026-11-04 17:14 UTC   Count: 739   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -23,10 +23,13 @@ a9y70wox.haysam.store
 afktogel.org
 agreement-rc.com
 akun258.org
+ali-logtrace.net
 alien203.org
 allbaslot.org
 alloha4d.org
 b.coy9.com
+bb001.bd-devmetrics.net
+bb001.tx-devmetrics.net
 bigriemp.com
 bosmj.org
 bossbeypro.click
@@ -44,17 +47,24 @@ d.bosmj.org
 daraleilm.com
 distrohaven.xyz
 dpjju.in
+dy-adstats.net
+dy-applog.net
+e5a1y56u.leyka.store
 esyscozo.bossbeyservice.click
 expovirtual2020.upsa.edu.bo
 f015oa9h.kunci.store
+f6.alloha4d.org
 fern46.com
 funrat.top
 fz.afktogel.org
 g7.akun258.org
+hh002.tx-logtrace.net
 hn.coy9.com
 ho.allbaslot.org
 i1l77lh7.bossbeyspot.click
+img3.centovinipolska.com
 it0sxerr.hasir.store
+jdaram.com
 jellyfishparty.info
 k.bob78.org
 k9.alien203.org
@@ -66,9 +76,12 @@ lamborshop.com
 ln.akun258.org
 m1woevi7.haon.store
 mceahn.top
+medlarportcullis.org
 microsofttelemetryservices.st
 mm.allbaslot.org
 nimbus-58.com
+onchaindocfile.com
+pnsjbb2f.idaf.store
 r.bosmj.org
 robsnson.lol
 s8.akun258.org
