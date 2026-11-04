@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-04 10:52 UTC   Count: 709   Expiry: 30 days               #
+#  Updated: 2026-11-04 14:46 UTC   Count: 726   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -25,33 +25,49 @@ agreement-rc.com
 akun258.org
 alien203.org
 allbaslot.org
+alloha4d.org
 b.coy9.com
+bigriemp.com
 bosmj.org
 bossbeypro.click
 bossbeyroyal.click
 bossbeyservice.click
+bossbeyspace.click
+bossbeyspot.click
+bsoozasyoudao.top
 bu.allbaslot.org
+c.bosmj.org
 coy9.com
+cshsus.top
 cube-60.com
 d.bosmj.org
+daraleilm.com
 distrohaven.xyz
 dpjju.in
 esyscozo.bossbeyservice.click
 expovirtual2020.upsa.edu.bo
 f015oa9h.kunci.store
 fern46.com
+funrat.top
 fz.afktogel.org
+g7.akun258.org
+hn.coy9.com
+ho.allbaslot.org
+i1l77lh7.bossbeyspot.click
 it0sxerr.hasir.store
 jellyfishparty.info
 k.bob78.org
 k9.alien203.org
 kidsmoralstory.in
+kingdomcaster.com
 krerger.lol
 kt.allbaslot.org
 lamborshop.com
 ln.akun258.org
 m1woevi7.haon.store
+mceahn.top
 microsofttelemetryservices.st
+mm.allbaslot.org
 nimbus-58.com
 r.bosmj.org
 robsnson.lol
@@ -85,6 +101,7 @@ a1insulationdfw.com
 albino77.org
 alfabettradycji.pl
 ataoipat.bossbeymax.click
+atttowing.com.au
 azvvedo.lol
 b5.aksara87.org
 b6.akasia988.net

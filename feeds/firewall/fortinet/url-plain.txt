@@ -26,6 +26,10 @@ gw.alien203.org/nj
 gw.alien203.org/ow
 gw.alien203.org/pd
 microsofttelemetryservices.st/api/bundle
+relay-3f9c71.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001
+relay-3f9c71.kartohaantoha36-6a9.workers.dev/config
+relay-3f9c71.kartohaantoha36-6a9.workers.dev/report
+relay-mirror.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001
 a2.aldoku77.org/aj
 a2.aldoku77.org/d
 a2.aldoku77.org/fe
