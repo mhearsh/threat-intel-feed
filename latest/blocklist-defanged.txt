@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-04 20:17 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-04 23:20 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,44 +15,41 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-04
 
-01692885f66844db4db0affe12760d7402a7997ba440dbbb2c19dcbcd8b5c075
-03ae6eca55d1709479dce41ed04d2f21e785d18023d1e59b428ba86e2698044b
-0d5622457cfeabf4475a5205622d585c1fcc60a609619576138779e038679875
+09ac6b254235e8304e97ce1af773061f5964c8698a885e0aba1733f19e435f4c
+0c0bb08e4e79583ee79f6af52cc71d20ccf2a3a66b194fbc55917bdb3fcdafe5
 103[.]167[.]65[.]157
+110a543112dca81da6485b3063f2fd6b3b469f58fd79e5dae6538a34b79f27a0
 112[.]213[.]110[.]225
-14070151852bc1b091fea0f488785bb3470191ce600c300bbc875debeb4a2694
 144[.]31[.]166[.]182
-18416e18dc64d0e67c7d5a103f63906be3d773a2dc20c4fccf0298e719159bbf
+185[.]241[.]208[.]53
 188[.]42[.]122[.]12
 188[.]42[.]122[.]68
 188[.]42[.]94[.]132
 188[.]42[.]94[.]28
+1d0ce3ecfe21cc5775abda12de91224a4e4a1da4599b3680bd16024146f6d621
 202[.]95[.]13[.]142
-212[.]74[.]20[.]102
-212[.]74[.]20[.]97
+2082c8f1763f8d82c00cd154d4fbe198b06e56c45f0f85256625477b247a43f8
 217[.]60[.]102[.]78
-2abf725d9f89644e0b11980da22d60f98ba1b36ceff6790d7eda76ac8b40c211
-32eaa9e3e29c9b348c275e3add94d0dcc17690def1d5d48a28fb99de17467c5d
-39da0706294d2342497cbeddbad9b58f54351f257ba3c9915a0a5606a02329f7
-3badaa1b0c7cf21f5eed580f2247102eada4999ac185e5ba9c144605ad3d9071
-3c68bae2acaa21fa46b57e902885f20edef30f4460a4a8b9cea49725557e7845
-4284b5e9d7a60512af8ad84a4d7ce054f4e1e47d99a44a0234d782e4a30d6607
+22590070d4d6368436964dc679f0d6cc24fb1b8cdd1ab02c7b30ab6b2a10ea24
+26c64f159e9f69f4fa079f0157a289d6cd89387c7e29defbe089bb808e789a20
+2cf0f4ef1e8d4547c032a4d78a2b49a96a3c64a418527e8c1fdb8f8e07ddc593
+36[.]255[.]97[.]22
+39a21b750b557b760ca65e54b7ee44e601bd4278b8486a1ebc31498fd26b8c49
+39b37e07c1db5e3c8c8b48266e35f79bc7900bdbf34c9a40daed73be9adeb93f
 46[.]246[.]6[.]6
-48d00ae0ca383f387d007ba6b7c56eed0ebc7306db9b184771105eda9dd56e45
+50b987d670380b4f5162dddcf6f6a3fddd52040e79517e47d3542ade5cd3db9b
+51045cc3b9fc90b2ce5aa312b9cd2a172b15981c05c4861741467f4ff824e9f2
+5pbqe4a7[.]bossbeyteam[.]click
 akun269[.]org
-battaglia[.]lol
-bossbeystar[.]click
-brasswindow[.]xyz
-captch[.]online
-co[.]alloha4d[.]org
-cuq[.]alloha4d[.]org
-docsign[.]blog
-fudcomcheck[.]art
-h[.]bosmj[.]org
+aloytoto[.]org
+b0[.]alloha4d[.]org
+bossbeyteam[.]click
+cuit8[.]org
+efev6d2j[.]bossbeyvip3[.]xyz
 hxxp://garcon[.]wtf/L1nc0In[.]php
-hxxps://154[.]222[.]16[.]220/
-hxxps://156[.]238[.]245[.]115/
 hxxps://claudeearlyaccess-fable[.]cfd/
+hxxps://cube-60[.]com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271[.]json
+hxxps://docsign[.]blog/
 hxxps://medlarportcullis[.]org/proxy/beta-schema
 hxxps://medlarportcullis[.]org/proxy/token-response[.]js
 hxxps://onchaindocfile[.]com/
@@ -61,8 +58,11 @@ hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/config
 hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/report
 hxxps://relay-mirror[.]kartohaantoha36-6a9[.]workers[.]dev/api/hlam/files/4001
 hxxps://support[.]grovecityelectrician[.]com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb
-i8[.]akun269[.]org
-j1ll6l7c[.]marya[.]store
+i3[.]aloytoto[.]org
+s[.]cuit8[.]org
+ss[.]akun269[.]org
+ttjs9qkl[.]bossbeymax[.]click
+tu[.]aloytoto[.]org
 
 
 # Auto-Fetch-ThreatIntel

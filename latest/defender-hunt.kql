@@ -1,31 +1,31 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-04 20:17 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-04 23:20 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "5pbqe4a7.bossbeyteam.click", "domain", "ClearFake", datetime(2026-11-04T23:20:44Z),
+    "aloytoto.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
+    "b0.alloha4d.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
+    "bossbeyteam.click", "domain", "ClearFake", datetime(2026-11-04T23:20:44Z),
+    "cuit8.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
+    "efev6d2j.bossbeyvip3.xyz", "domain", "ClearFake", datetime(2026-11-04T23:20:44Z),
+    "i3.aloytoto.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
+    "s.cuit8.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
+    "ss.akun269.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
+    "ttjs9qkl.bossbeymax.click", "domain", "ClearFake", datetime(2026-11-04T23:20:44Z),
+    "tu.aloytoto.org", "domain", "Vidar", datetime(2026-11-04T23:20:44Z),
     "144.31.166.182", "ip", "Unknown Stealer", datetime(2026-11-04T20:17:33Z),
     "46.246.6.6", "ip", "DCRat", datetime(2026-11-04T20:17:33Z),
     "akun269.org", "domain", "Vidar", datetime(2026-11-04T20:17:33Z),
-    "battaglia.lol", "domain", "KongTuke", datetime(2026-11-04T20:17:33Z),
-    "bossbeystar.click", "domain", "ClearFake", datetime(2026-11-04T20:17:33Z),
-    "brasswindow.xyz", "domain", "Unknown Loader", datetime(2026-11-04T20:17:33Z),
-    "captch.online", "domain", "IClickFix", datetime(2026-11-04T20:17:33Z),
-    "co.alloha4d.org", "domain", "Vidar", datetime(2026-11-04T20:17:33Z),
-    "cuq.alloha4d.org", "domain", "Vidar", datetime(2026-11-04T20:17:33Z),
-    "docsign.blog", "domain", "IClickFix", datetime(2026-11-04T20:17:33Z),
-    "fudcomcheck.art", "domain", "IClickFix", datetime(2026-11-04T20:17:33Z),
-    "h.bosmj.org", "domain", "Vidar", datetime(2026-11-04T20:17:33Z),
-    "i8.akun269.org", "domain", "Vidar", datetime(2026-11-04T20:17:33Z),
-    "j1ll6l7c.marya.store", "domain", "ClearFake", datetime(2026-11-04T20:17:33Z),
+    "185.241.208.53", "ip", "Evilginx", datetime(2026-11-04T20:17:33Z),
+    "36.255.97.22", "ip", "XWorm", datetime(2026-11-04T20:17:33Z),
     "103.167.65.157", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
     "188.42.122.12", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
     "188.42.122.68", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
     "188.42.94.132", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
     "188.42.94.28", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
-    "212.74.20.102", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
-    "212.74.20.97", "ip", "Unknown malware", datetime(2026-11-04T17:14:02Z),
     "217.60.102.78", "ip", "Remcos", datetime(2026-11-04T08:33:46Z),
     "112.213.110.225", "ip", "VShell", datetime(2026-11-04T06:25:00Z),
     "202.95.13.142", "ip", "ValleyRAT", datetime(2026-11-04T06:25:00Z),

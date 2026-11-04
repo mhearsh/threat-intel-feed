@@ -2,50 +2,50 @@ Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 217.60.102.78,ip,Remcos,77,high,"T1071, T1105",2026-11-04T08:33:46Z
 112.213.110.225,ip,VShell,77,high,"T1071, T1105",2026-11-04T06:25:00Z
 202.95.13.142,ip,ValleyRAT,77,high,"T1071, T1105",2026-11-04T06:25:00Z
-01692885f66844db4db0affe12760d7402a7997ba440dbbb2c19dcbcd8b5c075,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-03ae6eca55d1709479dce41ed04d2f21e785d18023d1e59b428ba86e2698044b,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-0d5622457cfeabf4475a5205622d585c1fcc60a609619576138779e038679875,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-14070151852bc1b091fea0f488785bb3470191ce600c300bbc875debeb4a2694,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
+09ac6b254235e8304e97ce1af773061f5964c8698a885e0aba1733f19e435f4c,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+0c0bb08e4e79583ee79f6af52cc71d20ccf2a3a66b194fbc55917bdb3fcdafe5,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+110a543112dca81da6485b3063f2fd6b3b469f58fd79e5dae6538a34b79f27a0,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+1d0ce3ecfe21cc5775abda12de91224a4e4a1da4599b3680bd16024146f6d621,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+2082c8f1763f8d82c00cd154d4fbe198b06e56c45f0f85256625477b247a43f8,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+22590070d4d6368436964dc679f0d6cc24fb1b8cdd1ab02c7b30ab6b2a10ea24,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+26c64f159e9f69f4fa079f0157a289d6cd89387c7e29defbe089bb808e789a20,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+2cf0f4ef1e8d4547c032a4d78a2b49a96a3c64a418527e8c1fdb8f8e07ddc593,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+39a21b750b557b760ca65e54b7ee44e601bd4278b8486a1ebc31498fd26b8c49,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+39b37e07c1db5e3c8c8b48266e35f79bc7900bdbf34c9a40daed73be9adeb93f,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+50b987d670380b4f5162dddcf6f6a3fddd52040e79517e47d3542ade5cd3db9b,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+51045cc3b9fc90b2ce5aa312b9cd2a172b15981c05c4861741467f4ff824e9f2,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+5pbqe4a7.bossbeyteam.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+aloytoto.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+b0.alloha4d.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+bossbeyteam.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+cuit8.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+efev6d2j.bossbeyvip3.xyz,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+i3.aloytoto.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+s.cuit8.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+ss.akun269.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+ttjs9qkl.bossbeymax.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
+tu.aloytoto.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T23:20:44Z
 144.31.166.182,ip,Unknown Stealer,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-18416e18dc64d0e67c7d5a103f63906be3d773a2dc20c4fccf0298e719159bbf,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-2abf725d9f89644e0b11980da22d60f98ba1b36ceff6790d7eda76ac8b40c211,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-32eaa9e3e29c9b348c275e3add94d0dcc17690def1d5d48a28fb99de17467c5d,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-39da0706294d2342497cbeddbad9b58f54351f257ba3c9915a0a5606a02329f7,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-3badaa1b0c7cf21f5eed580f2247102eada4999ac185e5ba9c144605ad3d9071,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-3c68bae2acaa21fa46b57e902885f20edef30f4460a4a8b9cea49725557e7845,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-4284b5e9d7a60512af8ad84a4d7ce054f4e1e47d99a44a0234d782e4a30d6607,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
 46.246.6.6,ip,DCRat,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-48d00ae0ca383f387d007ba6b7c56eed0ebc7306db9b184771105eda9dd56e45,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
 akun269.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-battaglia.lol,domain,KongTuke,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-bossbeystar.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-brasswindow.xyz,domain,Unknown Loader,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-captch.online,domain,IClickFix,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-co.alloha4d.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-cuq.alloha4d.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-docsign.blog,domain,IClickFix,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-fudcomcheck.art,domain,IClickFix,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-h.bosmj.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
 http://garcon.wtf/L1nc0In.php,url,DCRat,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-i8.akun269.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-j1ll6l7c.marya.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T20:17:33Z
-103.167.65.157,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-188.42.122.12,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-188.42.122.68,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-188.42.94.132,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-188.42.94.28,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-212.74.20.102,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-212.74.20.97,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-https://medlarportcullis.org/proxy/beta-schema,url,SmartApeSG,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-https://medlarportcullis.org/proxy/token-response.js,url,SmartApeSG,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-https://support.grovecityelectrician.com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb,url,FAKEUPDATES,74,medium,"T1071, T1105",2026-11-04T17:14:02Z
-https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,url,Unknown malware,74,medium,"T1071, T1105",2026-11-04T14:46:49Z
-https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/config,url,Unknown malware,74,medium,"T1071, T1105",2026-11-04T14:46:49Z
-https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/report,url,Unknown malware,74,medium,"T1071, T1105",2026-11-04T14:46:49Z
-https://relay-mirror.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,url,Unknown malware,74,medium,"T1071, T1105",2026-11-04T14:46:49Z
+https://docsign.blog/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T23:20:44Z
+185.241.208.53,ip,Evilginx,69,medium,"T1071, T1105",2026-11-04T20:17:33Z
+36.255.97.22,ip,XWorm,69,medium,"T1071, T1105",2026-11-04T20:17:33Z
 https://claudeearlyaccess-fable.cfd/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T20:17:33Z
 https://onchaindocfile.com/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T20:17:33Z
-https://154.222.16.220/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
-https://156.238.245.115/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+103.167.65.157,ip,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+188.42.122.12,ip,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+188.42.122.68,ip,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+188.42.94.132,ip,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+188.42.94.28,ip,Unknown malware,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://medlarportcullis.org/proxy/beta-schema,url,SmartApeSG,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://medlarportcullis.org/proxy/token-response.js,url,SmartApeSG,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://support.grovecityelectrician.com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb,url,FAKEUPDATES,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T14:46:49Z
+https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/config,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T14:46:49Z
+https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/report,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T14:46:49Z
+https://relay-mirror.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T14:46:49Z
+https://cube-60.com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271.json,url,AMOS,69,medium,"T1071, T1105",2026-11-04T10:52:42Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
