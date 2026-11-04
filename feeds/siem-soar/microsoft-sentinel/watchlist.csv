@@ -1,51 +1,51 @@
 Indicator,Type,Family,Score,Band,Mitre,FirstPublished
-217.60.102.231,ip,Remcos,83,high,"T1071, T1105",2026-11-03T21:06:11Z
-45.154.98.118,ip,Remcos,83,high,"T1071, T1105",2026-11-03T21:06:11Z
-45.83.31.203,ip,XWorm,83,high,"T1071, T1105",2026-11-03T21:06:11Z
-85.11.167.41,ip,Unknown malware,83,high,"T1071, T1105",2026-11-03T21:06:11Z
-91.92.42.84,ip,Unknown malware,83,high,"T1071, T1105",2026-11-03T21:06:11Z
-91.92.47.220,ip,Unknown malware,83,high,"T1071, T1105",2026-11-03T21:06:11Z
+217.60.102.231,ip,Remcos,77,high,"T1071, T1105",2026-11-03T21:06:11Z
+45.154.98.118,ip,Remcos,77,high,"T1071, T1105",2026-11-03T21:06:11Z
+45.83.31.203,ip,XWorm,77,high,"T1071, T1105",2026-11-03T21:06:11Z
+85.11.167.41,ip,Unknown malware,77,high,"T1071, T1105",2026-11-03T21:06:11Z
+91.92.42.84,ip,Unknown malware,77,high,"T1071, T1105",2026-11-03T21:06:11Z
+91.92.47.220,ip,Unknown malware,77,high,"T1071, T1105",2026-11-03T21:06:11Z
 198.206.152.4,ip,Remcos,77,high,"T1071, T1105",2026-11-03T11:03:43Z
 31.56.209.226,ip,Remcos,77,high,"T1071, T1105",2026-11-03T11:03:43Z
-082c2a714c1a1e7ac0b21fde84a6c149a06d7644c78d2e45b189fbb0deef5c73,sha256,Mirai,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-0ba41665335dc6d24d9489991ed3704a43064cbe38d4c4b6754d706c00905cb1,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-0cc1bd4d811107f5f25e24fc2bba0f6e71cd50f341403a74dfa66516e219e868,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-0eefe5dd5605680e24f2b6c0cb75f5dcdc4688b7c0f8ee2986a592a326cabc5f,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-101.34.218.233,ip,VShell,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-1135d9fab2ef52fe9f759992ee4c7e9da9af6b205efbda53216a8c6266ab80e9,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-124.221.142.210,ip,VShell,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-156.238.237.103,ip,VShell,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-1c4e9a6a9bcce85414ef68e51bb2b0b8a869613ffd17dfde4062f84a17f4f249,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-1db680ecf7e3c1668f2454df9d661fe3bf84a4e82031725bd871f8eeffd59eff,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-26539975049a135b6d47537264556da7a0d2c5a73bb7402acf3922c23381ebcc,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-2edd902f96067fbb93b21698043ae66ec525ac1f94de97004f313d20c7b57173,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-323214d1eb020eb1919c87bc48541f1e2997082279969adc77f52b6cc17f0135,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-34d7b6b30f4421f4c073900b2809a2f6e7f0b707afbf6aca52bfa3662440fe5e,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-3bf3763413f13ed640d88097dc87d4c61f856303121230083923c25cfa95a78e,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-45.76.145.171,ip,VShell,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-b.coy9.com,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-bossbeypro.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-d.bosmj.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-expovirtual2020.upsa.edu.bo,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://b.coy9.com/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://d.bosmj.org/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/c2/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/e/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/f/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/jg/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/kx/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/nj/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/ow/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/pd/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/pg/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-https://gw.alien203.org/r2/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-k.bob78.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-krerger.lol,domain,KongTuke,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-m1woevi7.haon.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-www.mwanainchi.co.ke,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-z4d0x58u.bossbeypro.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T02:16:53Z
-173ye7va.bossbeyprimezone.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
-8katifmu.bossbeyprimenetwork.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
-bossbeyprimezone.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-03T23:07:11Z
+080c039a46390a8a59f8077a79d06d54867c37546c5cd99fb6714390d8cf9538,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+082c2a714c1a1e7ac0b21fde84a6c149a06d7644c78d2e45b189fbb0deef5c73,sha256,Mirai,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+0ba41665335dc6d24d9489991ed3704a43064cbe38d4c4b6754d706c00905cb1,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+0cc1bd4d811107f5f25e24fc2bba0f6e71cd50f341403a74dfa66516e219e868,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+0eefe5dd5605680e24f2b6c0cb75f5dcdc4688b7c0f8ee2986a592a326cabc5f,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+101.34.218.233,ip,VShell,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+1135d9fab2ef52fe9f759992ee4c7e9da9af6b205efbda53216a8c6266ab80e9,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+124.221.142.210,ip,VShell,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+156.238.237.103,ip,VShell,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+159.75.91.47,ip,VShell,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+1c4e9a6a9bcce85414ef68e51bb2b0b8a869613ffd17dfde4062f84a17f4f249,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+1db680ecf7e3c1668f2454df9d661fe3bf84a4e82031725bd871f8eeffd59eff,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+2536a50fd642f7afdd8a1d1e3ac410a623b822bfe7df3f054bc0fbb2f9c8314d,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+26539975049a135b6d47537264556da7a0d2c5a73bb7402acf3922c23381ebcc,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+2777358990eea0242a38d9e34ac59fa1c9aa584b2d9a809662ebdc2e85414563,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+2edd902f96067fbb93b21698043ae66ec525ac1f94de97004f313d20c7b57173,sha256,AMOS,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+b.coy9.com,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+bossbeypro.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+d.bosmj.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+expovirtual2020.upsa.edu.bo,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+f015oa9h.kunci.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://b.coy9.com/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://b.coy9.com/h/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://b.coy9.com/z/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://d.bosmj.org/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/c2/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/e/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/f/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/jg/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/kx/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/nj/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/ow/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+https://gw.alien203.org/pd/,url,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+k.bob78.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+krerger.lol,domain,KongTuke,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+ln.akun258.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+m1woevi7.haon.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+w.bosmj.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+www.mwanainchi.co.ke,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
+z4d0x58u.bossbeypro.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-04T03:08:15Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

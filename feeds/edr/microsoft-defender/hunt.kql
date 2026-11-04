@@ -1,26 +1,26 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-04 02:16 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-04 03:08 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "101.34.218.233", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
-    "124.221.142.210", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
-    "156.238.237.103", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
-    "45.76.145.171", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
-    "b.coy9.com", "domain", "Vidar", datetime(2026-11-04T02:16:53Z),
-    "bossbeypro.click", "domain", "ClearFake", datetime(2026-11-04T02:16:53Z),
-    "d.bosmj.org", "domain", "Vidar", datetime(2026-11-04T02:16:53Z),
-    "expovirtual2020.upsa.edu.bo", "domain", "StrelaStealer", datetime(2026-11-04T02:16:53Z),
-    "k.bob78.org", "domain", "Vidar", datetime(2026-11-04T02:16:53Z),
-    "krerger.lol", "domain", "KongTuke", datetime(2026-11-04T02:16:53Z),
-    "m1woevi7.haon.store", "domain", "ClearFake", datetime(2026-11-04T02:16:53Z),
-    "www.mwanainchi.co.ke", "domain", "StrelaStealer", datetime(2026-11-04T02:16:53Z),
-    "z4d0x58u.bossbeypro.click", "domain", "ClearFake", datetime(2026-11-04T02:16:53Z),
-    "173ye7va.bossbeyprimezone.click", "domain", "ClearFake", datetime(2026-11-03T23:07:11Z),
-    "8katifmu.bossbeyprimenetwork.click", "domain", "ClearFake", datetime(2026-11-03T23:07:11Z),
-    "bossbeyprimezone.click", "domain", "ClearFake", datetime(2026-11-03T23:07:11Z),
+    "101.34.218.233", "ip", "VShell", datetime(2026-11-04T03:08:15Z),
+    "124.221.142.210", "ip", "VShell", datetime(2026-11-04T03:08:15Z),
+    "156.238.237.103", "ip", "VShell", datetime(2026-11-04T03:08:15Z),
+    "159.75.91.47", "ip", "VShell", datetime(2026-11-04T03:08:15Z),
+    "b.coy9.com", "domain", "Vidar", datetime(2026-11-04T03:08:15Z),
+    "bossbeypro.click", "domain", "ClearFake", datetime(2026-11-04T03:08:15Z),
+    "d.bosmj.org", "domain", "Vidar", datetime(2026-11-04T03:08:15Z),
+    "expovirtual2020.upsa.edu.bo", "domain", "StrelaStealer", datetime(2026-11-04T03:08:15Z),
+    "f015oa9h.kunci.store", "domain", "ClearFake", datetime(2026-11-04T03:08:15Z),
+    "k.bob78.org", "domain", "Vidar", datetime(2026-11-04T03:08:15Z),
+    "krerger.lol", "domain", "KongTuke", datetime(2026-11-04T03:08:15Z),
+    "ln.akun258.org", "domain", "Vidar", datetime(2026-11-04T03:08:15Z),
+    "m1woevi7.haon.store", "domain", "ClearFake", datetime(2026-11-04T03:08:15Z),
+    "w.bosmj.org", "domain", "Vidar", datetime(2026-11-04T03:08:15Z),
+    "www.mwanainchi.co.ke", "domain", "StrelaStealer", datetime(2026-11-04T03:08:15Z),
+    "z4d0x58u.bossbeypro.click", "domain", "ClearFake", datetime(2026-11-04T03:08:15Z),
     "217.60.102.231", "ip", "Remcos", datetime(2026-11-03T21:06:11Z),
     "45.154.98.118", "ip", "Remcos", datetime(2026-11-03T21:06:11Z),
     "45.83.31.203", "ip", "XWorm", datetime(2026-11-03T21:06:11Z),

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 02:16 UTC",
+ "updated": "2026-11-04 03:08 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -7,13 +7,13 @@
   "high": 8,
   "medium": 40
  },
- "fresh_6h": 46,
+ "fresh_6h": 40,
  "hashes": {
-  "sha256": 7417,
+  "sha256": 7446,
   "sha1": 785,
   "md5": 787
  },
- "hash_count": 8989,
+ "hash_count": 9018,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -21,11 +21,11 @@
   "url": 12
  },
  "families": {
-  "Vidar": 15,
+  "Vidar": 17,
   "AMOS": 11,
-  "ClearFake": 6,
   "Remcos": 4,
   "VShell": 4,
+  "ClearFake": 4,
   "Unknown malware": 3,
   "StrelaStealer": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
