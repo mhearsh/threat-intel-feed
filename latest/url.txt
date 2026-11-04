@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-04 17:14 UTC   Count: 499   Expiry: 30 days               #
+#  Updated: 2026-11-04 20:17 UTC   Count: 500   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -34,6 +34,7 @@ cube-60.com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271.json
 cube-60.com/f/3ouaaio6tobacvyfqoejza/sul9ec1i
 fern46.com/curl/1to6141b0p/lgk1rfayfis7z0qtqtrp.json
 fern46.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj
+garcon.wtf/L1nc0In.php
 gw.alien203.org/c2
 gw.alien203.org/e
 gw.alien203.org/f
