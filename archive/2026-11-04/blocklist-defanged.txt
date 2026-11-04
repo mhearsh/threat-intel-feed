@@ -1,0 +1,80 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-04 02:16 UTC   Count: 50   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-04
+
+082c2a714c1a1e7ac0b21fde84a6c149a06d7644c78d2e45b189fbb0deef5c73
+0ba41665335dc6d24d9489991ed3704a43064cbe38d4c4b6754d706c00905cb1
+0cc1bd4d811107f5f25e24fc2bba0f6e71cd50f341403a74dfa66516e219e868
+0eefe5dd5605680e24f2b6c0cb75f5dcdc4688b7c0f8ee2986a592a326cabc5f
+101[.]34[.]218[.]233
+1135d9fab2ef52fe9f759992ee4c7e9da9af6b205efbda53216a8c6266ab80e9
+124[.]221[.]142[.]210
+156[.]238[.]237[.]103
+1c4e9a6a9bcce85414ef68e51bb2b0b8a869613ffd17dfde4062f84a17f4f249
+1db680ecf7e3c1668f2454df9d661fe3bf84a4e82031725bd871f8eeffd59eff
+26539975049a135b6d47537264556da7a0d2c5a73bb7402acf3922c23381ebcc
+2edd902f96067fbb93b21698043ae66ec525ac1f94de97004f313d20c7b57173
+323214d1eb020eb1919c87bc48541f1e2997082279969adc77f52b6cc17f0135
+34d7b6b30f4421f4c073900b2809a2f6e7f0b707afbf6aca52bfa3662440fe5e
+3bf3763413f13ed640d88097dc87d4c61f856303121230083923c25cfa95a78e
+45[.]76[.]145[.]171
+b[.]coy9[.]com
+bossbeypro[.]click
+d[.]bosmj[.]org
+expovirtual2020[.]upsa[.]edu[.]bo
+hxxps://b[.]coy9[.]com/
+hxxps://d[.]bosmj[.]org/
+hxxps://gw[.]alien203[.]org/c2/
+hxxps://gw[.]alien203[.]org/e/
+hxxps://gw[.]alien203[.]org/f/
+hxxps://gw[.]alien203[.]org/jg/
+hxxps://gw[.]alien203[.]org/kx/
+hxxps://gw[.]alien203[.]org/nj/
+hxxps://gw[.]alien203[.]org/ow/
+hxxps://gw[.]alien203[.]org/pd/
+hxxps://gw[.]alien203[.]org/pg/
+hxxps://gw[.]alien203[.]org/r2/
+k[.]bob78[.]org
+krerger[.]lol
+m1woevi7[.]haon[.]store
+www[.]mwanainchi[.]co[.]ke
+z4d0x58u[.]bossbeypro[.]click
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+173ye7va[.]bossbeyprimezone[.]click
+198[.]206[.]152[.]4
+217[.]60[.]102[.]231
+31[.]56[.]209[.]226
+45[.]154[.]98[.]118
+45[.]83[.]31[.]203
+85[.]11[.]167[.]41
+8katifmu[.]bossbeyprimenetwork[.]click
+91[.]92[.]42[.]84
+91[.]92[.]47[.]220
+bossbeyprimezone[.]click
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

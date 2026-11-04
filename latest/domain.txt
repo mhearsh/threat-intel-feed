@@ -6,9 +6,24 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-03 23:07 UTC   Count: 661   Expiry: 30 days               #
+#  Updated: 2026-11-04 02:16 UTC   Count: 670   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-04
+
+b.coy9.com
+bossbeypro.click
+d.bosmj.org
+expovirtual2020.upsa.edu.bo
+k.bob78.org
+krerger.lol
+m1woevi7.haon.store
+www.mwanainchi.co.ke
+z4d0x58u.bossbeypro.click
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

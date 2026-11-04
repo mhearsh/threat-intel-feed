@@ -1,0 +1,39 @@
+// ============================================================================
+//  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
+//  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
+//  Updated: 2026-11-04 02:16 UTC   Count: 26   TLP:CLEAR
+//  FirstPublished = date the IOC first entered the feed (newest first)
+// ============================================================================
+let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "101.34.218.233", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
+    "124.221.142.210", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
+    "156.238.237.103", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
+    "45.76.145.171", "ip", "VShell", datetime(2026-11-04T02:16:53Z),
+    "b.coy9.com", "domain", "Vidar", datetime(2026-11-04T02:16:53Z),
+    "bossbeypro.click", "domain", "ClearFake", datetime(2026-11-04T02:16:53Z),
+    "d.bosmj.org", "domain", "Vidar", datetime(2026-11-04T02:16:53Z),
+    "expovirtual2020.upsa.edu.bo", "domain", "StrelaStealer", datetime(2026-11-04T02:16:53Z),
+    "k.bob78.org", "domain", "Vidar", datetime(2026-11-04T02:16:53Z),
+    "krerger.lol", "domain", "KongTuke", datetime(2026-11-04T02:16:53Z),
+    "m1woevi7.haon.store", "domain", "ClearFake", datetime(2026-11-04T02:16:53Z),
+    "www.mwanainchi.co.ke", "domain", "StrelaStealer", datetime(2026-11-04T02:16:53Z),
+    "z4d0x58u.bossbeypro.click", "domain", "ClearFake", datetime(2026-11-04T02:16:53Z),
+    "173ye7va.bossbeyprimezone.click", "domain", "ClearFake", datetime(2026-11-03T23:07:11Z),
+    "8katifmu.bossbeyprimenetwork.click", "domain", "ClearFake", datetime(2026-11-03T23:07:11Z),
+    "bossbeyprimezone.click", "domain", "ClearFake", datetime(2026-11-03T23:07:11Z),
+    "217.60.102.231", "ip", "Remcos", datetime(2026-11-03T21:06:11Z),
+    "45.154.98.118", "ip", "Remcos", datetime(2026-11-03T21:06:11Z),
+    "45.83.31.203", "ip", "XWorm", datetime(2026-11-03T21:06:11Z),
+    "85.11.167.41", "ip", "Unknown malware", datetime(2026-11-03T21:06:11Z),
+    "91.92.42.84", "ip", "Unknown malware", datetime(2026-11-03T21:06:11Z),
+    "91.92.47.220", "ip", "Unknown malware", datetime(2026-11-03T21:06:11Z),
+    "198.206.152.4", "ip", "Remcos", datetime(2026-11-03T11:03:43Z),
+    "31.56.209.226", "ip", "Remcos", datetime(2026-11-03T11:03:43Z),
+    "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
+    "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
+];
+let ips = iocs | where Type == "ip" | project Indicator;
+let doms = iocs | where Type == "domain" | project Indicator;
+DeviceNetworkEvents | where Timestamp > ago(7d)
+| where RemoteIP in (ips) or RemoteUrl has_any (doms)
+| project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

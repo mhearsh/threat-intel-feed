@@ -6,9 +6,25 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-03 23:07 UTC   Count: 464   Expiry: 30 days               #
+#  Updated: 2026-11-04 02:16 UTC   Count: 474   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-04
+
+gw.alien203.org/c2
+gw.alien203.org/e
+gw.alien203.org/f
+gw.alien203.org/jg
+gw.alien203.org/kx
+gw.alien203.org/nj
+gw.alien203.org/ow
+gw.alien203.org/pd
+gw.alien203.org/pg
+gw.alien203.org/r2
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
