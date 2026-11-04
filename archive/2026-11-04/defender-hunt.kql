@@ -1,24 +1,26 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-04 08:33 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-04 10:52 UTC   Count: 26   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "193.187.91.224", "ip", "Remcos", datetime(2026-11-04T10:52:42Z),
+    "31.59.137.16", "ip", "Nanocore RAT", datetime(2026-11-04T10:52:42Z),
+    "61tbj2c7.levoya.store", "domain", "ClearFake", datetime(2026-11-04T10:52:42Z),
+    "a9y70wox.haysam.store", "domain", "ClearFake", datetime(2026-11-04T10:52:42Z),
+    "agreement-rc.com", "domain", "NetSupportManager RAT", datetime(2026-11-04T10:52:42Z),
+    "bu.allbaslot.org", "domain", "Vidar", datetime(2026-11-04T10:52:42Z),
+    "cube-60.com", "domain", "AMOS", datetime(2026-11-04T10:52:42Z),
+    "distrohaven.xyz", "domain", "Unknown Loader", datetime(2026-11-04T10:52:42Z),
+    "jellyfishparty.info", "domain", "Unknown Loader", datetime(2026-11-04T10:52:42Z),
+    "kidsmoralstory.in", "domain", "StrelaStealer", datetime(2026-11-04T10:52:42Z),
+    "kt.allbaslot.org", "domain", "Vidar", datetime(2026-11-04T10:52:42Z),
+    "microsofttelemetryservices.st", "domain", "Unknown malware", datetime(2026-11-04T10:52:42Z),
+    "synnfjellporten.no.datasenter.no", "domain", "StrelaStealer", datetime(2026-11-04T10:52:42Z),
+    "xix.allbaslot.org", "domain", "Vidar", datetime(2026-11-04T10:52:42Z),
     "217.60.102.78", "ip", "Remcos", datetime(2026-11-04T08:33:46Z),
     "107.173.21.218", "ip", "VShell", datetime(2026-11-04T08:33:46Z),
-    "a8.coy9.com", "domain", "Vidar", datetime(2026-11-04T08:33:46Z),
-    "allbaslot.org", "domain", "Vidar", datetime(2026-11-04T08:33:46Z),
-    "bossbeyservice.click", "domain", "ClearFake", datetime(2026-11-04T08:33:46Z),
-    "esyscozo.bossbeyservice.click", "domain", "ClearFake", datetime(2026-11-04T08:33:46Z),
-    "fern46.com", "domain", "AMOS", datetime(2026-11-04T08:33:46Z),
-    "it0sxerr.hasir.store", "domain", "ClearFake", datetime(2026-11-04T08:33:46Z),
-    "nimbus-58.com", "domain", "AMOS", datetime(2026-11-04T08:33:46Z),
-    "r.bosmj.org", "domain", "Vidar", datetime(2026-11-04T08:33:46Z),
-    "robsnson.lol", "domain", "KongTuke", datetime(2026-11-04T08:33:46Z),
-    "s8.akun258.org", "domain", "Vidar", datetime(2026-11-04T08:33:46Z),
-    "t1.allbaslot.org", "domain", "Vidar", datetime(2026-11-04T08:33:46Z),
-    "v8lvhz7y.lecar.store", "domain", "ClearFake", datetime(2026-11-04T08:33:46Z),
     "112.213.110.225", "ip", "VShell", datetime(2026-11-04T06:25:00Z),
     "202.95.13.142", "ip", "ValleyRAT", datetime(2026-11-04T06:25:00Z),
     "217.60.102.231", "ip", "Remcos", datetime(2026-11-03T21:06:11Z),
@@ -27,8 +29,6 @@ let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublishe
     "85.11.167.41", "ip", "Unknown malware", datetime(2026-11-03T21:06:11Z),
     "91.92.42.84", "ip", "Unknown malware", datetime(2026-11-03T21:06:11Z),
     "91.92.47.220", "ip", "Unknown malware", datetime(2026-11-03T21:06:11Z),
-    "198.206.152.4", "ip", "Remcos", datetime(2026-11-03T11:03:43Z),
-    "31.56.209.226", "ip", "Remcos", datetime(2026-11-03T11:03:43Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

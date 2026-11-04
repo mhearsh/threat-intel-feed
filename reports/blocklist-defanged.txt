@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-04 08:33 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-04 10:52 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,27 +15,30 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-04
 
-012e23b5190513ecee900f819b9c1731f6028eebed7f697219a0fc6516c0aa69
-035482c9bf34a2c80b872d191b4ae7f306ee69d7dd93fb33364f781499548906
-0db9b8ccd3abee53d1db95e2d02c009f7ea945bcca2318209928c1ec93ebacfe
-0e3da0c3de061ae4cf1ec31ceb27290483e063598dd32fb8fe234795f52ff443
 107[.]173[.]21[.]218
 112[.]213[.]110[.]225
-163fb9f0865a89a08b3ce511c680c823ccf00605e84903734b3b6047e3f23313
+193[.]187[.]91[.]224
+1c6f6e708b69a98c048345cd3df344ad4c7b04ecebefa1213273a60c825b97d9
 202[.]95[.]13[.]142
 217[.]60[.]102[.]78
-248dcbfc5e848bd2bbf383945eb64cc8e56c038d9cb400857a8892d9428e97b5
-2607d870538d4c5aa7bc73c5830762c50ba6aecad250a48f792557171ebc3652
-27ca1b793dc18e5485b1eaa7a2f1ee572beb94b0f126a3ccdf13fe2d2fc1d78c
-29d5da2ec2847b2530bec480e60588ad1575d0c49c756afdf5ef9a114e0f7294
-3b135d72f43fd5255598f1f6bf2f299a056b2428fd983f73aef0fa2727ad493b
-3bd6501eb64545eae842525b65846a03abd541999755b38b7970168b28418caa
-3c8963ae90ddbeac47184ddcc85009f2f901f82ee2a5bd8564a9d4c2a4a2e4d4
-a8[.]coy9[.]com
-allbaslot[.]org
-bossbeyservice[.]click
-esyscozo[.]bossbeyservice[.]click
-fern46[.]com
+2bc2b4e876d2fd2ba905b5d82871e09ffb83097d40f9eb1bffc9a8ff1b73ef22
+31[.]59[.]137[.]16
+45976abfbf1e2bacaeeeb0e4e25d76a9abecd75cf2f1718fa6a4b19b02e6c751
+479606caa133c957edd44c9f1d0ed676006250ec5ec183c05cfc1487d325811f
+57700b0f06d835a482f900ec88ea49889b5d437e9a2ca9597ff9d80c7bc28f3d
+5cc2bf430ca5548699118fc105f818750ca53dbadbd374312c59a58719c99e70
+5e2358dbfd60e1ee50548ce2f70660a1bfd44e6250b5f05edf41c6776212eb09
+61tbj2c7[.]levoya[.]store
+6b9d2d7e9c82f5b8509ec8bb2bd3d208f818f22a6c559db146ed83cc15faf2af
+a260d64e8c5808ca3b1baabe6a5cb5a9b07d14c667781752ea6916104e55c429
+a9y70wox[.]haysam[.]store
+agreement-rc[.]com
+bc368918191f275a56bab5a3cbbd421cf9ae293379798b75d6b02b49112a3831
+bf3eeec7e1fe9f45e1a100d9d30d5a4f5e5d55ded238608726bf534f31cc1e03
+bu[.]allbaslot[.]org
+cube-60[.]com
+dc39bb151c71b46f7eb08258e3fdc1ae86e5f6ea0352848b649eb3460caa1e03
+distrohaven[.]xyz
 hxxp://ci797165[.]tw1[.]ru/L1nc0In[.]php
 hxxps://159[.]69[.]176[.]1/
 hxxps://2[.]29[.]145[.]248/
@@ -44,26 +47,23 @@ hxxps://2[.]29[.]152[.]8/
 hxxps://2[.]29[.]157[.]217/
 hxxps://2[.]29[.]159[.]106/
 hxxps://95[.]216[.]197[.]0/
-hxxps://b[.]coy9[.]com/i/
-hxxps://b[.]coy9[.]com/m/
+hxxps://cube-60[.]com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271[.]json
+hxxps://cube-60[.]com/f/3ouaaio6tobacvyfqoejza/sul9ec1i
 hxxps://fern46[.]com/curl/1to6141b0p/lgk1rfayfis7z0qtqtrp[.]json
-hxxps://fern46[.]com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj
-it0sxerr[.]hasir[.]store
-nimbus-58[.]com
-r[.]bosmj[.]org
-robsnson[.]lol
-s8[.]akun258[.]org
-t1[.]allbaslot[.]org
-v8lvhz7y[.]lecar[.]store
+hxxps://microsofttelemetryservices[.]st/api/bundle
+jellyfishparty[.]info
+kidsmoralstory[.]in
+kt[.]allbaslot[.]org
+microsofttelemetryservices[.]st
+synnfjellporten[.]no[.]datasenter[.]no
+xix[.]allbaslot[.]org
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-03
 
-198[.]206[.]152[.]4
 217[.]60[.]102[.]231
-31[.]56[.]209[.]226
 45[.]154[.]98[.]118
 45[.]83[.]31[.]203
 85[.]11[.]167[.]41
