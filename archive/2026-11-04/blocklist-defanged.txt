@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-04 03:08 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-04 06:25 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,46 +15,46 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-04
 
-080c039a46390a8a59f8077a79d06d54867c37546c5cd99fb6714390d8cf9538
-082c2a714c1a1e7ac0b21fde84a6c149a06d7644c78d2e45b189fbb0deef5c73
-0ba41665335dc6d24d9489991ed3704a43064cbe38d4c4b6754d706c00905cb1
-0cc1bd4d811107f5f25e24fc2bba0f6e71cd50f341403a74dfa66516e219e868
-0eefe5dd5605680e24f2b6c0cb75f5dcdc4688b7c0f8ee2986a592a326cabc5f
+0493a027fc10d4f437a7b04812756a65b1798902f0321231047a31954e678fa6
+051cffde7a46178e33c667fab183ae5930e649a4c119b2a60f14c55d8479bc81
+0649404c789622285371feac58fac468d63dd241c531208e22226c44d02769ad
+0a892d66d14d29298ae62330ffc5daba8020e00963e4d1a97bf3c040c1d76d48
 101[.]34[.]218[.]233
-1135d9fab2ef52fe9f759992ee4c7e9da9af6b205efbda53216a8c6266ab80e9
-124[.]221[.]142[.]210
-156[.]238[.]237[.]103
-159[.]75[.]91[.]47
-1c4e9a6a9bcce85414ef68e51bb2b0b8a869613ffd17dfde4062f84a17f4f249
-1db680ecf7e3c1668f2454df9d661fe3bf84a4e82031725bd871f8eeffd59eff
-2536a50fd642f7afdd8a1d1e3ac410a623b822bfe7df3f054bc0fbb2f9c8314d
-26539975049a135b6d47537264556da7a0d2c5a73bb7402acf3922c23381ebcc
-2777358990eea0242a38d9e34ac59fa1c9aa584b2d9a809662ebdc2e85414563
-2edd902f96067fbb93b21698043ae66ec525ac1f94de97004f313d20c7b57173
-b[.]coy9[.]com
-bossbeypro[.]click
-d[.]bosmj[.]org
-expovirtual2020[.]upsa[.]edu[.]bo
-f015oa9h[.]kunci[.]store
-hxxps://b[.]coy9[.]com/
-hxxps://b[.]coy9[.]com/h/
-hxxps://b[.]coy9[.]com/z/
-hxxps://d[.]bosmj[.]org/
-hxxps://gw[.]alien203[.]org/c2/
-hxxps://gw[.]alien203[.]org/e/
-hxxps://gw[.]alien203[.]org/f/
-hxxps://gw[.]alien203[.]org/jg/
-hxxps://gw[.]alien203[.]org/kx/
-hxxps://gw[.]alien203[.]org/nj/
-hxxps://gw[.]alien203[.]org/ow/
-hxxps://gw[.]alien203[.]org/pd/
-k[.]bob78[.]org
-krerger[.]lol
-ln[.]akun258[.]org
-m1woevi7[.]haon[.]store
-w[.]bosmj[.]org
-www[.]mwanainchi[.]co[.]ke
-z4d0x58u[.]bossbeypro[.]click
+112[.]213[.]110[.]225
+12dim-xanth[.]xan[.]sch[.]gr
+1349704d9cc3c49603fc68773e821f4751a08926efc512b0725d4e4066535685
+15f54so2[.]bossbeyroyal[.]click
+1a9bf2095f55a95313fbf8e9da6b4f04657773d63b38a8afdc956e8441b110ec
+1e0055ea538967184958501d5f0daa1f3dfb13401332d6793c4f015f3e776f34
+202[.]95[.]13[.]142
+213362d3225becf0555003a8136146aaa0bd1aaab0ab2f2096b3bf48899f7c11
+279a3710cb51e2af95ab0761745d59b2bf0b82280830853833b9f9e73c9064b1
+2bf9959f7b2c27805f407104c1b5d1666051fed6031b736fdf894b00792dbdd9
+3399aba09a449e3a24a1d133a385b881524768e6511eee3553d33237df8a5afe
+383419df28b6edb4863c77bdf4067b223c362ce2073ba6d35d0bfaff75672ad0
+47[.]239[.]109[.]26
+afktogel[.]org
+akun258[.]org
+alien203[.]org
+bosmj[.]org
+bossbeyroyal[.]click
+coy9[.]com
+dpjju[.]in
+fz[.]afktogel[.]org
+hxxps://b[.]coy9[.]com/i/
+hxxps://b[.]coy9[.]com/m/
+hxxps://bio[.]alien203[.]org/ah/
+hxxps://bio[.]alien203[.]org/at/
+hxxps://bio[.]alien203[.]org/b6/
+hxxps://bio[.]alien203[.]org/d/
+hxxps://bio[.]alien203[.]org/gf/
+hxxps://bio[.]alien203[.]org/hv/
+hxxps://bio[.]alien203[.]org/p/
+hxxps://bio[.]alien203[.]org/sm/
+hxxps://bio[.]alien203[.]org/tz/
+hxxps://bio[.]alien203[.]org/vd/
+k9[.]alien203[.]org
+lamborshop[.]com
 
 
 # Auto-Fetch-ThreatIntel

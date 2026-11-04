@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-04 03:08 UTC   Count: 673   Expiry: 30 days               #
+#  Updated: 2026-11-04 06:25 UTC   Count: 685   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,13 +15,25 @@
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-04
 
+12dim-xanth.xan.sch.gr
+15f54so2.bossbeyroyal.click
+afktogel.org
+akun258.org
+alien203.org
 b.coy9.com
+bosmj.org
 bossbeypro.click
+bossbeyroyal.click
+coy9.com
 d.bosmj.org
+dpjju.in
 expovirtual2020.upsa.edu.bo
 f015oa9h.kunci.store
+fz.afktogel.org
 k.bob78.org
+k9.alien203.org
 krerger.lol
+lamborshop.com
 ln.akun258.org
 m1woevi7.haon.store
 w.bosmj.org

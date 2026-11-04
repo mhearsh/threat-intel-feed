@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-04 03:08 UTC   Count: 1147   Expiry: 30 days              #
+#  Updated: 2026-11-04 06:25 UTC   Count: 1171   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -16,7 +16,19 @@
 # 2026-11-04
 
 b.coy9.com/h
+b.coy9.com/i
+b.coy9.com/m
 b.coy9.com/z
+bio.alien203.org/ah
+bio.alien203.org/at
+bio.alien203.org/b6
+bio.alien203.org/d
+bio.alien203.org/gf
+bio.alien203.org/hv
+bio.alien203.org/p
+bio.alien203.org/sm
+bio.alien203.org/tz
+bio.alien203.org/vd
 gw.alien203.org/c2
 gw.alien203.org/e
 gw.alien203.org/f
@@ -31,13 +43,25 @@ gw.alien203.org/pd
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-04
 
+12dim-xanth.xan.sch.gr
+15f54so2.bossbeyroyal.click
+afktogel.org
+akun258.org
+alien203.org
 b.coy9.com
+bosmj.org
 bossbeypro.click
+bossbeyroyal.click
+coy9.com
 d.bosmj.org
+dpjju.in
 expovirtual2020.upsa.edu.bo
 f015oa9h.kunci.store
+fz.afktogel.org
 k.bob78.org
+k9.alien203.org
 krerger.lol
+lamborshop.com
 ln.akun258.org
 m1woevi7.haon.store
 w.bosmj.org

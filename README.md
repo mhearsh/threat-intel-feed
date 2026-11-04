@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-04 03:08 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 40 first seen under 6h ago. File-hash feed: 7446 SHA-256 · 785 SHA-1 · 787 MD5._
+_Last update: 2026-11-04 06:25 UTC. 50 IOCs (ip: 14, sha256: 12, domain: 12, url: 12); 40 first seen under 6h ago. File-hash feed: 7511 SHA-256 · 785 SHA-1 · 787 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `217[.]60[.]102[.]231` | ip | Remcos | 77 | high | T1071, T1105 |
-| 2 | `45[.]154[.]98[.]118` | ip | Remcos | 77 | high | T1071, T1105 |
-| 3 | `45[.]83[.]31[.]203` | ip | XWorm | 77 | high | T1071, T1105 |
-| 4 | `85[.]11[.]167[.]41` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 5 | `91[.]92[.]42[.]84` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 6 | `91[.]92[.]47[.]220` | ip | Unknown malware | 77 | high | T1071, T1105 |
-| 7 | `198[.]206[.]152[.]4` | ip | Remcos | 77 | high | T1071, T1105 |
-| 8 | `31[.]56[.]209[.]226` | ip | Remcos | 77 | high | T1071, T1105 |
-| 9 | `080c039a46390a8a59f8077a79d06d54867c37546c5cd99fb6714390d8cf` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 10 | `082c2a714c1a1e7ac0b21fde84a6c149a06d7644c78d2e45b189fbb0deef` | sha256 | Mirai | 74 | medium | T1071, T1105 |
-| 11 | `0ba41665335dc6d24d9489991ed3704a43064cbe38d4c4b6754d706c0090` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 12 | `0cc1bd4d811107f5f25e24fc2bba0f6e71cd50f341403a74dfa66516e219` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 13 | `0eefe5dd5605680e24f2b6c0cb75f5dcdc4688b7c0f8ee2986a592a326ca` | sha256 | AMOS | 74 | medium | T1071, T1105 |
-| 14 | `101[.]34[.]218[.]233` | ip | VShell | 74 | medium | T1071, T1105 |
-| 15 | `1135d9fab2ef52fe9f759992ee4c7e9da9af6b205efbda53216a8c6266ab` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 1 | `112[.]213[.]110[.]225` | ip | VShell | 83 | high | T1071, T1105 |
+| 2 | `202[.]95[.]13[.]142` | ip | ValleyRAT | 83 | high | T1071, T1105 |
+| 3 | `217[.]60[.]102[.]231` | ip | Remcos | 77 | high | T1071, T1105 |
+| 4 | `45[.]154[.]98[.]118` | ip | Remcos | 77 | high | T1071, T1105 |
+| 5 | `45[.]83[.]31[.]203` | ip | XWorm | 77 | high | T1071, T1105 |
+| 6 | `85[.]11[.]167[.]41` | ip | Unknown malware | 77 | high | T1071, T1105 |
+| 7 | `91[.]92[.]42[.]84` | ip | Unknown malware | 77 | high | T1071, T1105 |
+| 8 | `91[.]92[.]47[.]220` | ip | Unknown malware | 77 | high | T1071, T1105 |
+| 9 | `198[.]206[.]152[.]4` | ip | Remcos | 77 | high | T1071, T1105 |
+| 10 | `31[.]56[.]209[.]226` | ip | Remcos | 77 | high | T1071, T1105 |
+| 11 | `0493a027fc10d4f437a7b04812756a65b1798902f0321231047a31954e67` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 12 | `051cffde7a46178e33c667fab183ae5930e649a4c119b2a60f14c55d8479` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 13 | `0649404c789622285371feac58fac468d63dd241c531208e22226c44d027` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 14 | `0a892d66d14d29298ae62330ffc5daba8020e00963e4d1a97bf3c040c1d7` | sha256 | AMOS | 74 | medium | T1071, T1105 |
+| 15 | `12dim-xanth[.]xan[.]sch[.]gr` | domain | StrelaStealer | 74 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
