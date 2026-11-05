@@ -1,34 +1,22 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-05 06:58 UTC   Count: 26   TLP:CLEAR
+//  Updated: 2026-11-05 10:19 UTC   Count: 14   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "23.94.252.99", "ip", "SnappyClient", datetime(2026-11-05T06:57:59Z),
-    "162.55.91.69", "ip", "Remcos", datetime(2026-11-05T06:57:59Z),
-    "3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion", "domain", "Unknown malware", datetime(2026-11-05T06:57:59Z),
-    "7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion", "domain", "Unknown malware", datetime(2026-11-05T06:57:59Z),
-    "alphaslot677.org", "domain", "Vidar", datetime(2026-11-05T06:57:59Z),
-    "ashfold.cc", "domain", "ACR Stealer", datetime(2026-11-05T06:57:59Z),
-    "bellwick.cc", "domain", "ACR Stealer", datetime(2026-11-05T06:57:59Z),
-    "borieshanae022.net", "domain", "NetSupportManager RAT", datetime(2026-11-05T06:57:59Z),
-    "briardell.cc", "domain", "ACR Stealer", datetime(2026-11-05T06:57:59Z),
-    "cindermoor.cc", "domain", "ACR Stealer", datetime(2026-11-05T06:57:59Z),
-    "cove-taee-tmx4z.pro", "domain", "IClickFix", datetime(2026-11-05T06:57:59Z),
-    "coveglen.cc", "domain", "ACR Stealer", datetime(2026-11-05T06:57:59Z),
-    "duskglen.cc", "domain", "ACR Stealer", datetime(2026-11-05T06:57:59Z),
-    "ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion", "domain", "Unknown malware", datetime(2026-11-05T06:57:59Z),
-    "31.56.53.146", "ip", "NetSupportManager RAT", datetime(2026-11-05T04:39:13Z),
-    "101.42.47.73", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
-    "154.80.128.137", "ip", "CECbot", datetime(2026-11-05T04:39:13Z),
-    "186.246.17.208", "ip", "Havoc", datetime(2026-11-05T04:39:13Z),
-    "202.6.205.18", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
-    "46.8.70.157", "ip", "Unknown malware", datetime(2026-11-05T04:39:13Z),
-    "47.97.197.89", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
-    "8.138.194.14", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
-    "144.172.118.80", "ip", "Unknown malware", datetime(2026-11-05T04:39:13Z),
-    "144.172.91.133", "ip", "Unknown malware", datetime(2026-11-05T04:39:13Z),
+    "109.160.32.111", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "109.160.32.160", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "109.160.32.164", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "130.12.181.21", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "176.120.22.179", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "43.228.157.234", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "45.138.12.15", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "62.60.134.150", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "85.11.167.204", "ip", "multi-blocklist", datetime(2026-11-05T04:39:13Z),
+    "43.136.174.17", "ip", "Cobaltstrike", datetime(2026-11-04T10:52:42Z),
+    "129.211.213.240", "ip", "Cobaltstrike", datetime(2026-11-03T06:54:04Z),
+    "222.255.215.127", "ip", "Cobaltstrike", datetime(2026-11-03T06:54:04Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

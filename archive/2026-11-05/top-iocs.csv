@@ -1,51 +1,27 @@
 rank,ioc_defanged,type,family,score,band,sources,age_h,context,mitre,first_published
-1,23[.]94[.]252[.]99,ip,SnappyClient,83,high,Spamhaus-DROP|ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-2,31[.]56[.]53[.]146,ip,NetSupportManager RAT,83,high,Spamhaus-DROP|ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-3,026b1ea295a67ddcf0c8f153c3f1bc14f39707382fec6088faf698310b193aaf,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-4,11c80ff758fdd8e5a1a92f81fcb6fd3bfce04766221a53aba287158ab39f386f,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-5,162[.]55[.]91[.]69,ip,Remcos,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-6,234b3c8aa80f01236f25ec6680bdca2e02c80a9fb966854a4f9e11d55c862998,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-7,28b5a5a9a7810eec3a2e408a64b3d90cd575ff38b70814e2eb5467aede61ce38,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-8,2a1a29a34784b3a346c854f7d9c60b04495545922e2442130d58a3105ca78f59,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-9,2fe4799864056e2d312269e8c3bef3419ba2103a0e373088ed581d2a6c6bf4b6,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-10,30ffdd66dc35614c03601d952d150a728899cc6312d62c4f52ee2a42652c5cff,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-11,3198ed07dfd77975bbf29d843b75e33734f93bf3456a4231418d7c0390fdc4b0,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-12,3c25015cd20b78c2918980d4c1cb652afe15a26e1d5864fde14cec50845cb222,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-13,3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd[.]onion,domain,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-14,4403f2d21f4fcff4dce3d302a32b2333a8df18184ff8f510c624c01a9ae011b8,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-15,5774f47be2b43d25b1ac9ea1a4b4f66eca4c2a3af0abfb7fa5b3eeadc7147044,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-16,66bbefc7d1d1041e457dd71a585722e04efaf3897ee1165afd4eea14622cad14,sha256,AMOS,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-17,7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad[.]onion,domain,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-18,alphaslot677[.]org,domain,Vidar,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-19,ashfold[.]cc,domain,ACR Stealer,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-20,bellwick[.]cc,domain,ACR Stealer,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-21,borieshanae022[.]net,domain,NetSupportManager RAT,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-22,briardell[.]cc,domain,ACR Stealer,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-23,cindermoor[.]cc,domain,ACR Stealer,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-24,cove-taee-tmx4z[.]pro,domain,IClickFix,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-25,coveglen[.]cc,domain,ACR Stealer,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-26,duskglen[.]cc,domain,ACR Stealer,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-27,ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd[.]onion,domain,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-28,hxxp://digitjet[.]top/postback,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-29,hxxp://digitjet[.]top/report,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-30,hxxps://107[.]172[.]15[.]180/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-31,hxxps://107[.]173[.]254[.]7/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-32,hxxps://111[.]177[.]63[.]33:28080/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-33,hxxps://111[.]228[.]25[.]143/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-34,hxxps://112[.]213[.]123[.]38/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-35,hxxps://117[.]72[.]206[.]105/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-36,hxxps://130[.]94[.]32[.]239/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-37,hxxps://132[.]226[.]105[.]237/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-38,hxxps://139[.]84[.]215[.]68:8787/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-39,hxxps://152[.]53[.]129[.]174/,url,Unknown malware,74,medium,ThreatFox,0.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T06:57:59Z
-40,101[.]42[.]47[.]73,ip,VShell,74,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-41,154[.]80[.]128[.]137,ip,CECbot,74,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-42,186[.]246[.]17[.]208,ip,Havoc,74,medium,ThreatFox,2.3,Open-source C2 framework abused in intrusions,"T1071, T1055",2026-11-05T04:39:13Z
-43,202[.]6[.]205[.]18,ip,VShell,74,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-44,46[.]8[.]70[.]157,ip,Unknown malware,74,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-45,47[.]97[.]197[.]89,ip,VShell,74,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-46,8[.]138[.]194[.]14,ip,VShell,74,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-47,144[.]172[.]118[.]80,ip,Unknown malware,69,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-48,144[.]172[.]91[.]133,ip,Unknown malware,69,medium,ThreatFox,2.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-05T04:39:13Z
-49,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,343.0,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
-50,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,343.0,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
+1,hxxp://2z2z32z[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+2,hxxp://49wo5-bob-ee7d-n9rh2-07-09-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+3,hxxp://686-i7pw-4u2-uof-d9it-a2t1[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+4,hxxp://acesscassh[.]netlify[.]app/resgatar/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+5,hxxp://bxzgc61lkwg-swnvdpli-5ln64d-bxz22c[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+6,hxxp://bydamdancetok[.]click/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+7,hxxp://cgqy[.]gdmaoka[.]com/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+8,hxxp://dhfgy05lkwg-vnxkppli-6uy75d-dhf66c[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+9,hxxp://dlcps[.]gdmaoka[.]com/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+10,hxxp://dncx-ld[.]xonexe[.]biz[.]id/x/p5/login[.]php,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+11,hxxp://dpf[.]gdmaoka[.]com/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+12,hxxp://dskrp5eqzgo-mbjlsi-3x2v6b-dskps23c[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,5.7,Credential-harvesting page,"T1566.002, T1056.003",2026-11-05T04:39:13Z
+13,43[.]136[.]174[.]17,ip,Cobaltstrike,60,medium,C2IntelFeeds|ThreatFox,23.4,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-04T10:52:42Z
+14,109[.]160[.]32[.]111,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+15,109[.]160[.]32[.]160,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+16,109[.]160[.]32[.]164,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+17,130[.]12[.]181[.]21,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+18,176[.]120[.]22[.]179,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+19,43[.]228[.]157[.]234,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+20,45[.]138[.]12[.]15,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+21,62[.]60[.]134[.]150,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+22,85[.]11[.]167[.]204,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,5.7,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-05T04:39:13Z
+23,129[.]211[.]213[.]240,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,51.4,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T06:54:04Z
+24,222[.]255[.]215[.]127,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,51.4,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T06:54:04Z
+25,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,346.3,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
+26,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,346.3,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z

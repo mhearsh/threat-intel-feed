@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-SnappyClient score 83 (high) added 2026-11-05,23.94.252.99,2,2026-11-05
-NetSupportManager RAT score 83 (high) added 2026-11-05,31.56.53.146,2,2026-11-05
-Remcos score 74 (medium) added 2026-11-05,162.55.91.69,1,2026-11-05
-VShell score 74 (medium) added 2026-11-05,101.42.47.73,1,2026-11-05
-CECbot score 74 (medium) added 2026-11-05,154.80.128.137,1,2026-11-05
-Havoc score 74 (medium) added 2026-11-05,186.246.17.208,1,2026-11-05
-VShell score 74 (medium) added 2026-11-05,202.6.205.18,1,2026-11-05
-Unknown malware score 74 (medium) added 2026-11-05,46.8.70.157,1,2026-11-05
-VShell score 74 (medium) added 2026-11-05,47.97.197.89,1,2026-11-05
-VShell score 74 (medium) added 2026-11-05,8.138.194.14,1,2026-11-05
-Unknown malware score 69 (medium) added 2026-11-05,144.172.118.80,1,2026-11-05
-Unknown malware score 69 (medium) added 2026-11-05,144.172.91.133,1,2026-11-05
+Cobaltstrike score 60 (medium) added 2026-11-04,43.136.174.17,1,2026-11-04
+multi-blocklist score 54 (medium) added 2026-11-05,109.160.32.111,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,109.160.32.160,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,109.160.32.164,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,130.12.181.21,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,176.120.22.179,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,43.228.157.234,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,45.138.12.15,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,62.60.134.150,1,2026-11-05
+multi-blocklist score 54 (medium) added 2026-11-05,85.11.167.204,1,2026-11-05
+Cobaltstrike score 54 (medium) added 2026-11-03,129.211.213.240,1,2026-11-03
+Cobaltstrike score 54 (medium) added 2026-11-03,222.255.215.127,1,2026-11-03
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

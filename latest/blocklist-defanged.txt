@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-05 06:58 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-05 10:19 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,54 +15,42 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-05
 
-026b1ea295a67ddcf0c8f153c3f1bc14f39707382fec6088faf698310b193aaf
-101[.]42[.]47[.]73
-11c80ff758fdd8e5a1a92f81fcb6fd3bfce04766221a53aba287158ab39f386f
-144[.]172[.]118[.]80
-144[.]172[.]91[.]133
-154[.]80[.]128[.]137
-162[.]55[.]91[.]69
-186[.]246[.]17[.]208
-202[.]6[.]205[.]18
-234b3c8aa80f01236f25ec6680bdca2e02c80a9fb966854a4f9e11d55c862998
-23[.]94[.]252[.]99
-28b5a5a9a7810eec3a2e408a64b3d90cd575ff38b70814e2eb5467aede61ce38
-2a1a29a34784b3a346c854f7d9c60b04495545922e2442130d58a3105ca78f59
-2fe4799864056e2d312269e8c3bef3419ba2103a0e373088ed581d2a6c6bf4b6
-30ffdd66dc35614c03601d952d150a728899cc6312d62c4f52ee2a42652c5cff
-3198ed07dfd77975bbf29d843b75e33734f93bf3456a4231418d7c0390fdc4b0
-31[.]56[.]53[.]146
-3c25015cd20b78c2918980d4c1cb652afe15a26e1d5864fde14cec50845cb222
-3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd[.]onion
-4403f2d21f4fcff4dce3d302a32b2333a8df18184ff8f510c624c01a9ae011b8
-46[.]8[.]70[.]157
-47[.]97[.]197[.]89
-5774f47be2b43d25b1ac9ea1a4b4f66eca4c2a3af0abfb7fa5b3eeadc7147044
-66bbefc7d1d1041e457dd71a585722e04efaf3897ee1165afd4eea14622cad14
-7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad[.]onion
-8[.]138[.]194[.]14
-alphaslot677[.]org
-ashfold[.]cc
-bellwick[.]cc
-borieshanae022[.]net
-briardell[.]cc
-cindermoor[.]cc
-cove-taee-tmx4z[.]pro
-coveglen[.]cc
-duskglen[.]cc
-ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd[.]onion
-hxxp://digitjet[.]top/postback
-hxxp://digitjet[.]top/report
-hxxps://107[.]172[.]15[.]180/
-hxxps://107[.]173[.]254[.]7/
-hxxps://111[.]177[.]63[.]33:28080/
-hxxps://111[.]228[.]25[.]143/
-hxxps://112[.]213[.]123[.]38/
-hxxps://117[.]72[.]206[.]105/
-hxxps://130[.]94[.]32[.]239/
-hxxps://132[.]226[.]105[.]237/
-hxxps://139[.]84[.]215[.]68:8787/
-hxxps://152[.]53[.]129[.]174/
+109[.]160[.]32[.]111
+109[.]160[.]32[.]160
+109[.]160[.]32[.]164
+130[.]12[.]181[.]21
+176[.]120[.]22[.]179
+43[.]228[.]157[.]234
+45[.]138[.]12[.]15
+62[.]60[.]134[.]150
+85[.]11[.]167[.]204
+hxxp://2z2z32z[.]pages[.]dev/
+hxxp://49wo5-bob-ee7d-n9rh2-07-09-2026-aa[.]pages[.]dev/
+hxxp://686-i7pw-4u2-uof-d9it-a2t1[.]pages[.]dev/
+hxxp://acesscassh[.]netlify[.]app/resgatar/
+hxxp://bxzgc61lkwg-swnvdpli-5ln64d-bxz22c[.]pages[.]dev/
+hxxp://bydamdancetok[.]click/
+hxxp://cgqy[.]gdmaoka[.]com/
+hxxp://dhfgy05lkwg-vnxkppli-6uy75d-dhf66c[.]pages[.]dev/
+hxxp://dlcps[.]gdmaoka[.]com/
+hxxp://dncx-ld[.]xonexe[.]biz[.]id/x/p5/login[.]php
+hxxp://dpf[.]gdmaoka[.]com/
+hxxp://dskrp5eqzgo-mbjlsi-3x2v6b-dskps23c[.]pages[.]dev/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-04
+
+43[.]136[.]174[.]17
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+129[.]211[.]213[.]240
+222[.]255[.]215[.]127
 
 
 # Auto-Fetch-ThreatIntel

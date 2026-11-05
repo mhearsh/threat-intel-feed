@@ -1,7 +1,9 @@
 104.194.141.26:8080/cache.php
 144.172.118.80:443/systemd-journal-resolver
+acesscassh.netlify.app/resgatar
 digitjet.top/postback
 digitjet.top/report
+dncx-ld.xonexe.biz.id/x/p5/login.php
 b.coy9.com/h
 b.coy9.com/i
 b.coy9.com/m

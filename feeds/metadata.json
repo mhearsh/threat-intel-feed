@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-05T06:58:04Z",
+ "generated": "2026-11-05T10:19:27Z",
  "score_min": 50,
  "counts": {
   "ip": 14,
-  "domain": 12,
+  "domain": 0,
   "url": 12,
-  "md5": 82,
-  "sha1": 82,
-  "sha256": 611
+  "md5": 0,
+  "sha1": 0,
+  "sha256": 0
  }
 }

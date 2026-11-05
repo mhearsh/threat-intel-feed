@@ -6,27 +6,32 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-05 06:58 UTC   Count: 1293   Expiry: 30 days              #
+#  Updated: 2026-11-05 10:19 UTC   Count: 1305   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
 
-# Auto-Fetch-ThreatIntel: ThreatFox
+# Auto-Fetch-ThreatIntel: OpenPhish + ThreatFox
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-05
 
 104.194.141.26:8080/cache.php
 144.172.118.80:443/systemd-journal-resolver
+acesscassh.netlify.app/resgatar
 digitjet.top/postback
 digitjet.top/report
+dncx-ld.xonexe.biz.id/x/p5/login.php
 
 
-# Auto-Fetch-ThreatIntel: ThreatFox
+# Auto-Fetch-ThreatIntel: OpenPhish + ThreatFox
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-05
 
+2z2z32z.pages.dev
 3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 45w62lk5.bossbeymega.click
+49wo5-bob-ee7d-n9rh2-07-09-2026-aa.pages.dev
+686-i7pw-4u2-uof-d9it-a2t1.pages.dev
 7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
 alphaslot677.org
 ashfold.cc
@@ -36,10 +41,17 @@ biterdigit.top
 borieshanae022.net
 briardell.cc
 bro50.org
+bxzgc61lkwg-swnvdpli-5ln64d-bxz22c.pages.dev
+bydamdancetok.click
+cgqy.gdmaoka.com
 cindermoor.cc
 codes.browse-cdn.beer
 cove-taee-tmx4z.pro
 coveglen.cc
+dhfgy05lkwg-vnxkppli-6uy75d-dhf66c.pages.dev
+dlcps.gdmaoka.com
+dpf.gdmaoka.com
+dskrp5eqzgo-mbjlsi-3x2v6b-dskps23c.pages.dev
 duskglen.cc
 ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion
 fonebusters.com

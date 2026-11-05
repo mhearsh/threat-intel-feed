@@ -6,19 +6,21 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-05 06:58 UTC   Count: 504   Expiry: 30 days               #
+#  Updated: 2026-11-05 10:19 UTC   Count: 506   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
 
-# Auto-Fetch-ThreatIntel: ThreatFox
+# Auto-Fetch-ThreatIntel: OpenPhish + ThreatFox
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-05
 
 104.194.141.26:8080/cache.php
 144.172.118.80:443/systemd-journal-resolver
+acesscassh.netlify.app/resgatar
 digitjet.top/postback
 digitjet.top/report
+dncx-ld.xonexe.biz.id/x/p5/login.php
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

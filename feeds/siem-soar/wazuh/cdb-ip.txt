@@ -1,14 +1,14 @@
-23.94.252.99:SnappyClient added 2026-11-05
-31.56.53.146:NetSupportManager RAT added 2026-11-05
-162.55.91.69:Remcos added 2026-11-05
-101.42.47.73:VShell added 2026-11-05
-154.80.128.137:CECbot added 2026-11-05
-186.246.17.208:Havoc added 2026-11-05
-202.6.205.18:VShell added 2026-11-05
-46.8.70.157:Unknown malware added 2026-11-05
-47.97.197.89:VShell added 2026-11-05
-8.138.194.14:VShell added 2026-11-05
-144.172.118.80:Unknown malware added 2026-11-05
-144.172.91.133:Unknown malware added 2026-11-05
+43.136.174.17:Cobaltstrike added 2026-11-04
+109.160.32.111:multi-blocklist added 2026-11-05
+109.160.32.160:multi-blocklist added 2026-11-05
+109.160.32.164:multi-blocklist added 2026-11-05
+130.12.181.21:multi-blocklist added 2026-11-05
+176.120.22.179:multi-blocklist added 2026-11-05
+43.228.157.234:multi-blocklist added 2026-11-05
+45.138.12.15:multi-blocklist added 2026-11-05
+62.60.134.150:multi-blocklist added 2026-11-05
+85.11.167.204:multi-blocklist added 2026-11-05
+129.211.213.240:Cobaltstrike added 2026-11-03
+222.255.215.127:Cobaltstrike added 2026-11-03
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
