@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-05 12:33 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-05 14:46 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -41,6 +41,7 @@ hxxp://911rx-81d-dzq6-4jx9b-07-09-2026-aa[.]pages[.]dev/
 # 2026-11-03
 
 129[.]211[.]213[.]240
+195[.]86[.]147[.]250
 222[.]255[.]215[.]127
 
 
@@ -87,6 +88,5 @@ hxxp://911rx-81d-dzq6-4jx9b-07-09-2026-aa[.]pages[.]dev/
 
 101[.]42[.]255[.]92
 118[.]25[.]147[.]157
-156[.]254[.]20[.]47
 8[.]156[.]80[.]127
 

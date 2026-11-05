@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-05 12:33 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-05 14:46 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -127,9 +127,9 @@ _Last update: 2026-11-05 12:33 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen und
 | 10 | `hxxp://8s2q1g-qw333a-mbtz1p8m9z2-fsgcyyhy[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 11 | `hxxp://8s8q1g-qw444agreg-mbtz1x2p8m9-fsgc[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 12 | `hxxp://911rx-81d-dzq6-4jx9b-07-09-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 13 | `43[.]136[.]174[.]17` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 14 | `129[.]211[.]213[.]240` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 15 | `222[.]255[.]215[.]127` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 13 | `195[.]86[.]147[.]250` | ip | Cobaltstrike | 57 | medium | T1071, T1105 |
+| 14 | `43[.]136[.]174[.]17` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 15 | `129[.]211[.]213[.]240` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
