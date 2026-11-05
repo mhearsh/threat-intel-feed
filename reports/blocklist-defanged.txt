@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-05 10:19 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-05 12:33 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,27 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-05
 
-109[.]160[.]32[.]111
-109[.]160[.]32[.]160
-109[.]160[.]32[.]164
-130[.]12[.]181[.]21
-176[.]120[.]22[.]179
-43[.]228[.]157[.]234
-45[.]138[.]12[.]15
-62[.]60[.]134[.]150
-85[.]11[.]167[.]204
-hxxp://2z2z32z[.]pages[.]dev/
-hxxp://49wo5-bob-ee7d-n9rh2-07-09-2026-aa[.]pages[.]dev/
-hxxp://686-i7pw-4u2-uof-d9it-a2t1[.]pages[.]dev/
-hxxp://acesscassh[.]netlify[.]app/resgatar/
-hxxp://bxzgc61lkwg-swnvdpli-5ln64d-bxz22c[.]pages[.]dev/
-hxxp://bydamdancetok[.]click/
-hxxp://cgqy[.]gdmaoka[.]com/
-hxxp://dhfgy05lkwg-vnxkppli-6uy75d-dhf66c[.]pages[.]dev/
-hxxp://dlcps[.]gdmaoka[.]com/
-hxxp://dncx-ld[.]xonexe[.]biz[.]id/x/p5/login[.]php
-hxxp://dpf[.]gdmaoka[.]com/
-hxxp://dskrp5eqzgo-mbjlsi-3x2v6b-dskps23c[.]pages[.]dev/
+hxxp://21a1a1s2[.]pages[.]dev/
+hxxp://2s8q1g-qw111c84y-9z8p1k2m4s-fsgc[.]pages[.]dev/
+hxxp://3e78eh-d3e-ydz-zrmb4n-o3m8[.]pages[.]dev/
+hxxp://3r8p1e-qw111c14y-mbtz9p8m1z2-2s8max[.]pages[.]dev/
+hxxp://3u1m8c-2v9m8p1a-2p8z1k9m4s-qwxk[.]pages[.]dev/
+hxxp://3u9m8c-qw888c14y-mbtz1k8p9m2-qwxk[.]pages[.]dev/
+hxxp://7vsac-fm3-5cyu-of6he-07-09-2026-aa[.]pages[.]dev/
+hxxp://8s1q2g-2v8m9p1a-mbtz8p2m1z9-fsgc[.]pages[.]dev/
+hxxp://8s1q8g-2v2m8p9a-9m1zp8k2s4-fsgc[.]pages[.]dev/
+hxxp://8s2q1g-qw333a-mbtz1p8m9z2-fsgcyyhy[.]pages[.]dev/
+hxxp://8s8q1g-qw444agreg-mbtz1x2p8m9-fsgc[.]pages[.]dev/
+hxxp://911rx-81d-dzq6-4jx9b-07-09-2026-aa[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
@@ -55,8 +46,47 @@ hxxp://dskrp5eqzgo-mbjlsi-3x2v6b-dskps23c[.]pages[.]dev/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+101[.]42[.]255[.]92
+118[.]25[.]147[.]157
+156[.]254[.]20[.]47
+8[.]156[.]80[.]127
 

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-05 10:19 UTC   Count: 1305   Expiry: 30 days              #
+#  Updated: 2026-11-05 12:33 UTC   Count: 1317   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -27,12 +27,24 @@ dncx-ld.xonexe.biz.id/x/p5/login.php
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-05
 
+21a1a1s2.pages.dev
+2s8q1g-qw111c84y-9z8p1k2m4s-fsgc.pages.dev
 2z2z32z.pages.dev
+3e78eh-d3e-ydz-zrmb4n-o3m8.pages.dev
 3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
+3r8p1e-qw111c14y-mbtz9p8m1z2-2s8max.pages.dev
+3u1m8c-2v9m8p1a-2p8z1k9m4s-qwxk.pages.dev
+3u9m8c-qw888c14y-mbtz1k8p9m2-qwxk.pages.dev
 45w62lk5.bossbeymega.click
 49wo5-bob-ee7d-n9rh2-07-09-2026-aa.pages.dev
 686-i7pw-4u2-uof-d9it-a2t1.pages.dev
 7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
+7vsac-fm3-5cyu-of6he-07-09-2026-aa.pages.dev
+8s1q2g-2v8m9p1a-mbtz8p2m1z9-fsgc.pages.dev
+8s1q8g-2v2m8p9a-9m1zp8k2s4-fsgc.pages.dev
+8s2q1g-qw333a-mbtz1p8m9z2-fsgcyyhy.pages.dev
+8s8q1g-qw444agreg-mbtz1x2p8m9-fsgc.pages.dev
+911rx-81d-dzq6-4jx9b-07-09-2026-aa.pages.dev
 alphaslot677.org
 ashfold.cc
 barbuddi.com
