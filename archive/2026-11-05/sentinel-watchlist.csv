@@ -1,0 +1,51 @@
+Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+31.56.53.146,ip,NetSupportManager RAT,83,high,"T1071, T1105",2026-11-05T04:39:13Z
+217.60.102.78,ip,Remcos,77,high,"T1071, T1105",2026-11-04T08:33:46Z
+0509b1dd3849130e77be33b4085ac15c366a0870515c44c4a18d3102dd618b26,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+07f420f54347bacc8370353b2557d78fa681794bf67d0666670d374db278db34,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+0abcb28d67d525f15dc2ecc574c80d6adc81174663160b47cfecd80e81371779,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+0b06c4cbeb27073fc5edef0ab4dc7efe05bc80707fd31211eb19c2fa2ad4ffd0,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+0b5981059d2626952a96b9f06aaebe909697ebe7b9f9623d3f7ef127e2ff981a,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+0b7c8354d1b01a2f28f98c864818b1525cd4c5a4e1962d7b01309ac8dc593902,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+0f74b0790d9f7cf1ae236e1b9f2accb00285f2f91929595d4c697497e355d26e,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+0fa939180e91c9fe1e48570e57ee067e5cc40db33f1b2344755abdf15f0eca56,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+101.42.47.73,ip,VShell,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+11ecdc2e51f6d8a4ffc404aebc159757dd16e9c70027abf1313c71e6e894013b,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+144.172.118.80,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+154.80.128.137,ip,CECbot,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+183a137ac88894f98ea7ba6902ff14a1ea28104d215b768f6b9f2ca7f5301bc6,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+186.246.17.208,ip,Havoc,74,medium,"T1071, T1055",2026-11-05T04:39:13Z
+1915e2b4792be27bedf68c2e496d5dcf0f870656263f3195bf2e5ea225af90e8,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+1ba83ff91477eff1ea0b9df384f94f3714cc3a4e60bb2f49f25be14c71565859,sha256,AMOS,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+202.6.205.18,ip,VShell,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+45w62lk5.bossbeymega.click,domain,ClearFake,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+46.8.70.157,ip,Unknown malware,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+47.97.197.89,ip,VShell,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+8.138.194.14,ip,VShell,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+barbuddi.com,domain,StrelaStealer,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+bro50.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+codes.browse-cdn.beer,domain,IClickFix,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+h7.aloytoto.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+http://104.194.141.26:8080/cache.php,url,Unknown malware,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+http://144.172.118.80:443/systemd-journal-resolver,url,Unknown malware,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+https://biterdigit.top,url,Lumma Stealer,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+https://codes.browse-cdn.beer,url,Unknown malware,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+https://fonebusters.com,url,Lumma Stealer,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+jv.aloytoto.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+kanis.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+kevg.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+ms-telemetry.us,domain,Unknown malware,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+rcs.browse-cdn.beer,domain,IClickFix,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+rkovldqn.kanis.store,domain,ClearFake,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+rx.aloytoto.org,domain,Vidar,74,medium,"T1071, T1105",2026-11-05T04:39:13Z
+144.172.91.133,ip,Unknown malware,69,medium,"T1071, T1105",2026-11-05T04:39:13Z
+https://docsign.blog/,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T23:20:44Z
+144.31.166.182,ip,Unknown Stealer,69,medium,"T1071, T1105",2026-11-04T20:17:33Z
+http://garcon.wtf/L1nc0In.php,url,DCRat,69,medium,"T1071, T1105",2026-11-04T20:17:33Z
+https://medlarportcullis.org/proxy/beta-schema,url,SmartApeSG,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://medlarportcullis.org/proxy/token-response.js,url,SmartApeSG,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://support.grovecityelectrician.com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb,url,FAKEUPDATES,69,medium,"T1071, T1105",2026-11-04T17:14:02Z
+https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/api/hlam/files/4001,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T14:46:49Z
+https://relay-3f9c71.kartohaantoha36-6a9.workers.dev/config,url,Unknown malware,69,medium,"T1071, T1105",2026-11-04T14:46:49Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

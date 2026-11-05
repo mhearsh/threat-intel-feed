@@ -1,14 +1,14 @@
+31.56.53.146:NetSupportManager RAT added 2026-11-05
 217.60.102.78:Remcos added 2026-11-04
-112.213.110.225:VShell added 2026-11-04
-202.95.13.142:ValleyRAT added 2026-11-04
+101.42.47.73:VShell added 2026-11-05
+144.172.118.80:Unknown malware added 2026-11-05
+154.80.128.137:CECbot added 2026-11-05
+186.246.17.208:Havoc added 2026-11-05
+202.6.205.18:VShell added 2026-11-05
+46.8.70.157:Unknown malware added 2026-11-05
+47.97.197.89:VShell added 2026-11-05
+8.138.194.14:VShell added 2026-11-05
+144.172.91.133:Unknown malware added 2026-11-05
 144.31.166.182:Unknown Stealer added 2026-11-04
-46.246.6.6:DCRat added 2026-11-04
-185.241.208.53:Evilginx added 2026-11-04
-36.255.97.22:XWorm added 2026-11-04
-103.167.65.157:Unknown malware added 2026-11-04
-188.42.122.12:Unknown malware added 2026-11-04
-188.42.122.68:Unknown malware added 2026-11-04
-188.42.94.132:Unknown malware added 2026-11-04
-188.42.94.28:Unknown malware added 2026-11-04
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22

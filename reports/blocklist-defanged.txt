@@ -6,63 +6,69 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-04 23:20 UTC   Count: 50   Expiry: 30 days                #
+#  Updated: 2026-11-05 04:39 UTC   Count: 50   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-05
+
+0509b1dd3849130e77be33b4085ac15c366a0870515c44c4a18d3102dd618b26
+07f420f54347bacc8370353b2557d78fa681794bf67d0666670d374db278db34
+0abcb28d67d525f15dc2ecc574c80d6adc81174663160b47cfecd80e81371779
+0b06c4cbeb27073fc5edef0ab4dc7efe05bc80707fd31211eb19c2fa2ad4ffd0
+0b5981059d2626952a96b9f06aaebe909697ebe7b9f9623d3f7ef127e2ff981a
+0b7c8354d1b01a2f28f98c864818b1525cd4c5a4e1962d7b01309ac8dc593902
+0f74b0790d9f7cf1ae236e1b9f2accb00285f2f91929595d4c697497e355d26e
+0fa939180e91c9fe1e48570e57ee067e5cc40db33f1b2344755abdf15f0eca56
+101[.]42[.]47[.]73
+11ecdc2e51f6d8a4ffc404aebc159757dd16e9c70027abf1313c71e6e894013b
+144[.]172[.]118[.]80
+144[.]172[.]91[.]133
+154[.]80[.]128[.]137
+183a137ac88894f98ea7ba6902ff14a1ea28104d215b768f6b9f2ca7f5301bc6
+186[.]246[.]17[.]208
+1915e2b4792be27bedf68c2e496d5dcf0f870656263f3195bf2e5ea225af90e8
+1ba83ff91477eff1ea0b9df384f94f3714cc3a4e60bb2f49f25be14c71565859
+202[.]6[.]205[.]18
+31[.]56[.]53[.]146
+45w62lk5[.]bossbeymega[.]click
+46[.]8[.]70[.]157
+47[.]97[.]197[.]89
+8[.]138[.]194[.]14
+barbuddi[.]com
+bro50[.]org
+codes[.]browse-cdn[.]beer
+h7[.]aloytoto[.]org
+hxxp://104[.]194[.]141[.]26:8080/cache[.]php
+hxxp://144[.]172[.]118[.]80:443/systemd-journal-resolver
+hxxps://biterdigit[.]top
+hxxps://codes[.]browse-cdn[.]beer
+hxxps://docsign[.]blog/
+hxxps://fonebusters[.]com
+jv[.]aloytoto[.]org
+kanis[.]store
+kevg[.]store
+ms-telemetry[.]us
+rcs[.]browse-cdn[.]beer
+rkovldqn[.]kanis[.]store
+rx[.]aloytoto[.]org
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-04
 
-09ac6b254235e8304e97ce1af773061f5964c8698a885e0aba1733f19e435f4c
-0c0bb08e4e79583ee79f6af52cc71d20ccf2a3a66b194fbc55917bdb3fcdafe5
-103[.]167[.]65[.]157
-110a543112dca81da6485b3063f2fd6b3b469f58fd79e5dae6538a34b79f27a0
-112[.]213[.]110[.]225
 144[.]31[.]166[.]182
-185[.]241[.]208[.]53
-188[.]42[.]122[.]12
-188[.]42[.]122[.]68
-188[.]42[.]94[.]132
-188[.]42[.]94[.]28
-1d0ce3ecfe21cc5775abda12de91224a4e4a1da4599b3680bd16024146f6d621
-202[.]95[.]13[.]142
-2082c8f1763f8d82c00cd154d4fbe198b06e56c45f0f85256625477b247a43f8
 217[.]60[.]102[.]78
-22590070d4d6368436964dc679f0d6cc24fb1b8cdd1ab02c7b30ab6b2a10ea24
-26c64f159e9f69f4fa079f0157a289d6cd89387c7e29defbe089bb808e789a20
-2cf0f4ef1e8d4547c032a4d78a2b49a96a3c64a418527e8c1fdb8f8e07ddc593
-36[.]255[.]97[.]22
-39a21b750b557b760ca65e54b7ee44e601bd4278b8486a1ebc31498fd26b8c49
-39b37e07c1db5e3c8c8b48266e35f79bc7900bdbf34c9a40daed73be9adeb93f
-46[.]246[.]6[.]6
-50b987d670380b4f5162dddcf6f6a3fddd52040e79517e47d3542ade5cd3db9b
-51045cc3b9fc90b2ce5aa312b9cd2a172b15981c05c4861741467f4ff824e9f2
-5pbqe4a7[.]bossbeyteam[.]click
-akun269[.]org
-aloytoto[.]org
-b0[.]alloha4d[.]org
-bossbeyteam[.]click
-cuit8[.]org
-efev6d2j[.]bossbeyvip3[.]xyz
 hxxp://garcon[.]wtf/L1nc0In[.]php
-hxxps://claudeearlyaccess-fable[.]cfd/
-hxxps://cube-60[.]com/curl/f39ks7h9j63/dcz317k2f1l85zbtwoe271[.]json
-hxxps://docsign[.]blog/
 hxxps://medlarportcullis[.]org/proxy/beta-schema
 hxxps://medlarportcullis[.]org/proxy/token-response[.]js
-hxxps://onchaindocfile[.]com/
 hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/api/hlam/files/4001
 hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/config
-hxxps://relay-3f9c71[.]kartohaantoha36-6a9[.]workers[.]dev/report
-hxxps://relay-mirror[.]kartohaantoha36-6a9[.]workers[.]dev/api/hlam/files/4001
 hxxps://support[.]grovecityelectrician[.]com/ZtoCkR34YfgC+DijUe0usxWzZrNc6DKlUuozqEr4cLNc+Gf9DLZv8gG2erMb
-i3[.]aloytoto[.]org
-s[.]cuit8[.]org
-ss[.]akun269[.]org
-ttjs9qkl[.]bossbeymax[.]click
-tu[.]aloytoto[.]org
 
 
 # Auto-Fetch-ThreatIntel

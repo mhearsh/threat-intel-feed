@@ -6,9 +6,29 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-04 23:20 UTC   Count: 763   Expiry: 30 days               #
+#  Updated: 2026-11-05 04:39 UTC   Count: 777   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-05
+
+45w62lk5.bossbeymega.click
+barbuddi.com
+biterdigit.top
+bro50.org
+codes.browse-cdn.beer
+fonebusters.com
+h7.aloytoto.org
+jv.aloytoto.org
+kanis.store
+kevg.store
+ms-telemetry.us
+rcs.browse-cdn.beer
+rkovldqn.kanis.store
+rx.aloytoto.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

@@ -1,0 +1,39 @@
+// ============================================================================
+//  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
+//  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
+//  Updated: 2026-11-05 04:39 UTC   Count: 26   TLP:CLEAR
+//  FirstPublished = date the IOC first entered the feed (newest first)
+// ============================================================================
+let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "31.56.53.146", "ip", "NetSupportManager RAT", datetime(2026-11-05T04:39:13Z),
+    "101.42.47.73", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
+    "144.172.118.80", "ip", "Unknown malware", datetime(2026-11-05T04:39:13Z),
+    "154.80.128.137", "ip", "CECbot", datetime(2026-11-05T04:39:13Z),
+    "186.246.17.208", "ip", "Havoc", datetime(2026-11-05T04:39:13Z),
+    "202.6.205.18", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
+    "45w62lk5.bossbeymega.click", "domain", "ClearFake", datetime(2026-11-05T04:39:13Z),
+    "46.8.70.157", "ip", "Unknown malware", datetime(2026-11-05T04:39:13Z),
+    "47.97.197.89", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
+    "8.138.194.14", "ip", "VShell", datetime(2026-11-05T04:39:13Z),
+    "barbuddi.com", "domain", "StrelaStealer", datetime(2026-11-05T04:39:13Z),
+    "bro50.org", "domain", "Vidar", datetime(2026-11-05T04:39:13Z),
+    "codes.browse-cdn.beer", "domain", "IClickFix", datetime(2026-11-05T04:39:13Z),
+    "h7.aloytoto.org", "domain", "Vidar", datetime(2026-11-05T04:39:13Z),
+    "jv.aloytoto.org", "domain", "Vidar", datetime(2026-11-05T04:39:13Z),
+    "kanis.store", "domain", "ClearFake", datetime(2026-11-05T04:39:13Z),
+    "kevg.store", "domain", "ClearFake", datetime(2026-11-05T04:39:13Z),
+    "ms-telemetry.us", "domain", "Unknown malware", datetime(2026-11-05T04:39:13Z),
+    "rcs.browse-cdn.beer", "domain", "IClickFix", datetime(2026-11-05T04:39:13Z),
+    "rkovldqn.kanis.store", "domain", "ClearFake", datetime(2026-11-05T04:39:13Z),
+    "rx.aloytoto.org", "domain", "Vidar", datetime(2026-11-05T04:39:13Z),
+    "144.172.91.133", "ip", "Unknown malware", datetime(2026-11-05T04:39:13Z),
+    "144.31.166.182", "ip", "Unknown Stealer", datetime(2026-11-04T20:17:33Z),
+    "217.60.102.78", "ip", "Remcos", datetime(2026-11-04T08:33:46Z),
+    "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
+    "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
+];
+let ips = iocs | where Type == "ip" | project Indicator;
+let doms = iocs | where Type == "domain" | project Indicator;
+DeviceNetworkEvents | where Timestamp > ago(7d)
+| where RemoteIP in (ips) or RemoteUrl has_any (doms)
+| project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

@@ -6,9 +6,37 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-04 23:20 UTC   Count: 1263   Expiry: 30 days              #
+#  Updated: 2026-11-05 04:39 UTC   Count: 1279   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-05
+
+104.194.141.26:8080/cache.php
+144.172.118.80:443/systemd-journal-resolver
+
+
+# Auto-Fetch-ThreatIntel: ThreatFox
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-05
+
+45w62lk5.bossbeymega.click
+barbuddi.com
+biterdigit.top
+bro50.org
+codes.browse-cdn.beer
+fonebusters.com
+h7.aloytoto.org
+jv.aloytoto.org
+kanis.store
+kevg.store
+ms-telemetry.us
+rcs.browse-cdn.beer
+rkovldqn.kanis.store
+rx.aloytoto.org
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
