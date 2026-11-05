@@ -1,5 +1,7 @@
 104.194.141.26:8080/cache.php
 144.172.118.80:443/systemd-journal-resolver
+digitjet.top/postback
+digitjet.top/report
 b.coy9.com/h
 b.coy9.com/i
 b.coy9.com/m

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 04:39 UTC",
+ "updated": "2026-11-05 06:55 UTC",
  "count": 50,
  "score_scale": "0-100",
  "bands": {
@@ -7,13 +7,13 @@
   "high": 2,
   "medium": 46
  },
- "fresh_6h": 40,
+ "fresh_6h": 48,
  "hashes": {
-  "sha256": 8025,
+  "sha256": 8135,
   "sha1": 867,
   "md5": 869
  },
- "hash_count": 9761,
+ "hash_count": 9871,
  "types": {
   "ip": 14,
   "sha256": 12,
@@ -21,16 +21,16 @@
   "url": 12
  },
  "families": {
+  "Unknown malware": 18,
   "AMOS": 12,
-  "Unknown malware": 10,
+  "ACR Stealer": 6,
   "VShell": 4,
-  "ClearFake": 4,
-  "Vidar": 4,
-  "IClickFix": 2,
-  "Lumma Stealer": 2,
-  "SmartApeSG": 2,
+  "NetSupportManager RAT": 2,
   "Arista VCO exploitation CVE-2026-114625": 2,
-  "NetSupportManager RAT": 1
+  "SnappyClient": 1,
+  "Remcos": 1,
+  "Vidar": 1,
+  "IClickFix": 1
  },
  "sources": {
   "Spamhaus-DROP": 2,

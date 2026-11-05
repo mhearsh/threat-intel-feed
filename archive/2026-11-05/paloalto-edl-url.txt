@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-05 04:39 UTC   Count: 1279   Expiry: 30 days              #
+#  Updated: 2026-11-05 06:55 UTC   Count: 1293   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -17,17 +17,31 @@
 
 104.194.141.26:8080/cache.php
 144.172.118.80:443/systemd-journal-resolver
+digitjet.top/postback
+digitjet.top/report
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-05
 
+3jbhn5gsv7yd22n7yasftjab2aystm7mw2x3cvonzipsrnxpjqufmgyd.onion
 45w62lk5.bossbeymega.click
+7dfw4p3pzo3zlcy5hzm7y43z3kfke2rhd3eudncmvknwhsqqvseadkad.onion
+alphaslot677.org
+ashfold.cc
 barbuddi.com
+bellwick.cc
 biterdigit.top
+borieshanae022.net
+briardell.cc
 bro50.org
+cindermoor.cc
 codes.browse-cdn.beer
+cove-taee-tmx4z.pro
+coveglen.cc
+duskglen.cc
+ea52lfk4w6dza6hmmb4o6ndef7ep45wkkjxuo7sfzkyqt7rplyph3zyd.onion
 fonebusters.com
 h7.aloytoto.org
 jv.aloytoto.org

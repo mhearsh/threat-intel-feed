@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-05 04:39 UTC   Count: 502   Expiry: 30 days               #
+#  Updated: 2026-11-05 06:55 UTC   Count: 504   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -17,6 +17,8 @@
 
 104.194.141.26:8080/cache.php
 144.172.118.80:443/systemd-journal-resolver
+digitjet.top/postback
+digitjet.top/report
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

@@ -1,15 +1,15 @@
 description,ip,weight,first_published
+SnappyClient score 83 (high) added 2026-11-05,23.94.252.99,2,2026-11-05
 NetSupportManager RAT score 83 (high) added 2026-11-05,31.56.53.146,2,2026-11-05
-Remcos score 77 (high) added 2026-11-04,217.60.102.78,2,2026-11-04
+Remcos score 74 (medium) added 2026-11-05,162.55.91.69,1,2026-11-05
 VShell score 74 (medium) added 2026-11-05,101.42.47.73,1,2026-11-05
-Unknown malware score 74 (medium) added 2026-11-05,144.172.118.80,1,2026-11-05
 CECbot score 74 (medium) added 2026-11-05,154.80.128.137,1,2026-11-05
 Havoc score 74 (medium) added 2026-11-05,186.246.17.208,1,2026-11-05
 VShell score 74 (medium) added 2026-11-05,202.6.205.18,1,2026-11-05
 Unknown malware score 74 (medium) added 2026-11-05,46.8.70.157,1,2026-11-05
 VShell score 74 (medium) added 2026-11-05,47.97.197.89,1,2026-11-05
 VShell score 74 (medium) added 2026-11-05,8.138.194.14,1,2026-11-05
+Unknown malware score 69 (medium) added 2026-11-05,144.172.118.80,1,2026-11-05
 Unknown malware score 69 (medium) added 2026-11-05,144.172.91.133,1,2026-11-05
-Unknown Stealer score 69 (medium) added 2026-11-04,144.31.166.182,1,2026-11-04
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22
