@@ -1,15 +1,15 @@
 indicator,type,severity,expiration_date,comment,reputation,reliability
-195.86.147.250,IP,MEDIUM,1796498690405,Cobaltstrike score 57 (medium) added 2026-11-03,BAD,C
-43.136.174.17,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-11-04,BAD,C
-129.211.213.240,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-11-03,BAD,C
-222.255.215.127,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-11-03,BAD,C
-101.42.49.202,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-11-01,BAD,C
-177.5.76.21,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-11-01,BAD,C
-23.254.226.103,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-10-29,BAD,C
-101.133.229.117,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-10-27,BAD,C
-68.64.176.76,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-10-26,BAD,C
-8.156.80.127,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-10-24,BAD,C
-101.42.255.92,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-10-24,BAD,C
-118.25.147.157,IP,MEDIUM,1796498690405,Cobaltstrike score 54 (medium) added 2026-10-24,BAD,C
-74.82.197.86,IP,CRITICAL,1796498690405,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,BAD,C
-38.54.50.151,IP,CRITICAL,1796498690405,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,BAD,C
+195.86.147.250,IP,MEDIUM,1796510812081,Cobaltstrike score 57 (medium) added 2026-11-03,BAD,C
+43.136.174.17,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-11-04,BAD,C
+129.211.213.240,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-11-03,BAD,C
+222.255.215.127,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-11-03,BAD,C
+101.42.49.202,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-11-01,BAD,C
+177.5.76.21,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-11-01,BAD,C
+23.254.226.103,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-10-29,BAD,C
+101.133.229.117,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-10-27,BAD,C
+68.64.176.76,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-10-26,BAD,C
+8.156.80.127,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-10-24,BAD,C
+101.42.255.92,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-10-24,BAD,C
+118.25.147.157,IP,MEDIUM,1796510812081,Cobaltstrike score 54 (medium) added 2026-10-24,BAD,C
+74.82.197.86,IP,CRITICAL,1796510812081,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,BAD,C
+38.54.50.151,IP,CRITICAL,1796510812081,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,BAD,C
