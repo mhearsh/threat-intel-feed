@@ -1,0 +1,27 @@
+Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+http://2anh2-e1s-ovcd-px5jn-07-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://auth-crypto-doc-cdn.gitbook.io/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://coinnbase.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://comcast-3.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://d56f.tokenpocket.2027usdt.top/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://delinea.ar/we/index.html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14.org,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://dfjhdfjhdf.weebly.com/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+http://dron-fzap-skil-423-vruk-trandis-vuk-891.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-06T00:51:32Z
+195.86.147.250,ip,Cobaltstrike,57,medium,"T1071, T1105",2026-11-03T21:06:11Z
+43.136.174.17,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-04T10:52:42Z
+129.211.213.240,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T06:54:04Z
+222.255.215.127,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T06:54:04Z
+101.42.49.202,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-01T07:40:38Z
+177.5.76.21,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-01T07:40:38Z
+23.254.226.103,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-29T10:02:58Z
+101.133.229.117,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-27T21:39:41Z
+68.64.176.76,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-26T06:21:56Z
+8.156.80.127,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-24T06:42:09Z
+101.42.255.92,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-24T06:36:27Z
+118.25.147.157,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-24T00:00:00Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

@@ -1,0 +1,91 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-06 00:51 UTC   Count: 25   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-06
+
+hxxp://2anh2-e1s-ovcd-px5jn-07-09-2026-hh[.]pages[.]dev/
+hxxp://6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh[.]pages[.]dev/
+hxxp://arnmanpharrna[.]com/Alldomain/fitsaldomain[.]html?eta=a[.]b@c
+hxxp://auth-crypto-doc-cdn[.]gitbook[.]io/
+hxxp://bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a[.]pages[.]dev/
+hxxp://coinnbase[.]vercel[.]app/
+hxxp://comcast-3[.]vercel[.]app/
+hxxp://d56f[.]tokenpocket[.]2027usdt[.]top/
+hxxp://dayoadeyemo[.]com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook[.]html
+hxxp://dfjhdfjhdf[.]weebly[.]com/
+hxxp://dron-fzap-skil-423-vruk-trandis-vuk-891[.]pages[.]dev/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-04
+
+43[.]136[.]174[.]17
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+129[.]211[.]213[.]240
+195[.]86[.]147[.]250
+222[.]255[.]215[.]127
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+101[.]42[.]255[.]92
+118[.]25[.]147[.]157
+8[.]156[.]80[.]127
+

@@ -6,9 +6,17 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-05 22:46 UTC   Count: 506   Expiry: 30 days               #
+#  Updated: 2026-11-06 00:51 UTC   Count: 508   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-06
+
+arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c
+dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish + ThreatFox
