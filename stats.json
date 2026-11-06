@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06 09:49 UTC",
+ "updated": "2026-11-06 11:51 UTC",
  "count": 26,
  "score_scale": "0-100",
  "bands": {
@@ -7,7 +7,7 @@
   "high": 0,
   "medium": 24
  },
- "fresh_6h": 9,
+ "fresh_6h": 0,
  "hashes": {
   "sha256": 8135,
   "sha1": 867,
@@ -19,16 +19,13 @@
   "url": 12
  },
  "families": {
+  "Cobaltstrike": 12,
   "phishing": 12,
-  "multi-blocklist": 9,
-  "Cobaltstrike": 3,
   "Arista VCO exploitation CVE-2026-114625": 2
  },
  "sources": {
-  "C2IntelFeeds": 3,
-  "ThreatFox": 3,
-  "IPsum-L5": 9,
-  "Spamhaus-DROP": 9,
+  "C2IntelFeeds": 12,
+  "ThreatFox": 12,
   "OpenPhish": 12,
   "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199": 2
  }
