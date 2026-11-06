@@ -1,7 +1,7 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-06 05:51 UTC   Count: 14   TLP:CLEAR
+//  Updated: 2026-11-06 09:49 UTC   Count: 14   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
@@ -16,7 +16,7 @@ let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublishe
     "92.255.57.7", "ip", "multi-blocklist", datetime(2026-11-06T05:51:29Z),
     "43.136.174.17", "ip", "Cobaltstrike", datetime(2026-11-04T10:52:42Z),
     "195.86.147.250", "ip", "Cobaltstrike", datetime(2026-11-03T21:06:11Z),
-    "129.211.213.240", "ip", "Cobaltstrike", datetime(2026-11-03T06:54:04Z),
+    "101.42.49.202", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];

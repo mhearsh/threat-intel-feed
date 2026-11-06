@@ -1,16 +1,4 @@
 Type,Object,Description
-URL,2anh2-e1s-ovcd-px5jn-07-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-06
-URL,6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-06
-URL,arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c,phishing score 60 (medium) added 2026-11-06
-URL,auth-crypto-doc-cdn.gitbook.io,phishing score 60 (medium) added 2026-11-06
-URL,bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a.pages.dev,phishing score 60 (medium) added 2026-11-06
-URL,coinnbase.vercel.app,phishing score 60 (medium) added 2026-11-06
-URL,comcast-3.vercel.app,phishing score 60 (medium) added 2026-11-06
-URL,d56f.tokenpocket.2027usdt.top,phishing score 60 (medium) added 2026-11-06
-URL,dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html,phishing score 60 (medium) added 2026-11-06
-URL,delinea.ar/we/index.html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14.org,phishing score 60 (medium) added 2026-11-06
-URL,dfjhdfjhdf.weebly.com,phishing score 60 (medium) added 2026-11-06
-URL,dron-fzap-skil-423-vruk-trandis-vuk-891.pages.dev,phishing score 60 (medium) added 2026-11-06
 IP,195.86.147.250,Cobaltstrike score 57 (medium) added 2026-11-03
 IP,102.220.161.208,multi-blocklist score 54 (medium) added 2026-11-06
 IP,104.152.52.243,multi-blocklist score 54 (medium) added 2026-11-06
@@ -21,7 +9,19 @@ IP,23.132.164.185,multi-blocklist score 54 (medium) added 2026-11-06
 IP,77.90.185.54,multi-blocklist score 54 (medium) added 2026-11-06
 IP,92.118.39.18,multi-blocklist score 54 (medium) added 2026-11-06
 IP,92.255.57.7,multi-blocklist score 54 (medium) added 2026-11-06
+URL,2anh2-e1s-ovcd-px5jn-07-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-06
+URL,6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-06
+URL,arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c,phishing score 54 (medium) added 2026-11-06
+URL,auth-crypto-doc-cdn.gitbook.io,phishing score 54 (medium) added 2026-11-06
+URL,bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a.pages.dev,phishing score 54 (medium) added 2026-11-06
+URL,coinnbase.vercel.app,phishing score 54 (medium) added 2026-11-06
+URL,comcast-3.vercel.app,phishing score 54 (medium) added 2026-11-06
+URL,d56f.tokenpocket.2027usdt.top,phishing score 54 (medium) added 2026-11-06
+URL,dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html,phishing score 54 (medium) added 2026-11-06
+URL,delinea.ar/we/index.html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14.org,phishing score 54 (medium) added 2026-11-06
+URL,dfjhdfjhdf.weebly.com,phishing score 54 (medium) added 2026-11-06
+URL,dron-fzap-skil-423-vruk-trandis-vuk-891.pages.dev,phishing score 54 (medium) added 2026-11-06
 IP,43.136.174.17,Cobaltstrike score 54 (medium) added 2026-11-04
-IP,129.211.213.240,Cobaltstrike score 54 (medium) added 2026-11-03
+IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22

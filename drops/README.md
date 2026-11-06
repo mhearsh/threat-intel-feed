@@ -37,3 +37,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-11-03 | #11 | 50 | Vidar, AMOS, ClearFake | [CSV](2026/11/2026-11-03-drop-11.csv) | [summary](2026/11/2026-11-03-drop-11.png) · [list](2026/11/2026-11-03-drop-11-list.png) |
 | 2026-11-04 | #12 | 50 | Vidar, AMOS, Remcos | [CSV](2026/11/2026-11-04-drop-12.csv) | [summary](2026/11/2026-11-04-drop-12.png) · [list](2026/11/2026-11-04-drop-12-list.png) |
 | 2026-11-05 | #13 | 50 | Unknown malware, AMOS, ACR Stealer | [CSV](2026/11/2026-11-05-drop-13.csv) | [summary](2026/11/2026-11-05-drop-13.png) · [list](2026/11/2026-11-05-drop-13-list.png) |
+| 2026-11-06 | #14 | 26 | phishing, multi-blocklist, Cobalt Strike | [CSV](2026/11/2026-11-06-drop-14.csv) | [summary](2026/11/2026-11-06-drop-14.png) · [list](2026/11/2026-11-06-drop-14-list.png) |

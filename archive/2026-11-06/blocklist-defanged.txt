@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-06 05:51 UTC   Count: 25   Expiry: 30 days                #
+#  Updated: 2026-11-06 09:49 UTC   Count: 25   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -48,8 +48,14 @@ hxxp://dron-fzap-skil-423-vruk-trandis-vuk-891[.]pages[.]dev/
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-03
 
-129[.]211[.]213[.]240
 195[.]86[.]147[.]250
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
 
 
 # Auto-Fetch-ThreatIntel

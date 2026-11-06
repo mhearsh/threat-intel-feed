@@ -1,16 +1,4 @@
 #UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-tif-url-1,2anh2-e1s-ovcd-px5jn-07-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-2,6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-3,arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-4,auth-crypto-doc-cdn.gitbook.io,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-5,bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-6,coinnbase.vercel.app,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-7,comcast-3.vercel.app,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-8,d56f.tokenpocket.2027usdt.top,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-9,dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-10,delinea.ar/we/index.html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14.org,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-11,dfjhdfjhdf.weebly.com,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
-tif-url-12,dron-fzap-skil-423-vruk-trandis-vuk-891.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-06
 tif-ip-1,195.86.147.250,IP,medium,medium,AB,Cobaltstrike score 57 (medium) added 2026-11-03
 tif-ip-2,102.220.161.208,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-06
 tif-ip-3,104.152.52.243,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-06
@@ -21,7 +9,19 @@ tif-ip-7,23.132.164.185,IP,medium,medium,AB,multi-blocklist score 54 (medium) ad
 tif-ip-8,77.90.185.54,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-06
 tif-ip-9,92.118.39.18,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-06
 tif-ip-10,92.255.57.7,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-06
+tif-url-1,2anh2-e1s-ovcd-px5jn-07-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-2,6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-3,arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-4,auth-crypto-doc-cdn.gitbook.io,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-5,bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-6,coinnbase.vercel.app,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-7,comcast-3.vercel.app,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-8,d56f.tokenpocket.2027usdt.top,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-9,dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-10,delinea.ar/we/index.html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14.org,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-11,dfjhdfjhdf.weebly.com,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
+tif-url-12,dron-fzap-skil-423-vruk-trandis-vuk-891.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-06
 tif-ip-11,43.136.174.17,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-04
-tif-ip-12,129.211.213.240,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-03
+tif-ip-12,101.42.49.202,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-01
 tif-ip-13,74.82.197.86,IP,critical,critical,AB,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 tif-ip-14,38.54.50.151,IP,critical,critical,AB,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22

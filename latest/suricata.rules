@@ -1,7 +1,7 @@
 ###############################################################################
 #                       THREAT-INTEL-FEED SURICATA RULES                      #
 #                         Top network IOCs (IPs, DNS)                         #
-#  Updated: 2026-11-06 05:51 UTC   Count: 14   TLP:CLEAR                      #
+#  Updated: 2026-11-06 09:49 UTC   Count: 14   TLP:CLEAR                      #
 ###############################################################################
 
 # Auto-Fetch-ThreatIntel
@@ -29,7 +29,12 @@ alert ip $HOME_NET any -> 43.136.174.17 any (msg:"XIOC Cobaltstrike C2 43.136.17
 # 2026-11-03
 
 alert ip $HOME_NET any -> 195.86.147.250 any (msg:"XIOC Cobaltstrike C2 195.86.147.250"; classtype:trojan-activity; metadata:created_at 2026_11_03, updated_at 2026_11_06; sid:9100011; rev:1;)
-alert ip $HOME_NET any -> 129.211.213.240 any (msg:"XIOC Cobaltstrike C2 129.211.213.240"; classtype:trojan-activity; metadata:created_at 2026_11_03, updated_at 2026_11_06; sid:9100012; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-01
+
+alert ip $HOME_NET any -> 101.42.49.202 any (msg:"XIOC Cobaltstrike C2 101.42.49.202"; classtype:trojan-activity; metadata:created_at 2026_11_01, updated_at 2026_11_06; sid:9100012; rev:1;)
 
 # Auto-Fetch-ThreatIntel
 # Top network IOCs / TLP:CLEAR
