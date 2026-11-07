@@ -1,27 +1,27 @@
 indicator,indicator_defanged,type,family,confidence,first_seen,tags,first_published
-195.86.147.250,195[.]86[.]147[.]250,ip,Cobalt Strike,57,2026-11-04T17:13Z,cobalt-strike;ip;T1071;T1105,2026-11-03T21:06:11Z
-http://2anh2-e1s-ovcd-px5jn-07-09-2026-hh.pages.dev/,hxxp://2anh2-e1s-ovcd-px5jn-07-09-2026-hh[.]pages[.]dev/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh.pages.dev/,hxxp://6w4f2-fvn-a3kj-s7yzh-07-09-2026-hh[.]pages[.]dev/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://arnmanpharrna.com/Alldomain/fitsaldomain.html?eta=a.b@c,hxxp://arnmanpharrna[.]com/Alldomain/fitsaldomain[.]html?eta=a[.]b@c,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://auth-crypto-doc-cdn.gitbook.io/,hxxp://auth-crypto-doc-cdn[.]gitbook[.]io/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a.pages.dev/,hxxp://bdf88-152dr-lpr47-152lp-8b3c1d-lpr47-152a[.]pages[.]dev/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://coinnbase.vercel.app/,hxxp://coinnbase[.]vercel[.]app/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://comcast-3.vercel.app/,hxxp://comcast-3[.]vercel[.]app/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://d56f.tokenpocket.2027usdt.top/,hxxp://d56f[.]tokenpocket[.]2027usdt[.]top/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://dayoadeyemo.com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook.html,hxxp://dayoadeyemo[.]com/wp-content/uploads/e1tyxmv/dwlqv1x/ubmqvdy/new/outlook[.]html,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://delinea.ar/we/index.html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14.org,hxxp://delinea[.]ar/we/index[.]html#orar2@ef98ee9b17ac743ace8019e7b0a978df3c14[.]org,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://dfjhdfjhdf.weebly.com/,hxxp://dfjhdfjhdf[.]weebly[.]com/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-http://dron-fzap-skil-423-vruk-trandis-vuk-891.pages.dev/,hxxp://dron-fzap-skil-423-vruk-trandis-vuk-891[.]pages[.]dev/,url,phishing,54,2026-11-06T21:01Z,phishing;url;T1566.002;T1056.003,2026-11-06T00:51:32Z
-43.136.174.17,43[.]136[.]174[.]17,ip,Cobalt Strike,54,2026-11-05T07:01Z,cobalt-strike;ip;T1071;T1105,2026-11-04T10:52:42Z
-101.42.49.202,101[.]42[.]49[.]202,ip,Cobalt Strike,54,2026-11-02T03:49Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
-177.5.76.21,177[.]5[.]76[.]21,ip,Cobalt Strike,54,2026-11-02T03:49Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
-23.254.226.103,23[.]254[.]226[.]103,ip,Cobalt Strike,54,2026-10-30T06:13Z,cobalt-strike;ip;T1071;T1105,2026-10-29T10:02:58Z
-101.133.229.117,101[.]133[.]229[.]117,ip,Cobalt Strike,54,2026-10-28T17:49Z,cobalt-strike;ip;T1071;T1105,2026-10-27T21:39:41Z
-68.64.176.76,68[.]64[.]176[.]76,ip,Cobalt Strike,54,2026-10-27T02:31Z,cobalt-strike;ip;T1071;T1105,2026-10-26T06:21:56Z
-8.156.80.127,8[.]156[.]80[.]127,ip,Cobalt Strike,54,2026-10-25T02:49Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:42:09Z
-101.42.255.92,101[.]42[.]255[.]92,ip,Cobalt Strike,54,2026-10-25T02:43Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:36:27Z
-118.25.147.157,118[.]25[.]147[.]157,ip,Cobalt Strike,54,2026-10-25T02:43Z,cobalt-strike;ip;T1071;T1105,2026-10-24T00:00:00Z
-156.254.20.47,156[.]254[.]20[.]47,ip,Cobalt Strike,54,2026-10-25T02:43Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:36:27Z
-198.44.116.156,198[.]44[.]116[.]156,ip,Cobalt Strike,54,2026-10-25T02:43Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:36:27Z
-74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T20:07Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
-38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T20:07Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
+http://0t0wx-f1b-ls3p-mo720-09-09-2026-aa.pages.dev/,hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://0wyqw-jxn0wr-k90rlc-ckr-89o72.pages.dev/,hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh.pages.dev/,hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://22551565.com/m,hxxp://22551565[.]com/m,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://22771565.com/m,hxxp://22771565[.]com/m,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://22991565.com/m,hxxp://22991565[.]com/m,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://30jgl-xoa-hssy-dhcqh-08-09-2026-hh.pages.dev/,hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://33111565.com/m,hxxp://33111565[.]com/m,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://33221565.com/nosupportie.html/,hxxp://33221565[.]com/nosupportie[.]html/,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://33661565.com/m,hxxp://33661565[.]com/m,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://33881565.com/m,hxxp://33881565[.]com/m,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+http://618kc-1em-hf9z-5uqgl-09-09-2026-aa.pages.dev/,hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-07T15:05Z,phishing;url;T1566.002;T1056.003,2026-11-07T12:14:31Z
+104.152.52.233,104[.]152[.]52[.]233,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+109.160.32.127,109[.]160[.]32[.]127,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+109.160.32.136,109[.]160[.]32[.]136,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+109.160.32.145,109[.]160[.]32[.]145,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+141.98.10.162,141[.]98[.]10[.]162,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+172.94.9.161,172[.]94[.]9[.]161,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+176.65.144.6,176[.]65[.]144[.]6,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+195.178.110.159,195[.]178[.]110[.]159,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+195.178.110.223,195[.]178[.]110[.]223,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+213.177.179.80,213[.]177[.]179[.]80,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+45.138.12.178,45[.]138[.]12[.]178,ip,multi-blocklist,54,2026-11-07T10:53Z,multi-blocklist;ip;T1595;T1110,2026-11-07T08:01:39Z
+68.183.236.229,68[.]183[.]236[.]229,ip,Cobalt Strike,54,2026-11-03T11:47Z,cobalt-strike;ip;T1071;T1105,2026-11-03T08:57:32Z
+74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T02:53Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
+38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T02:53Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
