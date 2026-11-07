@@ -1,0 +1,56 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-07 08:01 UTC   Count: 26   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-07
+
+104[.]152[.]52[.]233
+109[.]160[.]32[.]127
+109[.]160[.]32[.]136
+109[.]160[.]32[.]145
+141[.]98[.]10[.]162
+172[.]94[.]9[.]161
+176[.]65[.]144[.]6
+195[.]178[.]110[.]159
+195[.]178[.]110[.]223
+213[.]177[.]179[.]80
+45[.]138[.]12[.]178
+hxxp://146a3[.]nikens[.]at/kraken/
+hxxp://22111565[.]com/m
+hxxp://22331565[.]com/nosupportie[.]html
+hxxp://22881565[.]com/nosupportie[.]html
+hxxp://33221565[.]com/nosupportie[.]html
+hxxp://33771565[.]com/m
+hxxp://33771565[.]com/nosupportie[.]html
+hxxp://61aes-m3m-pr7u-dbvmn-08-09-2026-hh[.]pages[.]dev/
+hxxp://7jiw7b-devtb-i29br-4jfa-bllc4[.]pages[.]dev/
+hxxp://87ie6-rt6-fg7e-k0ls1-08-09-2026-hh[.]pages[.]dev/
+hxxp://_bimi[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/
+hxxp://_domainkey[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-04
+
+43[.]136[.]174[.]17
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+
