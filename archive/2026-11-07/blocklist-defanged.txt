@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-07 12:14 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-07 17:09 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,17 +15,6 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-07
 
-104[.]152[.]52[.]233
-109[.]160[.]32[.]127
-109[.]160[.]32[.]136
-109[.]160[.]32[.]145
-141[.]98[.]10[.]162
-172[.]94[.]9[.]161
-176[.]65[.]144[.]6
-195[.]178[.]110[.]159
-195[.]178[.]110[.]223
-213[.]177[.]179[.]80
-45[.]138[.]12[.]178
 hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/
 hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/
 hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/
@@ -49,8 +38,61 @@ hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+8[.]160[.]165[.]56
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+101[.]42[.]255[.]92
+8[.]156[.]80[.]127
+8[.]160[.]179[.]57
 

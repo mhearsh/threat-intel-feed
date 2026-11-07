@@ -1,15 +1,15 @@
 description,ip,weight,first_published
-multi-blocklist score 54 (medium) added 2026-11-07,104.152.52.233,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,109.160.32.127,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,109.160.32.136,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,109.160.32.145,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,141.98.10.162,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,172.94.9.161,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,176.65.144.6,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,195.178.110.159,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,195.178.110.223,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,213.177.179.80,1,2026-11-07
-multi-blocklist score 54 (medium) added 2026-11-07,45.138.12.178,1,2026-11-07
 Cobaltstrike score 54 (medium) added 2026-11-03,68.183.236.229,1,2026-11-03
+Cobaltstrike score 54 (medium) added 2026-11-02,8.160.165.56,1,2026-11-02
+Cobaltstrike score 54 (medium) added 2026-11-01,101.42.49.202,1,2026-11-01
+Cobaltstrike score 54 (medium) added 2026-11-01,177.5.76.21,1,2026-11-01
+Cobaltstrike score 54 (medium) added 2026-10-29,23.254.226.103,1,2026-10-29
+Cobaltstrike score 54 (medium) added 2026-10-28,122.51.179.8,1,2026-10-28
+Cobaltstrike score 54 (medium) added 2026-10-27,101.133.229.117,1,2026-10-27
+Cobaltstrike score 54 (medium) added 2026-10-26,68.64.176.76,1,2026-10-26
+Cobaltstrike score 54 (medium) added 2026-10-25,111.170.148.141,1,2026-10-25
+Cobaltstrike score 54 (medium) added 2026-10-24,8.156.80.127,1,2026-10-24
+Cobaltstrike score 54 (medium) added 2026-10-24,8.160.179.57,1,2026-10-24
+Cobaltstrike score 54 (medium) added 2026-10-24,101.42.255.92,1,2026-10-24
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22

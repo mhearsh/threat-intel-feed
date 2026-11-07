@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious IPv4 collection (score >= 50)                     #
 #  Format:  one IPv4 per line, not defanged; '#' = comment                    #
 #  Usage:   Firewall EDL (Palo Alto / FortiGate), SIEM                        #
-#  Updated: 2026-11-07 12:14 UTC   Count: 482   Expiry: 30 days               #
+#  Updated: 2026-11-07 17:09 UTC   Count: 486   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -167,7 +167,7 @@
 91.92.47.220
 
 
-# Auto-Fetch-ThreatIntel: Spamhaus-DROP + ThreatFox
+# Auto-Fetch-ThreatIntel: C2IntelFeeds + Spamhaus-DROP + ThreatFox
 # C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
 # 2026-11-02
 
@@ -201,6 +201,7 @@
 64.227.0.146
 65.21.182.74
 8.148.212.170
+8.160.165.56
 
 
 # Auto-Fetch-ThreatIntel: C2IntelFeeds + Spamhaus-DROP + ThreatFox
@@ -399,7 +400,7 @@
 94.26.83.90
 
 
-# Auto-Fetch-ThreatIntel: Spamhaus-DROP + ThreatFox
+# Auto-Fetch-ThreatIntel: C2IntelFeeds + Spamhaus-DROP + ThreatFox
 # C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
 # 2026-10-28
 
@@ -411,6 +412,7 @@
 119.42.148.186
 119.42.148.189
 120.26.161.0
+122.51.179.8
 130.12.181.221
 134.122.189.138
 138.68.134.9
@@ -537,6 +539,7 @@
 # C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111.170.148.141
 112.213.123.38
 116.62.81.149
 130.94.75.105
@@ -575,6 +578,7 @@
 43.142.137.169
 49.235.158.141
 8.156.80.127
+8.160.179.57
 89.32.41.111
 89.32.41.43
 91.92.242.19
