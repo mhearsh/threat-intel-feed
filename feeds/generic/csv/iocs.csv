@@ -1,16 +1,16 @@
 value,type,family,score,band,sources,first_seen,mitre,first_published
-146a3.nikens.at/kraken,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-22111565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-22331565.com/nosupportie.html,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-22881565.com/nosupportie.html,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-33221565.com/nosupportie.html,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-33771565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-33771565.com/nosupportie.html,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-61aes-m3m-pr7u-dbvmn-08-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-7jiw7b-devtb-i29br-4jfa-bllc4.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-87ie6-rt6-fg7e-k0ls1-08-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-_bimi.goofy-cray.87-106-236-104.plesk.page,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-_domainkey.goofy-cray.87-106-236-104.plesk.page,url,phishing,60,medium,OpenPhish,2026-11-07T08:01:39Z,"T1566.002, T1056.003",2026-11-07T08:01:39Z
+0t0wx-f1b-ls3p-mo720-09-09-2026-aa.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+0wyqw-jxn0wr-k90rlc-ckr-89o72.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+1xggx-lwf-9sqc-bxi2k-08-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+22551565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+22771565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+22991565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+30jgl-xoa-hssy-dhcqh-08-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+33111565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+33221565.com/nosupportie.html,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+33661565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+33881565.com/m,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+618kc-1em-hf9z-5uqgl-09-09-2026-aa.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-07T12:14:31Z,"T1566.002, T1056.003",2026-11-07T12:14:31Z
 104.152.52.233,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-07T08:01:39Z,"T1595, T1110",2026-11-07T08:01:39Z
 109.160.32.127,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-07T08:01:39Z,"T1595, T1110",2026-11-07T08:01:39Z
 109.160.32.136,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-07T08:01:39Z,"T1595, T1110",2026-11-07T08:01:39Z
@@ -22,6 +22,6 @@ _domainkey.goofy-cray.87-106-236-104.plesk.page,url,phishing,60,medium,OpenPhish
 195.178.110.223,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-07T08:01:39Z,"T1595, T1110",2026-11-07T08:01:39Z
 213.177.179.80,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-07T08:01:39Z,"T1595, T1110",2026-11-07T08:01:39Z
 45.138.12.178,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-07T08:01:39Z,"T1595, T1110",2026-11-07T08:01:39Z
-43.136.174.17,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-04T10:52:42Z,"T1071, T1105",2026-11-04T10:52:42Z
+68.183.236.229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-03T08:57:32Z,"T1071, T1105",2026-11-03T08:57:32Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z

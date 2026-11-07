@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-07 08:01 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-07 12:14 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -26,25 +26,25 @@
 195[.]178[.]110[.]223
 213[.]177[.]179[.]80
 45[.]138[.]12[.]178
-hxxp://146a3[.]nikens[.]at/kraken/
-hxxp://22111565[.]com/m
-hxxp://22331565[.]com/nosupportie[.]html
-hxxp://22881565[.]com/nosupportie[.]html
-hxxp://33221565[.]com/nosupportie[.]html
-hxxp://33771565[.]com/m
-hxxp://33771565[.]com/nosupportie[.]html
-hxxp://61aes-m3m-pr7u-dbvmn-08-09-2026-hh[.]pages[.]dev/
-hxxp://7jiw7b-devtb-i29br-4jfa-bllc4[.]pages[.]dev/
-hxxp://87ie6-rt6-fg7e-k0ls1-08-09-2026-hh[.]pages[.]dev/
-hxxp://_bimi[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/
-hxxp://_domainkey[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/
+hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/
+hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/
+hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/
+hxxp://22551565[.]com/m
+hxxp://22771565[.]com/m
+hxxp://22991565[.]com/m
+hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/
+hxxp://33111565[.]com/m
+hxxp://33221565[.]com/nosupportie[.]html/
+hxxp://33661565[.]com/m
+hxxp://33881565[.]com/m
+hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-04
+# 2026-11-03
 
-43[.]136[.]174[.]17
+68[.]183[.]236[.]229
 
 
 # Auto-Fetch-ThreatIntel

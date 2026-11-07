@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-07 08:01 UTC. 26 IOCs (url: 12, ip: 14); 23 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-07 12:14 UTC. 26 IOCs (url: 12, ip: 14); 23 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://146a3[.]nikens[.]at/kraken/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://22111565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://22331565[.]com/nosupportie[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://22881565[.]com/nosupportie[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://33221565[.]com/nosupportie[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://33771565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://33771565[.]com/nosupportie[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://61aes-m3m-pr7u-dbvmn-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://7jiw7b-devtb-i29br-4jfa-bllc4[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://87ie6-rt6-fg7e-k0ls1-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://_bimi[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://_domainkey[.]goofy-cray[.]87-106-236-104[.]plesk[.]pa` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://22551565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://22771565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://22991565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://33111565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://33221565[.]com/nosupportie[.]html/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://33661565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://33881565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 13 | `104[.]152[.]52[.]233` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
 | 14 | `109[.]160[.]32[.]127` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
 | 15 | `109[.]160[.]32[.]136` | ip | multi-blocklist | 54 | medium | T1595, T1110 |

@@ -1,27 +1,27 @@
 rank,ioc_defanged,type,family,score,band,sources,age_h,context,mitre,first_published
-1,hxxp://146a3[.]nikens[.]at/kraken/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-2,hxxp://22111565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-3,hxxp://22331565[.]com/nosupportie[.]html,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-4,hxxp://22881565[.]com/nosupportie[.]html,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-5,hxxp://33221565[.]com/nosupportie[.]html,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-6,hxxp://33771565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-7,hxxp://33771565[.]com/nosupportie[.]html,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-8,hxxp://61aes-m3m-pr7u-dbvmn-08-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-9,hxxp://7jiw7b-devtb-i29br-4jfa-bllc4[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-10,hxxp://87ie6-rt6-fg7e-k0ls1-08-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-11,hxxp://_bimi[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-12,hxxp://_domainkey[.]goofy-cray[.]87-106-236-104[.]plesk[.]page/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T08:01:39Z
-13,104[.]152[.]52[.]233,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-14,109[.]160[.]32[.]127,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-15,109[.]160[.]32[.]136,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-16,109[.]160[.]32[.]145,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-17,141[.]98[.]10[.]162,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-18,172[.]94[.]9[.]161,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-19,176[.]65[.]144[.]6,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-20,195[.]178[.]110[.]159,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-21,195[.]178[.]110[.]223,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-22,213[.]177[.]179[.]80,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-23,45[.]138[.]12[.]178,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,0.0,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
-24,43[.]136[.]174[.]17,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,69.1,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-04T10:52:42Z
-25,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,392.0,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
-26,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,392.0,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
+1,hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+2,hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+3,hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+4,hxxp://22551565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+5,hxxp://22771565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+6,hxxp://22991565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+7,hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+8,hxxp://33111565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+9,hxxp://33221565[.]com/nosupportie[.]html/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+10,hxxp://33661565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+11,hxxp://33881565[.]com/m,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+12,hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-07T12:14:31Z
+13,104[.]152[.]52[.]233,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+14,109[.]160[.]32[.]127,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+15,109[.]160[.]32[.]136,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+16,109[.]160[.]32[.]145,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+17,141[.]98[.]10[.]162,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+18,172[.]94[.]9[.]161,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+19,176[.]65[.]144[.]6,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+20,195[.]178[.]110[.]159,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+21,195[.]178[.]110[.]223,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+22,213[.]177[.]179[.]80,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+23,45[.]138[.]12[.]178,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,4.2,Flagged by 5+ independent blocklists (IPsum),"T1595, T1110",2026-11-07T08:01:39Z
+24,68[.]183[.]236[.]229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,99.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T08:57:32Z
+25,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,396.2,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
+26,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,396.2,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z

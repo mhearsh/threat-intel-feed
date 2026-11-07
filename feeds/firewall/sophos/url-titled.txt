@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-07 08:01 UTC   Count: 515   Expiry: 30 days               #
+#  Updated: 2026-11-07 12:14 UTC   Count: 521   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -18,10 +18,16 @@
 146a3.nikens.at/kraken
 22111565.com/m
 22331565.com/nosupportie.html
+22551565.com/m
+22771565.com/m
 22881565.com/nosupportie.html
+22991565.com/m
+33111565.com/m
 33221565.com/nosupportie.html
+33661565.com/m
 33771565.com/m
 33771565.com/nosupportie.html
+33881565.com/m
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
