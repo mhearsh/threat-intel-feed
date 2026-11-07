@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-07 17:09 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-07 20:35 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://22551565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://22771565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://22991565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://33111565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://33221565[.]com/nosupportie[.]html/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://33661565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://33881565[.]com/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://22551565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://22771565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://22991565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://33111565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://33221565[.]com/nosupportie[.]html/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://33661565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://33881565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
