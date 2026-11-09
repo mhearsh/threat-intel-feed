@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-07 20:35 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-09 18:20 UTC. 26 IOCs (url: 12, ip: 14); 24 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://22551565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://22771565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://22991565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://33111565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://33221565[.]com/nosupportie[.]html/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://33661565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://33881565[.]com/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 1 | `hxxp://01g82-iwk-l01b-xnha9-29-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://16654422[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://1lyjc-0wt-g1dm-5qei3-12-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://3f2nl-z45mhq-nh8vbo-hmwc5z[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://7ujqy8-00mem-v8i0jd-udvc[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://8u9m2c-qw444a-mbtz2p1m8k9-qwxknnnx[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://allegrolokalnie[.]pl-oferta723106578[.]sbs/oferta/apa` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://azkpm21cxzv-vyktr84lpw-4k8i2d-nl914m[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://azkpm68uiop-vyktr23lpw-9k4i8d-nl271m[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://bkstr47klnp-ktpmqskr-9m3h1g-jks71c405[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://blog[.]ihlnmap[.]cn/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `104[.]152[.]52[.]244` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 14 | `109[.]160[.]32[.]105` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 15 | `109[.]160[.]32[.]126` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

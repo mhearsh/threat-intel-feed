@@ -6,93 +6,45 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-07 20:35 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-09 18:20 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-07
+# 2026-11-09
 
-hxxp://0t0wx-f1b-ls3p-mo720-09-09-2026-aa[.]pages[.]dev/
-hxxp://0wyqw-jxn0wr-k90rlc-ckr-89o72[.]pages[.]dev/
-hxxp://1xggx-lwf-9sqc-bxi2k-08-09-2026-hh[.]pages[.]dev/
-hxxp://22551565[.]com/m
-hxxp://22771565[.]com/m
-hxxp://22991565[.]com/m
-hxxp://30jgl-xoa-hssy-dhcqh-08-09-2026-hh[.]pages[.]dev/
-hxxp://33111565[.]com/m
-hxxp://33221565[.]com/nosupportie[.]html/
-hxxp://33661565[.]com/m
-hxxp://33881565[.]com/m
-hxxp://618kc-1em-hf9z-5uqgl-09-09-2026-aa[.]pages[.]dev/
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-03
-
-68[.]183[.]236[.]229
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-02
-
-8[.]160[.]165[.]56
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-01
-
-101[.]42[.]49[.]202
-177[.]5[.]76[.]21
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-29
-
-23[.]254[.]226[.]103
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-28
-
-122[.]51[.]179[.]8
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-27
-
-101[.]133[.]229[.]117
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-26
-
-68[.]64[.]176[.]76
+104[.]152[.]52[.]244
+109[.]160[.]32[.]105
+109[.]160[.]32[.]126
+109[.]160[.]32[.]149
+109[.]160[.]32[.]162
+109[.]160[.]32[.]165
+138[.]226[.]237[.]41
+195[.]178[.]110[.]22
+195[.]178[.]110[.]242
+196[.]251[.]102[.]125
+213[.]209[.]159[.]231
+45[.]148[.]10[.]233
+hxxp://01g82-iwk-l01b-xnha9-29-09-2026-hh[.]pages[.]dev/
+hxxp://16654422[.]com/
+hxxp://1lyjc-0wt-g1dm-5qei3-12-09-2026-hh[.]pages[.]dev/
+hxxp://3f2nl-z45mhq-nh8vbo-hmwc5z[.]pages[.]dev/
+hxxp://7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc[.]pages[.]dev/
+hxxp://7ujqy8-00mem-v8i0jd-udvc[.]pages[.]dev/
+hxxp://8u9m2c-qw444a-mbtz2p1m8k9-qwxknnnx[.]pages[.]dev/
+hxxp://allegrolokalnie[.]pl-oferta723106578[.]sbs/oferta/aparat-sony-zv-e10-16-50mm-smallrig-akcesoria-ba982370/
+hxxp://azkpm21cxzv-vyktr84lpw-4k8i2d-nl914m[.]pages[.]dev/
+hxxp://azkpm68uiop-vyktr23lpw-9k4i8d-nl271m[.]pages[.]dev/
+hxxp://bkstr47klnp-ktpmqskr-9m3h1g-jks71c405[.]pages[.]dev/
+hxxp://blog[.]ihlnmap[.]cn/
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
-111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-24
-
-101[.]42[.]255[.]92
-8[.]156[.]80[.]127
-8[.]160[.]179[.]57
 

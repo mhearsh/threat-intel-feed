@@ -1,0 +1,50 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-09 18:20 UTC   Count: 26   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-09
+
+104[.]152[.]52[.]244
+109[.]160[.]32[.]105
+109[.]160[.]32[.]126
+109[.]160[.]32[.]149
+109[.]160[.]32[.]162
+109[.]160[.]32[.]165
+138[.]226[.]237[.]41
+195[.]178[.]110[.]22
+195[.]178[.]110[.]242
+196[.]251[.]102[.]125
+213[.]209[.]159[.]231
+45[.]148[.]10[.]233
+hxxp://01g82-iwk-l01b-xnha9-29-09-2026-hh[.]pages[.]dev/
+hxxp://16654422[.]com/
+hxxp://1lyjc-0wt-g1dm-5qei3-12-09-2026-hh[.]pages[.]dev/
+hxxp://3f2nl-z45mhq-nh8vbo-hmwc5z[.]pages[.]dev/
+hxxp://7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc[.]pages[.]dev/
+hxxp://7ujqy8-00mem-v8i0jd-udvc[.]pages[.]dev/
+hxxp://8u9m2c-qw444a-mbtz2p1m8k9-qwxknnnx[.]pages[.]dev/
+hxxp://allegrolokalnie[.]pl-oferta723106578[.]sbs/oferta/aparat-sony-zv-e10-16-50mm-smallrig-akcesoria-ba982370/
+hxxp://azkpm21cxzv-vyktr84lpw-4k8i2d-nl914m[.]pages[.]dev/
+hxxp://azkpm68uiop-vyktr23lpw-9k4i8d-nl271m[.]pages[.]dev/
+hxxp://bkstr47klnp-ktpmqskr-9m3h1g-jks71c405[.]pages[.]dev/
+hxxp://blog[.]ihlnmap[.]cn/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

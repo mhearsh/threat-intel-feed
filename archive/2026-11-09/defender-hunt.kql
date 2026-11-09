@@ -1,0 +1,27 @@
+// ============================================================================
+//  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
+//  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
+//  Updated: 2026-11-09 18:20 UTC   Count: 14   TLP:CLEAR
+//  FirstPublished = date the IOC first entered the feed (newest first)
+// ============================================================================
+let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
+    "104.152.52.244", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "109.160.32.105", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "109.160.32.126", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "109.160.32.149", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "109.160.32.162", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "109.160.32.165", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "138.226.237.41", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "195.178.110.22", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "195.178.110.242", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "196.251.102.125", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "213.209.159.231", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "45.148.10.233", "ip", "multi-blocklist", datetime(2026-11-09T18:20:52Z),
+    "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
+    "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
+];
+let ips = iocs | where Type == "ip" | project Indicator;
+let doms = iocs | where Type == "domain" | project Indicator;
+DeviceNetworkEvents | where Timestamp > ago(7d)
+| where RemoteIP in (ips) or RemoteUrl has_any (doms)
+| project Timestamp, DeviceName, InitiatingProcessFileName, RemoteIP, RemoteUrl

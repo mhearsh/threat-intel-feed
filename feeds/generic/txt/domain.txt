@@ -6,9 +6,26 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-07 20:35 UTC   Count: 830   Expiry: 30 days               #
+#  Updated: 2026-11-09 18:20 UTC   Count: 841   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-09
+
+01g82-iwk-l01b-xnha9-29-09-2026-hh.pages.dev
+16654422.com
+1lyjc-0wt-g1dm-5qei3-12-09-2026-hh.pages.dev
+3f2nl-z45mhq-nh8vbo-hmwc5z.pages.dev
+7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc.pages.dev
+7ujqy8-00mem-v8i0jd-udvc.pages.dev
+8u9m2c-qw444a-mbtz2p1m8k9-qwxknnnx.pages.dev
+azkpm21cxzv-vyktr84lpw-4k8i2d-nl914m.pages.dev
+azkpm68uiop-vyktr23lpw-9k4i8d-nl271m.pages.dev
+bkstr47klnp-ktpmqskr-9m3h1g-jks71c405.pages.dev
+blog.ihlnmap.cn
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
