@@ -1,0 +1,27 @@
+indicator,indicator_defanged,type,family,confidence,first_seen,tags,first_published
+http://01g82-iwk-l01b-xnha9-29-09-2026-hh.pages.dev/,hxxp://01g82-iwk-l01b-xnha9-29-09-2026-hh[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://16654422.com/,hxxp://16654422[.]com/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://1lyjc-0wt-g1dm-5qei3-12-09-2026-hh.pages.dev/,hxxp://1lyjc-0wt-g1dm-5qei3-12-09-2026-hh[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://3f2nl-z45mhq-nh8vbo-hmwc5z.pages.dev/,hxxp://3f2nl-z45mhq-nh8vbo-hmwc5z[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc.pages.dev/,hxxp://7s1q2g-2v9m1p8a-mbtz8p2m1z9-fsgc[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://7ujqy8-00mem-v8i0jd-udvc.pages.dev/,hxxp://7ujqy8-00mem-v8i0jd-udvc[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://8u9m2c-qw444a-mbtz2p1m8k9-qwxknnnx.pages.dev/,hxxp://8u9m2c-qw444a-mbtz2p1m8k9-qwxknnnx[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://allegrolokalnie.pl-oferta723106578.sbs/oferta/aparat-sony-zv-e10-16-50mm-smallrig-akcesoria-ba982370/,hxxp://allegrolokalnie[.]pl-oferta723106578[.]sbs/oferta/aparat-sony-zv-e10-16-50mm-smallrig-akcesoria-ba982370/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://azkpm21cxzv-vyktr84lpw-4k8i2d-nl914m.pages.dev/,hxxp://azkpm21cxzv-vyktr84lpw-4k8i2d-nl914m[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://azkpm68uiop-vyktr23lpw-9k4i8d-nl271m.pages.dev/,hxxp://azkpm68uiop-vyktr23lpw-9k4i8d-nl271m[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://bkstr47klnp-ktpmqskr-9m3h1g-jks71c405.pages.dev/,hxxp://bkstr47klnp-ktpmqskr-9m3h1g-jks71c405[.]pages[.]dev/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+http://blog.ihlnmap.cn/,hxxp://blog[.]ihlnmap[.]cn/,url,phishing,60,2026-11-09T18:18Z,phishing;url;T1566.002;T1056.003,2026-11-09T18:20:52Z
+104.152.52.244,104[.]152[.]52[.]244,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+109.160.32.105,109[.]160[.]32[.]105,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+109.160.32.126,109[.]160[.]32[.]126,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+109.160.32.149,109[.]160[.]32[.]149,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+109.160.32.162,109[.]160[.]32[.]162,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+109.160.32.165,109[.]160[.]32[.]165,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+138.226.237.41,138[.]226[.]237[.]41,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+195.178.110.22,195[.]178[.]110[.]22,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+195.178.110.242,195[.]178[.]110[.]242,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+196.251.102.125,196[.]251[.]102[.]125,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+213.209.159.231,213[.]209[.]159[.]231,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+45.148.10.233,45[.]148[.]10[.]233,ip,multi-blocklist,54,2026-11-09T18:18Z,multi-blocklist;ip;T1595;T1110,2026-11-09T18:20:52Z
+74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:00Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
+38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:00Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
