@@ -39,3 +39,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-11-05 | #13 | 50 | Unknown malware, AMOS, ACR Stealer | [CSV](2026/11/2026-11-05-drop-13.csv) | [summary](2026/11/2026-11-05-drop-13.png) · [list](2026/11/2026-11-05-drop-13-list.png) |
 | 2026-11-06 | #14 | 26 | phishing, multi-blocklist, Cobalt Strike | [CSV](2026/11/2026-11-06-drop-14.csv) | [summary](2026/11/2026-11-06-drop-14.png) · [list](2026/11/2026-11-06-drop-14-list.png) |
 | 2026-11-07 | #15 | 26 | phishing, multi-blocklist, Arista VCO exploitation CVE-2026-114625 | [CSV](2026/11/2026-11-07-drop-15.csv) | [summary](2026/11/2026-11-07-drop-15.png) · [list](2026/11/2026-11-07-drop-15-list.png) |
+| 2026-11-09 | #16 | 26 | phishing, multi-blocklist, Arista VCO exploitation CVE-2026-114625 | [CSV](2026/11/2026-11-09-drop-16.csv) | [summary](2026/11/2026-11-09-drop-16.png) · [list](2026/11/2026-11-09-drop-16-list.png) |
