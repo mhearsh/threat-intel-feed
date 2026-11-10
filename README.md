@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-10 18:02 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-10 22:19 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://adobepdf[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://aktifkandisinizxzx[.]warmer[.]my[.]id/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://b41737238-855a-48a4-afa1-e7b09fe779a3[.]netlify[.]app` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://basewalletsupport[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://bdf88-127sk-qtz15-127wu-8b3c5d-lpr47-127a[.]pages[.]d` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://bgrfd19vdo-mtvljqwe-7i2j8g-bgr463-hwcps85xlo[.]pages[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://bgrfd76qlo-zlkyt92nh-7j3k6g-bgr418-mtvlj53xwp[.]pages` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://binancesync[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://burning-amber-f9ziqnw4-dpiyk019md9i[.]edgeone[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://caiiflaw[.]cc/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://cerralaiso[.]click/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://cheersagar[.]digitalrefreshnetworks[.]com/wp-admin/ed` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://adobepdf[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://aktifkandisinizxzx[.]warmer[.]my[.]id/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://b41737238-855a-48a4-afa1-e7b09fe779a3[.]netlify[.]app` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://basewalletsupport[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://bdf88-127sk-qtz15-127wu-8b3c5d-lpr47-127a[.]pages[.]d` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://bgrfd19vdo-mtvljqwe-7i2j8g-bgr463-hwcps85xlo[.]pages[` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://bgrfd76qlo-zlkyt92nh-7j3k6g-bgr418-mtvlj53xwp[.]pages` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://binancesync[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://burning-amber-f9ziqnw4-dpiyk019md9i[.]edgeone[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://caiiflaw[.]cc/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://cerralaiso[.]click/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://cheersagar[.]digitalrefreshnetworks[.]com/wp-admin/ed` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |

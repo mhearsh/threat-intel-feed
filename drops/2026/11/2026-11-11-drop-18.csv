@@ -1,0 +1,27 @@
+indicator,indicator_defanged,type,family,confidence,first_seen,tags,first_published
+http://adobepdf.vercel.app/,hxxp://adobepdf[.]vercel[.]app/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://aktifkandisinizxzx.warmer.my.id/,hxxp://aktifkandisinizxzx[.]warmer[.]my[.]id/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://b41737238-855a-48a4-afa1-e7b09fe779a3.netlify.app/protect/,hxxp://b41737238-855a-48a4-afa1-e7b09fe779a3[.]netlify[.]app/protect/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://basewalletsupport.vercel.app/,hxxp://basewalletsupport[.]vercel[.]app/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://bdf88-127sk-qtz15-127wu-8b3c5d-lpr47-127a.pages.dev/,hxxp://bdf88-127sk-qtz15-127wu-8b3c5d-lpr47-127a[.]pages[.]dev/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://bgrfd19vdo-mtvljqwe-7i2j8g-bgr463-hwcps85xlo.pages.dev/,hxxp://bgrfd19vdo-mtvljqwe-7i2j8g-bgr463-hwcps85xlo[.]pages[.]dev/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://bgrfd76qlo-zlkyt92nh-7j3k6g-bgr418-mtvlj53xwp.pages.dev/,hxxp://bgrfd76qlo-zlkyt92nh-7j3k6g-bgr418-mtvlj53xwp[.]pages[.]dev/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://binancesync.com/,hxxp://binancesync[.]com/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://burning-amber-f9ziqnw4-dpiyk019md9i.edgeone.dev/,hxxp://burning-amber-f9ziqnw4-dpiyk019md9i[.]edgeone[.]dev/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://caiiflaw.cc/,hxxp://caiiflaw[.]cc/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://cerralaiso.click/,hxxp://cerralaiso[.]click/,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+http://cheersagar.digitalrefreshnetworks.com/wp-admin/edoc/e-file.html,hxxp://cheersagar[.]digitalrefreshnetworks[.]com/wp-admin/edoc/e-file[.]html,url,phishing,54,2026-11-10T12:13Z,phishing;url;T1566.002;T1056.003,2026-11-10T12:16:16Z
+68.183.236.229,68[.]183[.]236[.]229,ip,Cobalt Strike,54,2026-11-03T08:55Z,cobalt-strike;ip;T1071;T1105,2026-11-03T08:57:32Z
+8.160.165.56,8[.]160[.]165[.]56,ip,Cobalt Strike,54,2026-11-02T05:19Z,cobalt-strike;ip;T1071;T1105,2026-11-02T05:22:13Z
+101.42.49.202,101[.]42[.]49[.]202,ip,Cobalt Strike,54,2026-11-01T07:43Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
+177.5.76.21,177[.]5[.]76[.]21,ip,Cobalt Strike,54,2026-11-01T07:43Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
+23.254.226.103,23[.]254[.]226[.]103,ip,Cobalt Strike,54,2026-10-29T10:01Z,cobalt-strike;ip;T1071;T1105,2026-10-29T10:02:58Z
+122.51.179.8,122[.]51[.]179[.]8,ip,Cobalt Strike,54,2026-10-28T06:07Z,cobalt-strike;ip;T1071;T1105,2026-10-28T06:05:17Z
+101.133.229.117,101[.]133[.]229[.]117,ip,Cobalt Strike,54,2026-10-27T21:37Z,cobalt-strike;ip;T1071;T1105,2026-10-27T21:39:41Z
+68.64.176.76,68[.]64[.]176[.]76,ip,Cobalt Strike,54,2026-10-26T06:19Z,cobalt-strike;ip;T1071;T1105,2026-10-26T06:21:56Z
+111.170.148.141,111[.]170[.]148[.]141,ip,Cobalt Strike,54,2026-10-25T20:25Z,cobalt-strike;ip;T1071;T1105,2026-10-25T20:22:44Z
+8.156.80.127,8[.]156[.]80[.]127,ip,Cobalt Strike,54,2026-10-24T06:43Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:42:09Z
+8.160.179.57,8[.]160[.]179[.]57,ip,Cobalt Strike,54,2026-10-24T06:43Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:42:09Z
+101.42.255.92,101[.]42[.]255[.]92,ip,Cobalt Strike,54,2026-10-24T06:37Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:36:27Z
+74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:01Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
+38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-22T00:01Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
