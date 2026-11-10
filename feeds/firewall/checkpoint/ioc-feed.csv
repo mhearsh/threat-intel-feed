@@ -11,17 +11,17 @@ tif-url-9,burning-amber-f9ziqnw4-dpiyk019md9i.edgeone.dev,URL,medium,medium,AB,p
 tif-url-10,caiiflaw.cc,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-10
 tif-url-11,cerralaiso.click,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-10
 tif-url-12,cheersagar.digitalrefreshnetworks.com/wp-admin/edoc/e-file.html,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-10
-tif-ip-1,101.36.106.89,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-2,101.36.108.158,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-3,101.36.97.172,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-4,109.160.32.172,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-5,195.178.110.131,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-6,195.178.110.97,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-7,204.76.203.43,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-8,204.76.203.44,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-9,213.209.159.108,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-10,23.132.164.184,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-11,45.148.10.171,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
-tif-ip-12,45.194.92.221,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-10
+tif-ip-1,68.183.236.229,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-03
+tif-ip-2,8.160.165.56,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-02
+tif-ip-3,101.42.49.202,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-01
+tif-ip-4,177.5.76.21,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-01
+tif-ip-5,23.254.226.103,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-29
+tif-ip-6,122.51.179.8,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-28
+tif-ip-7,101.133.229.117,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-27
+tif-ip-8,68.64.176.76,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-26
+tif-ip-9,111.170.148.141,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-25
+tif-ip-10,8.156.80.127,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-24
+tif-ip-11,8.160.179.57,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-24
+tif-ip-12,101.42.255.92,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-24
 tif-ip-13,74.82.197.86,IP,critical,critical,AB,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 tif-ip-14,38.54.50.151,IP,critical,critical,AB,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22

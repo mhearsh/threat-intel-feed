@@ -11,17 +11,17 @@ burning-amber-f9ziqnw4-dpiyk019md9i.edgeone.dev,url,phishing,60,medium,OpenPhish
 caiiflaw.cc,url,phishing,60,medium,OpenPhish,2026-11-10T12:16:16Z,"T1566.002, T1056.003",2026-11-10T12:16:16Z
 cerralaiso.click,url,phishing,60,medium,OpenPhish,2026-11-10T12:16:16Z,"T1566.002, T1056.003",2026-11-10T12:16:16Z
 cheersagar.digitalrefreshnetworks.com/wp-admin/edoc/e-file.html,url,phishing,60,medium,OpenPhish,2026-11-10T12:16:16Z,"T1566.002, T1056.003",2026-11-10T12:16:16Z
-101.36.106.89,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-101.36.108.158,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-101.36.97.172,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-109.160.32.172,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-195.178.110.131,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-195.178.110.97,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-204.76.203.43,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-204.76.203.44,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-213.209.159.108,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-23.132.164.184,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-45.148.10.171,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
-45.194.92.221,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-10T06:41:32Z,"T1595, T1110",2026-11-10T06:41:32Z
+68.183.236.229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-03T08:57:32Z,"T1071, T1105",2026-11-03T08:57:32Z
+8.160.165.56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-02T05:22:13Z,"T1071, T1105",2026-11-02T05:22:13Z
+101.42.49.202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
+177.5.76.21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
+23.254.226.103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-29T10:02:58Z,"T1071, T1105",2026-10-29T10:02:58Z
+122.51.179.8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-28T06:05:17Z,"T1071, T1105",2026-10-28T06:05:17Z
+101.133.229.117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-27T21:39:41Z,"T1071, T1105",2026-10-27T21:39:41Z
+68.64.176.76,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-26T06:21:56Z,"T1071, T1105",2026-10-26T06:21:56Z
+111.170.148.141,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-25T20:22:44Z,"T1071, T1105",2026-10-25T20:22:44Z
+8.156.80.127,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T06:42:09Z,"T1071, T1105",2026-10-24T06:42:09Z
+8.160.179.57,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T06:42:09Z,"T1071, T1105",2026-10-24T06:42:09Z
+101.42.255.92,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T06:36:27Z,"T1071, T1105",2026-10-24T06:36:27Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z

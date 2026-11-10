@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-10 12:16 UTC. 26 IOCs (url: 12, ip: 14); 24 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-10 15:06 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
@@ -127,9 +127,9 @@ _Last update: 2026-11-10 12:16 UTC. 26 IOCs (url: 12, ip: 14); 24 first seen und
 | 10 | `hxxp://caiiflaw[.]cc/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 11 | `hxxp://cerralaiso[.]click/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 12 | `hxxp://cheersagar[.]digitalrefreshnetworks[.]com/wp-admin/ed` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 13 | `101[.]36[.]106[.]89` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 14 | `101[.]36[.]108[.]158` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 15 | `101[.]36[.]97[.]172` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

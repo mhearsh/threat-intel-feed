@@ -1,22 +1,22 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-10 12:16 UTC   Count: 14   TLP:CLEAR
+//  Updated: 2026-11-10 15:06 UTC   Count: 14   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "101.36.106.89", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "101.36.108.158", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "101.36.97.172", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "109.160.32.172", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "195.178.110.131", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "195.178.110.97", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "204.76.203.43", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "204.76.203.44", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "213.209.159.108", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "23.132.164.184", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "45.148.10.171", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
-    "45.194.92.221", "ip", "multi-blocklist", datetime(2026-11-10T06:41:32Z),
+    "68.183.236.229", "ip", "Cobaltstrike", datetime(2026-11-03T08:57:32Z),
+    "8.160.165.56", "ip", "Cobaltstrike", datetime(2026-11-02T05:22:13Z),
+    "101.42.49.202", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
+    "177.5.76.21", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
+    "23.254.226.103", "ip", "Cobaltstrike", datetime(2026-10-29T10:02:58Z),
+    "122.51.179.8", "ip", "Cobaltstrike", datetime(2026-10-28T06:05:17Z),
+    "101.133.229.117", "ip", "Cobaltstrike", datetime(2026-10-27T21:39:41Z),
+    "68.64.176.76", "ip", "Cobaltstrike", datetime(2026-10-26T06:21:56Z),
+    "111.170.148.141", "ip", "Cobaltstrike", datetime(2026-10-25T20:22:44Z),
+    "8.156.80.127", "ip", "Cobaltstrike", datetime(2026-10-24T06:42:09Z),
+    "8.160.179.57", "ip", "Cobaltstrike", datetime(2026-10-24T06:42:09Z),
+    "101.42.255.92", "ip", "Cobaltstrike", datetime(2026-10-24T06:36:27Z),
     "74.82.197.86", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z),
     "38.54.50.151", "ip", "Arista VCO exploitation CVE-2026-114625", datetime(2026-10-22T00:00:00Z)
 ];
