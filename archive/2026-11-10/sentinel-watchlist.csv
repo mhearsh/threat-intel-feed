@@ -1,4 +1,16 @@
 Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+http://adobepdf.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://aktifkandisinizxzx.warmer.my.id/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://b41737238-855a-48a4-afa1-e7b09fe779a3.netlify.app/protect/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://basewalletsupport.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://bdf88-127sk-qtz15-127wu-8b3c5d-lpr47-127a.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://bgrfd19vdo-mtvljqwe-7i2j8g-bgr463-hwcps85xlo.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://bgrfd76qlo-zlkyt92nh-7j3k6g-bgr418-mtvlj53xwp.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://binancesync.com/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://burning-amber-f9ziqnw4-dpiyk019md9i.edgeone.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://caiiflaw.cc/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://cerralaiso.click/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
+http://cheersagar.digitalrefreshnetworks.com/wp-admin/edoc/e-file.html,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-10T12:16:16Z
 101.36.106.89,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-10T06:41:32Z
 101.36.108.158,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-10T06:41:32Z
 101.36.97.172,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-10T06:41:32Z
@@ -11,17 +23,5 @@ Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 23.132.164.184,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-10T06:41:32Z
 45.148.10.171,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-10T06:41:32Z
 45.194.92.221,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-10T06:41:32Z
-http://01ol3-oir-zh0r-0sfoa-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://1ubi8-xix-s0fd-1f81u-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://25hahkagn25xx.blogspot.com/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://52jwb-yda-u5qz-yotfr-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://5nmt1-3xc-met0-mo9q8-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://7ii0e-orc-xex1-w6gss-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://amount-to-usdt-4.vercel.app/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://amount-to-usdt-aj6b.vercel.app/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://arbetsorder.sollander.se/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://arbetsorder.sollander.se/frmLogin.aspx?ReturnUrl=%2f,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://arfdo-1mu-s419-kr7q5-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
-http://bbyj1-5iz-n1kf-r6g6f-12-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-10T00:30:42Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z

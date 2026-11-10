@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-10 08:41 UTC   Count: 523   Expiry: 30 days               #
+#  Updated: 2026-11-10 12:16 UTC   Count: 525   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,8 @@
 # 2026-11-10
 
 arbetsorder.sollander.se/frmLogin.aspx?ReturnUrl=%2f
+b41737238-855a-48a4-afa1-e7b09fe779a3.netlify.app/protect
+cheersagar.digitalrefreshnetworks.com/wp-admin/edoc/e-file.html
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
