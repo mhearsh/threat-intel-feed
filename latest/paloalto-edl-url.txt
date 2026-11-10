@@ -6,9 +6,33 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-09 22:30 UTC   Count: 1363   Expiry: 30 days              #
+#  Updated: 2026-11-10 00:30 UTC   Count: 1375   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-10
+
+arbetsorder.sollander.se/frmLogin.aspx?ReturnUrl=%2f
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-10
+
+01ol3-oir-zh0r-0sfoa-12-09-2026-hh.pages.dev
+1ubi8-xix-s0fd-1f81u-12-09-2026-hh.pages.dev
+25hahkagn25xx.blogspot.com
+52jwb-yda-u5qz-yotfr-12-09-2026-hh.pages.dev
+5nmt1-3xc-met0-mo9q8-12-09-2026-hh.pages.dev
+7ii0e-orc-xex1-w6gss-12-09-2026-hh.pages.dev
+amount-to-usdt-4.vercel.app
+amount-to-usdt-aj6b.vercel.app
+arbetsorder.sollander.se
+arfdo-1mu-s419-kr7q5-12-09-2026-hh.pages.dev
+bbyj1-5iz-n1kf-r6g6f-12-09-2026-hh.pages.dev
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

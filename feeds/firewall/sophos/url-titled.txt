@@ -6,9 +6,16 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-09 22:30 UTC   Count: 522   Expiry: 30 days               #
+#  Updated: 2026-11-10 00:30 UTC   Count: 523   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-10
+
+arbetsorder.sollander.se/frmLogin.aspx?ReturnUrl=%2f
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
