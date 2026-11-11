@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-11 02:20 UTC   Count: 1399   Expiry: 30 days              #
+#  Updated: 2026-11-11 04:20 UTC   Count: 1399   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
