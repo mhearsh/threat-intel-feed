@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-11 11:04 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-11 13:30 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,18 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-11
 
-hxxp://0qhnp-206-5vyk-r7n1i-13-09-2026-hh[.]pages[.]dev/
-hxxp://8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx[.]pages[.]dev/
-hxxp://admincheck-youraccount[.]freepage[.]cc/
-hxxp://bgrfd91xkw-qnkxz38pli-6l2j9g-bgr526-mtvlj75nhr-hwcps82[.]pages[.]dev/
-hxxp://bscscan-check-usdt-wallet67867[.]vercel[.]app/
-hxxp://cloud[.]iat[.]lat/j/YEYOgp2VcFT5caaPQ34oDvU3BTtTuY22?r=1
-hxxp://cloud[.]iat[.]lat/j/_ESdzEJuMxiQUW1SnwAioosDSp0vrsJI
-hxxp://cloudpeinfo[.]vercel[.]app/
-hxxp://coinbasehelpsupport[.]netlify[.]app/
-hxxp://docs-trezr-suit[.]pages[.]dev/
-hxxp://dravuni-kxt-farveta-a3x9dw68[.]pages[.]dev/
-hxxp://employeecenters[.]com/concluded[.]php?k=2cc703c14f9b2454ca84a31e6d4024786d6a15d7
+hxxp://adrenalin[.]win/
+hxxp://aktifkanpaylater4[.]cexd[.]my[.]id/
+hxxp://areasegura30horas[.]com/
+hxxp://autogallerypro[.]com/
+hxxp://b3f4[.]imtoken[.]2027web3[.]xyz/
+hxxp://braslectra[.]com[.]br/bigrfp/01222794306183433[.]html/
+hxxp://brentolio[.]pro/
+hxxp://caventolo[.]pro/
+hxxp://cendolira[.]pro/
+hxxp://companyrewards[.]net/concluded[.]php?k=65b9810a915d33bdc8a1289d7dbf3dceb36e875b
+hxxp://finance[.]petsonpoint[.]co[.]uk/
+hxxp://francebnap[.]vercel[.]app/
 
 
 # Auto-Fetch-ThreatIntel

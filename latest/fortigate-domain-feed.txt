@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-11 11:04 UTC   Count: 871   Expiry: 30 days               #
+#  Updated: 2026-11-11 13:30 UTC   Count: 881   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -18,12 +18,22 @@
 0qhnp-206-5vyk-r7n1i-13-09-2026-hh.pages.dev
 8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx.pages.dev
 admincheck-youraccount.freepage.cc
+adrenalin.win
+aktifkanpaylater4.cexd.my.id
+areasegura30horas.com
+autogallerypro.com
+b3f4.imtoken.2027web3.xyz
 bgrfd91xkw-qnkxz38pli-6l2j9g-bgr526-mtvlj75nhr-hwcps82.pages.dev
+brentolio.pro
 bscscan-check-usdt-wallet67867.vercel.app
+caventolo.pro
+cendolira.pro
 cloudpeinfo.vercel.app
 coinbasehelpsupport.netlify.app
 docs-trezr-suit.pages.dev
 dravuni-kxt-farveta-a3x9dw68.pages.dev
+finance.petsonpoint.co.uk
+francebnap.vercel.app
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
