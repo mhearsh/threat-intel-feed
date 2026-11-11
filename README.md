@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-11 17:19 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-11 22:16 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://adrenalin[.]win/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://aktifkanpaylater4[.]cexd[.]my[.]id/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://areasegura30horas[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://autogallerypro[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://b3f4[.]imtoken[.]2027web3[.]xyz/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://braslectra[.]com[.]br/bigrfp/01222794306183433[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://brentolio[.]pro/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://caventolo[.]pro/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://cendolira[.]pro/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://companyrewards[.]net/concluded[.]php?k=65b9810a915d33` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://finance[.]petsonpoint[.]co[.]uk/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://francebnap[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://adrenalin[.]win/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://aktifkanpaylater4[.]cexd[.]my[.]id/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://areasegura30horas[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://autogallerypro[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://b3f4[.]imtoken[.]2027web3[.]xyz/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://braslectra[.]com[.]br/bigrfp/01222794306183433[.]html` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://brentolio[.]pro/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://caventolo[.]pro/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://cendolira[.]pro/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://companyrewards[.]net/concluded[.]php?k=65b9810a915d33` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://finance[.]petsonpoint[.]co[.]uk/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://francebnap[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
