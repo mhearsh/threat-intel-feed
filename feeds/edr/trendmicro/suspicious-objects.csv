@@ -11,6 +11,10 @@ URL,coinbasehelpsupport.netlify.app,phishing score 60 (medium) added 2026-11-11
 URL,docs-trezr-suit.pages.dev,phishing score 60 (medium) added 2026-11-11
 URL,dravuni-kxt-farveta-a3x9dw68.pages.dev,phishing score 60 (medium) added 2026-11-11
 URL,employeecenters.com/concluded.php?k=2cc703c14f9b2454ca84a31e6d4024786d6a15d7,phishing score 60 (medium) added 2026-11-11
+IP,101.36.97.70,multi-blocklist score 54 (medium) added 2026-11-11
+IP,104.152.52.109,multi-blocklist score 54 (medium) added 2026-11-11
+IP,109.160.32.43,multi-blocklist score 54 (medium) added 2026-11-11
+IP,92.118.39.63,multi-blocklist score 54 (medium) added 2026-11-11
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,8.160.165.56,Cobaltstrike score 54 (medium) added 2026-11-02
 IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
@@ -19,9 +23,5 @@ IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
 IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
 IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
 IP,68.64.176.76,Cobaltstrike score 54 (medium) added 2026-10-26
-IP,111.170.148.141,Cobaltstrike score 54 (medium) added 2026-10-25
-IP,8.156.80.127,Cobaltstrike score 54 (medium) added 2026-10-24
-IP,8.160.179.57,Cobaltstrike score 54 (medium) added 2026-10-24
-IP,101.42.255.92,Cobaltstrike score 54 (medium) added 2026-10-24
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
