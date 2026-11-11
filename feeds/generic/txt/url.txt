@@ -6,9 +6,18 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-10 22:19 UTC   Count: 525   Expiry: 30 days               #
+#  Updated: 2026-11-11 00:19 UTC   Count: 528   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-11
+
+cloud.iat.lat/j/YEYOgp2VcFT5caaPQ34oDvU3BTtTuY22?r=1
+cloud.iat.lat/j/_ESdzEJuMxiQUW1SnwAioosDSp0vrsJI
+employeecenters.com/concluded.php?k=2cc703c14f9b2454ca84a31e6d4024786d6a15d7
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

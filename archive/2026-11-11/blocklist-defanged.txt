@@ -1,0 +1,98 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-11 00:19 UTC   Count: 26   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-11
+
+hxxp://0qhnp-206-5vyk-r7n1i-13-09-2026-hh[.]pages[.]dev/
+hxxp://8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx[.]pages[.]dev/
+hxxp://admincheck-youraccount[.]freepage[.]cc/
+hxxp://bgrfd91xkw-qnkxz38pli-6l2j9g-bgr526-mtvlj75nhr-hwcps82[.]pages[.]dev/
+hxxp://bscscan-check-usdt-wallet67867[.]vercel[.]app/
+hxxp://cloud[.]iat[.]lat/j/YEYOgp2VcFT5caaPQ34oDvU3BTtTuY22?r=1
+hxxp://cloud[.]iat[.]lat/j/_ESdzEJuMxiQUW1SnwAioosDSp0vrsJI
+hxxp://cloudpeinfo[.]vercel[.]app/
+hxxp://coinbasehelpsupport[.]netlify[.]app/
+hxxp://docs-trezr-suit[.]pages[.]dev/
+hxxp://dravuni-kxt-farveta-a3x9dw68[.]pages[.]dev/
+hxxp://employeecenters[.]com/concluded[.]php?k=2cc703c14f9b2454ca84a31e6d4024786d6a15d7
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+68[.]183[.]236[.]229
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+8[.]160[.]165[.]56
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+111[.]170[.]148[.]141
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+101[.]42[.]255[.]92
+8[.]156[.]80[.]127
+8[.]160[.]179[.]57
+
