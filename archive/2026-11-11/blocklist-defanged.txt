@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-11 08:11 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-11 11:04 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,10 +15,6 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-11
 
-101[.]36[.]97[.]70
-104[.]152[.]52[.]109
-109[.]160[.]32[.]43
-92[.]118[.]39[.]63
 hxxp://0qhnp-206-5vyk-r7n1i-13-09-2026-hh[.]pages[.]dev/
 hxxp://8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx[.]pages[.]dev/
 hxxp://admincheck-youraccount[.]freepage[.]cc/
@@ -87,6 +83,16 @@ hxxp://employeecenters[.]com/concluded[.]php?k=2cc703c14f9b2454ca84a31e6d4024786
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+101[.]42[.]255[.]92
+8[.]156[.]80[.]127
+8[.]160[.]179[.]57
 

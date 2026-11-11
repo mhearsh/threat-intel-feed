@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-11 08:11 UTC. 26 IOCs (ip: 14, url: 12); 4 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-11 11:04 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `101[.]36[.]97[.]70` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 2 | `104[.]152[.]52[.]109` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 3 | `109[.]160[.]32[.]43` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 4 | `92[.]118[.]39[.]63` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 5 | `hxxp://0qhnp-206-5vyk-r7n1i-13-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://admincheck-youraccount[.]freepage[.]cc/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://bgrfd91xkw-qnkxz38pli-6l2j9g-bgr526-mtvlj75nhr-hwcps8` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://bscscan-check-usdt-wallet67867[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://cloud[.]iat[.]lat/j/YEYOgp2VcFT5caaPQ34oDvU3BTtTuY22?` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://cloud[.]iat[.]lat/j/_ESdzEJuMxiQUW1SnwAioosDSp0vrsJI` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://cloudpeinfo[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 13 | `hxxp://coinbasehelpsupport[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 14 | `hxxp://docs-trezr-suit[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 15 | `hxxp://dravuni-kxt-farveta-a3x9dw68[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://0qhnp-206-5vyk-r7n1i-13-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://admincheck-youraccount[.]freepage[.]cc/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://bgrfd91xkw-qnkxz38pli-6l2j9g-bgr526-mtvlj75nhr-hwcps8` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://bscscan-check-usdt-wallet67867[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://cloud[.]iat[.]lat/j/YEYOgp2VcFT5caaPQ34oDvU3BTtTuY22?` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://cloud[.]iat[.]lat/j/_ESdzEJuMxiQUW1SnwAioosDSp0vrsJI` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://cloudpeinfo[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://coinbasehelpsupport[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://docs-trezr-suit[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://dravuni-kxt-farveta-a3x9dw68[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://employeecenters[.]com/concluded[.]php?k=2cc703c14f9b2` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
