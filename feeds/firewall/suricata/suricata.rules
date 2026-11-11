@@ -1,7 +1,7 @@
 ###############################################################################
 #                       THREAT-INTEL-FEED SURICATA RULES                      #
 #                         Top network IOCs (IPs, DNS)                         #
-#  Updated: 2026-11-11 13:30 UTC   Count: 14   TLP:CLEAR                      #
+#  Updated: 2026-11-11 17:19 UTC   Count: 14   TLP:CLEAR                      #
 ###############################################################################
 
 # Auto-Fetch-ThreatIntel
