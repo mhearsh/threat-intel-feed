@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-12 19:46 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-12 23:15 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://05bul-mut-2liu-kz5y7-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://1p9ga-3kq-v46y-lcf89-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://2m29d-6lf-7gqk-56luf-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://4n4hr-tb8-2qnk-qo01w-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://7p55p-oko-b9ka-52q6y-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://7phra-s7s-osbq-ve3e6-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://7v6he-1mg-3ecp-lybih-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://actualizacion-live-265--ralic40535[.]replit[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://adspageactiveaccount[.]pages[.]dev/creators/appeals/s` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://ahmad-netflix-portfolio-ujir[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://allegrolokalnie[.]kkupteraz[.]cfd/oferta/id-3cfw6oqry` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://aplic[.]lat/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://05bul-mut-2liu-kz5y7-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://1p9ga-3kq-v46y-lcf89-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://2m29d-6lf-7gqk-56luf-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://4n4hr-tb8-2qnk-qo01w-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://7p55p-oko-b9ka-52q6y-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://7phra-s7s-osbq-ve3e6-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://7v6he-1mg-3ecp-lybih-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://actualizacion-live-265--ralic40535[.]replit[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://adspageactiveaccount[.]pages[.]dev/creators/appeals/s` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://ahmad-netflix-portfolio-ujir[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://allegrolokalnie[.]kkupteraz[.]cfd/oferta/id-3cfw6oqry` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://aplic[.]lat/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
