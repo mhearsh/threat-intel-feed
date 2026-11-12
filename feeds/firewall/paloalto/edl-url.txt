@@ -6,9 +6,18 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-11 22:16 UTC   Count: 530   Expiry: 30 days               #
+#  Updated: 2026-11-12 07:21 UTC   Count: 533   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-12
+
+146a2.clatex.at/kraken/regis.php
+activity.micsoft-teams.com/0fwmeffav3133asw
+allegrolokalnie.okazje43241156.shop/oferta/microsoft-xbox-series-x-1tb-35f29630
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

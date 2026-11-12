@@ -6,27 +6,37 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-11 22:16 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-12 07:21 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-11
+# 2026-11-12
 
-hxxp://adrenalin[.]win/
-hxxp://aktifkanpaylater4[.]cexd[.]my[.]id/
-hxxp://areasegura30horas[.]com/
-hxxp://autogallerypro[.]com/
-hxxp://b3f4[.]imtoken[.]2027web3[.]xyz/
-hxxp://braslectra[.]com[.]br/bigrfp/01222794306183433[.]html/
-hxxp://brentolio[.]pro/
-hxxp://caventolo[.]pro/
-hxxp://cendolira[.]pro/
-hxxp://companyrewards[.]net/concluded[.]php?k=65b9810a915d33bdc8a1289d7dbf3dceb36e875b
-hxxp://finance[.]petsonpoint[.]co[.]uk/
-hxxp://francebnap[.]vercel[.]app/
+102[.]220[.]161[.]84
+109[.]160[.]32[.]132
+109[.]160[.]32[.]173
+109[.]160[.]32[.]174
+141[.]98[.]9[.]119
+141[.]98[.]9[.]28
+213[.]209[.]159[.]228
+213[.]209[.]159[.]241
+92[.]118[.]39[.]64
+92[.]118[.]39[.]75
+hxxp://146a2[.]clatex[.]at/kraken/regis[.]php
+hxxp://2wimhy09[.]mwyry[.]com/
+hxxp://365[.]qwe123-asd456-zxc789[.]365676[.]top/
+hxxp://39bx2-mqu-265a-10zw2-11-09-2026-hh[.]pages[.]dev/
+hxxp://6oktsarv[.]kcppg[.]com/
+hxxp://808[.]top-qwe123-asd456-zxc789[.]yoqceqmcqoosawsu[.]com/
+hxxp://acesscassh[.]netlify[.]app/
+hxxp://activity[.]micsoft-teams[.]com/0fwmeffav3133asw
+hxxp://allegrolokalnie[.]okazje43241156[.]shop/oferta/microsoft-xbox-series-x-1tb-35f29630/
+hxxp://appsdocusign-secured[.]com/
+hxxp://b1v6xnor[.]ztbwr[.]com/
+hxxp://bgrfd32xkp-mtvljplx-5j7k2g-bgr985[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
@@ -45,54 +55,8 @@ hxxp://francebnap[.]vercel[.]app/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-01
-
-101[.]42[.]49[.]202
-177[.]5[.]76[.]21
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-29
-
-23[.]254[.]226[.]103
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-28
-
-122[.]51[.]179[.]8
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-27
-
-101[.]133[.]229[.]117
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-26
-
-68[.]64[.]176[.]76
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
-111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-24
-
-101[.]42[.]255[.]92
-8[.]156[.]80[.]127
-8[.]160[.]179[.]57
 

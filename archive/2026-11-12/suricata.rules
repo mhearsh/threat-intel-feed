@@ -1,0 +1,39 @@
+###############################################################################
+#                       THREAT-INTEL-FEED SURICATA RULES                      #
+#                         Top network IOCs (IPs, DNS)                         #
+#  Updated: 2026-11-12 07:21 UTC   Count: 14   TLP:CLEAR                      #
+###############################################################################
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-12
+
+alert ip $HOME_NET any -> 102.220.161.84 any (msg:"XIOC multi-blocklist C2 102.220.161.84"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100001; rev:1;)
+alert ip $HOME_NET any -> 109.160.32.132 any (msg:"XIOC multi-blocklist C2 109.160.32.132"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100002; rev:1;)
+alert ip $HOME_NET any -> 109.160.32.173 any (msg:"XIOC multi-blocklist C2 109.160.32.173"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100003; rev:1;)
+alert ip $HOME_NET any -> 109.160.32.174 any (msg:"XIOC multi-blocklist C2 109.160.32.174"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100004; rev:1;)
+alert ip $HOME_NET any -> 141.98.9.119 any (msg:"XIOC multi-blocklist C2 141.98.9.119"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100005; rev:1;)
+alert ip $HOME_NET any -> 141.98.9.28 any (msg:"XIOC multi-blocklist C2 141.98.9.28"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100006; rev:1;)
+alert ip $HOME_NET any -> 213.209.159.228 any (msg:"XIOC multi-blocklist C2 213.209.159.228"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100007; rev:1;)
+alert ip $HOME_NET any -> 213.209.159.241 any (msg:"XIOC multi-blocklist C2 213.209.159.241"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100008; rev:1;)
+alert ip $HOME_NET any -> 92.118.39.64 any (msg:"XIOC multi-blocklist C2 92.118.39.64"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100009; rev:1;)
+alert ip $HOME_NET any -> 92.118.39.75 any (msg:"XIOC multi-blocklist C2 92.118.39.75"; classtype:trojan-activity; metadata:created_at 2026_11_12, updated_at 2026_11_12; sid:9100010; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-03
+
+alert ip $HOME_NET any -> 68.183.236.229 any (msg:"XIOC Cobaltstrike C2 68.183.236.229"; classtype:trojan-activity; metadata:created_at 2026_11_03, updated_at 2026_11_12; sid:9100011; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-02
+
+alert ip $HOME_NET any -> 8.160.165.56 any (msg:"XIOC Cobaltstrike C2 8.160.165.56"; classtype:trojan-activity; metadata:created_at 2026_11_02, updated_at 2026_11_12; sid:9100012; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-10-22
+
+alert ip $HOME_NET any -> 74.82.197.86 any (msg:"XIOC Arista VCO exploitation CVE-2026-114625 C2 74.82.197.86"; classtype:trojan-activity; metadata:created_at 2026_10_22, updated_at 2026_11_12; sid:9100013; rev:1;)
+alert ip $HOME_NET any -> 38.54.50.151 any (msg:"XIOC Arista VCO exploitation CVE-2026-114625 C2 38.54.50.151"; classtype:trojan-activity; metadata:created_at 2026_10_22, updated_at 2026_11_12; sid:9100014; rev:1;)
