@@ -1,0 +1,27 @@
+value,type,family,score,band,sources,first_seen,mitre,first_published
+2vprbx10000user0nline.blogspot.com,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+365.qwe123-asd456-zxc789.365670.top,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+7qnkxz2v-4mtvlj8-9hwcps3-5zlkyt.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+account-restriction-1000967754.web.app/help/contact/10045873236587345,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+airbnb.frngrgqb46.workers.dev/help/article/1320,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+bcfzw1ekqlo-mkgptlos-8o1m2b-bcf83w.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+bgrfd32kdo-mtvljfyn-9j1k5d-bgr681-hwcps74xlo.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+bgrfd43vzt-zlkytlpw-8i1j5g-bgr618.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+big-sale-11-11.blogspot.com,url,phishing,60,medium,OpenPhish,2026-11-13T01:17:27Z,"T1566.002, T1056.003",2026-11-13T01:17:27Z
+68.183.236.229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-03T08:57:32Z,"T1071, T1105",2026-11-03T08:57:32Z
+8.160.165.56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-02T05:22:13Z,"T1071, T1105",2026-11-02T05:22:13Z
+101.42.49.202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
+177.5.76.21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
+23.254.226.103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-29T10:02:58Z,"T1071, T1105",2026-10-29T10:02:58Z
+122.51.179.8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-28T06:05:17Z,"T1071, T1105",2026-10-28T06:05:17Z
+101.133.229.117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-27T21:39:41Z,"T1071, T1105",2026-10-27T21:39:41Z
+68.64.176.76,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-26T06:21:56Z,"T1071, T1105",2026-10-26T06:21:56Z
+111.170.148.141,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-25T20:22:44Z,"T1071, T1105",2026-10-25T20:22:44Z
+176.121.51.1,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T18:53:10Z,"T1071, T1105",2026-10-24T18:53:10Z
+8.156.80.127,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T06:42:09Z,"T1071, T1105",2026-10-24T06:42:09Z
+8.160.179.57,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T06:42:09Z,"T1071, T1105",2026-10-24T06:42:09Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z

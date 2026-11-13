@@ -6,9 +6,17 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-12 23:15 UTC   Count: 535   Expiry: 30 days               #
+#  Updated: 2026-11-13 01:17 UTC   Count: 537   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-13
+
+account-restriction-1000967754.web.app/help/contact/10045873236587345
+airbnb.frngrgqb46.workers.dev/help/article/1320
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
