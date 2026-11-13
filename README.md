@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-13 01:17 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-13 07:24 UTC. 26 IOCs (ip: 14, url: 12); 20 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://2vprbx10000user0nline[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://365[.]qwe123-asd456-zxc789[.]365670[.]top/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://7qnkxz2v-4mtvlj8-9hwcps3-5zlkyt[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://account-restriction-1000967754[.]web[.]app/help/conta` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://airbnb[.]frngrgqb46[.]workers[.]dev/help/article/1320` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://bcfzw1ekqlo-mkgptlos-8o1m2b-bcf83w[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://bgrfd32kdo-mtvljfyn-9j1k5d-bgr681-hwcps74xlo[.]pages[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://bgrfd43vzt-zlkytlpw-8i1j5g-bgr618[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo[.]pages[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://big-sale-11-11[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 13 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 14 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 15 | `101[.]42[.]49[.]202` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 1 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 66 | medium | T1071, T1105 |
+| 2 | `hxxp://2vprbx10000user0nline[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://365[.]qwe123-asd456-zxc789[.]365670[.]top/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://7qnkxz2v-4mtvlj8-9hwcps3-5zlkyt[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://account-restriction-1000967754[.]web[.]app/help/conta` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://airbnb[.]frngrgqb46[.]workers[.]dev/help/article/1320` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://bcfzw1ekqlo-mkgptlos-8o1m2b-bcf83w[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://bgrfd32kdo-mtvljfyn-9j1k5d-bgr681-hwcps74xlo[.]pages[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://bgrfd43vzt-zlkytlpw-8i1j5g-bgr618[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo[.]pages[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `hxxp://big-sale-11-11[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 14 | `104[.]152[.]52[.]213` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 15 | `109[.]160[.]32[.]151` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

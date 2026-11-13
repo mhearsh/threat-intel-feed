@@ -1,4 +1,5 @@
 Type,Object,Description
+IP,209.99.186.17,Cobaltstrike score 66 (medium) added 2026-11-13
 URL,2vprbx10000user0nline.blogspot.com,phishing score 60 (medium) added 2026-11-13
 URL,365.qwe123-asd456-zxc789.365670.top,phishing score 60 (medium) added 2026-11-13
 URL,3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5.pages.dev,phishing score 60 (medium) added 2026-11-13
@@ -11,17 +12,16 @@ URL,bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84.pages.dev,phishing scor
 URL,bgrfd43vzt-zlkytlpw-8i1j5g-bgr618.pages.dev,phishing score 60 (medium) added 2026-11-13
 URL,bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo.pages.dev,phishing score 60 (medium) added 2026-11-13
 URL,big-sale-11-11.blogspot.com,phishing score 60 (medium) added 2026-11-13
+IP,104.152.52.213,multi-blocklist score 54 (medium) added 2026-11-13
+IP,109.160.32.151,multi-blocklist score 54 (medium) added 2026-11-13
+IP,141.98.9.123,multi-blocklist score 54 (medium) added 2026-11-13
+IP,204.76.203.214,multi-blocklist score 54 (medium) added 2026-11-13
+IP,77.90.185.29,multi-blocklist score 54 (medium) added 2026-11-13
+IP,80.94.95.118,multi-blocklist score 54 (medium) added 2026-11-13
+IP,92.118.39.56,multi-blocklist score 54 (medium) added 2026-11-13
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,8.160.165.56,Cobaltstrike score 54 (medium) added 2026-11-02
 IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,177.5.76.21,Cobaltstrike score 54 (medium) added 2026-11-01
-IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
-IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
-IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
-IP,68.64.176.76,Cobaltstrike score 54 (medium) added 2026-10-26
-IP,111.170.148.141,Cobaltstrike score 54 (medium) added 2026-10-25
-IP,176.121.51.1,Cobaltstrike score 54 (medium) added 2026-10-24
-IP,8.156.80.127,Cobaltstrike score 54 (medium) added 2026-10-24
-IP,8.160.179.57,Cobaltstrike score 54 (medium) added 2026-10-24
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
