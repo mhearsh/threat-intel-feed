@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-13 11:07 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-13 14:36 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,26 +15,19 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-13
 
-104[.]152[.]52[.]213
-109[.]160[.]32[.]151
-141[.]98[.]9[.]123
-204[.]76[.]203[.]214
 209[.]99[.]186[.]17
-77[.]90[.]185[.]29
-80[.]94[.]95[.]118
-92[.]118[.]39[.]56
-hxxp://2vprbx10000user0nline[.]blogspot[.]com/
-hxxp://365[.]qwe123-asd456-zxc789[.]365670[.]top/
-hxxp://3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5[.]pages[.]dev/
-hxxp://7qnkxz2v-4mtvlj8-9hwcps3-5zlkyt[.]pages[.]dev/
-hxxp://account-restriction-1000967754[.]web[.]app/help/contact/10045873236587345/
-hxxp://airbnb[.]frngrgqb46[.]workers[.]dev/help/article/1320
-hxxp://bcfzw1ekqlo-mkgptlos-8o1m2b-bcf83w[.]pages[.]dev/
-hxxp://bgrfd32kdo-mtvljfyn-9j1k5d-bgr681-hwcps74xlo[.]pages[.]dev/
-hxxp://bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84[.]pages[.]dev/
-hxxp://bgrfd43vzt-zlkytlpw-8i1j5g-bgr618[.]pages[.]dev/
-hxxp://bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo[.]pages[.]dev/
-hxxp://big-sale-11-11[.]blogspot[.]com/
+hxxp://07zrd-ix2-ix54-0kdqd-13-09-2026-hh[.]pages[.]dev/
+hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.]dev/product-reviews/B0FTD6SQQN/ref=zg_bs_g_5782436011_d_sccl_18_cr/132-7081483-3716722
+hxxp://365[.]qwe123-asd456-zxc789[.]365667[.]top/m/home
+hxxp://6ksewo[.]top/
+hxxp://7dhd6[.]top/
+hxxp://808[.]top-qwe123-asd456-zxc789[.]365649[.]top/
+hxxp://808[.]top-qwe123-asd456-zxc789[.]365664[.]top/m
+hxxp://8288an[.]top/
+hxxp://access-ledger-com[.]netlify[.]app/
+hxxp://ai-metamask-restored[.]netlify[.]app/
+hxxp://allegrolokalnie[.]pl903901[.]top/oferta/id-3re0ck-dji-mini-5-pro-fly-more-combo-dji-rc-2-jak-nowy---w-zestawie-dji-care/
+hxxp://angela-bruno[.]com/wp-includes/ID3/multi
 
 
 # Auto-Fetch-ThreatIntel
@@ -61,8 +54,45 @@ hxxp://big-sale-11-11[.]blogspot[.]com/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+176[.]121[.]51[.]1
+8[.]156[.]80[.]127
 

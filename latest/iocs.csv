@@ -1,27 +1,27 @@
 value,type,family,score,band,sources,first_seen,mitre,first_published
-209.99.186.17,ip,Cobaltstrike,66,medium,C2IntelFeeds|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1071, T1105",2026-11-13T07:24:14Z
-2vprbx10000user0nline.blogspot.com,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-365.qwe123-asd456-zxc789.365670.top,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-7qnkxz2v-4mtvlj8-9hwcps3-5zlkyt.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-account-restriction-1000967754.web.app/help/contact/10045873236587345,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-airbnb.frngrgqb46.workers.dev/help/article/1320,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-bcfzw1ekqlo-mkgptlos-8o1m2b-bcf83w.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-bgrfd32kdo-mtvljfyn-9j1k5d-bgr681-hwcps74xlo.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-bgrfd43vzt-zlkytlpw-8i1j5g-bgr618.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-big-sale-11-11.blogspot.com,url,phishing,60,medium,OpenPhish,2026-11-13T07:24:14Z,"T1566.002, T1056.003",2026-11-13T07:24:14Z
-104.152.52.213,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
-109.160.32.151,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
-141.98.9.123,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
-204.76.203.214,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
-77.90.185.29,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
-80.94.95.118,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
-92.118.39.56,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1595, T1110",2026-11-13T07:24:14Z
+07zrd-ix2-ix54-0kdqd-13-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5.atarimworker.dev/product-reviews/B0FTD6SQQN/ref=zg_bs_g_5782436011_d_sccl_18_cr/132-7081483-3716722,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+365.qwe123-asd456-zxc789.365667.top/m/home,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+6ksewo.top,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+7dhd6.top,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+808.top-qwe123-asd456-zxc789.365649.top,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+808.top-qwe123-asd456-zxc789.365664.top/m,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+8288an.top,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+access-ledger-com.netlify.app,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+ai-metamask-restored.netlify.app,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+allegrolokalnie.pl903901.top/oferta/id-3re0ck-dji-mini-5-pro-fly-more-combo-dji-rc-2-jak-nowy---w-zestawie-dji-care,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+angela-bruno.com/wp-includes/ID3/multi,url,phishing,60,medium,OpenPhish,2026-11-13T14:36:52Z,"T1566.002, T1056.003",2026-11-13T14:36:52Z
+209.99.186.17,ip,Cobaltstrike,60,medium,C2IntelFeeds|Spamhaus-DROP,2026-11-13T07:24:14Z,"T1071, T1105",2026-11-13T07:24:14Z
 68.183.236.229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-03T08:57:32Z,"T1071, T1105",2026-11-03T08:57:32Z
 8.160.165.56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-02T05:22:13Z,"T1071, T1105",2026-11-02T05:22:13Z
 101.42.49.202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
 177.5.76.21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
+23.254.226.103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-29T10:02:58Z,"T1071, T1105",2026-10-29T10:02:58Z
+122.51.179.8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-28T06:05:17Z,"T1071, T1105",2026-10-28T06:05:17Z
+101.133.229.117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-27T21:39:41Z,"T1071, T1105",2026-10-27T21:39:41Z
+68.64.176.76,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-26T06:21:56Z,"T1071, T1105",2026-10-26T06:21:56Z
+111.170.148.141,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-25T20:22:44Z,"T1071, T1105",2026-10-25T20:22:44Z
+176.121.51.1,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T18:53:10Z,"T1071, T1105",2026-10-24T18:53:10Z
+8.156.80.127,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T06:42:09Z,"T1071, T1105",2026-10-24T06:42:09Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
