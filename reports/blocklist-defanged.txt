@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-14 00:30 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-14 07:00 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,12 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-14
 
+109[.]160[.]32[.]117
+45[.]138[.]12[.]24
+45[.]138[.]12[.]27
+45[.]148[.]10[.]155
+80[.]94[.]92[.]57
+92[.]118[.]39[.]78
 hxxp://087472147[.]weebly[.]com/
 hxxp://365[.]qwe123-asd456-zxc789[.]365627[.]top/m
 hxxp://69ac0fa3177d6758be0ace3c--wetransferdownload-file[.]netlify[.]app/
@@ -67,38 +73,8 @@ hxxp://binance-com-0i[.]bonu[.]workers[.]dev/en/agentic-hub?chain=bsc
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-28
-
-122[.]51[.]179[.]8
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-27
-
-101[.]133[.]229[.]117
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-26
-
-68[.]64[.]176[.]76
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
-111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-24
-
-176[.]121[.]51[.]1
-8[.]156[.]80[.]127
 

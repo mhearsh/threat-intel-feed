@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-14 00:30 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-14 07:00 UTC. 26 IOCs (ip: 14, url: 12); 6 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://087472147[.]weebly[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://365[.]qwe123-asd456-zxc789[.]365627[.]top/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://69ac0fa3177d6758be0ace3c--wetransferdownload-file[.]n` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://9gnhh-t9g-ocdx-m5o63-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://acrobat-adobe-tau[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://anotherlife[.]net[.]au/Storage/Quo/Latest2025[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://apps-trust-extensions[.]apper[.]so/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://auth0webservice[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://banpara-app[.]digital/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://bd-jh-ledger-laern[.]typedream[.]app/en-us/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://bigshopee13[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://binance-com-0i[.]bonu[.]workers[.]dev/en/agentic-hub?` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 13 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 60 | medium | T1071, T1105 |
-| 14 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 15 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 1 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 60 | medium | T1071, T1105 |
+| 2 | `109[.]160[.]32[.]117` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 3 | `45[.]138[.]12[.]24` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 4 | `45[.]138[.]12[.]27` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 5 | `45[.]148[.]10[.]155` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 6 | `80[.]94[.]92[.]57` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 7 | `92[.]118[.]39[.]78` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 8 | `hxxp://087472147[.]weebly[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://365[.]qwe123-asd456-zxc789[.]365627[.]top/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://69ac0fa3177d6758be0ace3c--wetransferdownload-file[.]n` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://9gnhh-t9g-ocdx-m5o63-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://acrobat-adobe-tau[.]vercel[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 13 | `hxxp://anotherlife[.]net[.]au/Storage/Quo/Latest2025[.]html` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 14 | `hxxp://apps-trust-extensions[.]apper[.]so/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 15 | `hxxp://auth0webservice[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
