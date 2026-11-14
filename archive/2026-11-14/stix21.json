@@ -1,0 +1,525 @@
+{
+ "type": "bundle",
+ "id": "bundle--dfaac163-3d49-4a30-9ca5-3227be31b832",
+ "objects": [
+  {
+   "type": "identity",
+   "spec_version": "2.1",
+   "id": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0",
+   "created": "2026-11-14T00:00:00.000Z",
+   "modified": "2026-11-14T00:00:00.000Z",
+   "name": "threat-intel-feed",
+   "identity_class": "system"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--b957dc48-9f6d-4e06-83e4-b1b71967a542",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://087472147.weebly.com/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--84fda31b-a724-484e-b3da-2288f0cf318e",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://365.qwe123-asd456-zxc789.365627.top/m']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--28052b24-fcb5-4ed7-89f7-4b476688a71d",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://69ac0fa3177d6758be0ace3c--wetransferdownload-file.netlify.app/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--e52d2bd3-22d6-4b0d-9ecd-8773498c1146",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://9gnhh-t9g-ocdx-m5o63-14-09-2026-hh.pages.dev/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--aab8fff7-3aa7-4ef5-b8b3-f807bfd9ceb9",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://acrobat-adobe-tau.vercel.app/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--db0297c5-8ca8-46ca-bcb5-372eb7ab4875",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://anotherlife.net.au/Storage/Quo/Latest2025.html']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--204adfc2-abe5-4ec0-a0c6-a894839895c2",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://apps-trust-extensions.apper.so/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--2ac09172-b8cc-4b6a-a77e-752227a50f61",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://auth0webservice.netlify.app/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--7f57534e-9905-4d2e-8c75-71580e331118",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://banpara-app.digital/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--4372399d-0bc0-4e6a-a1c4-709ce2ac50aa",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://bd-jh-ledger-laern.typedream.app/en-us/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--11b98cb0-d706-439f-9f0e-fe5df42b8e82",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://bigshopee13.blogspot.com/']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--83df4129-a1d7-47f3-b6f3-b1374b698e8d",
+   "created": "2026-11-14T00:30:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "phishing url",
+   "pattern": "[url:value = 'http://binance-com-0i.bonu.workers.dev/en/agentic-hub?chain=bsc']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-14T00:30:32.000Z",
+   "confidence": 60,
+   "labels": [
+    "phishing",
+    "band:medium"
+   ],
+   "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--6d0c95f6-f6e6-49bc-8b4f-87605047b033",
+   "created": "2026-11-13T07:24:14.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '209.99.186.17']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-13T07:24:14.000Z",
+   "confidence": 60,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,Spamhaus-DROP",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--be7324fa-9bc9-4870-80e2-7b80cde49ab5",
+   "created": "2026-11-03T08:57:32.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '68.183.236.229']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-03T08:57:32.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--a9a65cb3-cb40-491b-91e3-17f2d5a905c9",
+   "created": "2026-11-02T05:22:13.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '8.160.165.56']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-02T05:22:13.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--d1612fe7-30e2-4c3c-bd29-212e3c9d3a1d",
+   "created": "2026-11-01T07:40:38.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '101.42.49.202']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-01T07:40:38.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c31eec04-f442-4372-b403-f540b0e4c674",
+   "created": "2026-11-01T07:40:38.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '177.5.76.21']",
+   "pattern_type": "stix",
+   "valid_from": "2026-11-01T07:40:38.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--977738bf-73dc-4bd8-97ad-f3fe41b1b55c",
+   "created": "2026-10-29T10:02:58.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '23.254.226.103']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-29T10:02:58.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--f1af06d5-c92c-467e-b916-82bf8d06d438",
+   "created": "2026-10-28T06:05:17.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '122.51.179.8']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-28T06:05:17.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--c310f57d-e099-4f82-8b97-ddf01942dc30",
+   "created": "2026-10-27T21:39:41.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '101.133.229.117']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-27T21:39:41.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--74bbdad4-17db-4627-88de-7e8c93106631",
+   "created": "2026-10-26T06:21:56.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '68.64.176.76']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-26T06:21:56.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--0a330385-b2a4-44da-a1c3-8136332abe6d",
+   "created": "2026-10-25T20:22:44.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '111.170.148.141']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-25T20:22:44.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--8b129e1f-a3d4-4b96-bf64-693020bdaca0",
+   "created": "2026-10-24T18:53:10.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '176.121.51.1']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T18:53:10.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--3ea9ca78-e768-467e-9344-4f00584ac239",
+   "created": "2026-10-24T06:42:09.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Cobaltstrike ip",
+   "pattern": "[ipv4-addr:value = '8.156.80.127']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-24T06:42:09.000Z",
+   "confidence": 54,
+   "labels": [
+    "Cobaltstrike",
+    "band:medium"
+   ],
+   "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--955f13df-4bd9-4764-9897-69f2611d27bb",
+   "created": "2026-10-22T00:00:00.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Arista VCO exploitation CVE-2026-114625 ip",
+   "pattern": "[ipv4-addr:value = '74.82.197.86']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-22T00:00:00.000Z",
+   "confidence": 90,
+   "labels": [
+    "Arista VCO exploitation CVE-2026-114625",
+    "band:critical"
+   ],
+   "description": "Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23 | ATT&CK T1190 | sources: https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "indicator",
+   "spec_version": "2.1",
+   "id": "indicator--ea6ec1c9-b694-4f8f-912e-e347d9e4bf97",
+   "created": "2026-10-22T00:00:00.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "Arista VCO exploitation CVE-2026-114625 ip",
+   "pattern": "[ipv4-addr:value = '38.54.50.151']",
+   "pattern_type": "stix",
+   "valid_from": "2026-10-22T00:00:00.000Z",
+   "confidence": 90,
+   "labels": [
+    "Arista VCO exploitation CVE-2026-114625",
+    "band:critical"
+   ],
+   "description": "Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23 | ATT&CK T1190 | sources: https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+  },
+  {
+   "type": "report",
+   "spec_version": "2.1",
+   "id": "report--14b5b70e-bfe7-4093-91bf-09a5660983f2",
+   "created": "2026-11-14T00:30:36.000Z",
+   "modified": "2026-11-14T00:30:36.000Z",
+   "name": "threat-intel-feed IOC bundle 2026-11-14",
+   "published": "2026-11-14T00:30:36.000Z",
+   "report_types": [
+    "threat-report"
+   ],
+   "description": "threat-intel-feed: curated high-confidence IOCs (score >= 50), TLP:CLEAR. Updated 2026-11-14 00:30 UTC. Count: 26. Each indicator's created/valid_from is the date it first entered the feed.",
+   "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0",
+   "object_refs": [
+    "indicator--b957dc48-9f6d-4e06-83e4-b1b71967a542",
+    "indicator--84fda31b-a724-484e-b3da-2288f0cf318e",
+    "indicator--28052b24-fcb5-4ed7-89f7-4b476688a71d",
+    "indicator--e52d2bd3-22d6-4b0d-9ecd-8773498c1146",
+    "indicator--aab8fff7-3aa7-4ef5-b8b3-f807bfd9ceb9",
+    "indicator--db0297c5-8ca8-46ca-bcb5-372eb7ab4875",
+    "indicator--204adfc2-abe5-4ec0-a0c6-a894839895c2",
+    "indicator--2ac09172-b8cc-4b6a-a77e-752227a50f61",
+    "indicator--7f57534e-9905-4d2e-8c75-71580e331118",
+    "indicator--4372399d-0bc0-4e6a-a1c4-709ce2ac50aa",
+    "indicator--11b98cb0-d706-439f-9f0e-fe5df42b8e82",
+    "indicator--83df4129-a1d7-47f3-b6f3-b1374b698e8d",
+    "indicator--6d0c95f6-f6e6-49bc-8b4f-87605047b033",
+    "indicator--be7324fa-9bc9-4870-80e2-7b80cde49ab5",
+    "indicator--a9a65cb3-cb40-491b-91e3-17f2d5a905c9",
+    "indicator--d1612fe7-30e2-4c3c-bd29-212e3c9d3a1d",
+    "indicator--c31eec04-f442-4372-b403-f540b0e4c674",
+    "indicator--977738bf-73dc-4bd8-97ad-f3fe41b1b55c",
+    "indicator--f1af06d5-c92c-467e-b916-82bf8d06d438",
+    "indicator--c310f57d-e099-4f82-8b97-ddf01942dc30",
+    "indicator--74bbdad4-17db-4627-88de-7e8c93106631",
+    "indicator--0a330385-b2a4-44da-a1c3-8136332abe6d",
+    "indicator--8b129e1f-a3d4-4b96-bf64-693020bdaca0",
+    "indicator--3ea9ca78-e768-467e-9344-4f00584ac239",
+    "indicator--955f13df-4bd9-4764-9897-69f2611d27bb",
+    "indicator--ea6ec1c9-b694-4f8f-912e-e347d9e4bf97"
+   ]
+  }
+ ]
+}

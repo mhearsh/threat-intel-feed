@@ -109,25 +109,25 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-13 22:30 UTC. 26 IOCs (ip: 14, url: 12); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-14 00:30 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 60 | medium | T1071, T1105 |
-| 2 | `hxxp://07zrd-ix2-ix54-0kdqd-13-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://365[.]qwe123-asd456-zxc789[.]365667[.]top/m/home` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://6ksewo[.]top/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://7dhd6[.]top/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://808[.]top-qwe123-asd456-zxc789[.]365649[.]top/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://808[.]top-qwe123-asd456-zxc789[.]365664[.]top/m` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://8288an[.]top/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://access-ledger-com[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://ai-metamask-restored[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://allegrolokalnie[.]pl903901[.]top/oferta/id-3re0ck-dji` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 13 | `hxxp://angela-bruno[.]com/wp-includes/ID3/multi` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://087472147[.]weebly[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://365[.]qwe123-asd456-zxc789[.]365627[.]top/m` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://69ac0fa3177d6758be0ace3c--wetransferdownload-file[.]n` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://9gnhh-t9g-ocdx-m5o63-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://acrobat-adobe-tau[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://anotherlife[.]net[.]au/Storage/Quo/Latest2025[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://apps-trust-extensions[.]apper[.]so/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://auth0webservice[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://banpara-app[.]digital/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://bd-jh-ledger-laern[.]typedream[.]app/en-us/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://bigshopee13[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://binance-com-0i[.]bonu[.]workers[.]dev/en/agentic-hub?` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 60 | medium | T1071, T1105 |
 | 14 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 

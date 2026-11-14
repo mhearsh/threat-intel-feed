@@ -6,9 +6,19 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-13 22:30 UTC   Count: 542   Expiry: 30 days               #
+#  Updated: 2026-11-14 00:30 UTC   Count: 546   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-14
+
+365.qwe123-asd456-zxc789.365627.top/m
+anotherlife.net.au/Storage/Quo/Latest2025.html
+bd-jh-ledger-laern.typedream.app/en-us
+binance-com-0i.bonu.workers.dev/en/agentic-hub?chain=bsc
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

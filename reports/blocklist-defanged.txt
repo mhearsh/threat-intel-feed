@@ -6,9 +6,27 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-13 22:30 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-14 00:30 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-14
+
+hxxp://087472147[.]weebly[.]com/
+hxxp://365[.]qwe123-asd456-zxc789[.]365627[.]top/m
+hxxp://69ac0fa3177d6758be0ace3c--wetransferdownload-file[.]netlify[.]app/
+hxxp://9gnhh-t9g-ocdx-m5o63-14-09-2026-hh[.]pages[.]dev/
+hxxp://acrobat-adobe-tau[.]vercel[.]app/
+hxxp://anotherlife[.]net[.]au/Storage/Quo/Latest2025[.]html
+hxxp://apps-trust-extensions[.]apper[.]so/
+hxxp://auth0webservice[.]netlify[.]app/
+hxxp://banpara-app[.]digital/
+hxxp://bd-jh-ledger-laern[.]typedream[.]app/en-us/
+hxxp://bigshopee13[.]blogspot[.]com/
+hxxp://binance-com-0i[.]bonu[.]workers[.]dev/en/agentic-hub?chain=bsc
 
 
 # Auto-Fetch-ThreatIntel
@@ -16,18 +34,6 @@
 # 2026-11-13
 
 209[.]99[.]186[.]17
-hxxp://07zrd-ix2-ix54-0kdqd-13-09-2026-hh[.]pages[.]dev/
-hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.]dev/product-reviews/B0FTD6SQQN/ref=zg_bs_g_5782436011_d_sccl_18_cr/132-7081483-3716722
-hxxp://365[.]qwe123-asd456-zxc789[.]365667[.]top/m/home
-hxxp://6ksewo[.]top/
-hxxp://7dhd6[.]top/
-hxxp://808[.]top-qwe123-asd456-zxc789[.]365649[.]top/
-hxxp://808[.]top-qwe123-asd456-zxc789[.]365664[.]top/m
-hxxp://8288an[.]top/
-hxxp://access-ledger-com[.]netlify[.]app/
-hxxp://ai-metamask-restored[.]netlify[.]app/
-hxxp://allegrolokalnie[.]pl903901[.]top/oferta/id-3re0ck-dji-mini-5-pro-fly-more-combo-dji-rc-2-jak-nowy---w-zestawie-dji-care/
-hxxp://angela-bruno[.]com/wp-includes/ID3/multi
 
 
 # Auto-Fetch-ThreatIntel

@@ -6,9 +6,33 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-13 22:30 UTC   Count: 1459   Expiry: 30 days              #
+#  Updated: 2026-11-14 00:30 UTC   Count: 1471   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-14
+
+365.qwe123-asd456-zxc789.365627.top/m
+anotherlife.net.au/Storage/Quo/Latest2025.html
+bd-jh-ledger-laern.typedream.app/en-us
+binance-com-0i.bonu.workers.dev/en/agentic-hub?chain=bsc
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-14
+
+087472147.weebly.com
+69ac0fa3177d6758be0ace3c--wetransferdownload-file.netlify.app
+9gnhh-t9g-ocdx-m5o63-14-09-2026-hh.pages.dev
+acrobat-adobe-tau.vercel.app
+apps-trust-extensions.apper.so
+auth0webservice.netlify.app
+banpara-app.digital
+bigshopee13.blogspot.com
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
