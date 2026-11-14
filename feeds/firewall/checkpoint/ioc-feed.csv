@@ -1,11 +1,10 @@
 #UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-tif-ip-1,209.99.186.17,IP,medium,medium,AB,Cobaltstrike score 60 (medium) added 2026-11-13
-tif-ip-2,109.160.32.117,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
-tif-ip-3,45.138.12.24,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
-tif-ip-4,45.138.12.27,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
-tif-ip-5,45.148.10.155,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
-tif-ip-6,80.94.92.57,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
-tif-ip-7,92.118.39.78,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
+tif-ip-1,109.160.32.117,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
+tif-ip-2,45.138.12.24,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
+tif-ip-3,45.138.12.27,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
+tif-ip-4,45.148.10.155,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
+tif-ip-5,80.94.92.57,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
+tif-ip-6,92.118.39.78,IP,medium,medium,AB,multi-blocklist score 54 (medium) added 2026-11-14
 tif-url-1,087472147.weebly.com,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-14
 tif-url-2,365.qwe123-asd456-zxc789.365627.top/m,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-14
 tif-url-3,69ac0fa3177d6758be0ace3c--wetransferdownload-file.netlify.app,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-14
@@ -18,6 +17,7 @@ tif-url-9,banpara-app.digital,URL,medium,medium,AB,phishing score 54 (medium) ad
 tif-url-10,bd-jh-ledger-laern.typedream.app/en-us,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-14
 tif-url-11,bigshopee13.blogspot.com,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-14
 tif-url-12,binance-com-0i.bonu.workers.dev/en/agentic-hub?chain=bsc,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-14
+tif-ip-7,209.99.186.17,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-13
 tif-ip-8,68.183.236.229,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-03
 tif-ip-9,8.160.165.56,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-02
 tif-ip-10,101.42.49.202,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-01
