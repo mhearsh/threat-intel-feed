@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-15 08:57 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-15 16:38 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,26 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-15
 
-102[.]220[.]163[.]15
-102[.]220[.]163[.]79
-109[.]160[.]32[.]133
-109[.]160[.]32[.]142
-45[.]138[.]12[.]142
-45[.]138[.]12[.]18
-45[.]144[.]212[.]158
-92[.]118[.]39[.]120
-hxxp://4ld6n-b8z-fwyh-plpav-16-09-2026-hh[.]pages[.]dev/
-hxxp://6khbi-l6s-1bn1-daifm-08-10-2026-aa[.]pages[.]dev/
-hxxp://all4youherebux[.]blogspot[.]com/
-hxxp://allegrolokalnie[.]pl49850[.]cfd/oferta/id-j9pd7s-konsola-xbox-series-x-1tb/
-hxxp://bc35f-jwr-42t2-yc1bu-17-09-2026-hh[.]pages[.]dev/
-hxxp://binancelivetrade[.]blogspot[.]com/
-hxxp://bloglinklist[.]com/ISjpHRqDIIknTSqNEy1O[.]html
-hxxp://bradsaidso[.]com/wp-includes/indcx[.]html
-hxxp://couriersplease[.]addliaz[.]com/
-hxxp://ef7jm-6k4-h1ws-5mttb-17-09-2026-hh[.]pages[.]dev/
-hxxp://fxvfvbbvff[.]blogspot[.]com/
-hxxp://gregarious-sopapillas-3d036b[.]netlify[.]app/
+hxxp://23eh4-fam-b7ou-x2t93-17-09-2026-hh[.]pages[.]dev/
+hxxp://2raum-miete[.]de/
+hxxp://6og55-qcj-qd89-cczqr-17-09-2026-hh[.]pages[.]dev/
+hxxp://8v6p3-8xq-6tg6-45o0n-17-09-2026-hh[.]pages[.]dev/
+hxxp://9zlx8-uf0-owx0-8at4s-17-09-2026-hh[.]pages[.]dev/
+hxxp://auth-ledgrolive-login[.]typedream[.]app/
+hxxp://baqwrd[.]newlogjt[.]de5[.]net/
+hxxp://berqavi-mpt-farvuni-r1x9ka76[.]pages[.]dev/
+hxxp://bervuni-mpt-felqavo-p4x9me52[.]pages[.]dev/
+hxxp://bgrfd95wlo-vkrpz82nhr-6j3k8g-qnk471[.]pages[.]dev/
+hxxp://bt-voiceeee[.]weebly[.]com/
+hxxp://burmelo-mpt-qenzuri-t7x4pe96[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
@@ -61,8 +53,52 @@ hxxp://gregarious-sopapillas-3d036b[.]netlify[.]app/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+176[.]121[.]51[.]1
 

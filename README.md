@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-15 08:57 UTC. 26 IOCs (url: 12, ip: 14); 20 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-15 16:38 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://4ld6n-b8z-fwyh-plpav-16-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://6khbi-l6s-1bn1-daifm-08-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://all4youherebux[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://allegrolokalnie[.]pl49850[.]cfd/oferta/id-j9pd7s-kons` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://bc35f-jwr-42t2-yc1bu-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://binancelivetrade[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://bloglinklist[.]com/ISjpHRqDIIknTSqNEy1O[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://bradsaidso[.]com/wp-includes/indcx[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://couriersplease[.]addliaz[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://ef7jm-6k4-h1ws-5mttb-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://fxvfvbbvff[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://gregarious-sopapillas-3d036b[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 13 | `102[.]220[.]163[.]15` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 14 | `102[.]220[.]163[.]79` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 15 | `109[.]160[.]32[.]133` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 1 | `hxxp://23eh4-fam-b7ou-x2t93-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://2raum-miete[.]de/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://6og55-qcj-qd89-cczqr-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://8v6p3-8xq-6tg6-45o0n-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://9zlx8-uf0-owx0-8at4s-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://auth-ledgrolive-login[.]typedream[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://baqwrd[.]newlogjt[.]de5[.]net/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://berqavi-mpt-farvuni-r1x9ka76[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://bervuni-mpt-felqavo-p4x9me52[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://bgrfd95wlo-vkrpz82nhr-6j3k8g-qnk471[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://bt-voiceeee[.]weebly[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://burmelo-mpt-qenzuri-t7x4pe96[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 14 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 15 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
