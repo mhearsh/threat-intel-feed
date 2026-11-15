@@ -6,9 +6,33 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-14 10:00 UTC   Count: 1471   Expiry: 30 days              #
+#  Updated: 2026-11-15 05:45 UTC   Count: 1483   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-15
+
+allegrolokalnie.pl49850.cfd/oferta/id-j9pd7s-konsola-xbox-series-x-1tb
+bloglinklist.com/ISjpHRqDIIknTSqNEy1O.html
+bradsaidso.com/wp-includes/indcx.html
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-15
+
+4ld6n-b8z-fwyh-plpav-16-09-2026-hh.pages.dev
+6khbi-l6s-1bn1-daifm-08-10-2026-aa.pages.dev
+all4youherebux.blogspot.com
+bc35f-jwr-42t2-yc1bu-17-09-2026-hh.pages.dev
+binancelivetrade.blogspot.com
+couriersplease.addliaz.com
+ef7jm-6k4-h1ws-5mttb-17-09-2026-hh.pages.dev
+fxvfvbbvff.blogspot.com
+gregarious-sopapillas-3d036b.netlify.app
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

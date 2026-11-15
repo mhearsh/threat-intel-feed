@@ -1,0 +1,68 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-15 05:45 UTC   Count: 26   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-15
+
+102[.]220[.]163[.]15
+102[.]220[.]163[.]79
+109[.]160[.]32[.]133
+109[.]160[.]32[.]142
+45[.]138[.]12[.]142
+45[.]138[.]12[.]18
+45[.]144[.]212[.]158
+92[.]118[.]39[.]120
+hxxp://4ld6n-b8z-fwyh-plpav-16-09-2026-hh[.]pages[.]dev/
+hxxp://6khbi-l6s-1bn1-daifm-08-10-2026-aa[.]pages[.]dev/
+hxxp://all4youherebux[.]blogspot[.]com/
+hxxp://allegrolokalnie[.]pl49850[.]cfd/oferta/id-j9pd7s-konsola-xbox-series-x-1tb/
+hxxp://bc35f-jwr-42t2-yc1bu-17-09-2026-hh[.]pages[.]dev/
+hxxp://binancelivetrade[.]blogspot[.]com/
+hxxp://bloglinklist[.]com/ISjpHRqDIIknTSqNEy1O[.]html
+hxxp://bradsaidso[.]com/wp-includes/indcx[.]html
+hxxp://couriersplease[.]addliaz[.]com/
+hxxp://ef7jm-6k4-h1ws-5mttb-17-09-2026-hh[.]pages[.]dev/
+hxxp://fxvfvbbvff[.]blogspot[.]com/
+hxxp://gregarious-sopapillas-3d036b[.]netlify[.]app/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-13
+
+209[.]99[.]186[.]17
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+157[.]137[.]227[.]61
+68[.]183[.]236[.]229
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+8[.]160[.]165[.]56
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+
