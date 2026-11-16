@@ -1,0 +1,27 @@
+indicator,indicator_defanged,type,family,confidence,first_seen,tags,first_published
+http://15aip-xj9-argi-3d4r3-17-09-2026-hh.pages.dev/,hxxp://15aip-xj9-argi-3d4r3-17-09-2026-hh[.]pages[.]dev/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://3lt-dka5b7-h3ca5l-xrxdw1.pages.dev/,hxxp://3lt-dka5b7-h3ca5l-xrxdw1[.]pages[.]dev/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://65btk-0e1-6les-k8epq-18-09-2026-hh.pages.dev/,hxxp://65btk-0e1-6les-k8epq-18-09-2026-hh[.]pages[.]dev/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://a60ft-gm0-fpiz-eqm0l-18-09-2026-hh.pages.dev/,hxxp://a60ft-gm0-fpiz-eqm0l-18-09-2026-hh[.]pages[.]dev/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://abnamro.mitarbeitervorteile.de/login-input.action,hxxp://abnamro[.]mitarbeitervorteile[.]de/login-input[.]action,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://adasimbo-apple-id-auto-filler.static.hf.space/,hxxp://adasimbo-apple-id-auto-filler[.]static[.]hf[.]space/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://auth-metamask.pages.dev/appeals/submit-appeal-form/return,hxxp://auth-metamask[.]pages[.]dev/appeals/submit-appeal-form/return,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://boxi8-637-w5od-z5yb4-16-09-2026-hh.pages.dev/,hxxp://boxi8-637-w5od-z5yb4-16-09-2026-hh[.]pages[.]dev/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://burquri-mpt-felzavo-h4d8ka72.pages.dev/,hxxp://burquri-mpt-felzavo-h4d8ka72[.]pages[.]dev/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://crsorg.us.cc/crs/verifycertificate.php,hxxp://crsorg[.]us[.]cc/crs/verifycertificate[.]php,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://cybergo24.com/eg/index.html,hxxp://cybergo24[.]com/eg/index[.]html,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+http://dapp.csserver.work/,hxxp://dapp[.]csserver[.]work/,url,phishing,54,2026-11-16T14:53Z,phishing;url;T1566.002;T1056.003,2026-11-16T14:52:56Z
+157.137.227.61,157[.]137[.]227[.]61,ip,Cobalt Strike,54,2026-11-03T21:05Z,cobalt-strike;ip;T1071;T1105,2026-11-03T21:06:11Z
+68.183.236.229,68[.]183[.]236[.]229,ip,Cobalt Strike,54,2026-11-03T08:59Z,cobalt-strike;ip;T1071;T1105,2026-11-03T08:57:32Z
+8.160.165.56,8[.]160[.]165[.]56,ip,Cobalt Strike,54,2026-11-02T05:23Z,cobalt-strike;ip;T1071;T1105,2026-11-02T05:22:13Z
+101.42.49.202,101[.]42[.]49[.]202,ip,Cobalt Strike,54,2026-11-01T07:41Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
+177.5.76.21,177[.]5[.]76[.]21,ip,Cobalt Strike,54,2026-11-01T07:41Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
+23.254.226.103,23[.]254[.]226[.]103,ip,Cobalt Strike,54,2026-10-29T10:05Z,cobalt-strike;ip;T1071;T1105,2026-10-29T10:02:58Z
+122.51.179.8,122[.]51[.]179[.]8,ip,Cobalt Strike,54,2026-10-28T06:05Z,cobalt-strike;ip;T1071;T1105,2026-10-28T06:05:17Z
+101.133.229.117,101[.]133[.]229[.]117,ip,Cobalt Strike,54,2026-10-27T21:41Z,cobalt-strike;ip;T1071;T1105,2026-10-27T21:39:41Z
+68.64.176.76,68[.]64[.]176[.]76,ip,Cobalt Strike,54,2026-10-26T06:23Z,cobalt-strike;ip;T1071;T1105,2026-10-26T06:21:56Z
+111.170.148.141,111[.]170[.]148[.]141,ip,Cobalt Strike,54,2026-10-25T20:23Z,cobalt-strike;ip;T1071;T1105,2026-10-25T20:22:44Z
+176.121.51.1,176[.]121[.]51[.]1,ip,Cobalt Strike,54,2026-10-24T18:53Z,cobalt-strike;ip;T1071;T1105,2026-10-24T18:53:10Z
+8.156.80.127,8[.]156[.]80[.]127,ip,Cobalt Strike,54,2026-10-24T06:41Z,cobalt-strike;ip;T1071;T1105,2026-10-24T06:42:09Z
+74.82.197.86,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-21T23:59Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
+38.54.50.151,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,2026-10-21T23:59Z,arista-vco-exploitation-cve-2026-114625;ip;T1190,2026-10-22T00:00:00Z
