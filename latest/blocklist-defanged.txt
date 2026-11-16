@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-16 02:07 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-16 07:28 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,6 +15,11 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-16
 
+104[.]251[.]180[.]156
+204[.]76[.]203[.]212
+36[.]255[.]97[.]203
+77[.]90[.]185[.]31
+94[.]26[.]106[.]252
 hxxp://14ch2-yda-p8zj-6djl2-17-09-2026-hh[.]pages[.]dev/
 hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.]dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011
 hxxp://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh[.]pages[.]dev/
@@ -27,13 +32,6 @@ hxxp://bookings-clone-responsive[.]netlify[.]app/
 hxxp://bookings-clone1[.]netlify[.]app/
 hxxp://bqzfn83wlo-xm5k9pt-7j2d4g-vr618n[.]pages[.]dev/
 hxxp://ceainpia[.]click/
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-13
-
-209[.]99[.]186[.]17
 
 
 # Auto-Fetch-ThreatIntel
@@ -75,30 +73,8 @@ hxxp://ceainpia[.]click/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-27
-
-101[.]133[.]229[.]117
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-26
-
-68[.]64[.]176[.]76
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
-111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-24
-
-176[.]121[.]51[.]1
 

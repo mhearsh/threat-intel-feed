@@ -1,17 +1,21 @@
 Indicator,Type,Family,Score,Band,Mitre,FirstPublished
-http://14ch2-yda-p8zj-6djl2-17-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5.atarimworker.dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://agenciaricco.com/flosafeconsulting,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://apps-metamask-extensions.apper.so/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://attractive-brown-b1zuhydo.edgeone.dev/home,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://availablevoicenote.weebly.com/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://bookings-clone-responsive.netlify.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://bookings-clone1.netlify.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://bqzfn83wlo-xm5k9pt-7j2d4g-vr618n.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-http://ceainpia.click/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
-209.99.186.17,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-13T07:24:14Z
+104.251.180.156,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-16T07:28:05Z
+204.76.203.212,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-16T07:28:05Z
+36.255.97.203,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-16T07:28:05Z
+77.90.185.31,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-16T07:28:05Z
+94.26.106.252,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-16T07:28:05Z
+http://14ch2-yda-p8zj-6djl2-17-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5.atarimworker.dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://agenciaricco.com/flosafeconsulting,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://apps-metamask-extensions.apper.so/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://attractive-brown-b1zuhydo.edgeone.dev/home,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://availablevoicenote.weebly.com/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://bookings-clone-responsive.netlify.app/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://bookings-clone1.netlify.app/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://bqzfn83wlo-xm5k9pt-7j2d4g-vr618n.pages.dev/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+http://ceainpia.click/,url,phishing,54,medium,"T1566.002, T1056.003",2026-11-16T00:06:48Z
 157.137.227.61,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T21:06:11Z
 68.183.236.229,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T08:57:32Z
 8.160.165.56,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-02T05:22:13Z
@@ -19,9 +23,5 @@ http://ceainpia.click/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-16T
 177.5.76.21,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-01T07:40:38Z
 23.254.226.103,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-29T10:02:58Z
 122.51.179.8,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-28T06:05:17Z
-101.133.229.117,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-27T21:39:41Z
-68.64.176.76,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-26T06:21:56Z
-111.170.148.141,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-25T20:22:44Z
-176.121.51.1,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-24T18:53:10Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
