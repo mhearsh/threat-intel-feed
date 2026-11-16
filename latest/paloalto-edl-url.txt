@@ -6,9 +6,33 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-15 21:00 UTC   Count: 1495   Expiry: 30 days              #
+#  Updated: 2026-11-16 00:06 UTC   Count: 1507   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-16
+
+17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5.atarimworker.dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011
+agenciaricco.com/flosafeconsulting
+attractive-brown-b1zuhydo.edgeone.dev/home
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-16
+
+14ch2-yda-p8zj-6djl2-17-09-2026-hh.pages.dev
+5z3a9-xbc-gwq5-o0txg-14-09-2026-hh.pages.dev
+apps-metamask-extensions.apper.so
+availablevoicenote.weebly.com
+bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91.pages.dev
+bookings-clone-responsive.netlify.app
+bookings-clone1.netlify.app
+bqzfn83wlo-xm5k9pt-7j2d4g-vr618n.pages.dev
+ceainpia.click
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

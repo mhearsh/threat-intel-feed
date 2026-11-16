@@ -1,0 +1,27 @@
+rank,ioc_defanged,type,family,score,band,sources,age_h,context,mitre,first_published
+1,hxxp://14ch2-yda-p8zj-6djl2-17-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+2,hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.]dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+3,hxxp://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+4,hxxp://agenciaricco[.]com/flosafeconsulting,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+5,hxxp://apps-metamask-extensions[.]apper[.]so/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+6,hxxp://attractive-brown-b1zuhydo[.]edgeone[.]dev/home,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+7,hxxp://availablevoicenote[.]weebly[.]com/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+8,hxxp://bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+9,hxxp://bookings-clone-responsive[.]netlify[.]app/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+10,hxxp://bookings-clone1[.]netlify[.]app/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+11,hxxp://bqzfn83wlo-xm5k9pt-7j2d4g-vr618n[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+12,hxxp://ceainpia[.]click/,url,phishing,60,medium,OpenPhish,0.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-16T00:06:48Z
+13,209[.]99[.]186[.]17,ip,Cobaltstrike,54,medium,C2IntelFeeds|Spamhaus-DROP,64.7,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-13T07:24:14Z
+14,157[.]137[.]227[.]61,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,291.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T21:06:11Z
+15,68[.]183[.]236[.]229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,303.2,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T08:57:32Z
+16,8[.]160[.]165[.]56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,330.7,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-02T05:22:13Z
+17,101[.]42[.]49[.]202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,352.4,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T07:40:38Z
+18,177[.]5[.]76[.]21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,352.4,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T07:40:38Z
+19,23[.]254[.]226[.]103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,422.1,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-29T10:02:58Z
+20,122[.]51[.]179[.]8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,450.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-28T06:05:17Z
+21,101[.]133[.]229[.]117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,458.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-27T21:39:41Z
+22,68[.]64[.]176[.]76,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,497.7,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-26T06:21:56Z
+23,111[.]170[.]148[.]141,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,507.7,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-25T20:22:44Z
+24,176[.]121[.]51[.]1,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,533.2,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-24T18:53:10Z
+25,74[.]82[.]197[.]86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,600.1,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z
+26,38[.]54[.]50[.]151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,600.1,Listed by Arista Security Advisory 0199 (2026-10-22) as observed conducting attacks on VeloCloud Orchestrator; CVE in CISA KEV 2026-10-23,T1190,2026-10-22T00:00:00Z

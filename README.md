@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-15 21:00 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-16 00:06 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://23eh4-fam-b7ou-x2t93-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://2raum-miete[.]de/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://6og55-qcj-qd89-cczqr-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://8v6p3-8xq-6tg6-45o0n-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://9zlx8-uf0-owx0-8at4s-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://auth-ledgrolive-login[.]typedream[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://baqwrd[.]newlogjt[.]de5[.]net/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://berqavi-mpt-farvuni-r1x9ka76[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://bervuni-mpt-felqavo-p4x9me52[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://bgrfd95wlo-vkrpz82nhr-6j3k8g-qnk471[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://bt-voiceeee[.]weebly[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://burmelo-mpt-qenzuri-t7x4pe96[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://14ch2-yda-p8zj-6djl2-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://agenciaricco[.]com/flosafeconsulting` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://apps-metamask-extensions[.]apper[.]so/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://attractive-brown-b1zuhydo[.]edgeone[.]dev/home` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://availablevoicenote[.]weebly[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91[` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://bookings-clone-responsive[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://bookings-clone1[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://bqzfn83wlo-xm5k9pt-7j2d4g-vr618n[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://ceainpia[.]click/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 13 | `209[.]99[.]186[.]17` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
