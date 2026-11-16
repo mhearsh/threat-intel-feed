@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-16 07:28 UTC   Count: 552   Expiry: 30 days               #
+#  Updated: 2026-11-16 14:53 UTC   Count: 556   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,8 +16,12 @@
 # 2026-11-16
 
 17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5.atarimworker.dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011
+abnamro.mitarbeitervorteile.de/login-input.action
 agenciaricco.com/flosafeconsulting
 attractive-brown-b1zuhydo.edgeone.dev/home
+auth-metamask.pages.dev/appeals/submit-appeal-form/return
+crsorg.us.cc/crs/verifycertificate.php
+cybergo24.com/eg/index.html
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

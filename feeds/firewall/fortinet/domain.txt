@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-16 07:28 UTC   Count: 955   Expiry: 30 days               #
+#  Updated: 2026-11-16 14:53 UTC   Count: 963   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,14 +16,22 @@
 # 2026-11-16
 
 14ch2-yda-p8zj-6djl2-17-09-2026-hh.pages.dev
+15aip-xj9-argi-3d4r3-17-09-2026-hh.pages.dev
+3lt-dka5b7-h3ca5l-xrxdw1.pages.dev
 5z3a9-xbc-gwq5-o0txg-14-09-2026-hh.pages.dev
+65btk-0e1-6les-k8epq-18-09-2026-hh.pages.dev
+a60ft-gm0-fpiz-eqm0l-18-09-2026-hh.pages.dev
+adasimbo-apple-id-auto-filler.static.hf.space
 apps-metamask-extensions.apper.so
 availablevoicenote.weebly.com
 bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91.pages.dev
 bookings-clone-responsive.netlify.app
 bookings-clone1.netlify.app
+boxi8-637-w5od-z5yb4-16-09-2026-hh.pages.dev
 bqzfn83wlo-xm5k9pt-7j2d4g-vr618n.pages.dev
+burquri-mpt-felzavo-h4d8ka72.pages.dev
 ceainpia.click
+dapp.csserver.work
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

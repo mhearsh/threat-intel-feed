@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-16 07:28 UTC. 26 IOCs (ip: 14, url: 12); 5 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-16 14:53 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `104[.]251[.]180[.]156` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 2 | `204[.]76[.]203[.]212` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 3 | `36[.]255[.]97[.]203` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 4 | `77[.]90[.]185[.]31` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 5 | `94[.]26[.]106[.]252` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 6 | `hxxp://14ch2-yda-p8zj-6djl2-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://agenciaricco[.]com/flosafeconsulting` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://apps-metamask-extensions[.]apper[.]so/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://attractive-brown-b1zuhydo[.]edgeone[.]dev/home` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://availablevoicenote[.]weebly[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 13 | `hxxp://bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91[` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 14 | `hxxp://bookings-clone-responsive[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 15 | `hxxp://bookings-clone1[.]netlify[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://15aip-xj9-argi-3d4r3-17-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://3lt-dka5b7-h3ca5l-xrxdw1[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://65btk-0e1-6les-k8epq-18-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://a60ft-gm0-fpiz-eqm0l-18-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://abnamro[.]mitarbeitervorteile[.]de/login-input[.]acti` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://adasimbo-apple-id-auto-filler[.]static[.]hf[.]space/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://auth-metamask[.]pages[.]dev/appeals/submit-appeal-for` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://boxi8-637-w5od-z5yb4-16-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://burquri-mpt-felzavo-h4d8ka72[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://crsorg[.]us[.]cc/crs/verifycertificate[.]php` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://cybergo24[.]com/eg/index[.]html` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://dapp[.]csserver[.]work/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 14 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 15 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

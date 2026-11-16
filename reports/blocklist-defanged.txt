@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-16 07:28 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-16 14:53 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,23 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-16
 
-104[.]251[.]180[.]156
-204[.]76[.]203[.]212
-36[.]255[.]97[.]203
-77[.]90[.]185[.]31
-94[.]26[.]106[.]252
-hxxp://14ch2-yda-p8zj-6djl2-17-09-2026-hh[.]pages[.]dev/
-hxxp://17a39c34-e2bd-4eb4-8f4f-4a1d2f7496e5[.]atarimworker[.]dev/Best-Sellers-Sports-Outdoors-Sports-Fan-Sweaters/zgbs/sporting-goods/3204003011/ref=zg_bs_nav_sporting-goods_3_3204005011
-hxxp://5z3a9-xbc-gwq5-o0txg-14-09-2026-hh[.]pages[.]dev/
-hxxp://agenciaricco[.]com/flosafeconsulting
-hxxp://apps-metamask-extensions[.]apper[.]so/
-hxxp://attractive-brown-b1zuhydo[.]edgeone[.]dev/home
-hxxp://availablevoicenote[.]weebly[.]com/
-hxxp://bgrfd35khr-mtvlj728-9j1k6g-bgr752-hwcps64vdo-qnkxz91[.]pages[.]dev/
-hxxp://bookings-clone-responsive[.]netlify[.]app/
-hxxp://bookings-clone1[.]netlify[.]app/
-hxxp://bqzfn83wlo-xm5k9pt-7j2d4g-vr618n[.]pages[.]dev/
-hxxp://ceainpia[.]click/
+hxxp://15aip-xj9-argi-3d4r3-17-09-2026-hh[.]pages[.]dev/
+hxxp://3lt-dka5b7-h3ca5l-xrxdw1[.]pages[.]dev/
+hxxp://65btk-0e1-6les-k8epq-18-09-2026-hh[.]pages[.]dev/
+hxxp://a60ft-gm0-fpiz-eqm0l-18-09-2026-hh[.]pages[.]dev/
+hxxp://abnamro[.]mitarbeitervorteile[.]de/login-input[.]action
+hxxp://adasimbo-apple-id-auto-filler[.]static[.]hf[.]space/
+hxxp://auth-metamask[.]pages[.]dev/appeals/submit-appeal-form/return
+hxxp://boxi8-637-w5od-z5yb4-16-09-2026-hh[.]pages[.]dev/
+hxxp://burquri-mpt-felzavo-h4d8ka72[.]pages[.]dev/
+hxxp://crsorg[.]us[.]cc/crs/verifycertificate[.]php
+hxxp://cybergo24[.]com/eg/index[.]html
+hxxp://dapp[.]csserver[.]work/
 
 
 # Auto-Fetch-ThreatIntel
@@ -73,8 +68,31 @@ hxxp://ceainpia[.]click/
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+176[.]121[.]51[.]1
+8[.]156[.]80[.]127
 
