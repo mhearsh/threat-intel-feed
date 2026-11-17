@@ -1,0 +1,86 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-17 05:41 UTC   Count: 26   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-17
+
+101[.]36[.]119[.]242
+130[.]12[.]182[.]98
+213[.]209[.]159[.]242
+94[.]26[.]106[.]220
+hxxp://2elt8-0ra-1dll-2k67q-18-09-2026-aa[.]pages[.]dev/
+hxxp://7ris7-e2s-p113-og6er-18-09-2026-hh[.]pages[.]dev/
+hxxp://82pdh-cmc-dcj0-s2jks-18-09-2026-hh[.]pages[.]dev/
+hxxp://acessapp[.]vercel[.]app/confirmar-saque/
+hxxp://ananeosi-support[.]com/
+hxxp://basketbackup[.]com/bb-w/?sid=33293346&uid=456b232b-1ca8-435c-9653-743efa3222e6&eid=0
+hxxp://bundleid-metaplex-signtx[.]pages[.]dev/
+hxxp://bvs7q-8mx-12um-0thwd-18-09-2026-hh[.]pages[.]dev/
+hxxp://bznqk84-3w7m2xt-9j5d4g-vr61[.]pages[.]dev/
+hxxp://c1729-c8a-5v99-g47i6-18-09-2026-hh[.]pages[.]dev/
+hxxp://cms2y-9wh-b8uc-8vmnh-18-09-2026-aa[.]pages[.]dev/
+hxxp://conatem[.]com/adobeStudio[.]html
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+157[.]137[.]227[.]61
+68[.]183[.]236[.]229
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+8[.]160[.]165[.]56
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-25
+
+38[.]54[.]50[.]151
+74[.]82[.]197[.]86
+

@@ -1,0 +1,27 @@
+Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+http://2elt8-0ra-1dll-2k67q-18-09-2026-aa.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://7ris7-e2s-p113-og6er-18-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://82pdh-cmc-dcj0-s2jks-18-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://acessapp.vercel.app/confirmar-saque/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://ananeosi-support.com/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://basketbackup.com/bb-w/?sid=33293346&uid=456b232b-1ca8-435c-9653-743efa3222e6&eid=0,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://bundleid-metaplex-signtx.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://bvs7q-8mx-12um-0thwd-18-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://bznqk84-3w7m2xt-9j5d4g-vr61.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://c1729-c8a-5v99-g47i6-18-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://cms2y-9wh-b8uc-8vmnh-18-09-2026-aa.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+http://conatem.com/adobeStudio.html,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-17T05:41:25Z
+101.36.119.242,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-17T05:41:25Z
+130.12.182.98,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-17T05:41:25Z
+213.209.159.242,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-17T05:41:25Z
+94.26.106.220,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-17T05:41:25Z
+157.137.227.61,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T21:06:11Z
+68.183.236.229,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T08:57:32Z
+8.160.165.56,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-02T05:22:13Z
+101.42.49.202,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-01T07:40:38Z
+177.5.76.21,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-01T07:40:38Z
+23.254.226.103,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-29T10:02:58Z
+122.51.179.8,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-28T06:05:17Z
+101.133.229.117,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-10-27T21:39:41Z
+74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
+38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,T1190,2026-10-22T00:00:00Z
