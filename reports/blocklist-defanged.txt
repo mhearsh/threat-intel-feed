@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-17 10:57 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-17 16:30 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,22 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-17
 
-101[.]36[.]119[.]242
-130[.]12[.]182[.]98
-213[.]209[.]159[.]242
-94[.]26[.]106[.]220
-hxxp://2elt8-0ra-1dll-2k67q-18-09-2026-aa[.]pages[.]dev/
-hxxp://7ris7-e2s-p113-og6er-18-09-2026-hh[.]pages[.]dev/
-hxxp://82pdh-cmc-dcj0-s2jks-18-09-2026-hh[.]pages[.]dev/
-hxxp://acessapp[.]vercel[.]app/confirmar-saque/
-hxxp://ananeosi-support[.]com/
-hxxp://basketbackup[.]com/bb-w/?sid=33293346&uid=456b232b-1ca8-435c-9653-743efa3222e6&eid=0
-hxxp://bundleid-metaplex-signtx[.]pages[.]dev/
-hxxp://bvs7q-8mx-12um-0thwd-18-09-2026-hh[.]pages[.]dev/
-hxxp://bznqk84-3w7m2xt-9j5d4g-vr61[.]pages[.]dev/
-hxxp://c1729-c8a-5v99-g47i6-18-09-2026-hh[.]pages[.]dev/
-hxxp://cms2y-9wh-b8uc-8vmnh-18-09-2026-aa[.]pages[.]dev/
-hxxp://conatem[.]com/adobeStudio[.]html
+hxxp://00386[.]uk/
+hxxp://2345762334[.]lol/
+hxxp://41sid-6rw-8t9f-19xin-19-09-2026-hh[.]pages[.]dev/
+hxxp://7r69k-dlx-84aq-77gdy-19-09-2026-hh[.]pages[.]dev/
+hxxp://8jv1l-10f-icgs-fiurx-19-09-2026-hh[.]pages[.]dev/
+hxxp://8kuwb-uf0-n9ll-x9el9-19-09-2026-hh[.]pages[.]dev/
+hxxp://9gb2m-h3b-jvva-ygc1i-19-09-2026-hh[.]pages[.]dev/
+hxxp://access-ledgerz[.]typedream[.]app/
+hxxp://admin[.]foroshgahma[.]com/rfp/proposal/shared/microsoft_passwordless_1787664630667[.]html
+hxxp://akbayonets[.]com/
+hxxp://burqelo-mpt-vanzari-t9d5xe31[.]pages[.]dev/
+hxxp://bxn1f-su8-j3vv-brkuc-19-09-2026-hh[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
@@ -79,8 +75,24 @@ hxxp://conatem[.]com/adobeStudio[.]html
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+68[.]64[.]176[.]76
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-24
+
+176[.]121[.]51[.]1
+8[.]156[.]80[.]127
 
