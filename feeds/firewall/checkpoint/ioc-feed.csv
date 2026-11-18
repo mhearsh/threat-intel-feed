@@ -1,16 +1,16 @@
 #UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-tif-url-1,5mtvljq8-9zlkytp2-3hwcps71-v4n6w8.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-2,5rfy2-afr-kx2j-kvu4m-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-3,697ib-ri5-s3fc-hecak-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-4,732890coinbase.com,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-5,8to8g-j2i-wg88-8glep-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-6,8u5m9c-qw177a-mbtz1z9p8m2-qwxknnnx.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-7,9h3np-8v4-nefp-8mu3i-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-8,9hjg3-c4jk98-wfls7x-hppis.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-9,9i322-c6i-ghbg-01u76-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-10,9pqox-7ry-a8rr-zdz60-20-09-2026-aa.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-11,akw06-9wf-d9qs-ad9is-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
-tif-url-12,all-music-spotify-vnzx.netlify.app,URL,medium,medium,AB,phishing score 60 (medium) added 2026-11-18
+tif-url-1,5mtvljq8-9zlkytp2-3hwcps71-v4n6w8.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-2,5rfy2-afr-kx2j-kvu4m-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-3,697ib-ri5-s3fc-hecak-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-4,732890coinbase.com,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-5,8to8g-j2i-wg88-8glep-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-6,8u5m9c-qw177a-mbtz1z9p8m2-qwxknnnx.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-7,9h3np-8v4-nefp-8mu3i-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-8,9hjg3-c4jk98-wfls7x-hppis.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-9,9i322-c6i-ghbg-01u76-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-10,9pqox-7ry-a8rr-zdz60-20-09-2026-aa.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-11,akw06-9wf-d9qs-ad9is-20-09-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
+tif-url-12,all-music-spotify-vnzx.netlify.app,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-18
 tif-ip-1,157.137.227.61,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-03
 tif-ip-2,68.183.236.229,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-03
 tif-ip-3,8.160.165.56,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-11-02
@@ -19,9 +19,9 @@ tif-ip-5,177.5.76.21,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 20
 tif-ip-6,23.254.226.103,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-29
 tif-ip-7,122.51.179.8,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-28
 tif-ip-8,101.133.229.117,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-27
-tif-ip-9,68.64.176.76,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-26
-tif-ip-10,111.170.148.141,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-25
-tif-ip-11,176.121.51.1,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-24
-tif-ip-12,8.156.80.127,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-24
+tif-ip-9,39.96.78.162,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-26
+tif-ip-10,68.64.176.76,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-26
+tif-ip-11,111.170.148.141,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-25
+tif-ip-12,176.121.51.1,IP,medium,medium,AB,Cobaltstrike score 54 (medium) added 2026-10-24
 tif-ip-13,74.82.197.86,IP,critical,critical,AB,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 tif-ip-14,38.54.50.151,IP,critical,critical,AB,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22

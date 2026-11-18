@@ -1,16 +1,16 @@
 Type,Object,Description
-URL,5mtvljq8-9zlkytp2-3hwcps71-v4n6w8.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,5rfy2-afr-kx2j-kvu4m-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,697ib-ri5-s3fc-hecak-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,732890coinbase.com,phishing score 60 (medium) added 2026-11-18
-URL,8to8g-j2i-wg88-8glep-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,8u5m9c-qw177a-mbtz1z9p8m2-qwxknnnx.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,9h3np-8v4-nefp-8mu3i-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,9hjg3-c4jk98-wfls7x-hppis.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,9i322-c6i-ghbg-01u76-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,9pqox-7ry-a8rr-zdz60-20-09-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,akw06-9wf-d9qs-ad9is-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-18
-URL,all-music-spotify-vnzx.netlify.app,phishing score 60 (medium) added 2026-11-18
+URL,5mtvljq8-9zlkytp2-3hwcps71-v4n6w8.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,5rfy2-afr-kx2j-kvu4m-20-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,697ib-ri5-s3fc-hecak-20-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,732890coinbase.com,phishing score 54 (medium) added 2026-11-18
+URL,8to8g-j2i-wg88-8glep-20-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,8u5m9c-qw177a-mbtz1z9p8m2-qwxknnnx.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,9h3np-8v4-nefp-8mu3i-20-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,9hjg3-c4jk98-wfls7x-hppis.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,9i322-c6i-ghbg-01u76-20-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,9pqox-7ry-a8rr-zdz60-20-09-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,akw06-9wf-d9qs-ad9is-20-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-18
+URL,all-music-spotify-vnzx.netlify.app,phishing score 54 (medium) added 2026-11-18
 IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,8.160.165.56,Cobaltstrike score 54 (medium) added 2026-11-02
@@ -19,9 +19,9 @@ IP,177.5.76.21,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
 IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
 IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
+IP,39.96.78.162,Cobaltstrike score 54 (medium) added 2026-10-26
 IP,68.64.176.76,Cobaltstrike score 54 (medium) added 2026-10-26
 IP,111.170.148.141,Cobaltstrike score 54 (medium) added 2026-10-25
 IP,176.121.51.1,Cobaltstrike score 54 (medium) added 2026-10-24
-IP,8.156.80.127,Cobaltstrike score 54 (medium) added 2026-10-24
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
