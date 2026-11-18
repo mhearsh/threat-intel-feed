@@ -6,14 +6,14 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-17 21:05 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-18 00:00 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-17
+# 2026-11-18
 
 hxxp://00386[.]uk/
 hxxp://2345762334[.]lol/
@@ -23,10 +23,16 @@ hxxp://8jv1l-10f-icgs-fiurx-19-09-2026-hh[.]pages[.]dev/
 hxxp://8kuwb-uf0-n9ll-x9el9-19-09-2026-hh[.]pages[.]dev/
 hxxp://9gb2m-h3b-jvva-ygc1i-19-09-2026-hh[.]pages[.]dev/
 hxxp://access-ledgerz[.]typedream[.]app/
-hxxp://admin[.]foroshgahma[.]com/rfp/proposal/shared/microsoft_passwordless_1787664630667[.]html
 hxxp://akbayonets[.]com/
 hxxp://burqelo-mpt-vanzari-t9d5xe31[.]pages[.]dev/
 hxxp://bxn1f-su8-j3vv-brkuc-19-09-2026-hh[.]pages[.]dev/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-17
+
+hxxp://admin[.]foroshgahma[.]com/rfp/proposal/shared/microsoft_passwordless_1787664630667[.]html
 
 
 # Auto-Fetch-ThreatIntel

@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-17 21:05 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-18 00:00 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://00386[.]uk/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://2345762334[.]lol/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://41sid-6rw-8t9f-19xin-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://7r69k-dlx-84aq-77gdy-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://8jv1l-10f-icgs-fiurx-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://8kuwb-uf0-n9ll-x9el9-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://9gb2m-h3b-jvva-ygc1i-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://access-ledgerz[.]typedream[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://admin[.]foroshgahma[.]com/rfp/proposal/shared/microso` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://akbayonets[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://burqelo-mpt-vanzari-t9d5xe31[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://bxn1f-su8-j3vv-brkuc-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://00386[.]uk/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://2345762334[.]lol/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://41sid-6rw-8t9f-19xin-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://7r69k-dlx-84aq-77gdy-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://8jv1l-10f-icgs-fiurx-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://8kuwb-uf0-n9ll-x9el9-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://9gb2m-h3b-jvva-ygc1i-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://access-ledgerz[.]typedream[.]app/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://admin[.]foroshgahma[.]com/rfp/proposal/shared/microso` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://akbayonets[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://burqelo-mpt-vanzari-t9d5xe31[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://bxn1f-su8-j3vv-brkuc-19-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 13 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
