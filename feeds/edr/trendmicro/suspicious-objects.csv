@@ -1,27 +1,27 @@
 Type,Object,Description
-IP,101.36.125.211,multi-blocklist score 54 (medium) added 2026-11-19
-IP,141.98.10.44,multi-blocklist score 54 (medium) added 2026-11-19
-IP,195.178.110.35,multi-blocklist score 54 (medium) added 2026-11-19
-IP,36.255.97.240,multi-blocklist score 54 (medium) added 2026-11-19
-IP,62.60.130.234,multi-blocklist score 54 (medium) added 2026-11-19
-IP,91.92.42.178,multi-blocklist score 54 (medium) added 2026-11-19
-IP,92.118.39.72,multi-blocklist score 54 (medium) added 2026-11-19
-URL,0121z3.ralind.at/trs,phishing score 54 (medium) added 2026-11-19
-URL,0528173946-kx9m2q-7v1p.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,0vsc7-lfu-eek6-hj6ut-20-09-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,1282-5288366075-n38-fdo7m-hj0mtzona.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,7567e759-88a5-18c8-fa0f-docviewer.reynoldsjace5.workers.dev,phishing score 54 (medium) added 2026-11-19
-URL,7vzk2-m91q4x-6p3d8n0-j5.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,80429175-zq6m3x-k8v1.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,82m4hbje33-31835900-wszgg-6b0h6dc-2698536800.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,8lwgo-9jea14w9t1-h3z2vy6awv-qvfldbxo-1pb4.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,9c2w5n8-x1k7v4m3-q6d0p9.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,aawbf9-a66yth-q4sy-f30171tvh.pages.dev,phishing score 54 (medium) added 2026-11-19
-URL,abnamro.mitarbeitervorteile.de/login.action,phishing score 54 (medium) added 2026-11-19
+URL,0a09c-j80-i4cx-mvyql-20-09-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-19
+URL,1avpc1-cma00uzf0-intelligence-agentic-models.vercel.app,phishing score 60 (medium) added 2026-11-19
+URL,1avpc1.vercel.app,phishing score 60 (medium) added 2026-11-19
+URL,2buw1-8hi-vozo-7dm9k-19-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-19
+URL,4nycp-gdp-62u1-svf3k-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-19
+URL,7xcgm-nbd-uuce-8wuvc-21-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-19
+URL,9sitp-o1o-jvve-hme6j-20-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-19
+URL,9u1m2c-qw333agreg-mbtz1z2p8m9-qwxk.pages.dev/appeals/submit-appeal-form/return,phishing score 60 (medium) added 2026-11-19
+URL,agenciaricco.com/lang,phishing score 60 (medium) added 2026-11-19
+URL,allegrolokalnie.pl-oferta789618732.cfd/oferta/playstation-5-pro-2tb-12717a38,phishing score 60 (medium) added 2026-11-19
+URL,am.jpttt.biz,phishing score 60 (medium) added 2026-11-19
+URL,appcoinsquare-login.typedream.app,phishing score 60 (medium) added 2026-11-19
 IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,8.160.165.56,Cobaltstrike score 54 (medium) added 2026-11-02
 IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,177.5.76.21,Cobaltstrike score 54 (medium) added 2026-11-01
+IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
+IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
+IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
+IP,39.96.78.162,Cobaltstrike score 54 (medium) added 2026-10-26
+IP,68.64.176.76,Cobaltstrike score 54 (medium) added 2026-10-26
+IP,111.170.148.141,Cobaltstrike score 54 (medium) added 2026-10-25
+IP,176.121.51.1,Cobaltstrike score 54 (medium) added 2026-10-24
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22

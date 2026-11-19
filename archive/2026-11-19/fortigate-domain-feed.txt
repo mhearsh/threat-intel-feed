@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-19 11:46 UTC   Count: 1016   Expiry: 30 days              #
+#  Updated: 2026-11-19 15:36 UTC   Count: 1025   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -16,15 +16,24 @@
 # 2026-11-19
 
 0528173946-kx9m2q-7v1p.pages.dev
+0a09c-j80-i4cx-mvyql-20-09-2026-aa.pages.dev
 0vsc7-lfu-eek6-hj6ut-20-09-2026-aa.pages.dev
 1282-5288366075-n38-fdo7m-hj0mtzona.pages.dev
+1avpc1-cma00uzf0-intelligence-agentic-models.vercel.app
+1avpc1.vercel.app
+2buw1-8hi-vozo-7dm9k-19-09-2026-hh.pages.dev
+4nycp-gdp-62u1-svf3k-20-09-2026-hh.pages.dev
 7567e759-88a5-18c8-fa0f-docviewer.reynoldsjace5.workers.dev
 7vzk2-m91q4x-6p3d8n0-j5.pages.dev
+7xcgm-nbd-uuce-8wuvc-21-09-2026-hh.pages.dev
 80429175-zq6m3x-k8v1.pages.dev
 82m4hbje33-31835900-wszgg-6b0h6dc-2698536800.pages.dev
 8lwgo-9jea14w9t1-h3z2vy6awv-qvfldbxo-1pb4.pages.dev
 9c2w5n8-x1k7v4m3-q6d0p9.pages.dev
+9sitp-o1o-jvve-hme6j-20-09-2026-hh.pages.dev
 aawbf9-a66yth-q4sy-f30171tvh.pages.dev
+am.jpttt.biz
+appcoinsquare-login.typedream.app
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

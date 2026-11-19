@@ -1,27 +1,27 @@
 value,type,family,score,band,sources,first_seen,mitre,first_published
-101.36.125.211,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-141.98.10.44,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-195.178.110.35,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-36.255.97.240,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-62.60.130.234,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-91.92.42.178,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-92.118.39.72,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-19T07:21:42Z,"T1595, T1110",2026-11-19T07:21:42Z
-0121z3.ralind.at/trs,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-0528173946-kx9m2q-7v1p.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-0vsc7-lfu-eek6-hj6ut-20-09-2026-aa.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-1282-5288366075-n38-fdo7m-hj0mtzona.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-7567e759-88a5-18c8-fa0f-docviewer.reynoldsjace5.workers.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-7vzk2-m91q4x-6p3d8n0-j5.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-80429175-zq6m3x-k8v1.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-82m4hbje33-31835900-wszgg-6b0h6dc-2698536800.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-8lwgo-9jea14w9t1-h3z2vy6awv-qvfldbxo-1pb4.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-9c2w5n8-x1k7v4m3-q6d0p9.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-aawbf9-a66yth-q4sy-f30171tvh.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
-abnamro.mitarbeitervorteile.de/login.action,url,phishing,54,medium,OpenPhish,2026-11-19T00:55:45Z,"T1566.002, T1056.003",2026-11-19T00:55:45Z
+0a09c-j80-i4cx-mvyql-20-09-2026-aa.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+1avpc1-cma00uzf0-intelligence-agentic-models.vercel.app,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+1avpc1.vercel.app,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+2buw1-8hi-vozo-7dm9k-19-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+4nycp-gdp-62u1-svf3k-20-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+7xcgm-nbd-uuce-8wuvc-21-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+9sitp-o1o-jvve-hme6j-20-09-2026-hh.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+9u1m2c-qw333agreg-mbtz1z2p8m9-qwxk.pages.dev/appeals/submit-appeal-form/return,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+agenciaricco.com/lang,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+allegrolokalnie.pl-oferta789618732.cfd/oferta/playstation-5-pro-2tb-12717a38,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+am.jpttt.biz,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
+appcoinsquare-login.typedream.app,url,phishing,60,medium,OpenPhish,2026-11-19T15:36:53Z,"T1566.002, T1056.003",2026-11-19T15:36:53Z
 157.137.227.61,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-03T21:06:11Z,"T1071, T1105",2026-11-03T21:06:11Z
 68.183.236.229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-03T08:57:32Z,"T1071, T1105",2026-11-03T08:57:32Z
 8.160.165.56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-02T05:22:13Z,"T1071, T1105",2026-11-02T05:22:13Z
 101.42.49.202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
 177.5.76.21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
+23.254.226.103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-29T10:02:58Z,"T1071, T1105",2026-10-29T10:02:58Z
+122.51.179.8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-28T06:05:17Z,"T1071, T1105",2026-10-28T06:05:17Z
+101.133.229.117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-27T21:39:41Z,"T1071, T1105",2026-10-27T21:39:41Z
+39.96.78.162,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-26T21:22:53Z,"T1071, T1105",2026-10-26T21:22:53Z
+68.64.176.76,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-26T06:21:56Z,"T1071, T1105",2026-10-26T06:21:56Z
+111.170.148.141,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-25T20:22:44Z,"T1071, T1105",2026-10-25T20:22:44Z
+176.121.51.1,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-24T18:53:10Z,"T1071, T1105",2026-10-24T18:53:10Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z

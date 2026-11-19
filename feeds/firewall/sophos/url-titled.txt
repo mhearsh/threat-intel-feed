@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-19 11:46 UTC   Count: 563   Expiry: 30 days               #
+#  Updated: 2026-11-19 15:36 UTC   Count: 566   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,7 +16,10 @@
 # 2026-11-19
 
 0121z3.ralind.at/trs
+9u1m2c-qw333agreg-mbtz1z2p8m9-qwxk.pages.dev/appeals/submit-appeal-form/return
 abnamro.mitarbeitervorteile.de/login.action
+agenciaricco.com/lang
+allegrolokalnie.pl-oferta789618732.cfd/oferta/playstation-5-pro-2tb-12717a38
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
