@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-20 09:08 UTC   Count: 569   Expiry: 30 days               #
+#  Updated: 2026-11-20 16:02 UTC   Count: 576   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -15,7 +15,14 @@
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-11-20
 
+135461223.site/ru/398/65a9aee1-0f61-481c-84b6-9e33e820c828/67958
+135461223.site/ru/398/65a9aee1-0f61-481c-84b6-9e33e820c828/67958/x
 135461223.site/sv/398/27993601225059050-47757452063036/57884
+304838.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380
+304838.com/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380
+a.073202.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380
+a.073202.com/education_redirect_second?8c5781c2-7b1e-4035-b1d7-990e269e5380
+ahv3ctpms4e.breakingnewsbroadcast.com/education_redirect_second/8c5781c2-7b1e-4035-b1d7-990e269e5380
 app-conbase.pro/login/exchange/index.php
 caliginous.shop/uadpgjtc
 
