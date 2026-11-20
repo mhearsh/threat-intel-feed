@@ -6,27 +6,27 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-19 22:14 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-20 00:44 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-19
+# 2026-11-20
 
-hxxp://0a09c-j80-i4cx-mvyql-20-09-2026-aa[.]pages[.]dev/
-hxxp://1avpc1-cma00uzf0-intelligence-agentic-models[.]vercel[.]app/
-hxxp://1avpc1[.]vercel[.]app/
-hxxp://2buw1-8hi-vozo-7dm9k-19-09-2026-hh[.]pages[.]dev/
-hxxp://4nycp-gdp-62u1-svf3k-20-09-2026-hh[.]pages[.]dev/
-hxxp://7xcgm-nbd-uuce-8wuvc-21-09-2026-hh[.]pages[.]dev/
-hxxp://9sitp-o1o-jvve-hme6j-20-09-2026-hh[.]pages[.]dev/
-hxxp://9u1m2c-qw333agreg-mbtz1z2p8m9-qwxk[.]pages[.]dev/appeals/submit-appeal-form/return
-hxxp://agenciaricco[.]com/lang
-hxxp://allegrolokalnie[.]pl-oferta789618732[.]cfd/oferta/playstation-5-pro-2tb-12717a38/
-hxxp://am[.]jpttt[.]biz/
-hxxp://appcoinsquare-login[.]typedream[.]app/
+hxxp://135461223[.]site/sv/398/27993601225059050-47757452063036/57884
+hxxp://3mank85387sfyrukkuy8yuyfygfggfgfg3mank85387sfyrukkuy8yuyfygfgg[.]weeblysite[.]com/
+hxxp://4m9p2x7-v1k6q8n-3z5w0d[.]pages[.]dev/
+hxxp://5webn-345-vy0h-akjdo-21-09-2026-aa[.]pages[.]dev/
+hxxp://64m9agt-u9ovdhr2-v67dgnr-gvfn[.]pages[.]dev/
+hxxp://6kclu-1ms-58s5-wfl7f-23-09-2026-aa[.]pages[.]dev/
+hxxp://8tsn-czphh9-92o9n-teh4oo721-y1na5bw[.]pages[.]dev/
+hxxp://alfabet88-xyz[.]pages[.]dev/
+hxxp://app-conbase[.]pro/login/exchange/index[.]php
+hxxp://astonishing-rolypoly-1e06a3[.]netlify[.]app/
+hxxp://bervani-gld-felquza-p9t2fc35[.]pages[.]dev/
+hxxp://caliginous[.]shop/uadpgjtc
 
 
 # Auto-Fetch-ThreatIntel

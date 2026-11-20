@@ -6,9 +6,18 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-19 22:14 UTC   Count: 566   Expiry: 30 days               #
+#  Updated: 2026-11-20 00:44 UTC   Count: 569   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-20
+
+135461223.site/sv/398/27993601225059050-47757452063036/57884
+app-conbase.pro/login/exchange/index.php
+caliginous.shop/uadpgjtc
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
