@@ -11,17 +11,17 @@ URL,app-conbase.pro/login/exchange/index.php,phishing score 60 (medium) added 20
 URL,astonishing-rolypoly-1e06a3.netlify.app,phishing score 60 (medium) added 2026-11-20
 URL,bervani-gld-felquza-p9t2fc35.pages.dev,phishing score 60 (medium) added 2026-11-20
 URL,caliginous.shop/uadpgjtc,phishing score 60 (medium) added 2026-11-20
-IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03
-IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
-IP,8.160.165.56,Cobaltstrike score 54 (medium) added 2026-11-02
-IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
-IP,177.5.76.21,Cobaltstrike score 54 (medium) added 2026-11-01
-IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
-IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
-IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
-IP,39.96.78.162,Cobaltstrike score 54 (medium) added 2026-10-26
-IP,68.64.176.76,Cobaltstrike score 54 (medium) added 2026-10-26
-IP,111.170.148.141,Cobaltstrike score 54 (medium) added 2026-10-25
-IP,176.121.51.1,Cobaltstrike score 54 (medium) added 2026-10-24
+IP,104.152.52.201,multi-blocklist score 54 (medium) added 2026-11-20
+IP,109.160.32.118,multi-blocklist score 54 (medium) added 2026-11-20
+IP,141.98.9.130,multi-blocklist score 54 (medium) added 2026-11-20
+IP,185.169.4.177,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.25,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.29,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.34,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.35,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.36,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.37,multi-blocklist score 54 (medium) added 2026-11-20
+IP,45.148.10.39,multi-blocklist score 54 (medium) added 2026-11-20
+IP,93.123.109.103,multi-blocklist score 54 (medium) added 2026-11-20
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
