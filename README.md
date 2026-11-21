@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-20 22:50 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-21 00:51 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://135461223[.]site/ru/398/65a9aee1-0f61-481c-84b6-9e33e` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://135461223[.]site/ru/398/65a9aee1-0f61-481c-84b6-9e33e` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://304838[.]com/education_redirect_second/8c5781c2-7b1e-` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://304838[.]com/education_redirect_second?8c5781c2-7b1e-` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://66369c10822f9440f21cb1fb--resplendent-narwhal-26e58c[` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://852407196-qx8m3v-nk5p2z-41[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://8q5m2x7-v1n9k4p-36280715-z6[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://8v1n6q3-x5m9k2p-47021865-z4[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://995362851-817185189-1065-wea7[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://a[.]073202[.]com/education_redirect_second/8c5781c2-7` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://a[.]073202[.]com/education_redirect_second?8c5781c2-7` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://ahv3ctpms4e[.]breakingnewsbroadcast[.]com/education_r` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://2856164[.]cc/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://4558-04974618-4z6ftqydd-328552-q97wa9v[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://4km28-dd8-xt33-1b9f9-22-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://852619407-qx3m7v-nk5p2z-18[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://9w2k6p1-xt84m-360927[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://ameribel-100067[.]square[.]site/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://ar24courrielfr0[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://ar24courrielfr2[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://ar24courrielfr4[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://ar24courrielfr7[.]netlify[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://att-mail-com-110087[.]square[.]site/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://blue-queen-f21d[.]consumerslpg[.]workers[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
 | 13 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `8[.]160[.]165[.]56` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
