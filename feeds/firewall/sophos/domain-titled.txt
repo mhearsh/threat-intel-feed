@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-21 08:31 UTC   Count: 1051   Expiry: 30 days              #
+#  Updated: 2026-11-21 14:20 UTC   Count: 1063   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -15,9 +15,21 @@
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-21
 
+076737-ho6-rcynb8m-3923395484-7680-jnsrivqcs.pages.dev
+19263840-xm7q2v-8n5p.pages.dev
+1x7m4q9-k2v8n5p-0z6d3.pages.dev
+25sps-pqj-3bej-a2trj-24-09-2026-aa.pages.dev
 2856164.cc
+2gbbm-6fl-g0u9-hdym9-24-09-2026-aa.pages.dev
 4558-04974618-4z6ftqydd-328552-q97wa9v.pages.dev
+4blejf-kyy3oo-u57-jihx-rykr3c.pages.dev
 4km28-dd8-xt33-1b9f9-22-09-2026-hh.pages.dev
+4n8q1x6-203975-v5m2.pages.dev
+5md9f-wfy-fjjk-c2ko5-24-09-2026-aa.pages.dev
+5u1m2c-qw333a-mbtz8z1p9m2-qwxknnnx.pages.dev
+6l98o-w52-svah-yfybm-22-09-2026-hh.pages.dev
+75r0a-6p2-p5ne-wm36f-22-09-2026-hh.pages.dev
+7s2q8g-qw444c14y-mbtz9m1p8z2-fsgc-bzk.pages.dev
 852619407-qx3m7v-nk5p2z-18.pages.dev
 9w2k6p1-xt84m-360927.pages.dev
 ameribel-100067.square.site

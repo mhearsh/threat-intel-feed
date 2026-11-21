@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-21 08:31 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-21 14:20 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,26 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-21
 
-31[.]57[.]37[.]120
-31[.]57[.]37[.]91
-36[.]255[.]97[.]54
-45[.]148[.]10[.]26
-45[.]148[.]10[.]30
-45[.]148[.]10[.]31
-92[.]118[.]39[.]231
-92[.]118[.]39[.]246
-hxxp://2856164[.]cc/
-hxxp://4558-04974618-4z6ftqydd-328552-q97wa9v[.]pages[.]dev/
-hxxp://4km28-dd8-xt33-1b9f9-22-09-2026-hh[.]pages[.]dev/
-hxxp://852619407-qx3m7v-nk5p2z-18[.]pages[.]dev/
-hxxp://9w2k6p1-xt84m-360927[.]pages[.]dev/
-hxxp://ameribel-100067[.]square[.]site/
-hxxp://ar24courrielfr0[.]netlify[.]app/
-hxxp://ar24courrielfr2[.]netlify[.]app/
-hxxp://ar24courrielfr4[.]netlify[.]app/
-hxxp://ar24courrielfr7[.]netlify[.]app/
-hxxp://att-mail-com-110087[.]square[.]site/
-hxxp://blue-queen-f21d[.]consumerslpg[.]workers[.]dev/
+hxxp://076737-ho6-rcynb8m-3923395484-7680-jnsrivqcs[.]pages[.]dev/
+hxxp://19263840-xm7q2v-8n5p[.]pages[.]dev/
+hxxp://1x7m4q9-k2v8n5p-0z6d3[.]pages[.]dev/
+hxxp://25sps-pqj-3bej-a2trj-24-09-2026-aa[.]pages[.]dev/
+hxxp://2gbbm-6fl-g0u9-hdym9-24-09-2026-aa[.]pages[.]dev/
+hxxp://4blejf-kyy3oo-u57-jihx-rykr3c[.]pages[.]dev/
+hxxp://4n8q1x6-203975-v5m2[.]pages[.]dev/
+hxxp://5md9f-wfy-fjjk-c2ko5-24-09-2026-aa[.]pages[.]dev/
+hxxp://5u1m2c-qw333a-mbtz8z1p9m2-qwxknnnx[.]pages[.]dev/
+hxxp://6l98o-w52-svah-yfybm-22-09-2026-hh[.]pages[.]dev/
+hxxp://75r0a-6p2-p5ne-wm36f-22-09-2026-hh[.]pages[.]dev/
+hxxp://7s2q8g-qw444c14y-mbtz9m1p8z2-fsgc-bzk[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
@@ -57,12 +49,44 @@ hxxp://blue-queen-f21d[.]consumerslpg[.]workers[.]dev/
 # 2026-11-01
 
 101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+64[.]118[.]128[.]131
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+39[.]96[.]78[.]162
+68[.]64[.]176[.]76
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-10-25
 
+111[.]170[.]148[.]141
 38[.]54[.]50[.]151
 74[.]82[.]197[.]86
 
