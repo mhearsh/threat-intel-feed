@@ -6,27 +6,27 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-21 22:51 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-22 01:06 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-21
+# 2026-11-22
 
-hxxp://076737-ho6-rcynb8m-3923395484-7680-jnsrivqcs[.]pages[.]dev/
-hxxp://19263840-xm7q2v-8n5p[.]pages[.]dev/
-hxxp://1x7m4q9-k2v8n5p-0z6d3[.]pages[.]dev/
-hxxp://25sps-pqj-3bej-a2trj-24-09-2026-aa[.]pages[.]dev/
-hxxp://2gbbm-6fl-g0u9-hdym9-24-09-2026-aa[.]pages[.]dev/
-hxxp://4blejf-kyy3oo-u57-jihx-rykr3c[.]pages[.]dev/
-hxxp://4n8q1x6-203975-v5m2[.]pages[.]dev/
-hxxp://5md9f-wfy-fjjk-c2ko5-24-09-2026-aa[.]pages[.]dev/
-hxxp://5u1m2c-qw333a-mbtz8z1p9m2-qwxknnnx[.]pages[.]dev/
-hxxp://6l98o-w52-svah-yfybm-22-09-2026-hh[.]pages[.]dev/
-hxxp://75r0a-6p2-p5ne-wm36f-22-09-2026-hh[.]pages[.]dev/
-hxxp://7s2q8g-qw444c14y-mbtz9m1p8z2-fsgc-bzk[.]pages[.]dev/
+hxxp://3r2p1e-2v8m1p9a-1p8z2k9m4s-fsgcyyhy[.]pages[.]dev/
+hxxp://3u2m8c-qw333a-mbtz1z9p8m2-qwxknnnx[.]pages[.]dev/
+hxxp://6qd9z-tuclp-fjf-zirbaoziuj[.]pages[.]dev/
+hxxp://6to59-1h1-7png-cw6ce-22-09-2026-hh[.]pages[.]dev/
+hxxp://7u8m1c-qw444agreg-mbtz8z1p2m9-qwxk-2hv[.]pages[.]dev/
+hxxp://8u1m2c-qw888a-2z1k8p9m4s-qwxknnnx-bdv[.]pages[.]dev/
+hxxp://8yu8x-l85-2gffv-o6yvok-poo[.]pages[.]dev/
+hxxp://9zow-smvs1-wju157v9-10057qd75-x6vdx[.]pages[.]dev/
+hxxp://accounts-google[.]wallet-veriffy[.]com/
+hxxp://app-kleinanzeigen[.]de/
+hxxp://app-kleinanzeigen[.]de/login[.]php?state=zcbj6I2k31dKKgrAsLVBwIVFufHtbl4d8Sxs0WIfQo
+hxxp://arq8be[.]eventzones[.]de/
 
 
 # Auto-Fetch-ThreatIntel
