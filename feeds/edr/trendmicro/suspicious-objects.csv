@@ -1,27 +1,27 @@
 Type,Object,Description
-IP,109.160.32.107,multi-blocklist score 54 (medium) added 2026-11-22
-IP,109.160.32.137,multi-blocklist score 54 (medium) added 2026-11-22
-IP,109.160.32.171,multi-blocklist score 54 (medium) added 2026-11-22
-IP,172.94.9.55,multi-blocklist score 54 (medium) added 2026-11-22
-IP,204.76.203.38,multi-blocklist score 54 (medium) added 2026-11-22
-IP,45.148.10.210,multi-blocklist score 54 (medium) added 2026-11-22
-IP,45.198.224.76,multi-blocklist score 54 (medium) added 2026-11-22
-URL,3r2p1e-2v8m1p9a-1p8z2k9m4s-fsgcyyhy.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,3u2m8c-qw333a-mbtz1z9p8m2-qwxknnnx.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,6qd9z-tuclp-fjf-zirbaoziuj.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,6to59-1h1-7png-cw6ce-22-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,7u8m1c-qw444agreg-mbtz8z1p2m9-qwxk-2hv.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,8u1m2c-qw888a-2z1k8p9m4s-qwxknnnx-bdv.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,8yu8x-l85-2gffv-o6yvok-poo.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,9zow-smvs1-wju157v9-10057qd75-x6vdx.pages.dev,phishing score 54 (medium) added 2026-11-22
-URL,accounts-google.wallet-veriffy.com,phishing score 54 (medium) added 2026-11-22
-URL,app-kleinanzeigen.de,phishing score 54 (medium) added 2026-11-22
-URL,app-kleinanzeigen.de/login.php?state=zcbj6I2k31dKKgrAsLVBwIVFufHtbl4d8Sxs0WIfQo,phishing score 54 (medium) added 2026-11-22
-URL,arq8be.eventzones.de,phishing score 54 (medium) added 2026-11-22
+URL,0gzqz-5r2-j5hq-7a9ty-14-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,0t999-ijb-52fd-k4pcx-22-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,0yoat-jjm-kyi0-lsp0f-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,2s9ow-hdx-hm1g-pzxsc-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,5o11d-u5g-e3zv-yyci4-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,5y617-2kw-21zt-cuprd-21-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,6y7xu-v9m-sbe9-jbuvu-20-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,6yc8r-23v-aubn-4gjlq-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,7barl-t62-qdnb-qem8p-21-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,83x3c-7yk-y30r-r7ui3-22-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
+URL,88ehs.tenantid472384782.sbs,phishing score 60 (medium) added 2026-11-22
+URL,8orv3-r4p-ybg3-x4ism-21-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-22
 IP,47.239.109.26,Cobaltstrike score 54 (medium) added 2026-11-04
 IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,8.160.165.56,Cobaltstrike score 54 (medium) added 2026-11-02
 IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
+IP,177.5.76.21,Cobaltstrike score 54 (medium) added 2026-11-01
+IP,64.118.128.131,Cobaltstrike score 54 (medium) added 2026-11-01
+IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
+IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
+IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
+IP,39.96.78.162,Cobaltstrike score 54 (medium) added 2026-10-26
+IP,68.64.176.76,Cobaltstrike score 54 (medium) added 2026-10-26
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
