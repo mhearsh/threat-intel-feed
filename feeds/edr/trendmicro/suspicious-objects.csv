@@ -1,16 +1,4 @@
 Type,Object,Description
-URL,3r2p1e-2v8m1p9a-1p8z2k9m4s-fsgcyyhy.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,3u2m8c-qw333a-mbtz1z9p8m2-qwxknnnx.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,6qd9z-tuclp-fjf-zirbaoziuj.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,6to59-1h1-7png-cw6ce-22-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,7u8m1c-qw444agreg-mbtz8z1p2m9-qwxk-2hv.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,8u1m2c-qw888a-2z1k8p9m4s-qwxknnnx-bdv.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,8yu8x-l85-2gffv-o6yvok-poo.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,9zow-smvs1-wju157v9-10057qd75-x6vdx.pages.dev,phishing score 60 (medium) added 2026-11-22
-URL,accounts-google.wallet-veriffy.com,phishing score 60 (medium) added 2026-11-22
-URL,app-kleinanzeigen.de,phishing score 60 (medium) added 2026-11-22
-URL,app-kleinanzeigen.de/login.php?state=zcbj6I2k31dKKgrAsLVBwIVFufHtbl4d8Sxs0WIfQo,phishing score 60 (medium) added 2026-11-22
-URL,arq8be.eventzones.de,phishing score 60 (medium) added 2026-11-22
 IP,109.160.32.107,multi-blocklist score 54 (medium) added 2026-11-22
 IP,109.160.32.137,multi-blocklist score 54 (medium) added 2026-11-22
 IP,109.160.32.171,multi-blocklist score 54 (medium) added 2026-11-22
@@ -18,6 +6,18 @@ IP,172.94.9.55,multi-blocklist score 54 (medium) added 2026-11-22
 IP,204.76.203.38,multi-blocklist score 54 (medium) added 2026-11-22
 IP,45.148.10.210,multi-blocklist score 54 (medium) added 2026-11-22
 IP,45.198.224.76,multi-blocklist score 54 (medium) added 2026-11-22
+URL,3r2p1e-2v8m1p9a-1p8z2k9m4s-fsgcyyhy.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,3u2m8c-qw333a-mbtz1z9p8m2-qwxknnnx.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,6qd9z-tuclp-fjf-zirbaoziuj.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,6to59-1h1-7png-cw6ce-22-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,7u8m1c-qw444agreg-mbtz8z1p2m9-qwxk-2hv.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,8u1m2c-qw888a-2z1k8p9m4s-qwxknnnx-bdv.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,8yu8x-l85-2gffv-o6yvok-poo.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,9zow-smvs1-wju157v9-10057qd75-x6vdx.pages.dev,phishing score 54 (medium) added 2026-11-22
+URL,accounts-google.wallet-veriffy.com,phishing score 54 (medium) added 2026-11-22
+URL,app-kleinanzeigen.de,phishing score 54 (medium) added 2026-11-22
+URL,app-kleinanzeigen.de/login.php?state=zcbj6I2k31dKKgrAsLVBwIVFufHtbl4d8Sxs0WIfQo,phishing score 54 (medium) added 2026-11-22
+URL,arq8be.eventzones.de,phishing score 54 (medium) added 2026-11-22
 IP,47.239.109.26,Cobaltstrike score 54 (medium) added 2026-11-04
 IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
