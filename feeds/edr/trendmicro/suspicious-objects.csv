@@ -1,20 +1,17 @@
 Type,Object,Description
 IP,23.132.164.13,Cobaltstrike score 66 (medium) added 2026-11-23
-URL,1q7tx-f9e-bzao-dc9pa-20-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,1xbetind.in/en/block-ie,phishing score 60 (medium) added 2026-11-23
-URL,22u7h-8nz-ngui-jhffc-20-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,2quzh-lp6-9xbs-vlp0i-22-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,35d6-65l0y-qhg-i1cn-kdki5.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,3gyiz-ynd-4not-nufs8-20-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,42rui-cfg-9kwl-m7uv7-21-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,4tkxe-p9u-ej84-r59p7-23-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,6c0rk-dfj-su1h-v0ac4-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,6rb6n-a8o-37b5-1gazi-20-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,7ou21-urb-cwe1-ief0u-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-URL,87l1v-ogu-tblk-ssx1v-23-10-2026-aa.pages.dev,phishing score 60 (medium) added 2026-11-23
-IP,109.160.32.143,multi-blocklist score 54 (medium) added 2026-11-23
-IP,185.169.4.168,multi-blocklist score 54 (medium) added 2026-11-23
-IP,91.92.40.4,multi-blocklist score 54 (medium) added 2026-11-23
+URL,1q7tx-f9e-bzao-dc9pa-20-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,1xbetind.in/en/block-ie,phishing score 54 (medium) added 2026-11-23
+URL,22u7h-8nz-ngui-jhffc-20-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,2quzh-lp6-9xbs-vlp0i-22-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,35d6-65l0y-qhg-i1cn-kdki5.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,3gyiz-ynd-4not-nufs8-20-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,42rui-cfg-9kwl-m7uv7-21-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,4tkxe-p9u-ej84-r59p7-23-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,6c0rk-dfj-su1h-v0ac4-23-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,6rb6n-a8o-37b5-1gazi-20-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,7ou21-urb-cwe1-ief0u-23-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
+URL,87l1v-ogu-tblk-ssx1v-23-10-2026-aa.pages.dev,phishing score 54 (medium) added 2026-11-23
 IP,47.239.109.26,Cobaltstrike score 54 (medium) added 2026-11-04
 IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03
 IP,68.183.236.229,Cobaltstrike score 54 (medium) added 2026-11-03
@@ -23,5 +20,8 @@ IP,101.42.49.202,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,177.5.76.21,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,64.118.128.131,Cobaltstrike score 54 (medium) added 2026-11-01
 IP,23.254.226.103,Cobaltstrike score 54 (medium) added 2026-10-29
+IP,122.51.179.8,Cobaltstrike score 54 (medium) added 2026-10-28
+IP,101.133.229.117,Cobaltstrike score 54 (medium) added 2026-10-27
+IP,39.96.78.162,Cobaltstrike score 54 (medium) added 2026-10-26
 IP,74.82.197.86,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22
 IP,38.54.50.151,Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22

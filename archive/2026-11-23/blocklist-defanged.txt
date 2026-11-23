@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-23 05:44 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-23 09:02 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,10 +15,7 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-23
 
-109[.]160[.]32[.]143
-185[.]169[.]4[.]168
 23[.]132[.]164[.]13
-91[.]92[.]40[.]4
 hxxp://1q7tx-f9e-bzao-dc9pa-20-10-2026-aa[.]pages[.]dev/
 hxxp://1xbetind[.]in/en/block-ie
 hxxp://22u7h-8nz-ngui-jhffc-20-10-2026-aa[.]pages[.]dev/
@@ -69,6 +66,27 @@ hxxp://87l1v-ogu-tblk-ssx1v-23-10-2026-aa[.]pages[.]dev/
 # 2026-10-29
 
 23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+39[.]96[.]78[.]162
 
 
 # Auto-Fetch-ThreatIntel
