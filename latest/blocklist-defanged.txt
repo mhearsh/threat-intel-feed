@@ -6,14 +6,14 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-22 20:56 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-23 00:00 UTC   Count: 26   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-22
+# 2026-11-23
 
 hxxp://0gzqz-5r2-j5hq-7a9ty-14-09-2026-hh[.]pages[.]dev/
 hxxp://0t999-ijb-52fd-k4pcx-22-09-2026-hh[.]pages[.]dev/

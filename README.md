@@ -109,24 +109,24 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-22 20:56 UTC. 26 IOCs (url: 12, ip: 14); 12 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
+_Last update: 2026-11-23 00:00 UTC. 26 IOCs (url: 12, ip: 14); 0 first seen under 6h ago. File-hash feed: 8135 SHA-256 · 867 SHA-1 · 869 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://0gzqz-5r2-j5hq-7a9ty-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://0t999-ijb-52fd-k4pcx-22-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://0yoat-jjm-kyi0-lsp0f-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://2s9ow-hdx-hm1g-pzxsc-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://5o11d-u5g-e3zv-yyci4-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://5y617-2kw-21zt-cuprd-21-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://6y7xu-v9m-sbe9-jbuvu-20-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://6yc8r-23v-aubn-4gjlq-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://7barl-t62-qdnb-qem8p-21-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://83x3c-7yk-y30r-r7ui3-22-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://88ehs[.]tenantid472384782[.]sbs/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://8orv3-r4p-ybg3-x4ism-21-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://0gzqz-5r2-j5hq-7a9ty-14-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://0t999-ijb-52fd-k4pcx-22-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://0yoat-jjm-kyi0-lsp0f-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://2s9ow-hdx-hm1g-pzxsc-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://5o11d-u5g-e3zv-yyci4-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://5y617-2kw-21zt-cuprd-21-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://6y7xu-v9m-sbe9-jbuvu-20-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://6yc8r-23v-aubn-4gjlq-23-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://7barl-t62-qdnb-qem8p-21-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://83x3c-7yk-y30r-r7ui3-22-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://88ehs[.]tenantid472384782[.]sbs/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://8orv3-r4p-ybg3-x4ism-21-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 13 | `47[.]239[.]109[.]26` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 14 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 | 15 | `68[.]183[.]236[.]229` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
