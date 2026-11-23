@@ -6,9 +6,16 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-23 00:00 UTC   Count: 566   Expiry: 30 days               #
+#  Updated: 2026-11-23 02:18 UTC   Count: 567   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-23
+
+1xbetind.in/en/block-ie
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish

@@ -1,4 +1,7 @@
 description,ip,weight,first_published
+multi-blocklist score 54 (medium) added 2026-11-23,109.160.32.143,1,2026-11-23
+multi-blocklist score 54 (medium) added 2026-11-23,185.169.4.168,1,2026-11-23
+multi-blocklist score 54 (medium) added 2026-11-23,91.92.40.4,1,2026-11-23
 Cobaltstrike score 54 (medium) added 2026-11-04,47.239.109.26,1,2026-11-04
 Cobaltstrike score 54 (medium) added 2026-11-03,157.137.227.61,1,2026-11-03
 Cobaltstrike score 54 (medium) added 2026-11-03,68.183.236.229,1,2026-11-03
@@ -8,8 +11,5 @@ Cobaltstrike score 54 (medium) added 2026-11-01,177.5.76.21,1,2026-11-01
 Cobaltstrike score 54 (medium) added 2026-11-01,64.118.128.131,1,2026-11-01
 Cobaltstrike score 54 (medium) added 2026-10-29,23.254.226.103,1,2026-10-29
 Cobaltstrike score 54 (medium) added 2026-10-28,122.51.179.8,1,2026-10-28
-Cobaltstrike score 54 (medium) added 2026-10-27,101.133.229.117,1,2026-10-27
-Cobaltstrike score 54 (medium) added 2026-10-26,39.96.78.162,1,2026-10-26
-Cobaltstrike score 54 (medium) added 2026-10-26,68.64.176.76,1,2026-10-26
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,74.82.197.86,3,2026-10-22
 Arista VCO exploitation CVE-2026-114625 score 90 (critical) added 2026-10-22,38.54.50.151,3,2026-10-22
