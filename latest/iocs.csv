@@ -1,4 +1,5 @@
 value,type,family,score,band,sources,first_seen,mitre,first_published
+23.132.164.13,ip,Cobaltstrike,66,medium,C2IntelFeeds|Spamhaus-DROP,2026-11-23T05:44:23Z,"T1071, T1105",2026-11-23T05:44:23Z
 1q7tx-f9e-bzao-dc9pa-20-10-2026-aa.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-23T02:14:09Z,"T1566.002, T1056.003",2026-11-23T02:14:09Z
 1xbetind.in/en/block-ie,url,phishing,60,medium,OpenPhish,2026-11-23T02:14:09Z,"T1566.002, T1056.003",2026-11-23T02:14:09Z
 22u7h-8nz-ngui-jhffc-20-10-2026-aa.pages.dev,url,phishing,60,medium,OpenPhish,2026-11-23T02:14:09Z,"T1566.002, T1056.003",2026-11-23T02:14:09Z
@@ -22,6 +23,5 @@ value,type,family,score,band,sources,first_seen,mitre,first_published
 177.5.76.21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T07:40:38Z,"T1071, T1105",2026-11-01T07:40:38Z
 64.118.128.131,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-11-01T00:11:13Z,"T1071, T1105",2026-11-01T00:11:13Z
 23.254.226.103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-29T10:02:58Z,"T1071, T1105",2026-10-29T10:02:58Z
-122.51.179.8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,2026-10-28T06:05:17Z,"T1071, T1105",2026-10-28T06:05:17Z
 74.82.197.86,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z
 38.54.50.151,ip,Arista VCO exploitation CVE-2026-114625,90,critical,https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199,2026-10-22T00:00:00Z,T1190,2026-10-22T00:00:00Z

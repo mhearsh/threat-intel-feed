@@ -1,3 +1,4 @@
+23.132.164.13:Cobaltstrike added 2026-11-23
 109.160.32.143:multi-blocklist added 2026-11-23
 185.169.4.168:multi-blocklist added 2026-11-23
 91.92.40.4:multi-blocklist added 2026-11-23
@@ -9,6 +10,5 @@
 177.5.76.21:Cobaltstrike added 2026-11-01
 64.118.128.131:Cobaltstrike added 2026-11-01
 23.254.226.103:Cobaltstrike added 2026-10-29
-122.51.179.8:Cobaltstrike added 2026-10-28
 74.82.197.86:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
 38.54.50.151:Arista VCO exploitation CVE-2026-114625 added 2026-10-22
