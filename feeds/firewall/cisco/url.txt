@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-23 09:02 UTC   Count: 567   Expiry: 30 days               #
+#  Updated: 2026-11-23 15:02 UTC   Count: 568   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -16,6 +16,7 @@
 # 2026-11-23
 
 1xbetind.in/en/block-ie
+appiosmapsfind.rest/isignesp.php
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
