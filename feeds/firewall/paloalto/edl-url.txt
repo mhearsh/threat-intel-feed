@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-23 18:59 UTC   Count: 568   Expiry: 30 days               #
+#  Updated: 2026-11-23 22:42 UTC   Count: 568   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
