@@ -6,9 +6,27 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-23 22:42 UTC   Count: 1676   Expiry: 30 days              #
+#  Updated: 2026-11-24 00:53 UTC   Count: 1682   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-24
+
+2248515.cc
+226kx-7n7-laha-1ipef-24-09-2026-hh.pages.dev
+2bced-bp8-c8uw-31hb4-27-10-2026-aa.pages.dev
+3ujv9-c55-efgd-jlhzc-25-10-2026-aa.pages.dev
+404266228-magcrhfm17-dcgwpbmpdrmp-xvxhdusviha.pages.dev
+487q4-18k-vtwo-uv49r-25-10-2026-aa.pages.dev
+7ydox-3vv-i7u9-vuwxq-30-09-2026-aa.pages.dev
+82pri-qu2-dqx3-2fhm0-27-10-2026-aa.pages.dev
+9290g-8xk-02az-ms4mv-24-10-2026-aa.pages.dev
+9o838-u7p-jrkd-4970f-26-10-2026-aa.pages.dev
+adozec.pages.dev
+agjl5-pnv-axfq-sy4ao-26-10-2026-aa.pages.dev
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
@@ -1981,17 +1999,6 @@ zz-infratechniek.nl
 
 
 # Auto-Fetch-ThreatIntel
-# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
-# 2026-10-25
-
-bitfinance.live/cgi-sys/defaultwebpage.cgi
-nest-52.com/curl/qwafbxxe971/re5qltb29l0wle432.txt
-nest-52.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
-v.amo98.org/x
-zen.ayxandevgang.workers.dev/m/license-20260928125936-24d9
-
-
-# Auto-Fetch-ThreatIntel
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-25
 
@@ -2013,7 +2020,6 @@ teacher.adm-edu.ru
 timenews247.com
 u6.adilawa99.org
 uniporctandil.com.ar
-vitsmare.pages.dev
 
 
 # Auto-Fetch-ThreatIntel

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious IPv4 collection (score >= 50)                     #
 #  Format:  one IPv4 per line, not defanged; '#' = comment                    #
 #  Usage:   Firewall EDL (Palo Alto / FortiGate), SIEM                        #
-#  Updated: 2026-11-23 22:42 UTC   Count: 605   Expiry: 30 days               #
+#  Updated: 2026-11-24 00:53 UTC   Count: 603   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -792,12 +792,4 @@
 8.160.179.57
 89.32.41.43
 92.249.61.190
-
-
-# Arista VCO exploitation CVE-2026-114625 IOC's
-# Arista VCO exploitation / TLP:CLEAR - Threat Level: Critical
-# 2026-10-22
-
-38.54.50.151
-74.82.197.86
 

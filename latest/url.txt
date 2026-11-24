@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-23 22:42 UTC   Count: 568   Expiry: 30 days               #
+#  Updated: 2026-11-24 00:53 UTC   Count: 563   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -734,15 +734,4 @@ wx.agenpr.org/bb
 wx.agenpr.org/d2
 wx.agenpr.org/df
 wx.agenpr.org/f
-
-
-# Auto-Fetch-ThreatIntel
-# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
-# 2026-10-25
-
-bitfinance.live/cgi-sys/defaultwebpage.cgi
-nest-52.com/curl/qwafbxxe971/re5qltb29l0wle432.txt
-nest-52.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
-v.amo98.org/x
-zen.ayxandevgang.workers.dev/m/license-20260928125936-24d9
 

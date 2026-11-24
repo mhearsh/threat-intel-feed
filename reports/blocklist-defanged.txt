@@ -6,9 +6,27 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-23 22:42 UTC   Count: 26   Expiry: 30 days                #
+#  Updated: 2026-11-24 00:53 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-24
+
+hxxp://2248515[.]cc/
+hxxp://226kx-7n7-laha-1ipef-24-09-2026-hh[.]pages[.]dev/
+hxxp://2bced-bp8-c8uw-31hb4-27-10-2026-aa[.]pages[.]dev/
+hxxp://3ujv9-c55-efgd-jlhzc-25-10-2026-aa[.]pages[.]dev/
+hxxp://404266228-magcrhfm17-dcgwpbmpdrmp-xvxhdusviha[.]pages[.]dev/
+hxxp://487q4-18k-vtwo-uv49r-25-10-2026-aa[.]pages[.]dev/
+hxxp://7ydox-3vv-i7u9-vuwxq-30-09-2026-aa[.]pages[.]dev/
+hxxp://82pri-qu2-dqx3-2fhm0-27-10-2026-aa[.]pages[.]dev/
+hxxp://9290g-8xk-02az-ms4mv-24-10-2026-aa[.]pages[.]dev/
+hxxp://9o838-u7p-jrkd-4970f-26-10-2026-aa[.]pages[.]dev/
+hxxp://adozec[.]pages[.]dev/
+hxxp://agjl5-pnv-axfq-sy4ao-26-10-2026-aa[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel
@@ -16,18 +34,6 @@
 # 2026-11-23
 
 23[.]132[.]164[.]13
-hxxp://0ejrv-yqs-930t-qsltm-26-10-2026-aa[.]pages[.]dev/
-hxxp://17452[.]pokp[.]infinityfree[.]io/
-hxxp://6ew-sy7cl-xfj-lmjt-8elp-dlxaj9[.]pages[.]dev/
-hxxp://6n7r8-aff-thk8-0ov2b-26-10-2026-aa[.]pages[.]dev/
-hxxp://6u68z-kb8-zm0c-6j731-23-09-2026-hh[.]pages[.]dev/
-hxxp://6wocc-m8b-azdv-pc80b-26-10-2026-aa[.]pages[.]dev/
-hxxp://88yhj-5gz-a7u1-8gq06-26-10-2026-aa[.]pages[.]dev/
-hxxp://9y490-b25-jcnk-8mxuj-25-10-2026-aa[.]pages[.]dev/
-hxxp://ab4577[.]craftum[.]io/
-hxxp://adorable-dodol-caf89a[.]netlify[.]app/
-hxxp://aifaf-ip2-zqte-oe8ld-25-10-2026-aa[.]pages[.]dev/
-hxxp://appiosmapsfind[.]rest/isignesp[.]php
 
 
 # Auto-Fetch-ThreatIntel
@@ -87,12 +93,4 @@ hxxp://appiosmapsfind[.]rest/isignesp[.]php
 # 2026-10-26
 
 39[.]96[.]78[.]162
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-25
-
-38[.]54[.]50[.]151
-74[.]82[.]197[.]86
 
