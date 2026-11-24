@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-24 15:43 UTC   Count: 1131   Expiry: 30 days              #
+#  Updated: 2026-11-24 20:33 UTC   Count: 1120   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1313,17 +1313,6 @@ uniporctandil.com.ar
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-24
 
-1moko8um.encompass-graphics.co.uk
-1pbwy4ua.yellohotelsharmoni.com
-3u8krmfu.energedia.com
-4m8axf47.worknernorgram.rest
-adbimmo.cs-projets.be
 de.remusdownloads.su
-energedia.com
-gbhpljne.paars.poker
 manzzkontolaktolakan.my.id
-mytutions.com
-n2late.fr
-new.decorhome.kz
-rf.adilawa99.org
 

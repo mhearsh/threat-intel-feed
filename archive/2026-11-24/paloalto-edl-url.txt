@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-24 15:43 UTC   Count: 1694   Expiry: 30 days              #
+#  Updated: 2026-11-24 20:33 UTC   Count: 1683   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -2038,17 +2038,6 @@ uniporctandil.com.ar
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-24
 
-1moko8um.encompass-graphics.co.uk
-1pbwy4ua.yellohotelsharmoni.com
-3u8krmfu.energedia.com
-4m8axf47.worknernorgram.rest
-adbimmo.cs-projets.be
 de.remusdownloads.su
-energedia.com
-gbhpljne.paars.poker
 manzzkontolaktolakan.my.id
-mytutions.com
-n2late.fr
-new.decorhome.kz
-rf.adilawa99.org
 
