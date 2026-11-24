@@ -55,3 +55,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-11-22 | #29 | 26 | phishing, Cobalt Strike, Arista VCO exploitation CVE-2026-114625 | [CSV](2026/11/2026-11-22-drop-29.csv) | [summary](2026/11/2026-11-22-drop-29.png) · [list](2026/11/2026-11-22-drop-29-list.png) |
 | 2026-11-23 | #30 | 26 | phishing, Cobalt Strike, Arista VCO exploitation CVE-2026-114625 | [CSV](2026/11/2026-11-23-drop-30.csv) | [summary](2026/11/2026-11-23-drop-30.png) · [list](2026/11/2026-11-23-drop-30-list.png) |
 | 2026-11-24 | #31 | 26 | Cobalt Strike, phishing, Arista VCO exploitation CVE-2026-114625 | [CSV](2026/11/2026-11-24-drop-31.csv) | [summary](2026/11/2026-11-24-drop-31.png) · [list](2026/11/2026-11-24-drop-31-list.png) |
+| 2026-11-25 | #32 | 24 | phishing, Cobalt Strike | [CSV](2026/11/2026-11-25-drop-32.csv) | [summary](2026/11/2026-11-25-drop-32.png) · [list](2026/11/2026-11-25-drop-32-list.png) |
