@@ -11,14 +11,68 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--460390f8-a682-4a2a-af92-42f2bcd1bfea",
+  "id": "indicator--144c544f-43b7-4838-8359-a02e7763683c",
+  "created": "2026-11-24T07:18:30.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
+  "name": "multi-blocklist ip",
+  "pattern": "[ipv4-addr:value = '101.36.121.22']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-24T07:18:30.000Z",
+  "confidence": 54,
+  "labels": [
+   "multi-blocklist",
+   "band:medium"
+  ],
+  "description": "Flagged by 5+ independent blocklists (IPsum) | ATT&CK T1595, T1110 | sources: IPsum-L5,Spamhaus-DROP",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--4943bfcb-93e2-4856-bfea-a7d5c210972d",
+  "created": "2026-11-24T07:18:30.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
+  "name": "multi-blocklist ip",
+  "pattern": "[ipv4-addr:value = '195.178.110.28']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-24T07:18:30.000Z",
+  "confidence": 54,
+  "labels": [
+   "multi-blocklist",
+   "band:medium"
+  ],
+  "description": "Flagged by 5+ independent blocklists (IPsum) | ATT&CK T1595, T1110 | sources: IPsum-L5,Spamhaus-DROP",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--b6679f50-062f-43ac-bc60-0638d4ae8d85",
+  "created": "2026-11-24T07:18:30.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
+  "name": "multi-blocklist ip",
+  "pattern": "[ipv4-addr:value = '45.198.224.170']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-24T07:18:30.000Z",
+  "confidence": 54,
+  "labels": [
+   "multi-blocklist",
+   "band:medium"
+  ],
+  "description": "Flagged by 5+ independent blocklists (IPsum) | ATT&CK T1595, T1110 | sources: IPsum-L5,Spamhaus-DROP",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--a96f390a-5312-4fc6-9773-56ba99e27284",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://2248515.cc/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -29,14 +83,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--60dac9e0-1744-4ba6-84a7-868051dbd2df",
+  "id": "indicator--b2f9b13f-bb53-4408-80cd-a855fcb066fd",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://226kx-7n7-laha-1ipef-24-09-2026-hh.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -47,14 +101,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--950aa4b2-afc8-49b2-85e9-9dd7e00fe19a",
+  "id": "indicator--38b6e1fd-61fa-42d5-9392-8cad06660aa0",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://2bced-bp8-c8uw-31hb4-27-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -65,14 +119,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--80aa8d08-f4f5-4016-905e-9ad6fe466e43",
+  "id": "indicator--6f7c3047-68ac-4a66-9fe4-773c61dad249",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://3ujv9-c55-efgd-jlhzc-25-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -83,14 +137,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--a3c6376b-926a-4fef-9d8e-738eb05a7cd1",
+  "id": "indicator--a248aac7-79f2-4325-8ad5-73e96a741653",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://404266228-magcrhfm17-dcgwpbmpdrmp-xvxhdusviha.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -101,14 +155,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--3cad3e0f-0a7d-47a4-95fa-d48d79842b09",
+  "id": "indicator--f183b302-8b7a-4e04-87d6-914955f2ff5d",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://487q4-18k-vtwo-uv49r-25-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -119,14 +173,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--da38627b-bbc4-46cf-8d26-1f2cd2d8aad6",
+  "id": "indicator--210a834b-aee8-4315-8c0f-eff91c36b529",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://7ydox-3vv-i7u9-vuwxq-30-09-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -137,14 +191,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--54333482-78c0-493d-ba4b-2d1645bb555f",
+  "id": "indicator--ceda5e51-d753-40c3-a42e-3270ecbac991",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://82pri-qu2-dqx3-2fhm0-27-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -155,14 +209,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--0155a072-f855-4847-8b17-37c7f54c3753",
+  "id": "indicator--693cfb17-26df-415c-a95d-76d3be44956c",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://9290g-8xk-02az-ms4mv-24-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -173,14 +227,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--11ffa45a-f9fb-47ba-906c-ce217b0ced85",
+  "id": "indicator--4512824c-4312-4845-9f4d-edcccaf8fb9b",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://9o838-u7p-jrkd-4970f-26-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -191,14 +245,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--bab96a0c-a771-404e-9179-c6c7d130bc58",
+  "id": "indicator--ac6b4179-4047-472a-a03a-458e77624636",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://adozec.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -209,14 +263,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--227edc0b-cf5b-4f4d-928b-7ac7b87eec3b",
+  "id": "indicator--b2c0cb58-c465-4ddb-bdd8-24a563f5ac3f",
   "created": "2026-11-24T00:53:44.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "phishing url",
   "pattern": "[url:value = 'http://agjl5-pnv-axfq-sy4ao-26-10-2026-aa.pages.dev/']",
   "pattern_type": "stix",
   "valid_from": "2026-11-24T00:53:44.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "phishing",
    "band:medium"
@@ -227,14 +281,14 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--9506de27-a8ff-41c4-aa07-90f3e7b365b9",
+  "id": "indicator--1018271e-73dd-44ac-ae59-d14f43ec063a",
   "created": "2026-11-23T05:44:23.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '23.132.164.13']",
   "pattern_type": "stix",
   "valid_from": "2026-11-23T05:44:23.000Z",
-  "confidence": 60,
+  "confidence": 54,
   "labels": [
    "Cobaltstrike",
    "band:medium"
@@ -245,9 +299,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--336364f3-bbbd-45af-910a-c49aad21cc46",
+  "id": "indicator--f93b9c1c-763c-4063-b355-d250e2d3905f",
   "created": "2026-11-04T06:25:00.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '47.239.109.26']",
   "pattern_type": "stix",
@@ -263,9 +317,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--60a23767-b3eb-438d-9b9a-2f1f3bfd7840",
+  "id": "indicator--f1903a92-ab4a-4547-abd0-8b0c21ac2094",
   "created": "2026-11-03T21:06:11.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '157.137.227.61']",
   "pattern_type": "stix",
@@ -281,9 +335,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--2d5eb690-f161-4739-b137-697d07ddb038",
+  "id": "indicator--ca46ab97-627c-4937-8246-6f437d01a11b",
   "created": "2026-11-03T08:57:32.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '68.183.236.229']",
   "pattern_type": "stix",
@@ -299,9 +353,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--1f2969a1-ae06-4ad8-91db-015db741f98b",
+  "id": "indicator--c5345630-4ebd-40dd-b1e5-991a54078e3a",
   "created": "2026-11-02T05:22:13.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '8.160.165.56']",
   "pattern_type": "stix",
@@ -317,9 +371,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--cd9ba9ed-daf4-437f-a36c-60caf5f83a7c",
+  "id": "indicator--5992c3a9-9f4e-4771-8fd8-918c65e227d8",
   "created": "2026-11-01T07:40:38.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '101.42.49.202']",
   "pattern_type": "stix",
@@ -335,9 +389,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--4e1b3edb-041c-4b1f-9ed0-0d3d283200f6",
+  "id": "indicator--1c52a71c-6b0a-45a4-9e91-31d8481d3ec7",
   "created": "2026-11-01T07:40:38.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '177.5.76.21']",
   "pattern_type": "stix",
@@ -353,9 +407,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--eac8e390-9b2d-44e7-b481-06835872708e",
+  "id": "indicator--5a0f354c-5b5e-4ce4-906b-31e76ee0d20e",
   "created": "2026-11-01T00:11:13.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '64.118.128.131']",
   "pattern_type": "stix",
@@ -371,67 +425,13 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--a9ba8b41-d494-4cc4-bc5c-70993606753f",
+  "id": "indicator--b551febc-fabe-4799-b21f-256535b2fd9d",
   "created": "2026-10-29T10:02:58.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
+  "modified": "2026-11-24T08:18:46.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '23.254.226.103']",
   "pattern_type": "stix",
   "valid_from": "2026-10-29T10:02:58.000Z",
-  "confidence": 54,
-  "labels": [
-   "Cobaltstrike",
-   "band:medium"
-  ],
-  "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--f7240b39-2880-472e-9dfc-8ca60045e1f0",
-  "created": "2026-10-28T06:05:17.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
-  "name": "Cobaltstrike ip",
-  "pattern": "[ipv4-addr:value = '122.51.179.8']",
-  "pattern_type": "stix",
-  "valid_from": "2026-10-28T06:05:17.000Z",
-  "confidence": 54,
-  "labels": [
-   "Cobaltstrike",
-   "band:medium"
-  ],
-  "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--9025604e-bb7b-4aea-a130-a1540fb55162",
-  "created": "2026-10-27T21:39:41.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
-  "name": "Cobaltstrike ip",
-  "pattern": "[ipv4-addr:value = '101.133.229.117']",
-  "pattern_type": "stix",
-  "valid_from": "2026-10-27T21:39:41.000Z",
-  "confidence": 54,
-  "labels": [
-   "Cobaltstrike",
-   "band:medium"
-  ],
-  "description": "Malware infrastructure (ThreatFox-reported) | ATT&CK T1071, T1105 | sources: C2IntelFeeds,ThreatFox",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--aeb714b2-bf37-435b-a47c-60483e2c98a7",
-  "created": "2026-10-26T21:22:53.000Z",
-  "modified": "2026-11-24T00:53:47.000Z",
-  "name": "Cobaltstrike ip",
-  "pattern": "[ipv4-addr:value = '39.96.78.162']",
-  "pattern_type": "stix",
-  "valid_from": "2026-10-26T21:22:53.000Z",
   "confidence": 54,
   "labels": [
    "Cobaltstrike",
