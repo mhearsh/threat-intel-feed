@@ -1,7 +1,4 @@
 description,ip,weight,first_published
-multi-blocklist score 54 (medium) added 2026-11-24,101.36.121.22,1,2026-11-24
-multi-blocklist score 54 (medium) added 2026-11-24,195.178.110.28,1,2026-11-24
-multi-blocklist score 54 (medium) added 2026-11-24,45.198.224.170,1,2026-11-24
 Cobaltstrike score 54 (medium) added 2026-11-23,23.132.164.13,1,2026-11-23
 Cobaltstrike score 54 (medium) added 2026-11-04,47.239.109.26,1,2026-11-04
 Cobaltstrike score 54 (medium) added 2026-11-03,157.137.227.61,1,2026-11-03
@@ -11,3 +8,6 @@ Cobaltstrike score 54 (medium) added 2026-11-01,101.42.49.202,1,2026-11-01
 Cobaltstrike score 54 (medium) added 2026-11-01,177.5.76.21,1,2026-11-01
 Cobaltstrike score 54 (medium) added 2026-11-01,64.118.128.131,1,2026-11-01
 Cobaltstrike score 54 (medium) added 2026-10-29,23.254.226.103,1,2026-10-29
+Cobaltstrike score 54 (medium) added 2026-10-28,122.51.179.8,1,2026-10-28
+Cobaltstrike score 54 (medium) added 2026-10-27,101.133.229.117,1,2026-10-27
+Cobaltstrike score 54 (medium) added 2026-10-26,39.96.78.162,1,2026-10-26

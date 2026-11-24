@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-24 10:52 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-24 15:43 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,21 +15,18 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-24
 
-101[.]36[.]121[.]22
-195[.]178[.]110[.]28
-45[.]198[.]224[.]170
-hxxp://2248515[.]cc/
-hxxp://226kx-7n7-laha-1ipef-24-09-2026-hh[.]pages[.]dev/
-hxxp://2bced-bp8-c8uw-31hb4-27-10-2026-aa[.]pages[.]dev/
-hxxp://3ujv9-c55-efgd-jlhzc-25-10-2026-aa[.]pages[.]dev/
-hxxp://404266228-magcrhfm17-dcgwpbmpdrmp-xvxhdusviha[.]pages[.]dev/
-hxxp://487q4-18k-vtwo-uv49r-25-10-2026-aa[.]pages[.]dev/
-hxxp://7ydox-3vv-i7u9-vuwxq-30-09-2026-aa[.]pages[.]dev/
-hxxp://82pri-qu2-dqx3-2fhm0-27-10-2026-aa[.]pages[.]dev/
-hxxp://9290g-8xk-02az-ms4mv-24-10-2026-aa[.]pages[.]dev/
-hxxp://9o838-u7p-jrkd-4970f-26-10-2026-aa[.]pages[.]dev/
-hxxp://adozec[.]pages[.]dev/
-hxxp://agjl5-pnv-axfq-sy4ao-26-10-2026-aa[.]pages[.]dev/
+hxxp://0yrlm-px5-b12s-tpgya-20-10-2026-aa[.]pages[.]dev/
+hxxp://1eq37-bsq-fpw7-6pici-29-09-2026-aa[.]pages[.]dev/
+hxxp://2u19d-hhl-bmem-2gl0a-30-09-2026-aa[.]pages[.]dev/
+hxxp://58u2n-mnw-nd0y-d4ph0-16-10-2026-aa[.]pages[.]dev/
+hxxp://69c5r-2ka-vkd9-wvyae-30-09-2026-aa[.]pages[.]dev/
+hxxp://7bz5f-g8m-64td-qbcbx-19-10-2026-aa[.]pages[.]dev/
+hxxp://8gtts-5rq-sfbu-9vtjn-18-10-2026-aa[.]pages[.]dev/
+hxxp://8r49s-94w-2s0p-yxxiz-30-09-2026-aa[.]pages[.]dev/
+hxxp://98j5o-emx-2676-lp5g4-30-09-2026-aa[.]pages[.]dev/
+hxxp://ainuq-t60-cnpz-mtqoa-16-10-2026-aa[.]pages[.]dev/
+hxxp://aktiffkan-paylatterz[.]jmm[.]my[.]id/
+hxxp://att-103444-106506[.]square[.]site/
 
 
 # Auto-Fetch-ThreatIntel
@@ -75,4 +72,25 @@ hxxp://agjl5-pnv-axfq-sy4ao-26-10-2026-aa[.]pages[.]dev/
 # 2026-10-29
 
 23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+39[.]96[.]78[.]162
 
