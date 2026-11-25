@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-24 23:43 UTC   Count: 1120   Expiry: 30 days              #
+#  Updated: 2026-11-25 05:40 UTC   Count: 1118   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1307,12 +1307,4 @@ teacher.adm-edu.ru
 timenews247.com
 u6.adilawa99.org
 uniporctandil.com.ar
-
-
-# Auto-Fetch-ThreatIntel
-# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
-# 2026-10-24
-
-de.remusdownloads.su
-manzzkontolaktolakan.my.id
 

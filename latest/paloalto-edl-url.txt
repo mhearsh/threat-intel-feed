@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-24 23:43 UTC   Count: 1683   Expiry: 30 days              #
+#  Updated: 2026-11-25 05:40 UTC   Count: 1681   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -2032,12 +2032,4 @@ teacher.adm-edu.ru
 timenews247.com
 u6.adilawa99.org
 uniporctandil.com.ar
-
-
-# Auto-Fetch-ThreatIntel
-# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
-# 2026-10-24
-
-de.remusdownloads.su
-manzzkontolaktolakan.my.id
 
