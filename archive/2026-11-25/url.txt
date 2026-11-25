@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-25 16:44 UTC   Count: 520   Expiry: 30 days               #
+#  Updated: 2026-11-25 19:52 UTC   Count: 497   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -645,34 +645,12 @@ q4.agitawin.org/hg
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-26
 
-104.238.149.90/login
-16.5.0.150:8080/q4w8z.x86
-ac.agenpr.org/b
-ac.agenpr.org/ea
-ac.agenpr.org/fn
-ac.agenpr.org/ft
-ac.agenpr.org/fv
-ac.agenpr.org/pg
-ac.agenpr.org/pl
-ac.agenpr.org/t
-ac.agenpr.org/tf
-ac.agenpr.org/ty
 dk.agia4d.org/n
 dk.agia4d.org/ob
 dk.agia4d.org/pmz
 dk.agia4d.org/vn
 garden-82.com/curl/c7d2xn1k0/fmv7bafu0t42u1byn1.dat
 garden-82.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
-lr.agenpr.org/c4
-lr.agenpr.org/e66
-lr.agenpr.org/gi
-lr.agenpr.org/ja
-lr.agenpr.org/k0b
-lr.agenpr.org/kk
-lr.agenpr.org/p
-lr.agenpr.org/pj
-lr.agenpr.org/u6
-lr.agenpr.org/x
 m.agenpr.org/ck
 m.agenpr.org/i
 m.agenpr.org/jt
@@ -684,7 +662,6 @@ pm.agenpr.org/m4
 pm.agenpr.org/r56
 pm.agenpr.org/w
 pm.agenpr.org/x
-pt.agenpr.org/a
 qtr.agenpr.org/b7
 qtr.agenpr.org/cb
 qtr.agenpr.org/egs
