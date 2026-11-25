@@ -6,9 +6,27 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-25 09:21 UTC   Count: 1672   Expiry: 30 days              #
+#  Updated: 2026-11-25 14:34 UTC   Count: 1661   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-25
+
+064u2-60t-d0r4-83o5x-27-09-2026-hh.pages.dev
+0ukva-6do-bc6e-qggn9-02-10-2026-aa.pages.dev
+1wvim-wmi-ziva-0ecxv-03-10-2026-aa.pages.dev
+2m8zk-n0fh8-khyz8k-0m40-0jw.pages.dev
+56ymk-3no-1dp8-91466-27-09-2026-hh.pages.dev
+5nc7o-4ss-b2ls-698st-26-09-2026-hh.pages.dev
+5uapn-t02-6p31-mi5b2-03-10-2026-aa.pages.dev
+5vylu-4cr-zaoe-50tlm-26-09-2026-hh.pages.dev
+6tcsn-lqt-w956-j8m1x-27-09-2026-hh.pages.dev
+7qxsg-2d5-1dc0-evsdb-29-09-2026-aa.pages.dev
+8yxgf-8mr-9akg-i0ytc-02-10-2026-aa.pages.dev
+9uov5-fxh-i2ir-4hd68-02-10-2026-aa.pages.dev
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
@@ -1844,15 +1862,10 @@ ac.agenpr.org/pl
 ac.agenpr.org/t
 ac.agenpr.org/tf
 ac.agenpr.org/ty
-ac.agenpr.org/ue
-b.ayu99.pro/k
 dk.agia4d.org/n
 dk.agia4d.org/ob
 dk.agia4d.org/pmz
 dk.agia4d.org/vn
-e.ayu99.pro/c
-e.ayu99.pro/h
-e.ayu99.pro/s
 f.agenplay89.org/bq
 f.agenplay89.org/cv
 f.agenplay89.org/cx
@@ -1865,24 +1878,10 @@ f.agenplay89.org/qx
 f.agenplay89.org/t
 f.agenplay89.org/t3
 f.agenplay89.org/t9
-g.agenplay89.org/zn
 garden-82.com/curl/c7d2xn1k0/fmv7bafu0t42u1byn1.dat
 garden-82.com/f/zh2s2xptaamrnzpdyiq0ng/vj1ury4s
-h4.agenplay89.org/bl
-h4.agenplay89.org/cy
-h4.agenplay89.org/ho
-h4.agenplay89.org/jo
-h4.agenplay89.org/jp
-h4.agenplay89.org/mn
-h4.agenplay89.org/ob
-h4.agenplay89.org/qf
-h4.agenplay89.org/rp
-h4.agenplay89.org/up
-h4.agenplay89.org/z9
-h4.agenplay89.org/zb
 lr.agenpr.org/c4
 lr.agenpr.org/e66
-lr.agenpr.org/fy
 lr.agenpr.org/gi
 lr.agenpr.org/ja
 lr.agenpr.org/k0b
@@ -1909,10 +1908,6 @@ qtr.agenpr.org/egs
 qtr.agenpr.org/h4
 qtr.agenpr.org/j4
 qtr.agenpr.org/kcv
-wx.agenpr.org/bb
-wx.agenpr.org/d2
-wx.agenpr.org/df
-wx.agenpr.org/f
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox

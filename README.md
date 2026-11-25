@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-25 09:21 UTC. 24 IOCs (ip: 12, url: 12); 4 first seen under 6h ago. File-hash feed: 7543 SHA-256 · 791 SHA-1 · 791 MD5._
+_Last update: 2026-11-25 14:34 UTC. 24 IOCs (url: 12, ip: 12); 12 first seen under 6h ago. File-hash feed: 7471 SHA-256 · 791 SHA-1 · 791 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `101[.]36[.]114[.]181` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 2 | `141[.]98[.]11[.]11` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 3 | `23[.]132[.]164[.]215` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 4 | `45[.]198[.]224[.]188` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 5 | `hxxp://0yrlm-px5-b12s-tpgya-20-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://1eq37-bsq-fpw7-6pici-29-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://2u19d-hhl-bmem-2gl0a-30-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://58u2n-mnw-nd0y-d4ph0-16-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://69c5r-2ka-vkd9-wvyae-30-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://7bz5f-g8m-64td-qbcbx-19-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://8gtts-5rq-sfbu-9vtjn-18-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://8r49s-94w-2s0p-yxxiz-30-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 13 | `hxxp://98j5o-emx-2676-lp5g4-30-09-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 14 | `hxxp://ainuq-t60-cnpz-mtqoa-16-10-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
-| 15 | `hxxp://aktiffkan-paylatterz[.]jmm[.]my[.]id/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 1 | `hxxp://064u2-60t-d0r4-83o5x-27-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 2 | `hxxp://0ukva-6do-bc6e-qggn9-02-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://1wvim-wmi-ziva-0ecxv-03-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://2m8zk-n0fh8-khyz8k-0m40-0jw[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://56ymk-3no-1dp8-91466-27-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://5nc7o-4ss-b2ls-698st-26-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://5uapn-t02-6p31-mi5b2-03-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://5vylu-4cr-zaoe-50tlm-26-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://6tcsn-lqt-w956-j8m1x-27-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://7qxsg-2d5-1dc0-evsdb-29-09-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://8yxgf-8mr-9akg-i0ytc-02-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://9uov5-fxh-i2ir-4hd68-02-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `23[.]132[.]164[.]13` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 14 | `47[.]239[.]109[.]26` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 15 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
