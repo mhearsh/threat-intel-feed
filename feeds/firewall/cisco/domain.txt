@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-25 05:40 UTC   Count: 1118   Expiry: 30 days              #
+#  Updated: 2026-11-25 09:21 UTC   Count: 1117   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1226,7 +1226,6 @@ c.aot88.com
 c.aww88.net
 cbg80csz.deurnenwinkel.com
 church.springsoflife.org
-cinderfetch.cc
 civil.rezendenetto.adv.br
 commithealthandwellness.com
 concreterepairny.com

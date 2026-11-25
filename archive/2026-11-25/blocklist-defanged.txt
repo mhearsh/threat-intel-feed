@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-25 05:40 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-25 09:21 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
