@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-26 05:48 UTC   Count: 1569   Expiry: 30 days              #
+#  Updated: 2026-11-26 06:54 UTC   Count: 1551   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1745,16 +1745,6 @@ www.lirosseafood.gr
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
-amf.agia4d.org/dm
-amf.agia4d.org/hq
-amf.agia4d.org/ht
-amf.agia4d.org/kr
-amf.agia4d.org/ocs
-amf.agia4d.org/r7
-amf.agia4d.org/sb
-amf.agia4d.org/tl
-amf.agia4d.org/xf
-amf.agia4d.org/y
 b.agitawin.org/e
 b.agitawin.org/ft
 b.agitawin.org/ga
@@ -1766,8 +1756,6 @@ b.agitawin.org/q
 b.agitawin.org/t1
 b.agitawin.org/v7
 b.agitawin.org/z1
-b.ayu99.pro/t
-b.ayu99.pro/x
 bridge73.com/curl/rkizur957z/jeyyhvymr85y0vzd.json
 bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
 c0.agng11.org/d
@@ -1868,19 +1856,13 @@ v.ayu99.pro
 5gs2zjcc.fazbet1.app
 ab41vc541fd04435740.health-carereform.com
 anj99u86.verticalrewards.com
-at.adwgamestore.org
 balsamdolmen.org
 bb6lxq63.verticalrewards.com
 bbwptlox.dota.pw
 betballl90.app
-buecher.hagalil.com
 bzxlc31w.ghostnode.us
-c.aot88.com
 c.aww88.net
 cbg80csz.deurnenwinkel.com
-church.springsoflife.org
-civil.rezendenetto.adv.br
-commithealthandwellness.com
 concreterepairny.com
 cpw81zy7.emanuellejaques.com
 cy9.narahtech.com

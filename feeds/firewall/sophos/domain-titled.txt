@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-26 05:48 UTC   Count: 1106   Expiry: 30 days              #
+#  Updated: 2026-11-26 06:54 UTC   Count: 1100   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1243,19 +1243,13 @@ v.ayu99.pro
 5gs2zjcc.fazbet1.app
 ab41vc541fd04435740.health-carereform.com
 anj99u86.verticalrewards.com
-at.adwgamestore.org
 balsamdolmen.org
 bb6lxq63.verticalrewards.com
 bbwptlox.dota.pw
 betballl90.app
-buecher.hagalil.com
 bzxlc31w.ghostnode.us
-c.aot88.com
 c.aww88.net
 cbg80csz.deurnenwinkel.com
-church.springsoflife.org
-civil.rezendenetto.adv.br
-commithealthandwellness.com
 concreterepairny.com
 cpw81zy7.emanuellejaques.com
 cy9.narahtech.com

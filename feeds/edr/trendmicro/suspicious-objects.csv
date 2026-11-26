@@ -1,17 +1,5 @@
 Type,Object,Description
 IP,85.11.167.63,Cobaltstrike score 66 (medium) added 2026-11-26
-URL,2017-facebook.blogspot.com,phishing score 60 (medium) added 2026-11-26
-URL,20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,8wvoj-dt4-av45-krx9n-27-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,8xv5s-ft5-cyou-g77aw-27-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,9tvyd-wgn-0sax-uky6z-28-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,allegrolokalnie.pl-oferta-0731-3941-2931.sbs/playstation-portable/m8ujba1,phishing score 60 (medium) added 2026-11-26
-URL,atth8-nkq-auj6-1ueu6-27-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,bdajm-uc4-w950-7a5r8-28-09-2026-hh.pages.dev,phishing score 60 (medium) added 2026-11-26
-URL,beta-instagram.vercel.app,phishing score 60 (medium) added 2026-11-26
-URL,binance-promo-code.vercel.app,phishing score 60 (medium) added 2026-11-26
-URL,binance-red-packet.vercel.app,phishing score 60 (medium) added 2026-11-26
 IP,130.12.180.102,multi-blocklist score 54 (medium) added 2026-11-26
 IP,209.99.187.142,multi-blocklist score 54 (medium) added 2026-11-26
 IP,80.94.92.142,multi-blocklist score 54 (medium) added 2026-11-26
@@ -21,5 +9,17 @@ IP,93.123.109.116,multi-blocklist score 54 (medium) added 2026-11-26
 IP,93.123.109.119,multi-blocklist score 54 (medium) added 2026-11-26
 IP,93.123.109.181,multi-blocklist score 54 (medium) added 2026-11-26
 IP,93.152.221.229,multi-blocklist score 54 (medium) added 2026-11-26
+URL,2017-facebook.blogspot.com,phishing score 54 (medium) added 2026-11-26
+URL,20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,8wvoj-dt4-av45-krx9n-27-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,8xv5s-ft5-cyou-g77aw-27-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,9tvyd-wgn-0sax-uky6z-28-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,allegrolokalnie.pl-oferta-0731-3941-2931.sbs/playstation-portable/m8ujba1,phishing score 54 (medium) added 2026-11-26
+URL,atth8-nkq-auj6-1ueu6-27-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,bdajm-uc4-w950-7a5r8-28-09-2026-hh.pages.dev,phishing score 54 (medium) added 2026-11-26
+URL,beta-instagram.vercel.app,phishing score 54 (medium) added 2026-11-26
+URL,binance-promo-code.vercel.app,phishing score 54 (medium) added 2026-11-26
+URL,binance-red-packet.vercel.app,phishing score 54 (medium) added 2026-11-26
 IP,47.239.109.26,Cobaltstrike score 54 (medium) added 2026-11-04
 IP,157.137.227.61,Cobaltstrike score 54 (medium) added 2026-11-03

@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-26 05:48 UTC   Count: 463   Expiry: 30 days               #
+#  Updated: 2026-11-26 06:54 UTC   Count: 451   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -587,16 +587,6 @@ x.ahoktoto.org/z
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
-amf.agia4d.org/dm
-amf.agia4d.org/hq
-amf.agia4d.org/ht
-amf.agia4d.org/kr
-amf.agia4d.org/ocs
-amf.agia4d.org/r7
-amf.agia4d.org/sb
-amf.agia4d.org/tl
-amf.agia4d.org/xf
-amf.agia4d.org/y
 b.agitawin.org/e
 b.agitawin.org/ft
 b.agitawin.org/ga
@@ -608,8 +598,6 @@ b.agitawin.org/q
 b.agitawin.org/t1
 b.agitawin.org/v7
 b.agitawin.org/z1
-b.ayu99.pro/t
-b.ayu99.pro/x
 bridge73.com/curl/rkizur957z/jeyyhvymr85y0vzd.json
 bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
 c0.agng11.org/d

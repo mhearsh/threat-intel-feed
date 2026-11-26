@@ -1,13 +1,13 @@
 indicator,type,severity,expiration_date,comment,reputation,reliability
-85.11.167.63,IP,MEDIUM,1798264129881,Cobaltstrike score 66 (medium) added 2026-11-26,BAD,C
-130.12.180.102,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-209.99.187.142,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-80.94.92.142,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-91.92.47.18,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-91.92.47.77,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-93.123.109.116,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-93.123.109.119,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-93.123.109.181,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-93.152.221.229,IP,MEDIUM,1798264129881,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
-47.239.109.26,IP,MEDIUM,1798264129881,Cobaltstrike score 54 (medium) added 2026-11-04,BAD,C
-157.137.227.61,IP,MEDIUM,1798264129881,Cobaltstrike score 54 (medium) added 2026-11-03,BAD,C
+85.11.167.63,IP,MEDIUM,1798268060194,Cobaltstrike score 66 (medium) added 2026-11-26,BAD,C
+130.12.180.102,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+209.99.187.142,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+80.94.92.142,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+91.92.47.18,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+91.92.47.77,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+93.123.109.116,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+93.123.109.119,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+93.123.109.181,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+93.152.221.229,IP,MEDIUM,1798268060194,multi-blocklist score 54 (medium) added 2026-11-26,BAD,C
+47.239.109.26,IP,MEDIUM,1798268060194,Cobaltstrike score 54 (medium) added 2026-11-04,BAD,C
+157.137.227.61,IP,MEDIUM,1798268060194,Cobaltstrike score 54 (medium) added 2026-11-03,BAD,C
