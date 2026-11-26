@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 20:55 UTC",
+ "updated": "2026-11-26 22:42 UTC",
  "count": 24,
  "score_scale": "0-100",
  "bands": {
@@ -9,11 +9,11 @@
  },
  "fresh_6h": 0,
  "hashes": {
-  "sha256": 5067,
-  "sha1": 724,
-  "md5": 724
+  "sha256": 4740,
+  "sha1": 645,
+  "md5": 645
  },
- "hash_count": 6515,
+ "hash_count": 6030,
  "types": {
   "ip": 12,
   "url": 12

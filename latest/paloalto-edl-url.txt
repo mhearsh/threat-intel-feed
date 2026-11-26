@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-26 20:55 UTC   Count: 1486   Expiry: 30 days              #
+#  Updated: 2026-11-26 22:42 UTC   Count: 1449   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1754,24 +1754,6 @@ www.lirosseafood.gr
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
-# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
-# 2026-10-27
-
-bridge73.com/curl/rkizur957z/jeyyhvymr85y0vzd.json
-bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
-c0.agng11.org/d
-c0.agng11.org/di
-c0.agng11.org/e8
-c0.agng11.org/ei
-c0.agng11.org/fq
-c0.agng11.org/he6
-c0.agng11.org/n1
-c0.agng11.org/ny
-c0.agng11.org/r
-cf-restapi.com/bmv75v9gatymn3
-
-
-# Auto-Fetch-ThreatIntel: ThreatFox
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
@@ -1784,39 +1766,18 @@ cf-restapi.com/bmv75v9gatymn3
 6l6uqen4.worknernorgram.rest
 9c0v693y.epexecutivecoaching.com
 9jhdivoe.enfejar.casino
-airport-homes.com
 apache-update.csproject.org
 apache-update.ddns.net
 arvion.network
-b.ayu99.pro
-bluedoggdesign.com
 bridge73.com
-burnoutblog.lieselotmaes.be
 bzijzpfj.yellohotelsharmoni.com
-catsport.it
 cedardirection.cfd
-centrealestetic.com
-clinicadivinoninojesus.org.pe
-clinicavetcenter.com.br
-codes.caffe-img.com
 coffeetocode.duckdns.org
-constructoraags.com.do
-d1muwuka.frameless1.shop
 d4izlyh1.thrivingchaos.com
-dbperformance.com
-dec-llc.net
-despina.ph
 dfsellereneewu2cd54frrkusfy7po3bpd2alljaqlpwse5avkomgfyd.onion
 emberhaven.cfd
-encuentrocofrade.oracionlebrija.es
 enfejar.casino
-epicskater.com
-finatic.1stcontent.co.za
 fortwayneswoodfloorcleaner.com
-fpikiogankomeringilir.store
-frameless1.shop
-ga5.uk
-gmpxaidwv4cw7o2uvkrxpwnxk5esflzv2l3lm4lvpypu56bigr4n4nad.onion
 i.bala7.org
 i8uuptbx.georgelounge.com
 imissyou333.duckdns.org
@@ -1833,14 +1794,4 @@ primeringroad.com
 project7.thedivineprojecthouse.co.za
 rmetq562.urgentblue.com
 v.ayu99.pro
-
-
-# Auto-Fetch-ThreatIntel: ThreatFox
-# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
-# 2026-10-26
-
-ga.adwgamestore.org
-majastee.com
-z0bhclq0.energedia.dev
-zfvg0vcv.forbesae.com
 
