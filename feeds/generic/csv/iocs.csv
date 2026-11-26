@@ -1,5 +1,14 @@
 value,type,family,score,band,sources,first_seen,mitre,first_published
-85.11.167.63,ip,Cobaltstrike,60,medium,C2IntelFeeds|Spamhaus-DROP,2026-11-26T04:54:08Z,"T1071, T1105",2026-11-26T04:54:08Z
+85.11.167.63,ip,Cobaltstrike,66,medium,C2IntelFeeds|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1071, T1105",2026-11-26T05:48:46Z
+130.12.180.102,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+209.99.187.142,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+80.94.92.142,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+91.92.47.18,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+91.92.47.77,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+93.123.109.116,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+93.123.109.119,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+93.123.109.181,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
+93.152.221.229,ip,multi-blocklist,54,medium,IPsum-L5|Spamhaus-DROP,2026-11-26T05:48:46Z,"T1595, T1110",2026-11-26T05:48:46Z
 2017-facebook.blogspot.com,url,phishing,54,medium,OpenPhish,2026-11-26T00:52:53Z,"T1566.002, T1056.003",2026-11-26T00:52:53Z
 20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-26T00:52:53Z,"T1566.002, T1056.003",2026-11-26T00:52:53Z
 7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev,url,phishing,54,medium,OpenPhish,2026-11-26T00:52:53Z,"T1566.002, T1056.003",2026-11-26T00:52:53Z
