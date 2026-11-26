@@ -1,25 +1,25 @@
 rank,ioc_defanged,type,family,score,band,sources,age_h,context,mitre,first_published
-1,hxxp://02bec-f7d-c5vz-ggv0c-27-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-2,hxxp://0m0rw-h0t-s3jh-twlfj-02-10-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-3,hxxp://112acil112acil112acil[.]duckdns[.]org/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-4,hxxp://1kotr-dpk-w37g-m5q15-07-10-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-5,hxxp://4cy5f-9gs-rjx7-rrrpp-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-6,hxxp://5mkgl-zh4-skew-hphfl-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-7,hxxp://709r5-nk6-te8k-w8kx7-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-8,hxxp://7zs3ar-q00t7yicc-intelligence-agentic-models[.]vercel[.]app/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-9,hxxp://8iwkh-9zh-gifa-8ttzr-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-10,hxxp://96ptl-7ca-vgjo-4cf1s-07-10-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-11,hxxp://99bug-39w-r1t9-kgh66-08-10-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-12,hxxp://adylz-8zy-sx86-9gbt1-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,2.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
-13,85[.]11[.]167[.]63,ip,Cobaltstrike,60,medium,C2IntelFeeds|Spamhaus-DROP,10.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-26T04:54:08Z
-14,47[.]239[.]109[.]26,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,536.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-04T06:25:00Z
-15,157[.]137[.]227[.]61,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,545.8,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T21:06:11Z
-16,68[.]183[.]236[.]229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,558.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T08:57:32Z
-17,8[.]160[.]165[.]56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,585.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-02T05:22:13Z
-18,101[.]42[.]49[.]202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,607.2,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T07:40:38Z
-19,177[.]5[.]76[.]21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,607.2,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T07:40:38Z
-20,64[.]118[.]128[.]131,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,614.7,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T00:11:13Z
-21,23[.]254[.]226[.]103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,676.9,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-29T10:02:58Z
-22,122[.]51[.]179[.]8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,704.8,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-28T06:05:17Z
-23,101[.]133[.]229[.]117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,713.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-27T21:39:41Z
-24,39[.]96[.]78[.]162,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,737.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-26T21:22:53Z
+1,hxxp://02bec-f7d-c5vz-ggv0c-27-09-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+2,hxxp://0m0rw-h0t-s3jh-twlfj-02-10-2026-hh[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+3,hxxp://112acil112acil112acil[.]duckdns[.]org/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+4,hxxp://1kotr-dpk-w37g-m5q15-07-10-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+5,hxxp://4cy5f-9gs-rjx7-rrrpp-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+6,hxxp://5mkgl-zh4-skew-hphfl-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+7,hxxp://709r5-nk6-te8k-w8kx7-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+8,hxxp://7zs3ar-q00t7yicc-intelligence-agentic-models[.]vercel[.]app/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+9,hxxp://8iwkh-9zh-gifa-8ttzr-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+10,hxxp://96ptl-7ca-vgjo-4cf1s-07-10-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+11,hxxp://99bug-39w-r1t9-kgh66-08-10-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+12,hxxp://adylz-8zy-sx86-9gbt1-01-11-2026-aa[.]pages[.]dev/,url,phishing,60,medium,OpenPhish,4.0,Credential-harvesting page,"T1566.002, T1056.003",2026-11-26T12:54:43Z
+13,85[.]11[.]167[.]63,ip,Cobaltstrike,60,medium,C2IntelFeeds|Spamhaus-DROP,12.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-26T04:54:08Z
+14,47[.]239[.]109[.]26,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,538.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-04T06:25:00Z
+15,157[.]137[.]227[.]61,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,547.8,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T21:06:11Z
+16,68[.]183[.]236[.]229,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,560.0,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-03T08:57:32Z
+17,8[.]160[.]165[.]56,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,587.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-02T05:22:13Z
+18,101[.]42[.]49[.]202,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,609.2,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T07:40:38Z
+19,177[.]5[.]76[.]21,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,609.2,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T07:40:38Z
+20,64[.]118[.]128[.]131,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,616.7,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-11-01T00:11:13Z
+21,23[.]254[.]226[.]103,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,678.9,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-29T10:02:58Z
+22,122[.]51[.]179[.]8,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,706.8,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-28T06:05:17Z
+23,101[.]133[.]229[.]117,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,715.3,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-27T21:39:41Z
+24,39[.]96[.]78[.]162,ip,Cobaltstrike,54,medium,C2IntelFeeds|ThreatFox,739.5,Malware infrastructure (ThreatFox-reported),"T1071, T1105",2026-10-26T21:22:53Z
