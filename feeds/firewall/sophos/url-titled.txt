@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-26 11:17 UTC   Count: 439   Expiry: 30 days               #
+#  Updated: 2026-11-26 12:54 UTC   Count: 428   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -599,15 +599,4 @@ c0.agng11.org/n1
 c0.agng11.org/ny
 c0.agng11.org/r
 cf-restapi.com/bmv75v9gatymn3
-kj.agitawin.org/ah
-kj.agitawin.org/d
-kj.agitawin.org/gb
-kj.agitawin.org/hv
-kj.agitawin.org/ix
-kj.agitawin.org/m6
-kj.agitawin.org/xp
-kj.agitawin.org/z7
-kj.agitawin.org/zz
-q4.agitawin.org/ed
-q4.agitawin.org/hg
 

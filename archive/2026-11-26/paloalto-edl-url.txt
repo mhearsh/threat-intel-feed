@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-26 11:17 UTC   Count: 1521   Expiry: 30 days              #
+#  Updated: 2026-11-26 12:54 UTC   Count: 1486   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -22,12 +22,24 @@ allegrolokalnie.pl-oferta-0731-3941-2931.sbs/playstation-portable/m8ujba1
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-11-26
 
+02bec-f7d-c5vz-ggv0c-27-09-2026-hh.pages.dev
+0m0rw-h0t-s3jh-twlfj-02-10-2026-hh.pages.dev
+112acil112acil112acil.duckdns.org
+1kotr-dpk-w37g-m5q15-07-10-2026-aa.pages.dev
 2017-facebook.blogspot.com
 20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev
+4cy5f-9gs-rjx7-rrrpp-01-11-2026-aa.pages.dev
+5mkgl-zh4-skew-hphfl-01-11-2026-aa.pages.dev
+709r5-nk6-te8k-w8kx7-01-11-2026-aa.pages.dev
 7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev
+7zs3ar-q00t7yicc-intelligence-agentic-models.vercel.app
+8iwkh-9zh-gifa-8ttzr-01-11-2026-aa.pages.dev
 8wvoj-dt4-av45-krx9n-27-09-2026-hh.pages.dev
 8xv5s-ft5-cyou-g77aw-27-09-2026-hh.pages.dev
+96ptl-7ca-vgjo-4cf1s-07-10-2026-aa.pages.dev
+99bug-39w-r1t9-kgh66-08-10-2026-aa.pages.dev
 9tvyd-wgn-0sax-uky6z-28-09-2026-hh.pages.dev
+adylz-8zy-sx86-9gbt1-01-11-2026-aa.pages.dev
 atth8-nkq-auj6-1ueu6-27-09-2026-hh.pages.dev
 bdajm-uc4-w950-7a5r8-28-09-2026-hh.pages.dev
 beta-instagram.vercel.app
@@ -1757,17 +1769,6 @@ c0.agng11.org/n1
 c0.agng11.org/ny
 c0.agng11.org/r
 cf-restapi.com/bmv75v9gatymn3
-kj.agitawin.org/ah
-kj.agitawin.org/d
-kj.agitawin.org/gb
-kj.agitawin.org/hv
-kj.agitawin.org/ix
-kj.agitawin.org/m6
-kj.agitawin.org/xp
-kj.agitawin.org/z7
-kj.agitawin.org/zz
-q4.agitawin.org/ed
-q4.agitawin.org/hg
 
 
 # Auto-Fetch-ThreatIntel: ThreatFox
@@ -1838,44 +1839,8 @@ v.ayu99.pro
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-26
 
-3413718a.exploreargentina.tours
-3cb50pyi.warmwaffles.com
-5gs2zjcc.fazbet1.app
-ab41vc541fd04435740.health-carereform.com
-anj99u86.verticalrewards.com
-balsamdolmen.org
-bbwptlox.dota.pw
-cpw81zy7.emanuellejaques.com
-familylegacyprotection.com
-figieiredo.lol
-firebase.emeraldpineventuresllc.com
-flexyyservices.pt
-formazionedocenti.org
-francescmarcalvaro.cat
-ftp.jmacsafety.com
-ftp.prometeon.info
 ga.adwgamestore.org
-galerie-dakoenig.de
-garden-82.com
-globalintermed.com.br
-grant.vandersee.id.au
-gventerpriseswork.com
-hu406sua.ozabet.promo
-idrive.ba
-iict.gov.la
-ilovevirginiabeer.com
-imhoteplukata.com
-ioypdsgj.dota.pw
-jj.adwgamestore.org
-k2rf8oi3.energedia.com
 majastee.com
-nt5kwuux.paars.poker
-pm3c7bwl.encompass-graphics.co.uk
-t0kmixg4.glas-design.shop
-td3avpdc.dota.pw
-tuffcromlech.info
-ya.adwgamestore.org
 z0bhclq0.energedia.dev
 zfvg0vcv.forbesae.com
-zz-infratechniek.nl
 

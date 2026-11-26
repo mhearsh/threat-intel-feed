@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-26 11:17 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-26 12:54 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -16,18 +16,18 @@
 # 2026-11-26
 
 85[.]11[.]167[.]63
-hxxp://2017-facebook[.]blogspot[.]com/
-hxxp://20o0u-wdk-56sw-cw8bw-04-10-2026-hh[.]pages[.]dev/
-hxxp://7v6wl-584-9n96-1i02j-03-10-2026-hh[.]pages[.]dev/
-hxxp://8wvoj-dt4-av45-krx9n-27-09-2026-hh[.]pages[.]dev/
-hxxp://8xv5s-ft5-cyou-g77aw-27-09-2026-hh[.]pages[.]dev/
-hxxp://9tvyd-wgn-0sax-uky6z-28-09-2026-hh[.]pages[.]dev/
-hxxp://allegrolokalnie[.]pl-oferta-0731-3941-2931[.]sbs/playstation-portable/m8ujba1/
-hxxp://atth8-nkq-auj6-1ueu6-27-09-2026-hh[.]pages[.]dev/
-hxxp://bdajm-uc4-w950-7a5r8-28-09-2026-hh[.]pages[.]dev/
-hxxp://beta-instagram[.]vercel[.]app/
-hxxp://binance-promo-code[.]vercel[.]app/
-hxxp://binance-red-packet[.]vercel[.]app/
+hxxp://02bec-f7d-c5vz-ggv0c-27-09-2026-hh[.]pages[.]dev/
+hxxp://0m0rw-h0t-s3jh-twlfj-02-10-2026-hh[.]pages[.]dev/
+hxxp://112acil112acil112acil[.]duckdns[.]org/
+hxxp://1kotr-dpk-w37g-m5q15-07-10-2026-aa[.]pages[.]dev/
+hxxp://4cy5f-9gs-rjx7-rrrpp-01-11-2026-aa[.]pages[.]dev/
+hxxp://5mkgl-zh4-skew-hphfl-01-11-2026-aa[.]pages[.]dev/
+hxxp://709r5-nk6-te8k-w8kx7-01-11-2026-aa[.]pages[.]dev/
+hxxp://7zs3ar-q00t7yicc-intelligence-agentic-models[.]vercel[.]app/
+hxxp://8iwkh-9zh-gifa-8ttzr-01-11-2026-aa[.]pages[.]dev/
+hxxp://96ptl-7ca-vgjo-4cf1s-07-10-2026-aa[.]pages[.]dev/
+hxxp://99bug-39w-r1t9-kgh66-08-10-2026-aa[.]pages[.]dev/
+hxxp://adylz-8zy-sx86-9gbt1-01-11-2026-aa[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel

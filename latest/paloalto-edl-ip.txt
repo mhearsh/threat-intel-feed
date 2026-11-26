@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious IPv4 collection (score >= 50)                     #
 #  Format:  one IPv4 per line, not defanged; '#' = comment                    #
 #  Usage:   Firewall EDL (Palo Alto / FortiGate), SIEM                        #
-#  Updated: 2026-11-26 11:17 UTC   Count: 592   Expiry: 30 days               #
+#  Updated: 2026-11-26 12:54 UTC   Count: 574   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -728,36 +728,20 @@
 94.154.43.102
 
 
-# Auto-Fetch-ThreatIntel: C2IntelFeeds + Spamhaus-DROP + ThreatFox
-# C2 & malware infrastructure / TLP:CLEAR - Threat Level: High
+# Auto-Fetch-ThreatIntel: C2IntelFeeds + ThreatFox
+# C2 & malware infrastructure / TLP:CLEAR - Threat Level: Medium
 # 2026-10-26
 
-103.186.85.180
-103.186.85.181
-104.218.50.244
-104.249.10.158
-106.75.148.37
-111.229.199.24
-124.222.147.241
-13.60.4.205
 146.190.252.67
 161.35.62.230
 179.199.199.60
-192.238.244.116
-204.12.218.236
 207.174.31.71
 212.192.214.7
-31.56.19.166
-31.56.19.71
 39.100.64.125
 39.96.78.162
 45.144.172.49
-45.59.126.125
-68.183.90.240
 68.64.176.76
-77.90.63.58
 81.71.128.221
-85.137.244.138
 
 
 # Auto-Fetch-ThreatIntel: C2IntelFeeds + ThreatFox
@@ -774,7 +758,7 @@
 89.32.41.146
 
 
-# Auto-Fetch-ThreatIntel: C2IntelFeeds + IPsum-L5 + Spamhaus-DROP + ThreatFox
+# Auto-Fetch-ThreatIntel: C2IntelFeeds + IPsum-L5 + ThreatFox
 # C2 & malware infrastructure / TLP:CLEAR - Threat Level: Medium
 # 2026-10-24
 
@@ -789,7 +773,6 @@
 170.231.239.144
 175.178.126.48
 176.121.51.1
-176.65.139.201
 192.255.248.153
 198.44.116.156
 38.190.224.38
@@ -797,6 +780,5 @@
 49.235.158.141
 8.156.80.127
 8.160.179.57
-89.32.41.43
 92.249.61.190
 
