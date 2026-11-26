@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 04:54 UTC",
+ "updated": "2026-11-26 05:48 UTC",
  "count": 24,
  "score_scale": "0-100",
  "bands": {
@@ -25,9 +25,9 @@
  },
  "sources": {
   "C2IntelFeeds": 3,
-  "Spamhaus-DROP": 11,
+  "Spamhaus-DROP": 10,
   "OpenPhish": 12,
   "IPsum-L5": 9,
-  "ThreatFox": 1
+  "ThreatFox": 2
  }
 }
