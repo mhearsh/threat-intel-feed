@@ -11,225 +11,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--8d99346c-b5f3-41aa-86b3-6f7e4381b61a",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://02bec-f7d-c5vz-ggv0c-27-09-2026-hh.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--a8b90e38-4a0e-46e9-b1c6-55982119b954",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://0m0rw-h0t-s3jh-twlfj-02-10-2026-hh.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--7b1048e3-4a0c-4cd4-a830-c09eea5e5395",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://112acil112acil112acil.duckdns.org/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--a34c4b6b-b52e-401e-9716-ef8584f1bb13",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://1kotr-dpk-w37g-m5q15-07-10-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--b4a70c65-c2ab-41d9-ba11-4ac4855275e8",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://4cy5f-9gs-rjx7-rrrpp-01-11-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--fc611658-74b2-423c-aaba-2a8ba6226479",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://5mkgl-zh4-skew-hphfl-01-11-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--3ae4fb70-c7f2-47c8-94d1-50aebe64d13c",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://709r5-nk6-te8k-w8kx7-01-11-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--c12a5c79-5d0b-4f8c-9951-f96f763cbad7",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://7zs3ar-q00t7yicc-intelligence-agentic-models.vercel.app/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--59e8b2ba-a028-48ca-90e8-f37faaef5222",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://8iwkh-9zh-gifa-8ttzr-01-11-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--e80decbc-51c9-45a0-981e-a32718580e34",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://96ptl-7ca-vgjo-4cf1s-07-10-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--9b5fe442-9e59-4323-807d-ab5f7f1a3d7c",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://99bug-39w-r1t9-kgh66-08-10-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--f8866c32-4d54-4d57-b472-892941f11143",
-  "created": "2026-11-26T18:08:28.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
-  "name": "phishing url",
-  "pattern": "[url:value = 'http://adylz-8zy-sx86-9gbt1-01-11-2026-aa.pages.dev/']",
-  "pattern_type": "stix",
-  "valid_from": "2026-11-26T18:08:28.000Z",
-  "confidence": 60,
-  "labels": [
-   "phishing",
-   "band:medium"
-  ],
-  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
-  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
- },
- {
-  "type": "indicator",
-  "spec_version": "2.1",
-  "id": "indicator--7585e1cc-0ccd-4b68-995a-c3daae32df79",
-  "created": "2026-11-26T05:48:46.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "id": "indicator--d867dfa4-c8fb-4b28-8147-7c65bfdafeca",
+  "created": "2026-11-26T04:54:08.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '85.11.167.63']",
   "pattern_type": "stix",
@@ -245,9 +29,225 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--6777b63b-faa6-42c0-a7c3-6ac1eca8d172",
+  "id": "indicator--4fb07ff7-5166-48a9-9185-2af7ea53829f",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://02bec-f7d-c5vz-ggv0c-27-09-2026-hh.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--304dd98b-62a4-4efc-b2a1-2aae1417a754",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://0m0rw-h0t-s3jh-twlfj-02-10-2026-hh.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--d2cc3835-b1dc-489f-9c8a-963f2ade6979",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://112acil112acil112acil.duckdns.org/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--c8d91abd-3e87-4cc4-b400-8d6d2ade54ea",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://1kotr-dpk-w37g-m5q15-07-10-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--61661b79-c548-49c0-a0d8-b4c2084f4a1d",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://4cy5f-9gs-rjx7-rrrpp-01-11-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--3df4a9b5-f485-4c63-a470-5eb8e48f9a02",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://5mkgl-zh4-skew-hphfl-01-11-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--0f6e73fa-cb26-444a-ad72-f4571c6f6c31",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://709r5-nk6-te8k-w8kx7-01-11-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--41faead1-8f39-4f76-9b5e-8ce4a568880e",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://7zs3ar-q00t7yicc-intelligence-agentic-models.vercel.app/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--cb5a01f7-c19a-4b6b-9f36-702e745bf400",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://8iwkh-9zh-gifa-8ttzr-01-11-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--1fd1de99-b161-4ecf-b1ba-898e11c4088f",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://96ptl-7ca-vgjo-4cf1s-07-10-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--de68a244-a85e-4c2f-92f2-96088707f546",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://99bug-39w-r1t9-kgh66-08-10-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--e83ad6bb-ff7d-4dd8-bd26-edbe13ffd8fb",
+  "created": "2026-11-26T12:54:43.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
+  "name": "phishing url",
+  "pattern": "[url:value = 'http://adylz-8zy-sx86-9gbt1-01-11-2026-aa.pages.dev/']",
+  "pattern_type": "stix",
+  "valid_from": "2026-11-26T12:54:43.000Z",
+  "confidence": 54,
+  "labels": [
+   "phishing",
+   "band:medium"
+  ],
+  "description": "Credential-harvesting page | ATT&CK T1566.002, T1056.003 | sources: OpenPhish",
+  "created_by_ref": "identity--3238f2ba-6d62-56c4-a7c5-05c6ccafaef0"
+ },
+ {
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--6748a6c2-26b7-4a5a-8436-04c1a63ac375",
   "created": "2026-11-04T06:25:00.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '47.239.109.26']",
   "pattern_type": "stix",
@@ -263,9 +263,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--694f8c7b-71b0-48b1-974e-e1d13c389406",
+  "id": "indicator--ec0782ec-2b7a-4bbb-8c32-a5e4723dc290",
   "created": "2026-11-03T21:06:11.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '157.137.227.61']",
   "pattern_type": "stix",
@@ -281,9 +281,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--b15ca71c-7092-4a48-81be-f4d5bcfefcec",
+  "id": "indicator--a0a49857-3f7c-4737-ae00-2cf19f457805",
   "created": "2026-11-03T08:57:32.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '68.183.236.229']",
   "pattern_type": "stix",
@@ -299,9 +299,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--7b6021f8-8dd3-474b-ad8d-6be47579791e",
+  "id": "indicator--5fb19848-678f-4059-ba31-4bdb2a273266",
   "created": "2026-11-02T05:22:13.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '8.160.165.56']",
   "pattern_type": "stix",
@@ -317,9 +317,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--bd99a402-2b5c-44c3-a2aa-b007108b7de8",
+  "id": "indicator--046c489d-1995-4697-b992-b5b1c432b2f9",
   "created": "2026-11-01T07:40:38.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '101.42.49.202']",
   "pattern_type": "stix",
@@ -335,9 +335,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--02829e73-0a73-49ac-a27d-9cffcae842fc",
+  "id": "indicator--29c5d760-ae16-4fd0-a861-c854a68e6cd2",
   "created": "2026-11-01T07:40:38.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '177.5.76.21']",
   "pattern_type": "stix",
@@ -353,9 +353,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--8956897b-b5bc-43ce-8f3e-1a8a37582095",
+  "id": "indicator--5b4609f2-bcc1-4b57-a686-d50678ded3f5",
   "created": "2026-11-01T00:11:13.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '64.118.128.131']",
   "pattern_type": "stix",
@@ -371,9 +371,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--38a1979f-0ce1-4156-b0c2-46e392c2b6ab",
+  "id": "indicator--8622d3b7-9b0a-4dc6-88d4-3fa7a9e2ef95",
   "created": "2026-10-29T10:02:58.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '23.254.226.103']",
   "pattern_type": "stix",
@@ -389,9 +389,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--40c50388-26a8-4a28-a283-fb3e23864054",
+  "id": "indicator--4e20db8e-a109-4b80-a0f0-9aae2a8b29ec",
   "created": "2026-10-28T06:05:17.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '122.51.179.8']",
   "pattern_type": "stix",
@@ -407,9 +407,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--5b8842a7-9ea7-4942-b7ba-2db99dd1262a",
+  "id": "indicator--7cfdc5c0-2aed-4a6b-8297-308a18191f88",
   "created": "2026-10-27T21:39:41.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '101.133.229.117']",
   "pattern_type": "stix",
@@ -425,9 +425,9 @@
  {
   "type": "indicator",
   "spec_version": "2.1",
-  "id": "indicator--6129bda0-f6a0-4fa0-a5bb-ccb04bf0e7a7",
+  "id": "indicator--b6af2e53-046a-44c9-9ea5-3ac6b1edcdfc",
   "created": "2026-10-26T21:22:53.000Z",
-  "modified": "2026-11-26T18:08:31.000Z",
+  "modified": "2026-11-26T18:55:15.000Z",
   "name": "Cobaltstrike ip",
   "pattern": "[ipv4-addr:value = '39.96.78.162']",
   "pattern_type": "stix",
