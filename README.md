@@ -109,13 +109,13 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-26 08:54 UTC. 24 IOCs (ip: 12, url: 12); 1 first seen under 6h ago. File-hash feed: 5217 SHA-256 · 724 SHA-1 · 724 MD5._
+_Last update: 2026-11-26 10:54 UTC. 24 IOCs (ip: 12, url: 12); 0 first seen under 6h ago. File-hash feed: 5217 SHA-256 · 724 SHA-1 · 724 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `85[.]11[.]167[.]63` | ip | Cobaltstrike | 66 | medium | T1071, T1105 |
+| 1 | `85[.]11[.]167[.]63` | ip | Cobaltstrike | 60 | medium | T1071, T1105 |
 | 2 | `hxxp://2017-facebook[.]blogspot[.]com/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 3 | `hxxp://20o0u-wdk-56sw-cw8bw-04-10-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 | 4 | `hxxp://7v6wl-584-9n96-1i02j-03-10-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |

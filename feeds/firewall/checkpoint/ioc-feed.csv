@@ -1,5 +1,5 @@
 #UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
-tif-ip-1,85.11.167.63,IP,medium,medium,AB,Cobaltstrike score 66 (medium) added 2026-11-26
+tif-ip-1,85.11.167.63,IP,medium,medium,AB,Cobaltstrike score 60 (medium) added 2026-11-26
 tif-url-1,2017-facebook.blogspot.com,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-26
 tif-url-2,20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-26
 tif-url-3,7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev,URL,medium,medium,AB,phishing score 54 (medium) added 2026-11-26
