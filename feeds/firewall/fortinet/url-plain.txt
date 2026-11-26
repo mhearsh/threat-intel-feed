@@ -414,17 +414,6 @@ x.ahoktoto.org/o8
 x.ahoktoto.org/re
 x.ahoktoto.org/tz
 x.ahoktoto.org/z
-b.agitawin.org/e
-b.agitawin.org/ft
-b.agitawin.org/ga
-b.agitawin.org/gr
-b.agitawin.org/h0k
-b.agitawin.org/ho
-b.agitawin.org/jc
-b.agitawin.org/q
-b.agitawin.org/t1
-b.agitawin.org/v7
-b.agitawin.org/z1
 bridge73.com/curl/rkizur957z/jeyyhvymr85y0vzd.json
 bridge73.com/f/k7e0e3iquhg0jhqinjctaq/r03r7eyj
 c0.agng11.org/d
@@ -437,7 +426,6 @@ c0.agng11.org/n1
 c0.agng11.org/ny
 c0.agng11.org/r
 cf-restapi.com/bmv75v9gatymn3
-cu789179.tw1.ru/ca113cf1.php
 kj.agitawin.org/ah
 kj.agitawin.org/d
 kj.agitawin.org/gb
