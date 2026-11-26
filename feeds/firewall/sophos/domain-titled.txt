@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-26 22:42 UTC   Count: 1033   Expiry: 30 days              #
+#  Updated: 2026-11-26 22:55 UTC   Count: 1033   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
