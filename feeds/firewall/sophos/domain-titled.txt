@@ -6,9 +6,26 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-25 22:52 UTC   Count: 1110   Expiry: 30 days              #
+#  Updated: 2026-11-26 00:52 UTC   Count: 1118   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-26
+
+2017-facebook.blogspot.com
+20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev
+7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev
+8wvoj-dt4-av45-krx9n-27-09-2026-hh.pages.dev
+8xv5s-ft5-cyou-g77aw-27-09-2026-hh.pages.dev
+9tvyd-wgn-0sax-uky6z-28-09-2026-hh.pages.dev
+atth8-nkq-auj6-1ueu6-27-09-2026-hh.pages.dev
+bdajm-uc4-w950-7a5r8-28-09-2026-hh.pages.dev
+beta-instagram.vercel.app
+binance-promo-code.vercel.app
+binance-red-packet.vercel.app
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
@@ -1272,7 +1289,6 @@ gcnj52gi.bet212.live
 globalintermed.com.br
 grant.vandersee.id.au
 gventerpriseswork.com
-h5.adwgamestore.org
 hu406sua.ozabet.promo
 idrive.ba
 iejzff0w.etablissementsbonnet.com
@@ -1283,7 +1299,6 @@ ioypdsgj.dota.pw
 jj.adwgamestore.org
 k2rf8oi3.energedia.com
 kianm3aw.thrivingchaos.com
-m.aot88.com
 majastee.com
 nt5kwuux.paars.poker
 object.glimmerpull.cc
@@ -1295,7 +1310,6 @@ thrivingchaos.com
 tuffcromlech.info
 vm.adwgamestore.org
 ya.adwgamestore.org
-z.amo98.org
 z0bhclq0.energedia.dev
 zfvg0vcv.forbesae.com
 zz-infratechniek.nl

@@ -6,9 +6,16 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-25 22:52 UTC   Count: 485   Expiry: 30 days               #
+#  Updated: 2026-11-26 00:52 UTC   Count: 475   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
+# 2026-11-26
+
+allegrolokalnie.pl-oferta-0731-3941-2931.sbs/playstation-portable/m8ujba1
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
@@ -639,21 +646,4 @@ kj.agitawin.org/z7
 kj.agitawin.org/zz
 q4.agitawin.org/ed
 q4.agitawin.org/hg
-
-
-# Auto-Fetch-ThreatIntel: ThreatFox
-# Malware payload URLs / TLP:CLEAR - Threat Level: Medium
-# 2026-10-26
-
-dk.agia4d.org/n
-dk.agia4d.org/ob
-dk.agia4d.org/pmz
-dk.agia4d.org/vn
-m.agenpr.org/ck
-m.agenpr.org/i
-m.agenpr.org/jt
-m.agenpr.org/l
-m.agenpr.org/mh
-m.agenpr.org/nz
-m.agenpr.org/ol
 

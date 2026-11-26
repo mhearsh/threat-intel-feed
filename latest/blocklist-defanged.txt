@@ -6,27 +6,27 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-25 22:52 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-26 00:52 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-25
+# 2026-11-26
 
-hxxp://064u2-60t-d0r4-83o5x-27-09-2026-hh[.]pages[.]dev/
-hxxp://0ukva-6do-bc6e-qggn9-02-10-2026-aa[.]pages[.]dev/
-hxxp://1wvim-wmi-ziva-0ecxv-03-10-2026-aa[.]pages[.]dev/
-hxxp://2m8zk-n0fh8-khyz8k-0m40-0jw[.]pages[.]dev/
-hxxp://56ymk-3no-1dp8-91466-27-09-2026-hh[.]pages[.]dev/
-hxxp://5nc7o-4ss-b2ls-698st-26-09-2026-hh[.]pages[.]dev/
-hxxp://5uapn-t02-6p31-mi5b2-03-10-2026-aa[.]pages[.]dev/
-hxxp://5vylu-4cr-zaoe-50tlm-26-09-2026-hh[.]pages[.]dev/
-hxxp://6tcsn-lqt-w956-j8m1x-27-09-2026-hh[.]pages[.]dev/
-hxxp://7qxsg-2d5-1dc0-evsdb-29-09-2026-aa[.]pages[.]dev/
-hxxp://8yxgf-8mr-9akg-i0ytc-02-10-2026-aa[.]pages[.]dev/
-hxxp://9uov5-fxh-i2ir-4hd68-02-10-2026-aa[.]pages[.]dev/
+hxxp://2017-facebook[.]blogspot[.]com/
+hxxp://20o0u-wdk-56sw-cw8bw-04-10-2026-hh[.]pages[.]dev/
+hxxp://7v6wl-584-9n96-1i02j-03-10-2026-hh[.]pages[.]dev/
+hxxp://8wvoj-dt4-av45-krx9n-27-09-2026-hh[.]pages[.]dev/
+hxxp://8xv5s-ft5-cyou-g77aw-27-09-2026-hh[.]pages[.]dev/
+hxxp://9tvyd-wgn-0sax-uky6z-28-09-2026-hh[.]pages[.]dev/
+hxxp://allegrolokalnie[.]pl-oferta-0731-3941-2931[.]sbs/playstation-portable/m8ujba1/
+hxxp://atth8-nkq-auj6-1ueu6-27-09-2026-hh[.]pages[.]dev/
+hxxp://bdajm-uc4-w950-7a5r8-28-09-2026-hh[.]pages[.]dev/
+hxxp://beta-instagram[.]vercel[.]app/
+hxxp://binance-promo-code[.]vercel[.]app/
+hxxp://binance-red-packet[.]vercel[.]app/
 
 
 # Auto-Fetch-ThreatIntel
