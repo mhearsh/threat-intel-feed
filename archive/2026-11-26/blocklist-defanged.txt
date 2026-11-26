@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-26 00:52 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-26 02:54 UTC   Count: 12   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,18 +15,15 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-26
 
-hxxp://2017-facebook[.]blogspot[.]com/
-hxxp://20o0u-wdk-56sw-cw8bw-04-10-2026-hh[.]pages[.]dev/
-hxxp://7v6wl-584-9n96-1i02j-03-10-2026-hh[.]pages[.]dev/
-hxxp://8wvoj-dt4-av45-krx9n-27-09-2026-hh[.]pages[.]dev/
-hxxp://8xv5s-ft5-cyou-g77aw-27-09-2026-hh[.]pages[.]dev/
-hxxp://9tvyd-wgn-0sax-uky6z-28-09-2026-hh[.]pages[.]dev/
-hxxp://allegrolokalnie[.]pl-oferta-0731-3941-2931[.]sbs/playstation-portable/m8ujba1/
-hxxp://atth8-nkq-auj6-1ueu6-27-09-2026-hh[.]pages[.]dev/
-hxxp://bdajm-uc4-w950-7a5r8-28-09-2026-hh[.]pages[.]dev/
-hxxp://beta-instagram[.]vercel[.]app/
-hxxp://binance-promo-code[.]vercel[.]app/
-hxxp://binance-red-packet[.]vercel[.]app/
+130[.]12[.]180[.]102
+209[.]99[.]187[.]142
+80[.]94[.]92[.]142
+91[.]92[.]47[.]18
+91[.]92[.]47[.]77
+93[.]123[.]109[.]116
+93[.]123[.]109[.]119
+93[.]123[.]109[.]181
+93[.]152[.]221[.]229
 
 
 # Auto-Fetch-ThreatIntel
@@ -48,49 +45,4 @@ hxxp://binance-red-packet[.]vercel[.]app/
 # 2026-11-03
 
 157[.]137[.]227[.]61
-68[.]183[.]236[.]229
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-02
-
-8[.]160[.]165[.]56
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-01
-
-101[.]42[.]49[.]202
-177[.]5[.]76[.]21
-64[.]118[.]128[.]131
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-29
-
-23[.]254[.]226[.]103
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-28
-
-122[.]51[.]179[.]8
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-27
-
-101[.]133[.]229[.]117
-
-
-# Auto-Fetch-ThreatIntel
-# Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-10-26
-
-39[.]96[.]78[.]162
 

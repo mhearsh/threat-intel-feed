@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T00:52:56Z",
+ "generated": "2026-11-26T02:54:02Z",
  "score_min": 50,
  "counts": {
   "ip": 12,
   "domain": 0,
-  "url": 12,
+  "url": 0,
   "md5": 0,
   "sha1": 0,
   "sha256": 0
