@@ -1,4 +1,17 @@
 Indicator,Type,Family,Score,Band,Mitre,FirstPublished
+85.11.167.63,ip,Cobaltstrike,66,medium,"T1071, T1105",2026-11-26T04:54:08Z
+http://2017-facebook.blogspot.com/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://7v6wl-584-9n96-1i02j-03-10-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://8wvoj-dt4-av45-krx9n-27-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://8xv5s-ft5-cyou-g77aw-27-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://9tvyd-wgn-0sax-uky6z-28-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://allegrolokalnie.pl-oferta-0731-3941-2931.sbs/playstation-portable/m8ujba1/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://atth8-nkq-auj6-1ueu6-27-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://bdajm-uc4-w950-7a5r8-28-09-2026-hh.pages.dev/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://beta-instagram.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://binance-promo-code.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
+http://binance-red-packet.vercel.app/,url,phishing,60,medium,"T1566.002, T1056.003",2026-11-26T00:52:53Z
 130.12.180.102,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-26T02:53:59Z
 209.99.187.142,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-26T02:53:59Z
 80.94.92.142,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-26T02:53:59Z
@@ -10,4 +23,3 @@ Indicator,Type,Family,Score,Band,Mitre,FirstPublished
 93.152.221.229,ip,multi-blocklist,54,medium,"T1595, T1110",2026-11-26T02:53:59Z
 23.132.164.13,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-23T05:44:23Z
 47.239.109.26,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-04T06:25:00Z
-157.137.227.61,ip,Cobaltstrike,54,medium,"T1071, T1105",2026-11-03T21:06:11Z

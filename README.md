@@ -109,24 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-26 02:54 UTC. 12 IOCs (ip: 12); 9 first seen under 6h ago. File-hash feed: 5383 SHA-256 · 724 SHA-1 · 724 MD5._
+_Last update: 2026-11-26 04:54 UTC. 24 IOCs (ip: 12, url: 12); 22 first seen under 6h ago. File-hash feed: 5315 SHA-256 · 724 SHA-1 · 724 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `130[.]12[.]180[.]102` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 2 | `209[.]99[.]187[.]142` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 3 | `80[.]94[.]92[.]142` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 4 | `91[.]92[.]47[.]18` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 5 | `91[.]92[.]47[.]77` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 6 | `93[.]123[.]109[.]116` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 7 | `93[.]123[.]109[.]119` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 8 | `93[.]123[.]109[.]181` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 9 | `93[.]152[.]221[.]229` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
-| 10 | `23[.]132[.]164[.]13` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 11 | `47[.]239[.]109[.]26` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 12 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 1 | `85[.]11[.]167[.]63` | ip | Cobaltstrike | 66 | medium | T1071, T1105 |
+| 2 | `hxxp://2017-facebook[.]blogspot[.]com/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 3 | `hxxp://20o0u-wdk-56sw-cw8bw-04-10-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 4 | `hxxp://7v6wl-584-9n96-1i02j-03-10-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 5 | `hxxp://8wvoj-dt4-av45-krx9n-27-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 6 | `hxxp://8xv5s-ft5-cyou-g77aw-27-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 7 | `hxxp://9tvyd-wgn-0sax-uky6z-28-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 8 | `hxxp://allegrolokalnie[.]pl-oferta-0731-3941-2931[.]sbs/play` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 9 | `hxxp://atth8-nkq-auj6-1ueu6-27-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 10 | `hxxp://bdajm-uc4-w950-7a5r8-28-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 11 | `hxxp://beta-instagram[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 12 | `hxxp://binance-promo-code[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 13 | `hxxp://binance-red-packet[.]vercel[.]app/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
+| 14 | `130[.]12[.]180[.]102` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 15 | `209[.]99[.]187[.]142` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>

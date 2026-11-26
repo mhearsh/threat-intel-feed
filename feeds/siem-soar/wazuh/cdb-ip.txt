@@ -1,3 +1,4 @@
+85.11.167.63:Cobaltstrike added 2026-11-26
 130.12.180.102:multi-blocklist added 2026-11-26
 209.99.187.142:multi-blocklist added 2026-11-26
 80.94.92.142:multi-blocklist added 2026-11-26
@@ -9,4 +10,3 @@
 93.152.221.229:multi-blocklist added 2026-11-26
 23.132.164.13:Cobaltstrike added 2026-11-23
 47.239.109.26:Cobaltstrike added 2026-11-04
-157.137.227.61:Cobaltstrike added 2026-11-03
