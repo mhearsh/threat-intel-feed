@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URLs + domains (score >= 50)                      #
 #  Format:  one URL or FQDN per line, no scheme; '#' = comment                #
 #  Usage:   Palo Alto URL EDL, web proxy                                      #
-#  Updated: 2026-11-27 16:28 UTC   Count: 1376   Expiry: 30 days              #
+#  Updated: 2026-11-27 19:33 UTC   Count: 1362   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1622,21 +1622,9 @@ yrayg0ro.sleavepiker.com
 # Malware payload URLs / TLP:CLEAR - Threat Level: Medium
 # 2026-10-28
 
-209.97.190.241/GhoStmOOd/inc/1f24a95b06868e.php
 c.bamto.org/t
-dm.aidolai33.org/f
-dm.aidolai33.org/i7
-dm.aidolai33.org/m
-dm.aidolai33.org/ngr
-dm.aidolai33.org/pu
-dm.aidolai33.org/rt
-dm.aidolai33.org/x7
 ide-hooker-v1-eight.vercel.app/settings/bootstraplinux?flag=4
 ide-hooker-v1-eight.vercel.app/settings/env?flag=4
-igt.aidolai33.org/cd
-igt.aidolai33.org/ea
-igt.aidolai33.org/gs
-igt.aidolai33.org/jb
 r.bamto.org/e
 r.bamto.org/g
 r.bamto.org/l
@@ -1719,12 +1707,4 @@ www.ecopestcontrolperth.com.au
 www.k-diaspora.biz
 www.karagkiozis-chatzianagnostou.gr
 www.lirosseafood.gr
-
-
-# Auto-Fetch-ThreatIntel: ThreatFox
-# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
-# 2026-10-27
-
-3imyvvfh.slavyera.com
-bridge73.com
 
