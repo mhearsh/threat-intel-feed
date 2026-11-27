@@ -1,0 +1,96 @@
+###############################################################################
+#                                                                             #
+#                     TOP IOCs - DEFANGED (HUMAN-READABLE)                    #
+#                 Highest-scored indicators of the latest run                 #
+#                                                                             #
+#  Purpose: Reporting / sharing only, not for blocking                        #
+#  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
+#  Usage:   Reports, tickets, chat (safe to paste)                            #
+#  Updated: 2026-11-27 00:45 UTC   Count: 24   Expiry: 30 days                #
+#                                                                             #
+###############################################################################
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-27
+
+hxxp://07pz6-ob0-xau1-a6oyv-07-09-2026-hh[.]pages[.]dev/
+hxxp://0gcfj-7nf-sad8-rz9xk-01-11-2026-aa[.]pages[.]dev/
+hxxp://0jxz6-z7h-y3yu-wtobu-07-10-2026-hh[.]pages[.]dev/
+hxxp://1wgen-785-kgmd-oh9ec-01-11-2026-aa[.]pages[.]dev/
+hxxp://2xvmf-gb9-utog-399n7-13-10-2026-aa[.]pages[.]dev/
+hxxp://34igj-a4b-rxoj-p4svb-03-10-2026-aa[.]pages[.]dev/
+hxxp://34ojz6hsjgot-2ohps8sne8q9-j8jkv3ozelz-4281951111-743657184[.]pages[.]dev/
+hxxp://37u8a-nce-ivke-903am-07-09-2026-hh[.]pages[.]dev/
+hxxp://40kwpy50m7gw-j5rmezlzs91-kzewjr63jwjo-tbdkuazmfbed[.]pages[.]dev/
+hxxp://532og-w63-rkc8-ea8h5-03-10-2026-aa[.]pages[.]dev/
+hxxp://5anpe-r8h-dd9n-vkb0f-07-09-2026-hh[.]pages[.]dev/
+hxxp://5xr3ctbkxlul-ibcajasgaegf-i7c93pbl7wz-wdafhhmveon[.]pages[.]dev/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-26
+
+85[.]11[.]167[.]63
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-04
+
+47[.]239[.]109[.]26
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+157[.]137[.]227[.]61
+68[.]183[.]236[.]229
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+8[.]160[.]165[.]56
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+64[.]118[.]128[.]131
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+39[.]96[.]78[.]162
+
