@@ -109,27 +109,27 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-27 00:55 UTC. 24 IOCs (url: 12, ip: 12); 12 first seen under 6h ago. File-hash feed: 4740 SHA-256 · 645 SHA-1 · 645 MD5._
+_Last update: 2026-11-27 08:12 UTC. 24 IOCs (ip: 12, url: 12); 11 first seen under 6h ago. File-hash feed: 4681 SHA-256 · 645 SHA-1 · 644 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
 | # | IOC (defanged) | Type | Family | Score | Band | ATT&CK |
 |---|---|---|---|---|---|---|
-| 1 | `hxxp://07pz6-ob0-xau1-a6oyv-07-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 2 | `hxxp://0gcfj-7nf-sad8-rz9xk-01-11-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 3 | `hxxp://0jxz6-z7h-y3yu-wtobu-07-10-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 4 | `hxxp://1wgen-785-kgmd-oh9ec-01-11-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 5 | `hxxp://2xvmf-gb9-utog-399n7-13-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 6 | `hxxp://34igj-a4b-rxoj-p4svb-03-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 7 | `hxxp://34ojz6hsjgot-2ohps8sne8q9-j8jkv3ozelz-4281951111-7436` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 8 | `hxxp://37u8a-nce-ivke-903am-07-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 9 | `hxxp://40kwpy50m7gw-j5rmezlzs91-kzewjr63jwjo-tbdkuazmfbed[.]` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 10 | `hxxp://532og-w63-rkc8-ea8h5-03-10-2026-aa[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 11 | `hxxp://5anpe-r8h-dd9n-vkb0f-07-09-2026-hh[.]pages[.]dev/` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 12 | `hxxp://5xr3ctbkxlul-ibcajasgaegf-i7c93pbl7wz-wdafhhmveon[.]p` | url | phishing | 60 | medium | T1566.002, T1056.003 |
-| 13 | `85[.]11[.]167[.]63` | ip | Cobaltstrike | 60 | medium | T1071, T1105 |
-| 14 | `47[.]239[.]109[.]26` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
-| 15 | `157[.]137[.]227[.]61` | ip | Cobaltstrike | 54 | medium | T1071, T1105 |
+| 1 | `104[.]152[.]52[.]101` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 2 | `104[.]152[.]52[.]103` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 3 | `104[.]152[.]52[.]107` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 4 | `109[.]160[.]32[.]124` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 5 | `109[.]160[.]32[.]178` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 6 | `141[.]98[.]10[.]97` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 7 | `195[.]178[.]110[.]37` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 8 | `2[.]57[.]122[.]166` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 9 | `85[.]155[.]14[.]61` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 10 | `93[.]123[.]109[.]101` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 11 | `93[.]123[.]109[.]183` | ip | multi-blocklist | 54 | medium | T1595, T1110 |
+| 12 | `hxxp://07pz6-ob0-xau1-a6oyv-07-09-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 13 | `hxxp://0gcfj-7nf-sad8-rz9xk-01-11-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 14 | `hxxp://0jxz6-z7h-y3yu-wtobu-07-10-2026-hh[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
+| 15 | `hxxp://1wgen-785-kgmd-oh9ec-01-11-2026-aa[.]pages[.]dev/` | url | phishing | 54 | medium | T1566.002, T1056.003 |
 
 ## FAQ
 **How often does it update?** Every 2 hours. A commit is made only when the data changes.<br>
