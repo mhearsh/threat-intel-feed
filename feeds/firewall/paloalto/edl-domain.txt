@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-27 11:47 UTC   Count: 1020   Expiry: 30 days              #
+#  Updated: 2026-11-27 16:28 UTC   Count: 1022   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -16,17 +16,29 @@
 # 2026-11-27
 
 07pz6-ob0-xau1-a6oyv-07-09-2026-hh.pages.dev
+0a5d9-mrc-4aqy-7fp5y-04-10-2026-hh.pages.dev
 0gcfj-7nf-sad8-rz9xk-01-11-2026-aa.pages.dev
 0jxz6-z7h-y3yu-wtobu-07-10-2026-hh.pages.dev
+1f7yy-a3x-0y8c-5mz6r-10-10-2026-aa.pages.dev
 1wgen-785-kgmd-oh9ec-01-11-2026-aa.pages.dev
+2276292.cc
+2511fr1-yqxjldow.4everland.app
+28g1n-ja9-hzk8-bwdms-07-10-2026-aa.pages.dev
+2svrt-tfy-zhe0-q32yi-10-10-2026-aa.pages.dev
 2xvmf-gb9-utog-399n7-13-10-2026-aa.pages.dev
 34igj-a4b-rxoj-p4svb-03-10-2026-aa.pages.dev
 34ojz6hsjgot-2ohps8sne8q9-j8jkv3ozelz-4281951111-743657184.pages.dev
+37185029-p4x8m2-q6v1.pages.dev
 37u8a-nce-ivke-903am-07-09-2026-hh.pages.dev
 40kwpy50m7gw-j5rmezlzs91-kzewjr63jwjo-tbdkuazmfbed.pages.dev
+4jhjw-blg-brmx-x1owc-04-10-2026-hh.pages.dev
 532og-w63-rkc8-ea8h5-03-10-2026-aa.pages.dev
 5anpe-r8h-dd9n-vkb0f-07-09-2026-hh.pages.dev
 5xr3ctbkxlul-ibcajasgaegf-i7c93pbl7wz-wdafhhmveon.pages.dev
+63tvo-dyg-7bbv-ip3sq-03-10-2026-hh.pages.dev
+66rrx-qmn-wm3n-0nlqq-04-10-2026-hh.pages.dev
+68gg5-a8x-otnx-j208i-10-10-2026-aa.pages.dev
+6aifw-z2g-cz0k-9un48-11-10-2026-aa.pages.dev
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
@@ -1203,16 +1215,6 @@ www.lirosseafood.gr
 # C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
 # 2026-10-27
 
-09kg55cv.fazbet1.app
 3imyvvfh.slavyera.com
-5l85t8ay.slotsensi138.org
-6l6uqen4.worknernorgram.rest
-apache-update.csproject.org
-apache-update.ddns.net
-arvion.network
 bridge73.com
-coffeetocode.duckdns.org
-d4izlyh1.thrivingchaos.com
-fortwayneswoodfloorcleaner.com
-i.bala7.org
 
