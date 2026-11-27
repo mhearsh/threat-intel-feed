@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious URL collection (score >= 50)                      #
 #  Format:  one URL per line, no scheme, not defanged; '#' = comment          #
 #  Usage:   Web proxy / firewall URL EDL                                      #
-#  Updated: 2026-11-27 08:12 UTC   Count: 404   Expiry: 30 days               #
+#  Updated: 2026-11-27 11:47 UTC   Count: 377   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
@@ -498,18 +498,6 @@ m.ajo889.org/t6
 # 2026-10-28
 
 209.97.190.241/GhoStmOOd/inc/1f24a95b06868e.php
-216.158.95.183:8700/login
-85.193.68.206/angel
-85.193.68.206/reload
-ar.ahoktoto.org/b9
-ar.ahoktoto.org/cf
-ar.ahoktoto.org/dj
-ar.ahoktoto.org/eq
-ar.ahoktoto.org/ft
-ar.ahoktoto.org/ip
-ar.ahoktoto.org/j
-ar.ahoktoto.org/mx
-ar.ahoktoto.org/q
 c.aidolai33.org/c9
 c.aidolai33.org/ct
 c.aidolai33.org/jp
@@ -547,9 +535,6 @@ igt.aidolai33.org/cd
 igt.aidolai33.org/ea
 igt.aidolai33.org/gs
 igt.aidolai33.org/jb
-jp.ahoktoto.org/h
-jp.ahoktoto.org/vh
-jp.ahoktoto.org/ya
 r.bamto.org/e
 r.bamto.org/g
 r.bamto.org/l
@@ -557,16 +542,4 @@ re.aidolai33.org/ac
 re.aidolai33.org/az
 re.aidolai33.org/bdo
 re.aidolai33.org/bq
-x.ahoktoto.org/a2
-x.ahoktoto.org/ag
-x.ahoktoto.org/b
-x.ahoktoto.org/d7
-x.ahoktoto.org/j
-x.ahoktoto.org/l5
-x.ahoktoto.org/mg
-x.ahoktoto.org/nx
-x.ahoktoto.org/o8
-x.ahoktoto.org/re
-x.ahoktoto.org/tz
-x.ahoktoto.org/z
 

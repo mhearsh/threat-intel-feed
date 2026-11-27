@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-27 08:12 UTC   Count: 1029   Expiry: 30 days              #
+#  Updated: 2026-11-27 11:47 UTC   Count: 1020   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1205,23 +1205,14 @@ www.lirosseafood.gr
 
 09kg55cv.fazbet1.app
 3imyvvfh.slavyera.com
-4ck8ubdi.warmwaffles.com
 5l85t8ay.slotsensi138.org
 6l6uqen4.worknernorgram.rest
-9jhdivoe.enfejar.casino
 apache-update.csproject.org
 apache-update.ddns.net
 arvion.network
 bridge73.com
 coffeetocode.duckdns.org
 d4izlyh1.thrivingchaos.com
-enfejar.casino
 fortwayneswoodfloorcleaner.com
 i.bala7.org
-i8uuptbx.georgelounge.com
-oj.aeon888link.org
-primeringroad.com
-project7.thedivineprojecthouse.co.za
-rmetq562.urgentblue.com
-v.ayu99.pro
 
