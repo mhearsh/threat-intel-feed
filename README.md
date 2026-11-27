@@ -109,7 +109,7 @@ Every IOC gets a **score from 0 to 100** (`score` and `band` columns in the CSVs
 Details: [docs/methodology.md](docs/methodology.md#score-scale).
 
 ## Today's stats
-_Last update: 2026-11-27 00:45 UTC. 24 IOCs (url: 12, ip: 12); 12 first seen under 6h ago. File-hash feed: 4740 SHA-256 · 645 SHA-1 · 645 MD5._
+_Last update: 2026-11-27 00:55 UTC. 24 IOCs (url: 12, ip: 12); 12 first seen under 6h ago. File-hash feed: 4740 SHA-256 · 645 SHA-1 · 645 MD5._
 
 <img src="assets/families.svg" alt="family breakdown" width="100%">
 
