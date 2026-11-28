@@ -6,7 +6,7 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-28 02:18 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-28 09:32 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
@@ -15,18 +15,6 @@
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
 # 2026-11-28
 
-185[.]169[.]4[.]119
-193[.]32[.]162[.]228
-195[.]178[.]110[.]15
-195[.]178[.]110[.]48
-2[.]57[.]122[.]164
-2[.]57[.]122[.]165
-62[.]60[.]130[.]180
-62[.]60[.]134[.]183
-62[.]60[.]134[.]201
-62[.]60[.]134[.]202
-62[.]60[.]134[.]203
-77[.]90[.]185[.]34
 hxxp://0lrb8-aj7-rjp5-d3t08-04-10-2026-aa[.]pages[.]dev/
 hxxp://0qfr4-j0z-korr-mcql0-05-10-2026-hh[.]pages[.]dev/
 hxxp://1-b0q[.]pages[.]dev/
@@ -39,4 +27,70 @@ hxxp://5fbd3-4pl-ih6s-05yzn-20-10-2026-aa[.]pages[.]dev/
 hxxp://6jidk-zzt-6z15-mn1z4-04-10-2026-hh[.]pages[.]dev/
 hxxp://6jyzm-kwz-ja07-ri59y-10-10-2026-aa[.]pages[.]dev/
 hxxp://6ybma-noj-5ome-06mjb-05-10-2026-aa[.]pages[.]dev/
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-26
+
+85[.]11[.]167[.]63
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-04
+
+47[.]239[.]109[.]26
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-03
+
+157[.]137[.]227[.]61
+68[.]183[.]236[.]229
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-02
+
+8[.]160[.]165[.]56
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-11-01
+
+101[.]42[.]49[.]202
+177[.]5[.]76[.]21
+64[.]118[.]128[.]131
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-29
+
+23[.]254[.]226[.]103
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-28
+
+122[.]51[.]179[.]8
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-27
+
+101[.]133[.]229[.]117
+
+
+# Auto-Fetch-ThreatIntel
+# Top-scored indicators / TLP:CLEAR - Threat Level: High
+# 2026-10-26
+
+39[.]96[.]78[.]162
 

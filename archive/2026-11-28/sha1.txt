@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious file hash collection                              #
 #  Format:  one SHA1 (40 hex) per line; '#' = comment                         #
 #  Usage:   EDR / AV block lists, hunting                                     #
-#  Updated: 2026-11-28 02:18 UTC   Count: 555   Expiry: 30 days               #
+#  Updated: 2026-11-28 09:32 UTC   Count: 555   Expiry: 30 days               #
 #                                                                             #
 ###############################################################################
 
