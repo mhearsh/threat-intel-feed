@@ -6,7 +6,7 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-28 00:17 UTC   Count: 1026   Expiry: 30 days              #
+#  Updated: 2026-11-28 02:18 UTC   Count: 1005   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
 
@@ -1159,44 +1159,25 @@ yrayg0ro.sleavepiker.com
 # 2026-10-28
 
 0a07hpvb.georgelounge.com
-0riyg2qe.mon-iam-espace-esa-lia.online
 10buigpz.bossbey19.click
 1a6m3e8e.ased.store
-4gzdhrn8.epexecutivecoaching.com
-5v8ryehz.worknernorgram.rest
 6os989ve.avako.store
 7n1cvrut.fazbet1.app
-9qhklald.enfejar.casino
 a2rf9er0.bossbaba.store
-admin.model-point.click
-akumaqqq.xyz
 bossbey19.click
 c.bamto.org
 cw.aeon888link.org
 ek.aeoncash.org
-et.aeon888link.org
 fazbet1.app
-forbesae.com
 g41nxq8p.bonolo.store
-g9h533a0.georgelounge.bar
-georgelounge.bar
 georgelounge.com
-health3.flex-haven.click
-hrv8ks0h.urgentblue.com
-i4.bala7.org
-iz6jswi0.forbesae.com
-j0.bala7.org
 j3y2klex.bossbey11.click
 k.bala7.org
-k0v5zt7p.verticalrewards.com
 klt.frontio.net
 kunaltailor.com
 lb.heronpull.cc
 lift50.com
 montanari.lol
-n0n-cases.net
-n0n.to
-nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion
 os.aeon888link.org
 otlosushi.com
 paringenieria.es
@@ -1206,10 +1187,8 @@ rj9fhzwl.antava.store
 sail91.com
 sassafrastell.org
 sguf571h.bossbeyburda.xyz
-ssl.cinderfetch.cc
 t-smc.top
 thetrendygalblog.com
-trace9.web-nest.xyz
 tufacrannog.info
 ubbrobccheck20.cc
 v9157o6o.bossbeybrk.store

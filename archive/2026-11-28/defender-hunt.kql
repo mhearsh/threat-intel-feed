@@ -1,22 +1,22 @@
 // ============================================================================
 //  THREAT-INTEL-FEED - DAILY TOP IOCs HUNT (Defender XDR / Microsoft Sentinel)
 //  Purpose: hunt the top network IOCs (IPs, domains) over the last 7 days
-//  Updated: 2026-11-28 00:17 UTC   Count: 12   TLP:CLEAR
+//  Updated: 2026-11-28 02:18 UTC   Count: 12   TLP:CLEAR
 //  FirstPublished = date the IOC first entered the feed (newest first)
 // ============================================================================
 let iocs = datatable(Indicator:string, Type:string, Family:string, FirstPublished:datetime) [
-    "85.11.167.63", "ip", "Cobaltstrike", datetime(2026-11-26T05:48:46Z),
-    "47.239.109.26", "ip", "Cobaltstrike", datetime(2026-11-04T06:25:00Z),
-    "157.137.227.61", "ip", "Cobaltstrike", datetime(2026-11-03T21:06:11Z),
-    "68.183.236.229", "ip", "Cobaltstrike", datetime(2026-11-03T08:57:32Z),
-    "8.160.165.56", "ip", "Cobaltstrike", datetime(2026-11-02T05:22:13Z),
-    "101.42.49.202", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
-    "177.5.76.21", "ip", "Cobaltstrike", datetime(2026-11-01T07:40:38Z),
-    "64.118.128.131", "ip", "Cobaltstrike", datetime(2026-11-01T00:11:13Z),
-    "23.254.226.103", "ip", "Cobaltstrike", datetime(2026-10-29T10:02:58Z),
-    "122.51.179.8", "ip", "Cobaltstrike", datetime(2026-10-28T06:05:17Z),
-    "101.133.229.117", "ip", "Cobaltstrike", datetime(2026-10-27T21:39:41Z),
-    "39.96.78.162", "ip", "Cobaltstrike", datetime(2026-10-26T21:22:53Z)
+    "185.169.4.119", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "193.32.162.228", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "195.178.110.15", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "195.178.110.48", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "2.57.122.164", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "2.57.122.165", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "62.60.130.180", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "62.60.134.183", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "62.60.134.201", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "62.60.134.202", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "62.60.134.203", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z),
+    "77.90.185.34", "ip", "multi-blocklist", datetime(2026-11-28T02:18:02Z)
 ];
 let ips = iocs | where Type == "ip" | project Indicator;
 let doms = iocs | where Type == "domain" | project Indicator;

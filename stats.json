@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 00:17 UTC",
+ "updated": "2026-11-28 02:18 UTC",
  "count": 24,
  "score_scale": "0-100",
  "bands": {
@@ -7,25 +7,24 @@
   "high": 0,
   "medium": 24
  },
- "fresh_6h": 12,
+ "fresh_6h": 24,
  "hashes": {
-  "sha256": 4149,
-  "sha1": 556,
+  "sha256": 3907,
+  "sha1": 555,
   "md5": 555
  },
- "hash_count": 5260,
+ "hash_count": 5017,
  "types": {
   "url": 12,
   "ip": 12
  },
  "families": {
   "phishing": 12,
-  "Cobaltstrike": 12
+  "multi-blocklist": 12
  },
  "sources": {
   "OpenPhish": 12,
-  "C2IntelFeeds": 12,
-  "Spamhaus-DROP": 1,
-  "ThreatFox": 11
+  "IPsum-L5": 12,
+  "Spamhaus-DROP": 12
  }
 }
