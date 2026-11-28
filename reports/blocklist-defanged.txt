@@ -6,27 +6,27 @@
 #  Purpose: Reporting / sharing only, not for blocking                        #
 #  Format:  one defanged IOC per line ([.] and hxxp); '#' = comment           #
 #  Usage:   Reports, tickets, chat (safe to paste)                            #
-#  Updated: 2026-11-27 19:33 UTC   Count: 24   Expiry: 30 days                #
+#  Updated: 2026-11-28 00:17 UTC   Count: 24   Expiry: 30 days                #
 #                                                                             #
 ###############################################################################
 
 
 # Auto-Fetch-ThreatIntel
 # Top-scored indicators / TLP:CLEAR - Threat Level: High
-# 2026-11-27
+# 2026-11-28
 
-hxxp://0a5d9-mrc-4aqy-7fp5y-04-10-2026-hh[.]pages[.]dev/
-hxxp://1f7yy-a3x-0y8c-5mz6r-10-10-2026-aa[.]pages[.]dev/
-hxxp://2276292[.]cc/
-hxxp://2511fr1-yqxjldow[.]4everland[.]app/
-hxxp://28g1n-ja9-hzk8-bwdms-07-10-2026-aa[.]pages[.]dev/
-hxxp://2svrt-tfy-zhe0-q32yi-10-10-2026-aa[.]pages[.]dev/
-hxxp://37185029-p4x8m2-q6v1[.]pages[.]dev/
-hxxp://4jhjw-blg-brmx-x1owc-04-10-2026-hh[.]pages[.]dev/
-hxxp://63tvo-dyg-7bbv-ip3sq-03-10-2026-hh[.]pages[.]dev/
-hxxp://66rrx-qmn-wm3n-0nlqq-04-10-2026-hh[.]pages[.]dev/
-hxxp://68gg5-a8x-otnx-j208i-10-10-2026-aa[.]pages[.]dev/
-hxxp://6aifw-z2g-cz0k-9un48-11-10-2026-aa[.]pages[.]dev/
+hxxp://0lrb8-aj7-rjp5-d3t08-04-10-2026-aa[.]pages[.]dev/
+hxxp://0qfr4-j0z-korr-mcql0-05-10-2026-hh[.]pages[.]dev/
+hxxp://1-b0q[.]pages[.]dev/
+hxxp://1l523-ktu-nwao-6u75c-08-11-2026-aa[.]pages[.]dev/
+hxxp://1xe7x-92n-fl89-0w1l1-06-11-2026-aa[.]pages[.]dev/
+hxxp://37imz-5q3-gl6e-p1zk9-06-11-2026-aa[.]pages[.]dev/
+hxxp://394tl-30p-kwdg-f6v4w-05-11-2026-aa[.]pages[.]dev/
+hxxp://3g8sz-yd4-6zy9-k4ji3-06-11-2026-aa[.]pages[.]dev/
+hxxp://5fbd3-4pl-ih6s-05yzn-20-10-2026-aa[.]pages[.]dev/
+hxxp://6jidk-zzt-6z15-mn1z4-04-10-2026-hh[.]pages[.]dev/
+hxxp://6jyzm-kwz-ja07-ri59y-10-10-2026-aa[.]pages[.]dev/
+hxxp://6ybma-noj-5ome-06mjb-05-10-2026-aa[.]pages[.]dev/
 
 
 # Auto-Fetch-ThreatIntel

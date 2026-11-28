@@ -330,13 +330,3 @@ m.ajo889.org/or
 m.ajo889.org/os
 m.ajo889.org/p9
 m.ajo889.org/t6
-c.bamto.org/t
-ide-hooker-v1-eight.vercel.app/settings/bootstraplinux?flag=4
-ide-hooker-v1-eight.vercel.app/settings/env?flag=4
-r.bamto.org/e
-r.bamto.org/g
-r.bamto.org/l
-re.aidolai33.org/ac
-re.aidolai33.org/az
-re.aidolai33.org/bdo
-re.aidolai33.org/bq

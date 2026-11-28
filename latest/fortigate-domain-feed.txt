@@ -6,9 +6,27 @@
 #  Purpose: IOC - Malicious domain collection (score >= 50)                   #
 #  Format:  one FQDN per line, not defanged; '#' = comment                    #
 #  Usage:   DNS filtering, web proxy, firewall EDL                            #
-#  Updated: 2026-11-27 19:33 UTC   Count: 1020   Expiry: 30 days              #
+#  Updated: 2026-11-28 00:17 UTC   Count: 1026   Expiry: 30 days              #
 #                                                                             #
 ###############################################################################
+
+
+# Auto-Fetch-ThreatIntel: OpenPhish
+# C2 & phishing domains / TLP:CLEAR - Threat Level: Medium
+# 2026-11-28
+
+0lrb8-aj7-rjp5-d3t08-04-10-2026-aa.pages.dev
+0qfr4-j0z-korr-mcql0-05-10-2026-hh.pages.dev
+1-b0q.pages.dev
+1l523-ktu-nwao-6u75c-08-11-2026-aa.pages.dev
+1xe7x-92n-fl89-0w1l1-06-11-2026-aa.pages.dev
+37imz-5q3-gl6e-p1zk9-06-11-2026-aa.pages.dev
+394tl-30p-kwdg-f6v4w-05-11-2026-aa.pages.dev
+3g8sz-yd4-6zy9-k4ji3-06-11-2026-aa.pages.dev
+5fbd3-4pl-ih6s-05yzn-20-10-2026-aa.pages.dev
+6jidk-zzt-6z15-mn1z4-04-10-2026-hh.pages.dev
+6jyzm-kwz-ja07-ri59y-10-10-2026-aa.pages.dev
+6ybma-noj-5ome-06mjb-05-10-2026-aa.pages.dev
 
 
 # Auto-Fetch-ThreatIntel: OpenPhish
@@ -1159,26 +1177,20 @@ ek.aeoncash.org
 et.aeon888link.org
 fazbet1.app
 forbesae.com
-forgestudios.co
 g41nxq8p.bonolo.store
 g9h533a0.georgelounge.bar
 georgelounge.bar
 georgelounge.com
-gg8gdk7e.sleavepiker.com
 health3.flex-haven.click
 hrv8ks0h.urgentblue.com
 i4.bala7.org
 iz6jswi0.forbesae.com
 j0.bala7.org
 j3y2klex.bossbey11.click
-jj.bala7.org
 k.bala7.org
 k0v5zt7p.verticalrewards.com
-k2im6qzv.warmwaffles.com
 klt.frontio.net
-koa1sb08.forgestudios.co
 kunaltailor.com
-l0.aeon888link.org
 lb.heronpull.cc
 lift50.com
 montanari.lol

@@ -58,3 +58,4 @@ License: see [LICENSE](../LICENSE).
 | 2026-11-25 | #32 | 24 | phishing, Cobalt Strike | [CSV](2026/11/2026-11-25-drop-32.csv) | [summary](2026/11/2026-11-25-drop-32.png) · [list](2026/11/2026-11-25-drop-32-list.png) |
 | 2026-11-26 | #33 | 24 | phishing, Cobalt Strike | [CSV](2026/11/2026-11-26-drop-33.csv) | [summary](2026/11/2026-11-26-drop-33.png) · [list](2026/11/2026-11-26-drop-33-list.png) |
 | 2026-11-27 | #34 | 24 | Cobalt Strike, phishing | [CSV](2026/11/2026-11-27-drop-34.csv) | [summary](2026/11/2026-11-27-drop-34.png) · [list](2026/11/2026-11-27-drop-34-list.png) |
+| 2026-11-28 | #35 | 24 | phishing, Cobalt Strike | [CSV](2026/11/2026-11-28-drop-35.csv) | [summary](2026/11/2026-11-28-drop-35.png) · [list](2026/11/2026-11-28-drop-35-list.png) |

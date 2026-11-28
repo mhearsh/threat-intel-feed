@@ -1,0 +1,25 @@
+indicator,indicator_defanged,type,family,confidence,first_seen,tags,first_published
+http://0lrb8-aj7-rjp5-d3t08-04-10-2026-aa.pages.dev/,hxxp://0lrb8-aj7-rjp5-d3t08-04-10-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://0qfr4-j0z-korr-mcql0-05-10-2026-hh.pages.dev/,hxxp://0qfr4-j0z-korr-mcql0-05-10-2026-hh[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://1-b0q.pages.dev/,hxxp://1-b0q[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://1l523-ktu-nwao-6u75c-08-11-2026-aa.pages.dev/,hxxp://1l523-ktu-nwao-6u75c-08-11-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://1xe7x-92n-fl89-0w1l1-06-11-2026-aa.pages.dev/,hxxp://1xe7x-92n-fl89-0w1l1-06-11-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://37imz-5q3-gl6e-p1zk9-06-11-2026-aa.pages.dev/,hxxp://37imz-5q3-gl6e-p1zk9-06-11-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://394tl-30p-kwdg-f6v4w-05-11-2026-aa.pages.dev/,hxxp://394tl-30p-kwdg-f6v4w-05-11-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://3g8sz-yd4-6zy9-k4ji3-06-11-2026-aa.pages.dev/,hxxp://3g8sz-yd4-6zy9-k4ji3-06-11-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://5fbd3-4pl-ih6s-05yzn-20-10-2026-aa.pages.dev/,hxxp://5fbd3-4pl-ih6s-05yzn-20-10-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://6jidk-zzt-6z15-mn1z4-04-10-2026-hh.pages.dev/,hxxp://6jidk-zzt-6z15-mn1z4-04-10-2026-hh[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://6jyzm-kwz-ja07-ri59y-10-10-2026-aa.pages.dev/,hxxp://6jyzm-kwz-ja07-ri59y-10-10-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+http://6ybma-noj-5ome-06mjb-05-10-2026-aa.pages.dev/,hxxp://6ybma-noj-5ome-06mjb-05-10-2026-aa[.]pages[.]dev/,url,phishing,60,2026-11-28T00:17Z,phishing;url;T1566.002;T1056.003,2026-11-28T00:17:07Z
+85.11.167.63,85[.]11[.]167[.]63,ip,Cobalt Strike,54,2026-11-26T05:47Z,cobalt-strike;ip;T1071;T1105,2026-11-26T05:48:46Z
+47.239.109.26,47[.]239[.]109[.]26,ip,Cobalt Strike,54,2026-11-04T06:23Z,cobalt-strike;ip;T1071;T1105,2026-11-04T06:25:00Z
+157.137.227.61,157[.]137[.]227[.]61,ip,Cobalt Strike,54,2026-11-03T21:05Z,cobalt-strike;ip;T1071;T1105,2026-11-03T21:06:11Z
+68.183.236.229,68[.]183[.]236[.]229,ip,Cobalt Strike,54,2026-11-03T08:59Z,cobalt-strike;ip;T1071;T1105,2026-11-03T08:57:32Z
+8.160.165.56,8[.]160[.]165[.]56,ip,Cobalt Strike,54,2026-11-02T05:23Z,cobalt-strike;ip;T1071;T1105,2026-11-02T05:22:13Z
+101.42.49.202,101[.]42[.]49[.]202,ip,Cobalt Strike,54,2026-11-01T07:41Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
+177.5.76.21,177[.]5[.]76[.]21,ip,Cobalt Strike,54,2026-11-01T07:41Z,cobalt-strike;ip;T1071;T1105,2026-11-01T07:40:38Z
+64.118.128.131,64[.]118[.]128[.]131,ip,Cobalt Strike,54,2026-11-01T00:11Z,cobalt-strike;ip;T1071;T1105,2026-11-01T00:11:13Z
+23.254.226.103,23[.]254[.]226[.]103,ip,Cobalt Strike,54,2026-10-29T10:05Z,cobalt-strike;ip;T1071;T1105,2026-10-29T10:02:58Z
+122.51.179.8,122[.]51[.]179[.]8,ip,Cobalt Strike,54,2026-10-28T06:05Z,cobalt-strike;ip;T1071;T1105,2026-10-28T06:05:17Z
+101.133.229.117,101[.]133[.]229[.]117,ip,Cobalt Strike,54,2026-10-27T21:41Z,cobalt-strike;ip;T1071;T1105,2026-10-27T21:39:41Z
+39.96.78.162,39[.]96[.]78[.]162,ip,Cobalt Strike,54,2026-10-26T21:23Z,cobalt-strike;ip;T1071;T1105,2026-10-26T21:22:53Z

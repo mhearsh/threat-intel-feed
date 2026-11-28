@@ -1,0 +1,62 @@
+###############################################################################
+#                       THREAT-INTEL-FEED SURICATA RULES                      #
+#                         Top network IOCs (IPs, DNS)                         #
+#  Updated: 2026-11-28 00:17 UTC   Count: 12   TLP:CLEAR                      #
+###############################################################################
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-26
+
+alert ip $HOME_NET any -> 85.11.167.63 any (msg:"XIOC Cobaltstrike C2 85.11.167.63"; classtype:trojan-activity; metadata:created_at 2026_11_26, updated_at 2026_11_28; sid:9100001; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-04
+
+alert ip $HOME_NET any -> 47.239.109.26 any (msg:"XIOC Cobaltstrike C2 47.239.109.26"; classtype:trojan-activity; metadata:created_at 2026_11_04, updated_at 2026_11_28; sid:9100002; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-03
+
+alert ip $HOME_NET any -> 157.137.227.61 any (msg:"XIOC Cobaltstrike C2 157.137.227.61"; classtype:trojan-activity; metadata:created_at 2026_11_03, updated_at 2026_11_28; sid:9100003; rev:1;)
+alert ip $HOME_NET any -> 68.183.236.229 any (msg:"XIOC Cobaltstrike C2 68.183.236.229"; classtype:trojan-activity; metadata:created_at 2026_11_03, updated_at 2026_11_28; sid:9100004; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-02
+
+alert ip $HOME_NET any -> 8.160.165.56 any (msg:"XIOC Cobaltstrike C2 8.160.165.56"; classtype:trojan-activity; metadata:created_at 2026_11_02, updated_at 2026_11_28; sid:9100005; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-11-01
+
+alert ip $HOME_NET any -> 101.42.49.202 any (msg:"XIOC Cobaltstrike C2 101.42.49.202"; classtype:trojan-activity; metadata:created_at 2026_11_01, updated_at 2026_11_28; sid:9100006; rev:1;)
+alert ip $HOME_NET any -> 177.5.76.21 any (msg:"XIOC Cobaltstrike C2 177.5.76.21"; classtype:trojan-activity; metadata:created_at 2026_11_01, updated_at 2026_11_28; sid:9100007; rev:1;)
+alert ip $HOME_NET any -> 64.118.128.131 any (msg:"XIOC Cobaltstrike C2 64.118.128.131"; classtype:trojan-activity; metadata:created_at 2026_11_01, updated_at 2026_11_28; sid:9100008; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-10-29
+
+alert ip $HOME_NET any -> 23.254.226.103 any (msg:"XIOC Cobaltstrike C2 23.254.226.103"; classtype:trojan-activity; metadata:created_at 2026_10_29, updated_at 2026_11_28; sid:9100009; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-10-28
+
+alert ip $HOME_NET any -> 122.51.179.8 any (msg:"XIOC Cobaltstrike C2 122.51.179.8"; classtype:trojan-activity; metadata:created_at 2026_10_28, updated_at 2026_11_28; sid:9100010; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-10-27
+
+alert ip $HOME_NET any -> 101.133.229.117 any (msg:"XIOC Cobaltstrike C2 101.133.229.117"; classtype:trojan-activity; metadata:created_at 2026_10_27, updated_at 2026_11_28; sid:9100011; rev:1;)
+
+# Auto-Fetch-ThreatIntel
+# Top network IOCs / TLP:CLEAR
+# 2026-10-26
+
+alert ip $HOME_NET any -> 39.96.78.162 any (msg:"XIOC Cobaltstrike C2 39.96.78.162"; classtype:trojan-activity; metadata:created_at 2026_10_26, updated_at 2026_11_28; sid:9100012; rev:1;)
